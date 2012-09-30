@@ -1,0 +1,27 @@
+[08/30/2011 20:19:48] Original URI: /404
+[08/30/2011 20:19:48] Mod URI: /404
+[08/30/2011 20:19:48] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[08/30/2011 20:19:48] 404.class.php
+[08/30/2011 20:19:48] Template: 404
+[08/30/2011 20:19:48] Page Args: 
+[08/30/2011 20:19:48] Array
+(
+)
+
+[08/30/2011 20:19:48] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Set-Cookie: PHPSESSID=39a7a40a4009e1929e2987e9601f2755; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Tue, 31-Aug-2010 01:19:47 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Tue, 31-Aug-2010 01:19:47 GMT
+    [7] => Content-type: text/html
+)
+

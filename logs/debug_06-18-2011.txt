@@ -1,0 +1,5311 @@
+[06/18/2011 20:37:06] Original URI: 
+[06/18/2011 20:37:06] Mod URI: 
+[06/18/2011 20:37:06] Template: index
+[06/18/2011 20:37:06] Page Args: 
+[06/18/2011 20:37:06] 
+[06/18/2011 20:37:10] Original URI: /favicon.ico
+[06/18/2011 20:37:10] Mod URI: /favicon.ico
+[06/18/2011 20:37:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 20:37:11] Original URI: /404
+[06/18/2011 20:37:11] Mod URI: /404
+[06/18/2011 20:37:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 20:37:11] 404.class.php
+[06/18/2011 20:37:11] Template: 404
+[06/18/2011 20:37:11] Page Args: 
+[06/18/2011 20:37:11] Array
+(
+)
+
+[06/18/2011 20:37:11] Original URI: /favicon.ico
+[06/18/2011 20:37:11] Mod URI: /favicon.ico
+[06/18/2011 20:37:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 20:37:11] Original URI: /404
+[06/18/2011 20:37:11] Mod URI: /404
+[06/18/2011 20:37:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 20:37:11] 404.class.php
+[06/18/2011 20:37:11] Template: 404
+[06/18/2011 20:37:11] Page Args: 
+[06/18/2011 20:37:11] Array
+(
+)
+
+[06/18/2011 20:37:15] Original URI: /login
+[06/18/2011 20:37:15] Mod URI: /login
+[06/18/2011 20:37:15] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/18/2011 20:37:15] login.class.php
+[06/18/2011 20:37:15] Template: login
+[06/18/2011 20:37:15] Page Args: 
+[06/18/2011 20:37:15] Array
+(
+)
+
+[06/18/2011 20:37:15] Original URI: /images/sign-up.png
+[06/18/2011 20:37:15] Mod URI: /images/sign-up.png
+[06/18/2011 20:37:15] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/18/2011 20:37:15] Original URI: /404
+[06/18/2011 20:37:15] Mod URI: /404
+[06/18/2011 20:37:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 20:37:15] 404.class.php
+[06/18/2011 20:37:15] Template: 404
+[06/18/2011 20:37:15] Page Args: 
+[06/18/2011 20:37:15] Array
+(
+)
+
+[06/18/2011 20:37:21] Original URI: /login
+[06/18/2011 20:37:21] Mod URI: /login
+[06/18/2011 20:37:21] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/18/2011 20:37:21] login.class.php
+[06/18/2011 20:37:21] Template: login
+[06/18/2011 20:37:21] Page Args: 
+[06/18/2011 20:37:21] Array
+(
+)
+
+[06/18/2011 20:37:21] login(brandon.reese@gmail.com,not360change)
+[06/18/2011 20:37:21] createSession(11)
+[06/18/2011 20:37:21] sessions row for userid exists
+[06/18/2011 20:37:21] Sessid: d2654eaf0356428041f671ee159a8fd7
+[06/18/2011 20:37:22] Original URI: 
+[06/18/2011 20:37:22] Mod URI: 
+[06/18/2011 20:37:22] Template: index
+[06/18/2011 20:37:22] Page Args: 
+[06/18/2011 20:37:22] 
+[06/18/2011 20:37:26] Original URI: /admin
+[06/18/2011 20:37:26] Mod URI: /admin
+[06/18/2011 20:37:26] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/18/2011 20:37:26] admin.class.php
+[06/18/2011 20:37:26] Template: admin
+[06/18/2011 20:37:26] Page Args: 
+[06/18/2011 20:37:26] Array
+(
+)
+
+[06/18/2011 20:37:29] Original URI: /admin/mapeditor
+[06/18/2011 20:37:29] Mod URI: /admin/mapeditor
+[06/18/2011 20:37:29] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/18/2011 20:37:29] admin.class.php
+[06/18/2011 20:37:29] Template: admin-mapeditor
+[06/18/2011 20:37:29] Page Args: 
+[06/18/2011 20:37:29] Array
+(
+)
+
+[06/18/2011 20:37:31] mapEditor: loadMap
+[06/18/2011 20:37:31] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:37:31] Ajax Results:
+[06/18/2011 20:37:31] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:37:43] mapEditor: loadMap
+[06/18/2011 20:37:43] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -1 AND 9 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:37:43] Ajax Results:
+[06/18/2011 20:37:43] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:37:44] mapEditor: loadMap
+[06/18/2011 20:37:44] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:37:44] Ajax Results:
+[06/18/2011 20:37:44] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:37:45] mapEditor: loadMap
+[06/18/2011 20:37:45] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -9 AND 1 AND tile_z = 0
+[06/18/2011 20:37:45] Ajax Results:
+[06/18/2011 20:37:45] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:37:46] mapEditor: loadMap
+[06/18/2011 20:37:46] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -8 AND 2 AND tile_z = 0
+[06/18/2011 20:37:46] Ajax Results:
+[06/18/2011 20:37:46] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:37:47] mapEditor: loadMap
+[06/18/2011 20:37:47] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 20:37:47] Ajax Results:
+[06/18/2011 20:37:47] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:37:50] map: getTileInfoByCoord
+[06/18/2011 20:37:50] getTileInfoByCoord(0,1,0)
+[06/18/2011 20:37:50] SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[06/18/2011 20:37:50] Ajax Results:
+[06/18/2011 20:37:50] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+[06/18/2011 20:37:53] map: getTileInfoByCoord
+[06/18/2011 20:37:53] getTileInfoByCoord(1,1,0)
+[06/18/2011 20:37:53] SELECT * FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[06/18/2011 20:37:53] Ajax Results:
+[06/18/2011 20:37:53] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+[06/18/2011 20:37:54] map: getTileInfoByCoord
+[06/18/2011 20:37:54] getTileInfoByCoord(0,-1,0)
+[06/18/2011 20:37:54] SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[06/18/2011 20:37:54] Ajax Results:
+[06/18/2011 20:37:54] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+[06/18/2011 20:37:55] map: getTileInfoByCoord
+[06/18/2011 20:37:55] getTileInfoByCoord(2,2,0)
+[06/18/2011 20:37:55] SELECT * FROM tiles WHERE tile_x = 2 AND tile_y = 2 AND tile_z = 0
+[06/18/2011 20:37:55] Ajax Results:
+[06/18/2011 20:37:55] <?xml version="1.0" encoding="UTF-8"?>
+<tile><tile_id>new</tile_id><tile_title></tile_title><tile_x>2</tile_x><tile_y>2</tile_y><tile_z>0</tile_z></tile>
+[06/18/2011 20:38:00] mapEditor: saveTile
+[06/18/2011 20:38:00] Ajax Results:
+[06/18/2011 20:38:00] <tile>
+	<error>0</error>
+	<msg>New tile 'Testing' saved successfully!</msg>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+</tile>
+[06/18/2011 20:38:33] mapEditor: loadMap
+[06/18/2011 20:38:33] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -1 AND 9 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 20:38:33] Ajax Results:
+[06/18/2011 20:38:33] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:38:34] mapEditor: loadMap
+[06/18/2011 20:38:34] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 20:38:34] Ajax Results:
+[06/18/2011 20:38:34] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:38:35] mapEditor: loadMap
+[06/18/2011 20:38:35] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 20:38:35] Ajax Results:
+[06/18/2011 20:38:35] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:38:38] mapEditor: loadMap
+[06/18/2011 20:38:38] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -8 AND 2 AND tile_z = 0
+[06/18/2011 20:38:38] Ajax Results:
+[06/18/2011 20:38:38] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:38:39] mapEditor: loadMap
+[06/18/2011 20:38:39] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 20:38:39] Ajax Results:
+[06/18/2011 20:38:39] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:38:40] mapEditor: loadMap
+[06/18/2011 20:38:40] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -6 AND 4 AND tile_z = 0
+[06/18/2011 20:38:40] Ajax Results:
+[06/18/2011 20:38:40] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:38:41] mapEditor: loadMap
+[06/18/2011 20:38:41] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -5 AND 5 AND tile_z = 0
+[06/18/2011 20:38:41] Ajax Results:
+[06/18/2011 20:38:41] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:39:09] map: getTileInfoByCoord
+[06/18/2011 20:39:09] getTileInfoByCoord(4,3,0)
+[06/18/2011 20:39:09] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:39:09] Ajax Results:
+[06/18/2011 20:39:09] <?xml version="1.0" encoding="UTF-8"?>
+<tile><tile_id>new</tile_id><tile_title></tile_title><tile_x>4</tile_x><tile_y>3</tile_y><tile_z>0</tile_z></tile>
+[06/18/2011 20:45:45] Original URI: 
+[06/18/2011 20:45:45] Mod URI: 
+[06/18/2011 20:45:45] Template: index
+[06/18/2011 20:45:45] Page Args: 
+[06/18/2011 20:45:45] 
+[06/18/2011 20:45:52] Original URI: /contact-us
+[06/18/2011 20:45:52] Mod URI: /contact-us
+[06/18/2011 20:45:52] Array
+(
+    [0] => 
+    [1] => contact-us
+)
+
+[06/18/2011 20:45:52] contact-us.class.php
+[06/18/2011 20:45:52] Template: contact-us
+[06/18/2011 20:45:52] Page Args: 
+[06/18/2011 20:45:52] Array
+(
+)
+
+[06/18/2011 20:45:53] Original URI: /admin
+[06/18/2011 20:45:53] Mod URI: /admin
+[06/18/2011 20:45:53] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/18/2011 20:45:53] admin.class.php
+[06/18/2011 20:45:53] Template: admin
+[06/18/2011 20:45:53] Page Args: 
+[06/18/2011 20:45:53] Array
+(
+)
+
+[06/18/2011 20:45:55] Original URI: /admin/mapeditor
+[06/18/2011 20:45:55] Mod URI: /admin/mapeditor
+[06/18/2011 20:45:55] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/18/2011 20:45:55] admin.class.php
+[06/18/2011 20:45:55] Template: admin-mapeditor
+[06/18/2011 20:45:55] Page Args: 
+[06/18/2011 20:45:55] Array
+(
+)
+
+[06/18/2011 20:46:00] mapEditor: loadMap
+[06/18/2011 20:46:00] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:46:00] Ajax Results:
+[06/18/2011 20:46:00] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:04] mapEditor: loadMap
+[06/18/2011 20:46:04] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -1 AND 9 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:46:04] Ajax Results:
+[06/18/2011 20:46:04] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:05] mapEditor: loadMap
+[06/18/2011 20:46:05] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:46:05] Ajax Results:
+[06/18/2011 20:46:05] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:05] mapEditor: loadMap
+[06/18/2011 20:46:05] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 20:46:05] Ajax Results:
+[06/18/2011 20:46:05] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:07] mapEditor: loadMap
+[06/18/2011 20:46:07] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -9 AND 1 AND tile_z = 0
+[06/18/2011 20:46:07] Ajax Results:
+[06/18/2011 20:46:07] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:07] mapEditor: loadMap
+[06/18/2011 20:46:07] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -8 AND 2 AND tile_z = 0
+[06/18/2011 20:46:07] Ajax Results:
+[06/18/2011 20:46:07] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:08] mapEditor: loadMap
+[06/18/2011 20:46:08] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 20:46:08] Ajax Results:
+[06/18/2011 20:46:08] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:09] mapEditor: loadMap
+[06/18/2011 20:46:09] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -6 AND 4 AND tile_z = 0
+[06/18/2011 20:46:09] Ajax Results:
+[06/18/2011 20:46:09] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:10] mapEditor: loadMap
+[06/18/2011 20:46:10] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -5 AND 5 AND tile_z = 0
+[06/18/2011 20:46:10] Ajax Results:
+[06/18/2011 20:46:10] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 20:46:13] map: getTileInfoByCoord
+[06/18/2011 20:46:13] getTileInfoByCoord(4,3,0)
+[06/18/2011 20:46:13] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:46:13] Ajax Results:
+[06/18/2011 20:46:13] <?xml version="1.0" encoding="UTF-8"?>
+<tile><tile_id>new</tile_id><tile_title></tile_title><tile_x>4</tile_x><tile_y>3</tile_y><tile_z>0</tile_z></tile>
+[06/18/2011 20:46:15] mapEditor: saveTile
+[06/18/2011 20:46:15] Ajax Results:
+[06/18/2011 20:46:15] <tile>
+	<error>0</error>
+	<msg>New tile 'undefined' saved successfully!</msg>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+</tile>
+[06/18/2011 20:46:19] map: getTileInfoByCoord
+[06/18/2011 20:46:19] getTileInfoByCoord(3,3,0)
+[06/18/2011 20:46:19] SELECT * FROM tiles WHERE tile_x = 3 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:46:19] Ajax Results:
+[06/18/2011 20:46:19] <?xml version="1.0" encoding="UTF-8"?>
+<tile><tile_id>new</tile_id><tile_title></tile_title><tile_x>3</tile_x><tile_y>3</tile_y><tile_z>0</tile_z></tile>
+[06/18/2011 20:46:21] map: getTileInfoByCoord
+[06/18/2011 20:46:21] getTileInfoByCoord(3,3,0)
+[06/18/2011 20:46:21] SELECT * FROM tiles WHERE tile_x = 3 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:46:21] Ajax Results:
+[06/18/2011 20:46:21] <?xml version="1.0" encoding="UTF-8"?>
+<tile><tile_id>new</tile_id><tile_title></tile_title><tile_x>3</tile_x><tile_y>3</tile_y><tile_z>0</tile_z></tile>
+[06/18/2011 20:46:22] mapEditor: saveTile
+[06/18/2011 20:46:22] Ajax Results:
+[06/18/2011 20:46:22] <tile>
+	<error>0</error>
+	<msg>New tile 'undefined' saved successfully!</msg>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+</tile>
+[06/18/2011 20:46:25] map: getTileInfoByCoord
+[06/18/2011 20:46:25] getTileInfoByCoord(2,3,0)
+[06/18/2011 20:46:25] SELECT * FROM tiles WHERE tile_x = 2 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:46:25] Ajax Results:
+[06/18/2011 20:46:25] <?xml version="1.0" encoding="UTF-8"?>
+<tile><tile_id>new</tile_id><tile_title></tile_title><tile_x>2</tile_x><tile_y>3</tile_y><tile_z>0</tile_z></tile>
+[06/18/2011 20:46:27] mapEditor: saveTile
+[06/18/2011 20:46:27] Ajax Results:
+[06/18/2011 20:46:27] <tile>
+	<error>0</error>
+	<msg>New tile 'undefined' saved successfully!</msg>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+</tile>
+[06/18/2011 20:47:06] map: getTileInfoByCoord
+[06/18/2011 20:47:06] getTileInfoByCoord(2,3,0)
+[06/18/2011 20:47:06] SELECT * FROM tiles WHERE tile_x = 2 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:47:06] Ajax Results:
+[06/18/2011 20:47:06] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+[06/18/2011 20:47:12] mapEditor: saveTile
+[06/18/2011 20:47:12] Ajax Results:
+[06/18/2011 20:47:12] <tile>
+	<error>0</error>
+	<msg>Tile 'hihi' saved successfully!</msg>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+</tile>
+[06/18/2011 20:47:15] map: getTileInfoByCoord
+[06/18/2011 20:47:15] getTileInfoByCoord(2,3,0)
+[06/18/2011 20:47:15] SELECT * FROM tiles WHERE tile_x = 2 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:47:15] Ajax Results:
+[06/18/2011 20:47:15] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>hihi</tile_title>
+</tile>
+[06/18/2011 20:47:16] map: getTileInfoByCoord
+[06/18/2011 20:47:16] getTileInfoByCoord(3,3,0)
+[06/18/2011 20:47:16] SELECT * FROM tiles WHERE tile_x = 3 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:47:16] Ajax Results:
+[06/18/2011 20:47:16] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+[06/18/2011 20:47:17] map: getTileInfoByCoord
+[06/18/2011 20:47:17] getTileInfoByCoord(4,3,0)
+[06/18/2011 20:47:17] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 3 AND tile_z = 0
+[06/18/2011 20:47:17] Ajax Results:
+[06/18/2011 20:47:17] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+[06/18/2011 20:47:18] map: getTileInfoByCoord
+[06/18/2011 20:47:18] getTileInfoByCoord(4,4,0)
+[06/18/2011 20:47:18] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 4 AND tile_z = 0
+[06/18/2011 20:47:18] Ajax Results:
+[06/18/2011 20:47:18] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+[06/18/2011 20:47:23] Original URI: /login?logout=1
+[06/18/2011 20:47:23] parpos: 6
+[06/18/2011 20:47:23] Mod URI: /login
+[06/18/2011 20:47:23] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/18/2011 20:47:23] login.class.php
+[06/18/2011 20:47:23] Template: login
+[06/18/2011 20:47:23] Page Args: 
+[06/18/2011 20:47:23] Array
+(
+)
+
+[06/18/2011 20:47:23] Original URI: 
+[06/18/2011 20:47:23] Mod URI: 
+[06/18/2011 20:47:23] Template: index
+[06/18/2011 20:47:23] Page Args: 
+[06/18/2011 20:47:23] 
+[06/18/2011 22:15:51] Original URI: 
+[06/18/2011 22:15:51] Mod URI: 
+[06/18/2011 22:15:51] Template: index
+[06/18/2011 22:15:51] Page Args: 
+[06/18/2011 22:15:51] 
+[06/18/2011 22:15:51] Original URI: /favicon.ico
+[06/18/2011 22:15:51] Mod URI: /favicon.ico
+[06/18/2011 22:15:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:15:51] Original URI: /404
+[06/18/2011 22:15:51] Mod URI: /404
+[06/18/2011 22:15:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:15:51] 404.class.php
+[06/18/2011 22:15:51] Template: 404
+[06/18/2011 22:15:51] Page Args: 
+[06/18/2011 22:15:51] Array
+(
+)
+
+[06/18/2011 22:15:57] Original URI: /login
+[06/18/2011 22:15:57] Mod URI: /login
+[06/18/2011 22:15:57] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/18/2011 22:15:57] login.class.php
+[06/18/2011 22:15:57] Template: login
+[06/18/2011 22:15:57] Page Args: 
+[06/18/2011 22:15:57] Array
+(
+)
+
+[06/18/2011 22:15:57] Original URI: /images/sign-up.png
+[06/18/2011 22:15:57] Mod URI: /images/sign-up.png
+[06/18/2011 22:15:57] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/18/2011 22:15:57] Original URI: /404
+[06/18/2011 22:15:57] Mod URI: /404
+[06/18/2011 22:15:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:15:57] 404.class.php
+[06/18/2011 22:15:57] Template: 404
+[06/18/2011 22:15:57] Page Args: 
+[06/18/2011 22:15:57] Array
+(
+)
+
+[06/18/2011 22:15:57] Original URI: /favicon.ico
+[06/18/2011 22:15:57] Mod URI: /favicon.ico
+[06/18/2011 22:15:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:15:57] Original URI: /404
+[06/18/2011 22:15:57] Mod URI: /404
+[06/18/2011 22:15:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:15:57] 404.class.php
+[06/18/2011 22:15:57] Template: 404
+[06/18/2011 22:15:57] Page Args: 
+[06/18/2011 22:15:57] Array
+(
+)
+
+[06/18/2011 22:16:08] Original URI: /login
+[06/18/2011 22:16:08] Mod URI: /login
+[06/18/2011 22:16:08] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/18/2011 22:16:08] login.class.php
+[06/18/2011 22:16:08] Template: login
+[06/18/2011 22:16:08] Page Args: 
+[06/18/2011 22:16:08] Array
+(
+)
+
+[06/18/2011 22:16:08] login(brandon.reese@gmail.com,not3670change)
+[06/18/2011 22:16:08] Original URI: /images/sign-up.png
+[06/18/2011 22:16:08] Mod URI: /images/sign-up.png
+[06/18/2011 22:16:08] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/18/2011 22:16:08] Original URI: /404
+[06/18/2011 22:16:08] Mod URI: /404
+[06/18/2011 22:16:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:16:08] 404.class.php
+[06/18/2011 22:16:08] Template: 404
+[06/18/2011 22:16:08] Page Args: 
+[06/18/2011 22:16:08] Array
+(
+)
+
+[06/18/2011 22:16:08] Original URI: /favicon.ico
+[06/18/2011 22:16:08] Mod URI: /favicon.ico
+[06/18/2011 22:16:08] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:16:08] Original URI: /404
+[06/18/2011 22:16:08] Mod URI: /404
+[06/18/2011 22:16:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:16:08] 404.class.php
+[06/18/2011 22:16:08] Template: 404
+[06/18/2011 22:16:08] Page Args: 
+[06/18/2011 22:16:08] Array
+(
+)
+
+[06/18/2011 22:16:11] Original URI: /login
+[06/18/2011 22:16:11] Mod URI: /login
+[06/18/2011 22:16:11] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/18/2011 22:16:11] login.class.php
+[06/18/2011 22:16:11] Template: login
+[06/18/2011 22:16:11] Page Args: 
+[06/18/2011 22:16:11] Array
+(
+)
+
+[06/18/2011 22:16:11] login(brandon.reese@gmail.com,not360change)
+[06/18/2011 22:16:11] createSession(11)
+[06/18/2011 22:16:11] sessions row for userid exists
+[06/18/2011 22:16:11] Sessid: 32de8d716446a1ec44392c7eb05fbe7b
+[06/18/2011 22:16:11] Original URI: 
+[06/18/2011 22:16:11] Mod URI: 
+[06/18/2011 22:16:11] Template: index
+[06/18/2011 22:16:11] Page Args: 
+[06/18/2011 22:16:11] 
+[06/18/2011 22:16:11] Original URI: /favicon.ico
+[06/18/2011 22:16:11] Mod URI: /favicon.ico
+[06/18/2011 22:16:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:16:12] Original URI: /404
+[06/18/2011 22:16:12] Mod URI: /404
+[06/18/2011 22:16:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:16:12] 404.class.php
+[06/18/2011 22:16:12] Template: 404
+[06/18/2011 22:16:12] Page Args: 
+[06/18/2011 22:16:12] Array
+(
+)
+
+[06/18/2011 22:18:10] Original URI: /admin
+[06/18/2011 22:18:10] Mod URI: /admin
+[06/18/2011 22:18:10] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/18/2011 22:18:10] admin.class.php
+[06/18/2011 22:18:10] Template: admin
+[06/18/2011 22:18:10] Page Args: 
+[06/18/2011 22:18:10] Array
+(
+)
+
+[06/18/2011 22:18:10] Original URI: /favicon.ico
+[06/18/2011 22:18:10] Mod URI: /favicon.ico
+[06/18/2011 22:18:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:18:10] Original URI: /404
+[06/18/2011 22:18:10] Mod URI: /404
+[06/18/2011 22:18:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:18:10] 404.class.php
+[06/18/2011 22:18:10] Template: 404
+[06/18/2011 22:18:10] Page Args: 
+[06/18/2011 22:18:10] Array
+(
+)
+
+[06/18/2011 22:18:12] Original URI: /admin/mapeditor
+[06/18/2011 22:18:12] Mod URI: /admin/mapeditor
+[06/18/2011 22:18:12] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/18/2011 22:18:12] admin.class.php
+[06/18/2011 22:18:12] Template: admin-mapeditor
+[06/18/2011 22:18:12] Page Args: 
+[06/18/2011 22:18:12] Array
+(
+)
+
+[06/18/2011 22:18:13] Original URI: /favicon.ico
+[06/18/2011 22:18:13] Mod URI: /favicon.ico
+[06/18/2011 22:18:13] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:18:13] Original URI: /404
+[06/18/2011 22:18:13] Mod URI: /404
+[06/18/2011 22:18:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:18:13] 404.class.php
+[06/18/2011 22:18:13] Template: 404
+[06/18/2011 22:18:13] Page Args: 
+[06/18/2011 22:18:13] Array
+(
+)
+
+[06/18/2011 22:18:15] mapEditor: loadMap
+[06/18/2011 22:18:15] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 22:18:15] Ajax Results:
+[06/18/2011 22:18:15] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:25] mapEditor: loadMap
+[06/18/2011 22:18:25] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -1 AND 9 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 22:18:25] Ajax Results:
+[06/18/2011 22:18:25] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:26] mapEditor: loadMap
+[06/18/2011 22:18:26] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -2 AND 8 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 22:18:26] Ajax Results:
+[06/18/2011 22:18:26] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:27] mapEditor: loadMap
+[06/18/2011 22:18:27] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/18/2011 22:18:27] Ajax Results:
+[06/18/2011 22:18:27] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:28] mapEditor: loadMap
+[06/18/2011 22:18:28] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -9 AND 1 AND tile_z = 0
+[06/18/2011 22:18:28] Ajax Results:
+[06/18/2011 22:18:28] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:29] mapEditor: loadMap
+[06/18/2011 22:18:29] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -8 AND 2 AND tile_z = 0
+[06/18/2011 22:18:29] Ajax Results:
+[06/18/2011 22:18:29] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:30] mapEditor: loadMap
+[06/18/2011 22:18:30] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/18/2011 22:18:30] Ajax Results:
+[06/18/2011 22:18:30] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+<tile>
+	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+<tile>
+	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+<tile>
+	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>hihi</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:31] mapEditor: loadMap
+[06/18/2011 22:18:31] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -6 AND 4 AND tile_z = 0
+[06/18/2011 22:18:31] Ajax Results:
+[06/18/2011 22:18:31] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+<tile>
+	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+<tile>
+	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+<tile>
+	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>hihi</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:18:32] mapEditor: loadMap
+[06/18/2011 22:18:32] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -3 AND 7 AND tile_y BETWEEN -5 AND 5 AND tile_z = 0
+[06/18/2011 22:18:32] Ajax Results:
+[06/18/2011 22:18:32] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Cool Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Another Good New Tile</tile_title>
+</tile>
+<tile>
+	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>More new!</tile_title>
+</tile>
+<tile>
+	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Northern</tile_title>
+</tile>
+<tile>
+	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Woot Woot</tile_title>
+</tile>
+<tile>
+	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>10</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>South Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>West Inlet</tile_title>
+</tile>
+<tile>
+	<tile_id>12</tile_id>
+	<tile_x>-1</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Word Friend</tile_title>
+</tile>
+<tile>
+	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>North Square</tile_title>
+</tile>
+<tile>
+	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern</tile_title>
+</tile>
+<tile>
+	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Eastern 2</tile_title>
+</tile>
+<tile>
+	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Testing</tile_title>
+</tile>
+<tile>
+	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+<tile>
+	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>undefined</tile_title>
+</tile>
+<tile>
+	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>hihi</tile_title>
+</tile>
+</maps>
+
+[06/18/2011 22:42:24] Original URI: /admin
+[06/18/2011 22:42:24] Mod URI: /admin
+[06/18/2011 22:42:24] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/18/2011 22:42:24] admin.class.php
+[06/18/2011 22:42:24] Template: admin
+[06/18/2011 22:42:24] Page Args: 
+[06/18/2011 22:42:24] Array
+(
+)
+
+[06/18/2011 22:42:24] Original URI: /favicon.ico
+[06/18/2011 22:42:24] Mod URI: /favicon.ico
+[06/18/2011 22:42:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:42:24] Original URI: /404
+[06/18/2011 22:42:24] Mod URI: /404
+[06/18/2011 22:42:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:42:24] 404.class.php
+[06/18/2011 22:42:24] Template: 404
+[06/18/2011 22:42:24] Page Args: 
+[06/18/2011 22:42:24] Array
+(
+)
+
+[06/18/2011 22:42:27] Original URI: /game
+[06/18/2011 22:42:27] Mod URI: /game
+[06/18/2011 22:42:27] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:42:27] game.class.php
+[06/18/2011 22:42:27] Template: game
+[06/18/2011 22:42:27] Page Args: 
+[06/18/2011 22:42:27] Array
+(
+)
+
+[06/18/2011 22:42:27] Original URI: /js/game.js
+[06/18/2011 22:42:27] Mod URI: /js/game.js
+[06/18/2011 22:42:27] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:42:27] Original URI: /404
+[06/18/2011 22:42:27] Mod URI: /404
+[06/18/2011 22:42:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:42:27] 404.class.php
+[06/18/2011 22:42:27] Template: 404
+[06/18/2011 22:42:27] Page Args: 
+[06/18/2011 22:42:27] Array
+(
+)
+
+[06/18/2011 22:42:27] Original URI: /favicon.ico
+[06/18/2011 22:42:27] Mod URI: /favicon.ico
+[06/18/2011 22:42:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:42:27] Original URI: /404
+[06/18/2011 22:42:27] Mod URI: /404
+[06/18/2011 22:42:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:42:27] 404.class.php
+[06/18/2011 22:42:27] Template: 404
+[06/18/2011 22:42:27] Page Args: 
+[06/18/2011 22:42:27] Array
+(
+)
+
+[06/18/2011 22:44:44] Original URI: /game
+[06/18/2011 22:44:44] Mod URI: /game
+[06/18/2011 22:44:44] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:44:44] game.class.php
+[06/18/2011 22:44:44] Template: game
+[06/18/2011 22:44:44] Page Args: 
+[06/18/2011 22:44:44] Array
+(
+)
+
+[06/18/2011 22:44:44] Original URI: /js/game.js
+[06/18/2011 22:44:44] Mod URI: /js/game.js
+[06/18/2011 22:44:44] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:44:44] Original URI: /404
+[06/18/2011 22:44:44] Mod URI: /404
+[06/18/2011 22:44:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:44:44] 404.class.php
+[06/18/2011 22:44:44] Template: 404
+[06/18/2011 22:44:44] Page Args: 
+[06/18/2011 22:44:44] Array
+(
+)
+
+[06/18/2011 22:44:48] Original URI: /favicon.ico
+[06/18/2011 22:44:48] Mod URI: /favicon.ico
+[06/18/2011 22:44:48] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:44:48] Original URI: /404
+[06/18/2011 22:44:48] Mod URI: /404
+[06/18/2011 22:44:48] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:44:48] 404.class.php
+[06/18/2011 22:44:48] Template: 404
+[06/18/2011 22:44:48] Page Args: 
+[06/18/2011 22:44:48] Array
+(
+)
+
+[06/18/2011 22:45:13] Original URI: /game
+[06/18/2011 22:45:13] Mod URI: /game
+[06/18/2011 22:45:13] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:45:13] game.class.php
+[06/18/2011 22:45:13] Template: game
+[06/18/2011 22:45:13] Page Args: 
+[06/18/2011 22:45:13] Array
+(
+)
+
+[06/18/2011 22:45:13] Original URI: /js/game.js
+[06/18/2011 22:45:13] Mod URI: /js/game.js
+[06/18/2011 22:45:13] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:45:13] Original URI: /404
+[06/18/2011 22:45:13] Mod URI: /404
+[06/18/2011 22:45:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:45:13] 404.class.php
+[06/18/2011 22:45:13] Template: 404
+[06/18/2011 22:45:13] Page Args: 
+[06/18/2011 22:45:13] Array
+(
+)
+
+[06/18/2011 22:45:16] Original URI: /favicon.ico
+[06/18/2011 22:45:16] Mod URI: /favicon.ico
+[06/18/2011 22:45:16] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:45:16] Original URI: /404
+[06/18/2011 22:45:16] Mod URI: /404
+[06/18/2011 22:45:16] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:45:16] 404.class.php
+[06/18/2011 22:45:16] Template: 404
+[06/18/2011 22:45:16] Page Args: 
+[06/18/2011 22:45:16] Array
+(
+)
+
+[06/18/2011 22:46:39] Original URI: /game
+[06/18/2011 22:46:39] Mod URI: /game
+[06/18/2011 22:46:39] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:46:39] game.class.php
+[06/18/2011 22:46:39] Template: game
+[06/18/2011 22:46:39] Page Args: 
+[06/18/2011 22:46:39] Array
+(
+)
+
+[06/18/2011 22:46:39] Original URI: /js/game.js
+[06/18/2011 22:46:40] Mod URI: /js/game.js
+[06/18/2011 22:46:40] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:46:40] Original URI: /404
+[06/18/2011 22:46:40] Mod URI: /404
+[06/18/2011 22:46:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:46:40] 404.class.php
+[06/18/2011 22:46:40] Template: 404
+[06/18/2011 22:46:40] Page Args: 
+[06/18/2011 22:46:40] Array
+(
+)
+
+[06/18/2011 22:46:43] Original URI: /favicon.ico
+[06/18/2011 22:46:43] Mod URI: /favicon.ico
+[06/18/2011 22:46:43] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:46:43] Original URI: /404
+[06/18/2011 22:46:43] Mod URI: /404
+[06/18/2011 22:46:43] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:46:43] 404.class.php
+[06/18/2011 22:46:43] Template: 404
+[06/18/2011 22:46:43] Page Args: 
+[06/18/2011 22:46:43] Array
+(
+)
+
+[06/18/2011 22:46:55] Original URI: /game
+[06/18/2011 22:46:55] Mod URI: /game
+[06/18/2011 22:46:55] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:46:55] game.class.php
+[06/18/2011 22:46:55] Template: game
+[06/18/2011 22:46:55] Page Args: 
+[06/18/2011 22:46:55] Array
+(
+)
+
+[06/18/2011 22:46:55] Original URI: /js/game.js
+[06/18/2011 22:46:55] Mod URI: /js/game.js
+[06/18/2011 22:46:55] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:46:55] Original URI: /404
+[06/18/2011 22:46:55] Mod URI: /404
+[06/18/2011 22:46:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:46:55] 404.class.php
+[06/18/2011 22:46:55] Template: 404
+[06/18/2011 22:46:55] Page Args: 
+[06/18/2011 22:46:55] Array
+(
+)
+
+[06/18/2011 22:46:55] Original URI: /favicon.ico
+[06/18/2011 22:46:55] Mod URI: /favicon.ico
+[06/18/2011 22:46:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:46:55] Original URI: /404
+[06/18/2011 22:46:55] Mod URI: /404
+[06/18/2011 22:46:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:46:55] 404.class.php
+[06/18/2011 22:46:55] Template: 404
+[06/18/2011 22:46:55] Page Args: 
+[06/18/2011 22:46:55] Array
+(
+)
+
+[06/18/2011 22:47:21] Original URI: /game
+[06/18/2011 22:47:21] Mod URI: /game
+[06/18/2011 22:47:21] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:47:21] game.class.php
+[06/18/2011 22:47:21] Template: game
+[06/18/2011 22:47:21] Page Args: 
+[06/18/2011 22:47:21] Array
+(
+)
+
+[06/18/2011 22:47:25] Original URI: /js/game.js
+[06/18/2011 22:47:25] Mod URI: /js/game.js
+[06/18/2011 22:47:25] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:47:25] Original URI: /404
+[06/18/2011 22:47:25] Mod URI: /404
+[06/18/2011 22:47:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:47:25] 404.class.php
+[06/18/2011 22:47:25] Template: 404
+[06/18/2011 22:47:25] Page Args: 
+[06/18/2011 22:47:25] Array
+(
+)
+
+[06/18/2011 22:47:25] Original URI: /favicon.ico
+[06/18/2011 22:47:25] Mod URI: /favicon.ico
+[06/18/2011 22:47:25] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:47:25] Original URI: /404
+[06/18/2011 22:47:25] Mod URI: /404
+[06/18/2011 22:47:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:47:25] 404.class.php
+[06/18/2011 22:47:25] Template: 404
+[06/18/2011 22:47:25] Page Args: 
+[06/18/2011 22:47:25] Array
+(
+)
+
+[06/18/2011 22:47:40] Original URI: /game
+[06/18/2011 22:47:40] Mod URI: /game
+[06/18/2011 22:47:40] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:47:40] game.class.php
+[06/18/2011 22:47:40] Template: game
+[06/18/2011 22:47:40] Page Args: 
+[06/18/2011 22:47:40] Array
+(
+)
+
+[06/18/2011 22:47:41] Original URI: /js/game.js
+[06/18/2011 22:47:41] Mod URI: /js/game.js
+[06/18/2011 22:47:41] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:47:41] Original URI: /404
+[06/18/2011 22:47:41] Mod URI: /404
+[06/18/2011 22:47:41] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:47:41] 404.class.php
+[06/18/2011 22:47:41] Template: 404
+[06/18/2011 22:47:41] Page Args: 
+[06/18/2011 22:47:41] Array
+(
+)
+
+[06/18/2011 22:47:44] Original URI: /favicon.ico
+[06/18/2011 22:47:44] Mod URI: /favicon.ico
+[06/18/2011 22:47:44] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:47:44] Original URI: /404
+[06/18/2011 22:47:44] Mod URI: /404
+[06/18/2011 22:47:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:47:44] 404.class.php
+[06/18/2011 22:47:44] Template: 404
+[06/18/2011 22:47:44] Page Args: 
+[06/18/2011 22:47:44] Array
+(
+)
+
+[06/18/2011 22:48:18] Original URI: /game
+[06/18/2011 22:48:18] Mod URI: /game
+[06/18/2011 22:48:18] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:48:18] game.class.php
+[06/18/2011 22:48:18] Template: game
+[06/18/2011 22:48:18] Page Args: 
+[06/18/2011 22:48:18] Array
+(
+)
+
+[06/18/2011 22:48:18] Original URI: /js/game.js
+[06/18/2011 22:48:18] Mod URI: /js/game.js
+[06/18/2011 22:48:18] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:48:18] Original URI: /404
+[06/18/2011 22:48:18] Mod URI: /404
+[06/18/2011 22:48:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:48:18] 404.class.php
+[06/18/2011 22:48:18] Template: 404
+[06/18/2011 22:48:18] Page Args: 
+[06/18/2011 22:48:18] Array
+(
+)
+
+[06/18/2011 22:48:22] Original URI: /favicon.ico
+[06/18/2011 22:48:22] Mod URI: /favicon.ico
+[06/18/2011 22:48:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:48:22] Original URI: /404
+[06/18/2011 22:48:22] Mod URI: /404
+[06/18/2011 22:48:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:48:22] 404.class.php
+[06/18/2011 22:48:22] Template: 404
+[06/18/2011 22:48:22] Page Args: 
+[06/18/2011 22:48:22] Array
+(
+)
+
+[06/18/2011 22:48:31] Original URI: /game
+[06/18/2011 22:48:31] Mod URI: /game
+[06/18/2011 22:48:31] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:48:31] game.class.php
+[06/18/2011 22:48:31] Template: game
+[06/18/2011 22:48:31] Page Args: 
+[06/18/2011 22:48:31] Array
+(
+)
+
+[06/18/2011 22:48:31] Original URI: /js/game.js
+[06/18/2011 22:48:31] Mod URI: /js/game.js
+[06/18/2011 22:48:31] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:48:31] Original URI: /404
+[06/18/2011 22:48:31] Mod URI: /404
+[06/18/2011 22:48:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:48:31] 404.class.php
+[06/18/2011 22:48:31] Template: 404
+[06/18/2011 22:48:31] Page Args: 
+[06/18/2011 22:48:31] Array
+(
+)
+
+[06/18/2011 22:48:31] Original URI: /favicon.ico
+[06/18/2011 22:48:31] Mod URI: /favicon.ico
+[06/18/2011 22:48:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:48:31] Original URI: /404
+[06/18/2011 22:48:31] Mod URI: /404
+[06/18/2011 22:48:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:48:31] 404.class.php
+[06/18/2011 22:48:31] Template: 404
+[06/18/2011 22:48:31] Page Args: 
+[06/18/2011 22:48:31] Array
+(
+)
+
+[06/18/2011 22:48:50] Original URI: /game
+[06/18/2011 22:48:50] Mod URI: /game
+[06/18/2011 22:48:50] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:48:50] game.class.php
+[06/18/2011 22:48:50] Template: game
+[06/18/2011 22:48:50] Page Args: 
+[06/18/2011 22:48:50] Array
+(
+)
+
+[06/18/2011 22:48:50] Original URI: /js/game.js
+[06/18/2011 22:48:50] Mod URI: /js/game.js
+[06/18/2011 22:48:50] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:48:50] Original URI: /404
+[06/18/2011 22:48:50] Mod URI: /404
+[06/18/2011 22:48:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:48:50] 404.class.php
+[06/18/2011 22:48:50] Template: 404
+[06/18/2011 22:48:50] Page Args: 
+[06/18/2011 22:48:50] Array
+(
+)
+
+[06/18/2011 22:48:53] Original URI: /favicon.ico
+[06/18/2011 22:48:53] Mod URI: /favicon.ico
+[06/18/2011 22:48:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:48:53] Original URI: /404
+[06/18/2011 22:48:53] Mod URI: /404
+[06/18/2011 22:48:53] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:48:53] 404.class.php
+[06/18/2011 22:48:53] Template: 404
+[06/18/2011 22:48:53] Page Args: 
+[06/18/2011 22:48:53] Array
+(
+)
+
+[06/18/2011 22:49:05] Original URI: /game
+[06/18/2011 22:49:05] Mod URI: /game
+[06/18/2011 22:49:05] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:49:05] game.class.php
+[06/18/2011 22:49:05] Template: game
+[06/18/2011 22:49:05] Page Args: 
+[06/18/2011 22:49:05] Array
+(
+)
+
+[06/18/2011 22:49:05] Original URI: /js/game.js
+[06/18/2011 22:49:05] Mod URI: /js/game.js
+[06/18/2011 22:49:05] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:49:05] Original URI: /404
+[06/18/2011 22:49:05] Mod URI: /404
+[06/18/2011 22:49:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:49:05] 404.class.php
+[06/18/2011 22:49:05] Template: 404
+[06/18/2011 22:49:05] Page Args: 
+[06/18/2011 22:49:05] Array
+(
+)
+
+[06/18/2011 22:49:05] Original URI: /favicon.ico
+[06/18/2011 22:49:05] Mod URI: /favicon.ico
+[06/18/2011 22:49:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:49:05] Original URI: /404
+[06/18/2011 22:49:05] Mod URI: /404
+[06/18/2011 22:49:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:49:05] 404.class.php
+[06/18/2011 22:49:05] Template: 404
+[06/18/2011 22:49:05] Page Args: 
+[06/18/2011 22:49:05] Array
+(
+)
+
+[06/18/2011 22:50:25] Original URI: /game
+[06/18/2011 22:50:25] Mod URI: /game
+[06/18/2011 22:50:25] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:50:25] game.class.php
+[06/18/2011 22:50:25] Template: game
+[06/18/2011 22:50:25] Page Args: 
+[06/18/2011 22:50:25] Array
+(
+)
+
+[06/18/2011 22:50:25] Original URI: /js/game.js
+[06/18/2011 22:50:26] Mod URI: /js/game.js
+[06/18/2011 22:50:26] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:50:26] Original URI: /404
+[06/18/2011 22:50:26] Mod URI: /404
+[06/18/2011 22:50:26] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:50:26] 404.class.php
+[06/18/2011 22:50:26] Template: 404
+[06/18/2011 22:50:26] Page Args: 
+[06/18/2011 22:50:26] Array
+(
+)
+
+[06/18/2011 22:50:29] Original URI: /favicon.ico
+[06/18/2011 22:50:29] Mod URI: /favicon.ico
+[06/18/2011 22:50:29] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:50:29] Original URI: /404
+[06/18/2011 22:50:29] Mod URI: /404
+[06/18/2011 22:50:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:50:29] 404.class.php
+[06/18/2011 22:50:29] Template: 404
+[06/18/2011 22:50:29] Page Args: 
+[06/18/2011 22:50:29] Array
+(
+)
+
+[06/18/2011 22:50:51] Original URI: /game
+[06/18/2011 22:50:51] Mod URI: /game
+[06/18/2011 22:50:51] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:50:51] game.class.php
+[06/18/2011 22:50:51] Template: game
+[06/18/2011 22:50:51] Page Args: 
+[06/18/2011 22:50:51] Array
+(
+)
+
+[06/18/2011 22:50:51] Original URI: /js/game.js
+[06/18/2011 22:50:51] Mod URI: /js/game.js
+[06/18/2011 22:50:51] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:50:51] Original URI: /404
+[06/18/2011 22:50:51] Mod URI: /404
+[06/18/2011 22:50:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:50:51] 404.class.php
+[06/18/2011 22:50:51] Template: 404
+[06/18/2011 22:50:51] Page Args: 
+[06/18/2011 22:50:51] Array
+(
+)
+
+[06/18/2011 22:50:54] Original URI: /favicon.ico
+[06/18/2011 22:50:54] Mod URI: /favicon.ico
+[06/18/2011 22:50:54] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:50:54] Original URI: /404
+[06/18/2011 22:50:54] Mod URI: /404
+[06/18/2011 22:50:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:50:54] 404.class.php
+[06/18/2011 22:50:54] Template: 404
+[06/18/2011 22:50:54] Page Args: 
+[06/18/2011 22:50:54] Array
+(
+)
+
+[06/18/2011 22:51:30] Original URI: /game
+[06/18/2011 22:51:30] Mod URI: /game
+[06/18/2011 22:51:30] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:51:30] game.class.php
+[06/18/2011 22:51:30] Template: game
+[06/18/2011 22:51:30] Page Args: 
+[06/18/2011 22:51:30] Array
+(
+)
+
+[06/18/2011 22:51:30] Original URI: /js/game.js
+[06/18/2011 22:51:30] Mod URI: /js/game.js
+[06/18/2011 22:51:30] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:51:30] Original URI: /404
+[06/18/2011 22:51:30] Mod URI: /404
+[06/18/2011 22:51:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:51:30] 404.class.php
+[06/18/2011 22:51:30] Template: 404
+[06/18/2011 22:51:30] Page Args: 
+[06/18/2011 22:51:30] Array
+(
+)
+
+[06/18/2011 22:51:33] Original URI: /favicon.ico
+[06/18/2011 22:51:33] Mod URI: /favicon.ico
+[06/18/2011 22:51:33] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:51:33] Original URI: /404
+[06/18/2011 22:51:33] Mod URI: /404
+[06/18/2011 22:51:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:51:33] 404.class.php
+[06/18/2011 22:51:33] Template: 404
+[06/18/2011 22:51:33] Page Args: 
+[06/18/2011 22:51:33] Array
+(
+)
+
+[06/18/2011 22:51:55] Original URI: /game
+[06/18/2011 22:51:55] Mod URI: /game
+[06/18/2011 22:51:55] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:51:55] game.class.php
+[06/18/2011 22:51:55] Template: game
+[06/18/2011 22:51:55] Page Args: 
+[06/18/2011 22:51:55] Array
+(
+)
+
+[06/18/2011 22:51:56] Original URI: /js/game.js
+[06/18/2011 22:51:56] Mod URI: /js/game.js
+[06/18/2011 22:51:56] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:51:56] Original URI: /404
+[06/18/2011 22:51:56] Mod URI: /404
+[06/18/2011 22:51:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:51:56] 404.class.php
+[06/18/2011 22:51:56] Template: 404
+[06/18/2011 22:51:56] Page Args: 
+[06/18/2011 22:51:56] Array
+(
+)
+
+[06/18/2011 22:51:59] Original URI: /favicon.ico
+[06/18/2011 22:51:59] Mod URI: /favicon.ico
+[06/18/2011 22:51:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:51:59] Original URI: /404
+[06/18/2011 22:51:59] Mod URI: /404
+[06/18/2011 22:51:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:51:59] 404.class.php
+[06/18/2011 22:51:59] Template: 404
+[06/18/2011 22:51:59] Page Args: 
+[06/18/2011 22:51:59] Array
+(
+)
+
+[06/18/2011 22:52:08] Original URI: /game
+[06/18/2011 22:52:08] Mod URI: /game
+[06/18/2011 22:52:08] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:52:08] game.class.php
+[06/18/2011 22:52:08] Template: game
+[06/18/2011 22:52:08] Page Args: 
+[06/18/2011 22:52:08] Array
+(
+)
+
+[06/18/2011 22:52:08] Original URI: /js/game.js
+[06/18/2011 22:52:08] Mod URI: /js/game.js
+[06/18/2011 22:52:08] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:52:08] Original URI: /404
+[06/18/2011 22:52:08] Mod URI: /404
+[06/18/2011 22:52:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:52:08] 404.class.php
+[06/18/2011 22:52:08] Template: 404
+[06/18/2011 22:52:08] Page Args: 
+[06/18/2011 22:52:08] Array
+(
+)
+
+[06/18/2011 22:52:08] Original URI: /favicon.ico
+[06/18/2011 22:52:08] Mod URI: /favicon.ico
+[06/18/2011 22:52:08] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:52:09] Original URI: /404
+[06/18/2011 22:52:09] Mod URI: /404
+[06/18/2011 22:52:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:52:09] 404.class.php
+[06/18/2011 22:52:09] Template: 404
+[06/18/2011 22:52:09] Page Args: 
+[06/18/2011 22:52:09] Array
+(
+)
+
+[06/18/2011 22:53:20] Original URI: /game
+[06/18/2011 22:53:20] Mod URI: /game
+[06/18/2011 22:53:20] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:53:20] game.class.php
+[06/18/2011 22:53:20] Template: game
+[06/18/2011 22:53:20] Page Args: 
+[06/18/2011 22:53:20] Array
+(
+)
+
+[06/18/2011 22:53:21] Original URI: /js/game.js
+[06/18/2011 22:53:21] Mod URI: /js/game.js
+[06/18/2011 22:53:21] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:53:21] Original URI: /404
+[06/18/2011 22:53:21] Mod URI: /404
+[06/18/2011 22:53:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:53:21] 404.class.php
+[06/18/2011 22:53:21] Template: 404
+[06/18/2011 22:53:21] Page Args: 
+[06/18/2011 22:53:21] Array
+(
+)
+
+[06/18/2011 22:53:24] Original URI: /favicon.ico
+[06/18/2011 22:53:24] Mod URI: /favicon.ico
+[06/18/2011 22:53:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:53:24] Original URI: /404
+[06/18/2011 22:53:24] Mod URI: /404
+[06/18/2011 22:53:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:53:24] 404.class.php
+[06/18/2011 22:53:24] Template: 404
+[06/18/2011 22:53:24] Page Args: 
+[06/18/2011 22:53:24] Array
+(
+)
+
+[06/18/2011 22:55:18] Original URI: /game
+[06/18/2011 22:55:18] Mod URI: /game
+[06/18/2011 22:55:18] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:55:18] game.class.php
+[06/18/2011 22:55:18] Template: game
+[06/18/2011 22:55:18] Page Args: 
+[06/18/2011 22:55:18] Array
+(
+)
+
+[06/18/2011 22:55:18] Original URI: /js/game.js
+[06/18/2011 22:55:18] Mod URI: /js/game.js
+[06/18/2011 22:55:18] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:55:18] Original URI: /404
+[06/18/2011 22:55:18] Mod URI: /404
+[06/18/2011 22:55:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:55:18] 404.class.php
+[06/18/2011 22:55:18] Template: 404
+[06/18/2011 22:55:18] Page Args: 
+[06/18/2011 22:55:18] Array
+(
+)
+
+[06/18/2011 22:55:21] Original URI: /favicon.ico
+[06/18/2011 22:55:21] Mod URI: /favicon.ico
+[06/18/2011 22:55:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:55:21] Original URI: /404
+[06/18/2011 22:55:21] Mod URI: /404
+[06/18/2011 22:55:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:55:21] 404.class.php
+[06/18/2011 22:55:21] Template: 404
+[06/18/2011 22:55:21] Page Args: 
+[06/18/2011 22:55:21] Array
+(
+)
+
+[06/18/2011 22:56:08] Original URI: /game
+[06/18/2011 22:56:08] Mod URI: /game
+[06/18/2011 22:56:08] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:56:08] game.class.php
+[06/18/2011 22:56:08] Template: game
+[06/18/2011 22:56:08] Page Args: 
+[06/18/2011 22:56:08] Array
+(
+)
+
+[06/18/2011 22:56:08] Original URI: /js/game.js
+[06/18/2011 22:56:08] Mod URI: /js/game.js
+[06/18/2011 22:56:08] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:56:08] Original URI: /404
+[06/18/2011 22:56:08] Mod URI: /404
+[06/18/2011 22:56:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:56:08] 404.class.php
+[06/18/2011 22:56:08] Template: 404
+[06/18/2011 22:56:08] Page Args: 
+[06/18/2011 22:56:08] Array
+(
+)
+
+[06/18/2011 22:56:11] Original URI: /favicon.ico
+[06/18/2011 22:56:11] Mod URI: /favicon.ico
+[06/18/2011 22:56:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:56:11] Original URI: /404
+[06/18/2011 22:56:11] Mod URI: /404
+[06/18/2011 22:56:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:56:11] 404.class.php
+[06/18/2011 22:56:11] Template: 404
+[06/18/2011 22:56:11] Page Args: 
+[06/18/2011 22:56:11] Array
+(
+)
+
+[06/18/2011 22:56:36] Original URI: /game
+[06/18/2011 22:56:36] Mod URI: /game
+[06/18/2011 22:56:36] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:56:36] game.class.php
+[06/18/2011 22:56:36] Template: game
+[06/18/2011 22:56:36] Page Args: 
+[06/18/2011 22:56:36] Array
+(
+)
+
+[06/18/2011 22:56:36] Original URI: /js/game.js
+[06/18/2011 22:56:36] Mod URI: /js/game.js
+[06/18/2011 22:56:36] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:56:36] Original URI: /404
+[06/18/2011 22:56:36] Mod URI: /404
+[06/18/2011 22:56:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:56:36] 404.class.php
+[06/18/2011 22:56:36] Template: 404
+[06/18/2011 22:56:36] Page Args: 
+[06/18/2011 22:56:36] Array
+(
+)
+
+[06/18/2011 22:56:39] Original URI: /favicon.ico
+[06/18/2011 22:56:39] Mod URI: /favicon.ico
+[06/18/2011 22:56:39] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:56:40] Original URI: /404
+[06/18/2011 22:56:40] Mod URI: /404
+[06/18/2011 22:56:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:56:40] 404.class.php
+[06/18/2011 22:56:40] Template: 404
+[06/18/2011 22:56:40] Page Args: 
+[06/18/2011 22:56:40] Array
+(
+)
+
+[06/18/2011 22:57:03] Original URI: /game
+[06/18/2011 22:57:03] Mod URI: /game
+[06/18/2011 22:57:03] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:57:03] game.class.php
+[06/18/2011 22:57:03] Template: game
+[06/18/2011 22:57:03] Page Args: 
+[06/18/2011 22:57:03] Array
+(
+)
+
+[06/18/2011 22:57:03] Original URI: /js/game.js
+[06/18/2011 22:57:03] Mod URI: /js/game.js
+[06/18/2011 22:57:03] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:57:03] Original URI: /404
+[06/18/2011 22:57:03] Mod URI: /404
+[06/18/2011 22:57:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:57:03] 404.class.php
+[06/18/2011 22:57:03] Template: 404
+[06/18/2011 22:57:03] Page Args: 
+[06/18/2011 22:57:03] Array
+(
+)
+
+[06/18/2011 22:57:06] Original URI: /favicon.ico
+[06/18/2011 22:57:06] Mod URI: /favicon.ico
+[06/18/2011 22:57:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:57:07] Original URI: /404
+[06/18/2011 22:57:07] Mod URI: /404
+[06/18/2011 22:57:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:57:07] 404.class.php
+[06/18/2011 22:57:07] Template: 404
+[06/18/2011 22:57:07] Page Args: 
+[06/18/2011 22:57:07] Array
+(
+)
+
+[06/18/2011 22:57:18] Original URI: /game
+[06/18/2011 22:57:18] Mod URI: /game
+[06/18/2011 22:57:18] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 22:57:18] game.class.php
+[06/18/2011 22:57:18] Template: game
+[06/18/2011 22:57:18] Page Args: 
+[06/18/2011 22:57:18] Array
+(
+)
+
+[06/18/2011 22:57:18] Original URI: /js/game.js
+[06/18/2011 22:57:18] Mod URI: /js/game.js
+[06/18/2011 22:57:18] Array
+(
+    [0] => 
+    [1] => js
+    [2] => game.js
+)
+
+[06/18/2011 22:57:18] Original URI: /404
+[06/18/2011 22:57:18] Mod URI: /404
+[06/18/2011 22:57:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:57:18] 404.class.php
+[06/18/2011 22:57:18] Template: 404
+[06/18/2011 22:57:18] Page Args: 
+[06/18/2011 22:57:18] Array
+(
+)
+
+[06/18/2011 22:57:18] Original URI: /favicon.ico
+[06/18/2011 22:57:18] Mod URI: /favicon.ico
+[06/18/2011 22:57:18] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 22:57:18] Original URI: /404
+[06/18/2011 22:57:18] Mod URI: /404
+[06/18/2011 22:57:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 22:57:18] 404.class.php
+[06/18/2011 22:57:18] Template: 404
+[06/18/2011 22:57:18] Page Args: 
+[06/18/2011 22:57:18] Array
+(
+)
+
+[06/18/2011 23:13:56] Original URI: /game
+[06/18/2011 23:13:56] Mod URI: /game
+[06/18/2011 23:13:56] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/18/2011 23:13:56] game.class.php
+[06/18/2011 23:13:56] Template: game
+[06/18/2011 23:13:56] Page Args: 
+[06/18/2011 23:13:56] Array
+(
+)
+
+[06/18/2011 23:13:59] Original URI: /favicon.ico
+[06/18/2011 23:13:59] Mod URI: /favicon.ico
+[06/18/2011 23:13:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/18/2011 23:14:00] Original URI: /404
+[06/18/2011 23:14:00] Mod URI: /404
+[06/18/2011 23:14:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/18/2011 23:14:00] 404.class.php
+[06/18/2011 23:14:00] Template: 404
+[06/18/2011 23:14:00] Page Args: 
+[06/18/2011 23:14:00] Array
+(
+)
+

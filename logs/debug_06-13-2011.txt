@@ -1,0 +1,7872 @@
+[06/13/2011 20:40:31] Original URI: 
+[06/13/2011 20:40:31] Mod URI: 
+[06/13/2011 20:40:31] Template: index
+[06/13/2011 20:40:31] Page Args: 
+[06/13/2011 20:40:31] 
+[06/13/2011 20:40:31] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Set-Cookie: PHPSESSID=1d1cfe37acca4876a5ebddc3eb869418; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:30 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:30 GMT
+    [7] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:30 GMT; path=/; domain=.connectprayaffect.com
+    [8] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:30 GMT; path=/; domain=.connectprayaffect.com
+    [9] => Content-type: text/html
+)
+
+[06/13/2011 20:40:31] Original URI: /templates/style.css
+[06/13/2011 20:40:31] Mod URI: /templates/style.css
+[06/13/2011 20:40:31] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:40:32] Original URI: /templates/date_style.css
+[06/13/2011 20:40:32] Mod URI: /templates/date_style.css
+[06/13/2011 20:40:32] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:40:32] Original URI: /404
+[06/13/2011 20:40:32] Mod URI: /404
+[06/13/2011 20:40:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:32] 404.class.php
+[06/13/2011 20:40:32] Template: 404
+[06/13/2011 20:40:32] Page Args: 
+[06/13/2011 20:40:32] Array
+(
+)
+
+[06/13/2011 20:40:32] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=rpg.bremaweb.com
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:31 GMT
+    [6] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [7] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:31 GMT; path=/; domain=.connectprayaffect.com
+    [8] => Content-type: text/html
+)
+
+[06/13/2011 20:40:32] Original URI: /404
+[06/13/2011 20:40:32] Mod URI: /404
+[06/13/2011 20:40:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:32] 404.class.php
+[06/13/2011 20:40:32] Template: 404
+[06/13/2011 20:40:32] Page Args: 
+[06/13/2011 20:40:32] Array
+(
+)
+
+[06/13/2011 20:40:32] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=rpg.bremaweb.com
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:31 GMT
+    [6] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [7] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:31 GMT; path=/; domain=.connectprayaffect.com
+    [8] => Content-type: text/html
+)
+
+[06/13/2011 20:40:32] Original URI: /favicon.ico
+[06/13/2011 20:40:32] Mod URI: /favicon.ico
+[06/13/2011 20:40:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:32] Original URI: /404
+[06/13/2011 20:40:32] Mod URI: /404
+[06/13/2011 20:40:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:32] 404.class.php
+[06/13/2011 20:40:32] Template: 404
+[06/13/2011 20:40:32] Page Args: 
+[06/13/2011 20:40:32] Array
+(
+)
+
+[06/13/2011 20:40:32] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:31 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:31 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:35] Original URI: /login
+[06/13/2011 20:40:35] Mod URI: /login
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/13/2011 20:40:35] login.class.php
+[06/13/2011 20:40:35] Template: login
+[06/13/2011 20:40:35] Page Args: 
+[06/13/2011 20:40:35] Array
+(
+)
+
+[06/13/2011 20:40:35] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:34 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:35] Original URI: /templates/date_style.css
+[06/13/2011 20:40:35] Mod URI: /templates/date_style.css
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:40:35] Original URI: /templates/style.css
+[06/13/2011 20:40:35] Mod URI: /templates/style.css
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:40:35] Original URI: /404
+[06/13/2011 20:40:35] Mod URI: /404
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:35] 404.class.php
+[06/13/2011 20:40:35] Template: 404
+[06/13/2011 20:40:35] Page Args: 
+[06/13/2011 20:40:35] Array
+(
+)
+
+[06/13/2011 20:40:35] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:34 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:35] Original URI: /404
+[06/13/2011 20:40:35] Mod URI: /404
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:35] 404.class.php
+[06/13/2011 20:40:35] Template: 404
+[06/13/2011 20:40:35] Page Args: 
+[06/13/2011 20:40:35] Array
+(
+)
+
+[06/13/2011 20:40:35] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:34 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:35] Original URI: /images/sign-up.png
+[06/13/2011 20:40:35] Mod URI: /images/sign-up.png
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/13/2011 20:40:35] Original URI: /404
+[06/13/2011 20:40:35] Mod URI: /404
+[06/13/2011 20:40:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:35] 404.class.php
+[06/13/2011 20:40:35] Template: 404
+[06/13/2011 20:40:35] Page Args: 
+[06/13/2011 20:40:35] Array
+(
+)
+
+[06/13/2011 20:40:35] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:34 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:36] Original URI: /favicon.ico
+[06/13/2011 20:40:36] Mod URI: /favicon.ico
+[06/13/2011 20:40:36] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:36] Original URI: /404
+[06/13/2011 20:40:36] Mod URI: /404
+[06/13/2011 20:40:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:36] 404.class.php
+[06/13/2011 20:40:36] Template: 404
+[06/13/2011 20:40:36] Page Args: 
+[06/13/2011 20:40:36] Array
+(
+)
+
+[06/13/2011 20:40:36] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:35 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:35 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:42] Original URI: /login
+[06/13/2011 20:40:42] Mod URI: /login
+[06/13/2011 20:40:42] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/13/2011 20:40:42] login.class.php
+[06/13/2011 20:40:42] Template: login
+[06/13/2011 20:40:42] Page Args: 
+[06/13/2011 20:40:42] Array
+(
+)
+
+[06/13/2011 20:40:42] login(brandon.reese@gmail.com,not360change)
+[06/13/2011 20:40:42] createSession(11)
+[06/13/2011 20:40:42] sessions row for userid exists
+[06/13/2011 20:40:42] Sessid: 2b4223e8827ac1a680d339a8c26bcbdc
+[06/13/2011 20:40:42] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:41 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Set-Cookie: mpn_sessid=2b4223e8827ac1a680d339a8c26bcbdc
+    [7] => location: http://rpg.bremaweb.com/
+    [8] => Content-type: text/html
+)
+
+[06/13/2011 20:40:42] Original URI: 
+[06/13/2011 20:40:42] Mod URI: 
+[06/13/2011 20:40:42] Template: index
+[06/13/2011 20:40:42] Page Args: 
+[06/13/2011 20:40:42] 
+[06/13/2011 20:40:42] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:41 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:42] Original URI: /templates/date_style.css
+[06/13/2011 20:40:42] Mod URI: /templates/date_style.css
+[06/13/2011 20:40:42] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:40:42] Original URI: /templates/style.css
+[06/13/2011 20:40:42] Mod URI: /templates/style.css
+[06/13/2011 20:40:42] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:40:43] Original URI: /404
+[06/13/2011 20:40:43] Mod URI: /404
+[06/13/2011 20:40:43] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:43] 404.class.php
+[06/13/2011 20:40:43] Template: 404
+[06/13/2011 20:40:43] Page Args: 
+[06/13/2011 20:40:43] Array
+(
+)
+
+[06/13/2011 20:40:43] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:42 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:43] Original URI: /404
+[06/13/2011 20:40:43] Mod URI: /404
+[06/13/2011 20:40:43] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:43] 404.class.php
+[06/13/2011 20:40:43] Template: 404
+[06/13/2011 20:40:43] Page Args: 
+[06/13/2011 20:40:43] Array
+(
+)
+
+[06/13/2011 20:40:43] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:42 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:43] Original URI: /favicon.ico
+[06/13/2011 20:40:43] Mod URI: /favicon.ico
+[06/13/2011 20:40:43] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:43] Original URI: /404
+[06/13/2011 20:40:43] Mod URI: /404
+[06/13/2011 20:40:43] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:43] 404.class.php
+[06/13/2011 20:40:43] Template: 404
+[06/13/2011 20:40:43] Page Args: 
+[06/13/2011 20:40:43] Array
+(
+)
+
+[06/13/2011 20:40:43] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:42 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:42 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:45] Original URI: /admin
+[06/13/2011 20:40:45] Mod URI: /admin
+[06/13/2011 20:40:45] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:40:45] admin.class.php
+[06/13/2011 20:40:45] Template: admin
+[06/13/2011 20:40:45] Page Args: 
+[06/13/2011 20:40:45] Array
+(
+)
+
+[06/13/2011 20:40:45] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:44 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:45] Original URI: /templates/date_style.css
+[06/13/2011 20:40:45] Mod URI: /templates/date_style.css
+[06/13/2011 20:40:45] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:40:45] Original URI: /templates/style.css
+[06/13/2011 20:40:45] Mod URI: /templates/style.css
+[06/13/2011 20:40:45] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:40:46] Original URI: /404
+[06/13/2011 20:40:46] Mod URI: /404
+[06/13/2011 20:40:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:46] 404.class.php
+[06/13/2011 20:40:46] Template: 404
+[06/13/2011 20:40:46] Page Args: 
+[06/13/2011 20:40:46] Array
+(
+)
+
+[06/13/2011 20:40:46] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:45 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:46] Original URI: /404
+[06/13/2011 20:40:46] Mod URI: /404
+[06/13/2011 20:40:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:46] 404.class.php
+[06/13/2011 20:40:46] Template: 404
+[06/13/2011 20:40:46] Page Args: 
+[06/13/2011 20:40:46] Array
+(
+)
+
+[06/13/2011 20:40:46] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:45 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:46] Original URI: /favicon.ico
+[06/13/2011 20:40:46] Mod URI: /favicon.ico
+[06/13/2011 20:40:46] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:46] Original URI: /404
+[06/13/2011 20:40:46] Mod URI: /404
+[06/13/2011 20:40:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:46] 404.class.php
+[06/13/2011 20:40:46] Template: 404
+[06/13/2011 20:40:46] Page Args: 
+[06/13/2011 20:40:46] Array
+(
+)
+
+[06/13/2011 20:40:46] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:45 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:45 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:52] Original URI: /game
+[06/13/2011 20:40:52] Mod URI: /game
+[06/13/2011 20:40:52] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/13/2011 20:40:52] game.class.php
+[06/13/2011 20:40:52] Template: game
+[06/13/2011 20:40:52] Page Args: 
+[06/13/2011 20:40:52] Array
+(
+)
+
+[06/13/2011 20:40:52] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:51 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:52] Original URI: /favicon.ico
+[06/13/2011 20:40:52] Mod URI: /favicon.ico
+[06/13/2011 20:40:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:52] Original URI: /404
+[06/13/2011 20:40:52] Mod URI: /404
+[06/13/2011 20:40:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:52] 404.class.php
+[06/13/2011 20:40:52] Template: 404
+[06/13/2011 20:40:52] Page Args: 
+[06/13/2011 20:40:52] Array
+(
+)
+
+[06/13/2011 20:40:52] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:51 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:51 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:55] Original URI: /admin
+[06/13/2011 20:40:55] Mod URI: /admin
+[06/13/2011 20:40:55] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:40:55] admin.class.php
+[06/13/2011 20:40:55] Template: admin
+[06/13/2011 20:40:55] Page Args: 
+[06/13/2011 20:40:55] Array
+(
+)
+
+[06/13/2011 20:40:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:55] Original URI: /favicon.ico
+[06/13/2011 20:40:55] Mod URI: /favicon.ico
+[06/13/2011 20:40:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:55] Original URI: /404
+[06/13/2011 20:40:55] Mod URI: /404
+[06/13/2011 20:40:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:55] 404.class.php
+[06/13/2011 20:40:55] Template: 404
+[06/13/2011 20:40:55] Page Args: 
+[06/13/2011 20:40:55] Array
+(
+)
+
+[06/13/2011 20:40:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:54 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:56] Original URI: /contact-us
+[06/13/2011 20:40:56] Mod URI: /contact-us
+[06/13/2011 20:40:56] Array
+(
+    [0] => 
+    [1] => contact-us
+)
+
+[06/13/2011 20:40:56] contact-us.class.php
+[06/13/2011 20:40:56] Template: contact-us
+[06/13/2011 20:40:56] Page Args: 
+[06/13/2011 20:40:56] Array
+(
+)
+
+[06/13/2011 20:40:56] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:55 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:57] Original URI: /templates/date_style.css
+[06/13/2011 20:40:57] Mod URI: /templates/date_style.css
+[06/13/2011 20:40:57] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:40:57] Original URI: /templates/style.css
+[06/13/2011 20:40:57] Mod URI: /templates/style.css
+[06/13/2011 20:40:57] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:40:57] Original URI: /404
+[06/13/2011 20:40:57] Mod URI: /404
+[06/13/2011 20:40:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:57] 404.class.php
+[06/13/2011 20:40:57] Template: 404
+[06/13/2011 20:40:57] Page Args: 
+[06/13/2011 20:40:57] Array
+(
+)
+
+[06/13/2011 20:40:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:57] Original URI: /404
+[06/13/2011 20:40:57] Mod URI: /404
+[06/13/2011 20:40:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:57] 404.class.php
+[06/13/2011 20:40:57] Template: 404
+[06/13/2011 20:40:57] Page Args: 
+[06/13/2011 20:40:57] Array
+(
+)
+
+[06/13/2011 20:40:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:40:57] Original URI: /favicon.ico
+[06/13/2011 20:40:57] Mod URI: /favicon.ico
+[06/13/2011 20:40:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:40:57] Original URI: /404
+[06/13/2011 20:40:57] Mod URI: /404
+[06/13/2011 20:40:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:40:57] 404.class.php
+[06/13/2011 20:40:57] Template: 404
+[06/13/2011 20:40:57] Page Args: 
+[06/13/2011 20:40:57] Array
+(
+)
+
+[06/13/2011 20:40:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:40:56 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:40:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:01] Original URI: /admin
+[06/13/2011 20:41:01] Mod URI: /admin
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:41:01] admin.class.php
+[06/13/2011 20:41:01] Template: admin
+[06/13/2011 20:41:01] Page Args: 
+[06/13/2011 20:41:01] Array
+(
+)
+
+[06/13/2011 20:41:01] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:00 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:01] Original URI: /templates/date_style.css
+[06/13/2011 20:41:01] Mod URI: /templates/date_style.css
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:41:01] Original URI: /templates/style.css
+[06/13/2011 20:41:01] Mod URI: /templates/style.css
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:41:01] Original URI: /404
+[06/13/2011 20:41:01] Mod URI: /404
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:01] 404.class.php
+[06/13/2011 20:41:01] Template: 404
+[06/13/2011 20:41:01] Page Args: 
+[06/13/2011 20:41:01] Array
+(
+)
+
+[06/13/2011 20:41:01] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:00 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:01] Original URI: /404
+[06/13/2011 20:41:01] Mod URI: /404
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:01] 404.class.php
+[06/13/2011 20:41:01] Template: 404
+[06/13/2011 20:41:01] Page Args: 
+[06/13/2011 20:41:01] Array
+(
+)
+
+[06/13/2011 20:41:01] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:00 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:01] Original URI: /favicon.ico
+[06/13/2011 20:41:01] Mod URI: /favicon.ico
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:41:01] Original URI: /404
+[06/13/2011 20:41:01] Mod URI: /404
+[06/13/2011 20:41:01] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:01] 404.class.php
+[06/13/2011 20:41:01] Template: 404
+[06/13/2011 20:41:01] Page Args: 
+[06/13/2011 20:41:01] Array
+(
+)
+
+[06/13/2011 20:41:01] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:41:00 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:00 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:36] Original URI: /admin
+[06/13/2011 20:41:36] Mod URI: /admin
+[06/13/2011 20:41:36] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:41:36] admin.class.php
+[06/13/2011 20:41:36] Template: admin
+[06/13/2011 20:41:36] Page Args: 
+[06/13/2011 20:41:36] Array
+(
+)
+
+[06/13/2011 20:41:36] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:35 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:36] Original URI: /templates/style.css
+[06/13/2011 20:41:36] Mod URI: /templates/style.css
+[06/13/2011 20:41:36] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:41:36] Original URI: /templates/date_style.css
+[06/13/2011 20:41:36] Mod URI: /templates/date_style.css
+[06/13/2011 20:41:36] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:41:36] Original URI: /404
+[06/13/2011 20:41:36] Mod URI: /404
+[06/13/2011 20:41:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:36] 404.class.php
+[06/13/2011 20:41:36] Template: 404
+[06/13/2011 20:41:36] Page Args: 
+[06/13/2011 20:41:36] Array
+(
+)
+
+[06/13/2011 20:41:36] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:35 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:36] Original URI: /404
+[06/13/2011 20:41:36] Mod URI: /404
+[06/13/2011 20:41:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:36] 404.class.php
+[06/13/2011 20:41:36] Template: 404
+[06/13/2011 20:41:36] Page Args: 
+[06/13/2011 20:41:36] Array
+(
+)
+
+[06/13/2011 20:41:36] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:35 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:37] Original URI: /favicon.ico
+[06/13/2011 20:41:37] Mod URI: /favicon.ico
+[06/13/2011 20:41:37] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:41:37] Original URI: /404
+[06/13/2011 20:41:37] Mod URI: /404
+[06/13/2011 20:41:37] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:37] 404.class.php
+[06/13/2011 20:41:37] Template: 404
+[06/13/2011 20:41:37] Page Args: 
+[06/13/2011 20:41:37] Array
+(
+)
+
+[06/13/2011 20:41:37] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:41:36 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:36 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:38] Original URI: /contact-us
+[06/13/2011 20:41:38] Mod URI: /contact-us
+[06/13/2011 20:41:38] Array
+(
+    [0] => 
+    [1] => contact-us
+)
+
+[06/13/2011 20:41:38] contact-us.class.php
+[06/13/2011 20:41:38] Template: contact-us
+[06/13/2011 20:41:38] Page Args: 
+[06/13/2011 20:41:38] Array
+(
+)
+
+[06/13/2011 20:41:38] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:37 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:38] Original URI: /templates/style.css
+[06/13/2011 20:41:38] Mod URI: /templates/style.css
+[06/13/2011 20:41:38] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:41:38] Original URI: /templates/date_style.css
+[06/13/2011 20:41:38] Mod URI: /templates/date_style.css
+[06/13/2011 20:41:38] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:41:38] Original URI: /404
+[06/13/2011 20:41:38] Mod URI: /404
+[06/13/2011 20:41:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:38] 404.class.php
+[06/13/2011 20:41:38] Template: 404
+[06/13/2011 20:41:38] Page Args: 
+[06/13/2011 20:41:38] Array
+(
+)
+
+[06/13/2011 20:41:38] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:37 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:38] Original URI: /404
+[06/13/2011 20:41:38] Mod URI: /404
+[06/13/2011 20:41:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:38] 404.class.php
+[06/13/2011 20:41:38] Template: 404
+[06/13/2011 20:41:38] Page Args: 
+[06/13/2011 20:41:38] Array
+(
+)
+
+[06/13/2011 20:41:38] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:37 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:41:38] Original URI: /favicon.ico
+[06/13/2011 20:41:38] Mod URI: /favicon.ico
+[06/13/2011 20:41:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:41:39] Original URI: /404
+[06/13/2011 20:41:39] Mod URI: /404
+[06/13/2011 20:41:39] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:41:39] 404.class.php
+[06/13/2011 20:41:39] Template: 404
+[06/13/2011 20:41:39] Page Args: 
+[06/13/2011 20:41:39] Array
+(
+)
+
+[06/13/2011 20:41:39] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:41:38 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:41:38 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:42:58] Original URI: /contact-us
+[06/13/2011 20:42:58] Mod URI: /contact-us
+[06/13/2011 20:42:58] Array
+(
+    [0] => 
+    [1] => contact-us
+)
+
+[06/13/2011 20:42:58] contact-us.class.php
+[06/13/2011 20:42:58] Template: contact-us
+[06/13/2011 20:42:58] Page Args: 
+[06/13/2011 20:42:58] Array
+(
+)
+
+[06/13/2011 20:42:58] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:42:57 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:42:59] Original URI: /templates/style.css
+[06/13/2011 20:42:59] Mod URI: /templates/style.css
+[06/13/2011 20:42:59] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:42:59] Original URI: /templates/date_style.css
+[06/13/2011 20:42:59] Mod URI: /templates/date_style.css
+[06/13/2011 20:42:59] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:42:59] Original URI: /404
+[06/13/2011 20:42:59] Mod URI: /404
+[06/13/2011 20:42:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:42:59] 404.class.php
+[06/13/2011 20:42:59] Template: 404
+[06/13/2011 20:42:59] Page Args: 
+[06/13/2011 20:42:59] Array
+(
+)
+
+[06/13/2011 20:42:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:42:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:42:59] Original URI: /404
+[06/13/2011 20:42:59] Mod URI: /404
+[06/13/2011 20:42:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:42:59] 404.class.php
+[06/13/2011 20:42:59] Template: 404
+[06/13/2011 20:42:59] Page Args: 
+[06/13/2011 20:42:59] Array
+(
+)
+
+[06/13/2011 20:42:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:42:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:42:59] Original URI: /favicon.ico
+[06/13/2011 20:42:59] Mod URI: /favicon.ico
+[06/13/2011 20:42:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:42:59] Original URI: /404
+[06/13/2011 20:42:59] Mod URI: /404
+[06/13/2011 20:42:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:42:59] 404.class.php
+[06/13/2011 20:42:59] Template: 404
+[06/13/2011 20:42:59] Page Args: 
+[06/13/2011 20:42:59] Array
+(
+)
+
+[06/13/2011 20:42:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:42:58 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:42:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:02] Original URI: /admin
+[06/13/2011 20:43:02] Mod URI: /admin
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:43:02] admin.class.php
+[06/13/2011 20:43:02] Template: admin
+[06/13/2011 20:43:02] Page Args: 
+[06/13/2011 20:43:02] Array
+(
+)
+
+[06/13/2011 20:43:02] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:01 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:02] Original URI: /templates/date_style.css
+[06/13/2011 20:43:02] Mod URI: /templates/date_style.css
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:43:02] Original URI: /templates/style.css
+[06/13/2011 20:43:02] Mod URI: /templates/style.css
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:43:02] Original URI: /404
+[06/13/2011 20:43:02] Mod URI: /404
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:43:02] 404.class.php
+[06/13/2011 20:43:02] Template: 404
+[06/13/2011 20:43:02] Page Args: 
+[06/13/2011 20:43:02] Array
+(
+)
+
+[06/13/2011 20:43:02] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:01 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:02] Original URI: /404
+[06/13/2011 20:43:02] Mod URI: /404
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:43:02] 404.class.php
+[06/13/2011 20:43:02] Template: 404
+[06/13/2011 20:43:02] Page Args: 
+[06/13/2011 20:43:02] Array
+(
+)
+
+[06/13/2011 20:43:02] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:01 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:02] Original URI: /favicon.ico
+[06/13/2011 20:43:02] Mod URI: /favicon.ico
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:43:02] Original URI: /404
+[06/13/2011 20:43:02] Mod URI: /404
+[06/13/2011 20:43:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:43:02] 404.class.php
+[06/13/2011 20:43:02] Template: 404
+[06/13/2011 20:43:02] Page Args: 
+[06/13/2011 20:43:02] Array
+(
+)
+
+[06/13/2011 20:43:02] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:43:01 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:01 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:34] Original URI: /admin
+[06/13/2011 20:43:34] Mod URI: /admin
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:43:34] admin.class.php
+[06/13/2011 20:43:34] Template: admin
+[06/13/2011 20:43:34] Page Args: 
+[06/13/2011 20:43:34] Array
+(
+)
+
+[06/13/2011 20:43:34] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:33 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:34] Original URI: /templates/style.css
+[06/13/2011 20:43:34] Mod URI: /templates/style.css
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/13/2011 20:43:34] Original URI: /templates/date_style.css
+[06/13/2011 20:43:34] Mod URI: /templates/date_style.css
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/13/2011 20:43:34] Original URI: /404
+[06/13/2011 20:43:34] Mod URI: /404
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:43:34] 404.class.php
+[06/13/2011 20:43:34] Template: 404
+[06/13/2011 20:43:34] Page Args: 
+[06/13/2011 20:43:34] Array
+(
+)
+
+[06/13/2011 20:43:34] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:33 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:34] Original URI: /404
+[06/13/2011 20:43:34] Mod URI: /404
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:43:34] 404.class.php
+[06/13/2011 20:43:34] Template: 404
+[06/13/2011 20:43:34] Page Args: 
+[06/13/2011 20:43:34] Array
+(
+)
+
+[06/13/2011 20:43:34] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:33 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:43:34] Original URI: /favicon.ico
+[06/13/2011 20:43:34] Mod URI: /favicon.ico
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:43:34] Original URI: /404
+[06/13/2011 20:43:34] Mod URI: /404
+[06/13/2011 20:43:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:43:34] 404.class.php
+[06/13/2011 20:43:34] Template: 404
+[06/13/2011 20:43:34] Page Args: 
+[06/13/2011 20:43:34] Array
+(
+)
+
+[06/13/2011 20:43:34] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:43:33 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:43:33 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:45:07] Original URI: /admin
+[06/13/2011 20:45:07] Mod URI: /admin
+[06/13/2011 20:45:07] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:45:07] admin.class.php
+[06/13/2011 20:45:07] Template: admin
+[06/13/2011 20:45:07] Page Args: 
+[06/13/2011 20:45:07] Array
+(
+)
+
+[06/13/2011 20:45:07] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:45:06 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:45:07] Original URI: /favicon.ico
+[06/13/2011 20:45:07] Mod URI: /favicon.ico
+[06/13/2011 20:45:07] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:45:07] Original URI: /404
+[06/13/2011 20:45:07] Mod URI: /404
+[06/13/2011 20:45:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:45:07] 404.class.php
+[06/13/2011 20:45:07] Template: 404
+[06/13/2011 20:45:07] Page Args: 
+[06/13/2011 20:45:07] Array
+(
+)
+
+[06/13/2011 20:45:07] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:45:06 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:45:06 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:45:32] Original URI: /admin
+[06/13/2011 20:45:32] Mod URI: /admin
+[06/13/2011 20:45:32] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:45:32] admin.class.php
+[06/13/2011 20:45:32] Template: admin
+[06/13/2011 20:45:32] Page Args: 
+[06/13/2011 20:45:32] Array
+(
+)
+
+[06/13/2011 20:45:32] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:45:31 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:45:33] Original URI: /favicon.ico
+[06/13/2011 20:45:33] Mod URI: /favicon.ico
+[06/13/2011 20:45:33] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:45:33] Original URI: /404
+[06/13/2011 20:45:33] Mod URI: /404
+[06/13/2011 20:45:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:45:33] 404.class.php
+[06/13/2011 20:45:33] Template: 404
+[06/13/2011 20:45:33] Page Args: 
+[06/13/2011 20:45:33] Array
+(
+)
+
+[06/13/2011 20:45:33] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:45:32 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:45:32 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:01] Original URI: /admin
+[06/13/2011 20:46:01] Mod URI: /admin
+[06/13/2011 20:46:01] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:46:01] admin.class.php
+[06/13/2011 20:46:01] Template: admin
+[06/13/2011 20:46:01] Page Args: 
+[06/13/2011 20:46:01] Array
+(
+)
+
+[06/13/2011 20:46:01] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:00 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:01] Original URI: /favicon.ico
+[06/13/2011 20:46:01] Mod URI: /favicon.ico
+[06/13/2011 20:46:01] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:46:01] Original URI: /404
+[06/13/2011 20:46:01] Mod URI: /404
+[06/13/2011 20:46:01] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:46:01] 404.class.php
+[06/13/2011 20:46:01] Template: 404
+[06/13/2011 20:46:01] Page Args: 
+[06/13/2011 20:46:01] Array
+(
+)
+
+[06/13/2011 20:46:01] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:46:00 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:00 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:27] Original URI: /admin
+[06/13/2011 20:46:27] Mod URI: /admin
+[06/13/2011 20:46:27] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:46:27] admin.class.php
+[06/13/2011 20:46:27] Template: admin
+[06/13/2011 20:46:27] Page Args: 
+[06/13/2011 20:46:27] Array
+(
+)
+
+[06/13/2011 20:46:27] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:26 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:27] Original URI: /favicon.ico
+[06/13/2011 20:46:27] Mod URI: /favicon.ico
+[06/13/2011 20:46:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:46:27] Original URI: /404
+[06/13/2011 20:46:27] Mod URI: /404
+[06/13/2011 20:46:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:46:27] 404.class.php
+[06/13/2011 20:46:27] Template: 404
+[06/13/2011 20:46:27] Page Args: 
+[06/13/2011 20:46:27] Array
+(
+)
+
+[06/13/2011 20:46:27] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:46:26 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:26 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:35] Original URI: /admin
+[06/13/2011 20:46:35] Mod URI: /admin
+[06/13/2011 20:46:35] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:46:35] admin.class.php
+[06/13/2011 20:46:35] Template: admin
+[06/13/2011 20:46:35] Page Args: 
+[06/13/2011 20:46:35] Array
+(
+)
+
+[06/13/2011 20:46:35] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:34 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:36] Original URI: /favicon.ico
+[06/13/2011 20:46:36] Mod URI: /favicon.ico
+[06/13/2011 20:46:36] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:46:36] Original URI: /404
+[06/13/2011 20:46:36] Mod URI: /404
+[06/13/2011 20:46:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:46:36] 404.class.php
+[06/13/2011 20:46:36] Template: 404
+[06/13/2011 20:46:36] Page Args: 
+[06/13/2011 20:46:36] Array
+(
+)
+
+[06/13/2011 20:46:36] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:46:35 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:35 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:49] Original URI: /admin
+[06/13/2011 20:46:49] Mod URI: /admin
+[06/13/2011 20:46:49] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:46:49] admin.class.php
+[06/13/2011 20:46:49] Template: admin
+[06/13/2011 20:46:49] Page Args: 
+[06/13/2011 20:46:49] Array
+(
+)
+
+[06/13/2011 20:46:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:49] Original URI: /favicon.ico
+[06/13/2011 20:46:49] Mod URI: /favicon.ico
+[06/13/2011 20:46:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:46:49] Original URI: /404
+[06/13/2011 20:46:49] Mod URI: /404
+[06/13/2011 20:46:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:46:49] 404.class.php
+[06/13/2011 20:46:49] Template: 404
+[06/13/2011 20:46:49] Page Args: 
+[06/13/2011 20:46:49] Array
+(
+)
+
+[06/13/2011 20:46:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:46:48 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:55] Original URI: /admin
+[06/13/2011 20:46:55] Mod URI: /admin
+[06/13/2011 20:46:55] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:46:55] admin.class.php
+[06/13/2011 20:46:55] Template: admin
+[06/13/2011 20:46:55] Page Args: 
+[06/13/2011 20:46:55] Array
+(
+)
+
+[06/13/2011 20:46:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:46:55] Original URI: /favicon.ico
+[06/13/2011 20:46:55] Mod URI: /favicon.ico
+[06/13/2011 20:46:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:46:55] Original URI: /404
+[06/13/2011 20:46:55] Mod URI: /404
+[06/13/2011 20:46:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:46:55] 404.class.php
+[06/13/2011 20:46:55] Template: 404
+[06/13/2011 20:46:55] Page Args: 
+[06/13/2011 20:46:55] Array
+(
+)
+
+[06/13/2011 20:46:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:46:54 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:46:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:47:44] Original URI: /admin
+[06/13/2011 20:47:44] Mod URI: /admin
+[06/13/2011 20:47:44] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:47:44] admin.class.php
+[06/13/2011 20:47:44] Template: admin
+[06/13/2011 20:47:44] Page Args: 
+[06/13/2011 20:47:44] Array
+(
+)
+
+[06/13/2011 20:47:44] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:47:43 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:47:45] Original URI: /favicon.ico
+[06/13/2011 20:47:45] Mod URI: /favicon.ico
+[06/13/2011 20:47:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:47:45] Original URI: /404
+[06/13/2011 20:47:45] Mod URI: /404
+[06/13/2011 20:47:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:47:45] 404.class.php
+[06/13/2011 20:47:45] Template: 404
+[06/13/2011 20:47:45] Page Args: 
+[06/13/2011 20:47:45] Array
+(
+)
+
+[06/13/2011 20:47:45] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:47:44 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:47:44 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:05] Original URI: /admin
+[06/13/2011 20:48:05] Mod URI: /admin
+[06/13/2011 20:48:05] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:48:05] admin.class.php
+[06/13/2011 20:48:05] Template: admin
+[06/13/2011 20:48:05] Page Args: 
+[06/13/2011 20:48:05] Array
+(
+)
+
+[06/13/2011 20:48:05] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:04 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:05] Original URI: /favicon.ico
+[06/13/2011 20:48:05] Mod URI: /favicon.ico
+[06/13/2011 20:48:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:48:05] Original URI: /404
+[06/13/2011 20:48:05] Mod URI: /404
+[06/13/2011 20:48:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:48:05] 404.class.php
+[06/13/2011 20:48:05] Template: 404
+[06/13/2011 20:48:05] Page Args: 
+[06/13/2011 20:48:05] Array
+(
+)
+
+[06/13/2011 20:48:05] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:48:04 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:04 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:07] Original URI: /admin/mapeditor
+[06/13/2011 20:48:07] Mod URI: /admin/mapeditor
+[06/13/2011 20:48:07] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:48:07] Original URI: /404
+[06/13/2011 20:48:07] Mod URI: /404
+[06/13/2011 20:48:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:48:07] 404.class.php
+[06/13/2011 20:48:07] Template: 404
+[06/13/2011 20:48:07] Page Args: 
+[06/13/2011 20:48:07] Array
+(
+)
+
+[06/13/2011 20:48:07] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:06 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:07] Original URI: /favicon.ico
+[06/13/2011 20:48:07] Mod URI: /favicon.ico
+[06/13/2011 20:48:07] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:48:07] Original URI: /404
+[06/13/2011 20:48:07] Mod URI: /404
+[06/13/2011 20:48:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:48:07] 404.class.php
+[06/13/2011 20:48:07] Template: 404
+[06/13/2011 20:48:07] Page Args: 
+[06/13/2011 20:48:07] Array
+(
+)
+
+[06/13/2011 20:48:07] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:48:06 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:06 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:09] Original URI: /admin
+[06/13/2011 20:48:09] Mod URI: /admin
+[06/13/2011 20:48:09] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:48:09] admin.class.php
+[06/13/2011 20:48:09] Template: admin
+[06/13/2011 20:48:09] Page Args: 
+[06/13/2011 20:48:09] Array
+(
+)
+
+[06/13/2011 20:48:09] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:08 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:09] Original URI: /favicon.ico
+[06/13/2011 20:48:09] Mod URI: /favicon.ico
+[06/13/2011 20:48:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:48:09] Original URI: /404
+[06/13/2011 20:48:09] Mod URI: /404
+[06/13/2011 20:48:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:48:09] 404.class.php
+[06/13/2011 20:48:09] Template: 404
+[06/13/2011 20:48:09] Page Args: 
+[06/13/2011 20:48:09] Array
+(
+)
+
+[06/13/2011 20:48:09] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:48:08 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:08 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:49] Original URI: /admin
+[06/13/2011 20:48:49] Mod URI: /admin
+[06/13/2011 20:48:49] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:48:49] admin.class.php
+[06/13/2011 20:48:49] Template: admin
+[06/13/2011 20:48:49] Page Args: 
+[06/13/2011 20:48:49] Array
+(
+)
+
+[06/13/2011 20:48:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:50] Original URI: /favicon.ico
+[06/13/2011 20:48:50] Mod URI: /favicon.ico
+[06/13/2011 20:48:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:48:50] Original URI: /404
+[06/13/2011 20:48:50] Mod URI: /404
+[06/13/2011 20:48:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:48:50] 404.class.php
+[06/13/2011 20:48:50] Template: 404
+[06/13/2011 20:48:50] Page Args: 
+[06/13/2011 20:48:50] Array
+(
+)
+
+[06/13/2011 20:48:50] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:48:49 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:49 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:51] Original URI: /admin/mapeditor
+[06/13/2011 20:48:51] Mod URI: /admin/mapeditor
+[06/13/2011 20:48:51] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:48:51] admin.class.php
+[06/13/2011 20:48:51] Template: admin-mapeditor
+[06/13/2011 20:48:51] Page Args: 
+[06/13/2011 20:48:51] Array
+(
+)
+
+[06/13/2011 20:48:51] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:50 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:48:51] Original URI: /favicon.ico
+[06/13/2011 20:48:51] Mod URI: /favicon.ico
+[06/13/2011 20:48:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:48:51] Original URI: /404
+[06/13/2011 20:48:51] Mod URI: /404
+[06/13/2011 20:48:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:48:51] 404.class.php
+[06/13/2011 20:48:51] Template: 404
+[06/13/2011 20:48:51] Page Args: 
+[06/13/2011 20:48:51] Array
+(
+)
+
+[06/13/2011 20:48:51] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:48:50 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:48:50 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:49:59] Original URI: /admin/mapeditor
+[06/13/2011 20:49:59] Mod URI: /admin/mapeditor
+[06/13/2011 20:49:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:49:59] admin.class.php
+[06/13/2011 20:49:59] Template: admin-mapeditor
+[06/13/2011 20:49:59] Page Args: 
+[06/13/2011 20:49:59] Array
+(
+)
+
+[06/13/2011 20:49:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:49:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:49:59] Original URI: /favicon.ico
+[06/13/2011 20:49:59] Mod URI: /favicon.ico
+[06/13/2011 20:49:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:00] Original URI: /404
+[06/13/2011 20:50:00] Mod URI: /404
+[06/13/2011 20:50:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:00] 404.class.php
+[06/13/2011 20:50:00] Template: 404
+[06/13/2011 20:50:00] Page Args: 
+[06/13/2011 20:50:00] Array
+(
+)
+
+[06/13/2011 20:50:00] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:49:59 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:49:59 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:05] Original URI: /admin/mapeditor
+[06/13/2011 20:50:05] Mod URI: /admin/mapeditor
+[06/13/2011 20:50:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:50:05] admin.class.php
+[06/13/2011 20:50:05] Template: admin-mapeditor
+[06/13/2011 20:50:05] Page Args: 
+[06/13/2011 20:50:05] Array
+(
+)
+
+[06/13/2011 20:50:05] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:04 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:06] Original URI: /favicon.ico
+[06/13/2011 20:50:06] Mod URI: /favicon.ico
+[06/13/2011 20:50:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:06] Original URI: /404
+[06/13/2011 20:50:06] Mod URI: /404
+[06/13/2011 20:50:06] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:06] 404.class.php
+[06/13/2011 20:50:06] Template: 404
+[06/13/2011 20:50:06] Page Args: 
+[06/13/2011 20:50:06] Array
+(
+)
+
+[06/13/2011 20:50:06] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:50:05 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:05 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:12] Original URI: /admin/mapeditor
+[06/13/2011 20:50:12] Mod URI: /admin/mapeditor
+[06/13/2011 20:50:12] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:50:12] admin.class.php
+[06/13/2011 20:50:12] Template: admin-mapeditor
+[06/13/2011 20:50:12] Page Args: 
+[06/13/2011 20:50:12] Array
+(
+)
+
+[06/13/2011 20:50:12] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:11 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:13] Original URI: /favicon.ico
+[06/13/2011 20:50:13] Mod URI: /favicon.ico
+[06/13/2011 20:50:13] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:13] Original URI: /404
+[06/13/2011 20:50:13] Mod URI: /404
+[06/13/2011 20:50:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:13] 404.class.php
+[06/13/2011 20:50:13] Template: 404
+[06/13/2011 20:50:13] Page Args: 
+[06/13/2011 20:50:13] Array
+(
+)
+
+[06/13/2011 20:50:13] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:50:12 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:12 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:20] Original URI: /admin/mapeditor
+[06/13/2011 20:50:20] Mod URI: /admin/mapeditor
+[06/13/2011 20:50:20] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:50:20] admin.class.php
+[06/13/2011 20:50:20] Template: admin-mapeditor
+[06/13/2011 20:50:20] Page Args: 
+[06/13/2011 20:50:20] Array
+(
+)
+
+[06/13/2011 20:50:20] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:19 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:21] Original URI: /favicon.ico
+[06/13/2011 20:50:21] Mod URI: /favicon.ico
+[06/13/2011 20:50:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:21] Original URI: /404
+[06/13/2011 20:50:21] Mod URI: /404
+[06/13/2011 20:50:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:21] 404.class.php
+[06/13/2011 20:50:21] Template: 404
+[06/13/2011 20:50:21] Page Args: 
+[06/13/2011 20:50:21] Array
+(
+)
+
+[06/13/2011 20:50:21] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:50:20 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:20 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:28] Original URI: /admin/mapeditor
+[06/13/2011 20:50:28] Mod URI: /admin/mapeditor
+[06/13/2011 20:50:28] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:50:28] admin.class.php
+[06/13/2011 20:50:28] Template: admin-mapeditor
+[06/13/2011 20:50:28] Page Args: 
+[06/13/2011 20:50:28] Array
+(
+)
+
+[06/13/2011 20:50:28] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:27 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:28] Original URI: /favicon.ico
+[06/13/2011 20:50:28] Mod URI: /favicon.ico
+[06/13/2011 20:50:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:28] Original URI: /404
+[06/13/2011 20:50:28] Mod URI: /404
+[06/13/2011 20:50:28] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:28] 404.class.php
+[06/13/2011 20:50:28] Template: 404
+[06/13/2011 20:50:28] Page Args: 
+[06/13/2011 20:50:28] Array
+(
+)
+
+[06/13/2011 20:50:28] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:50:27 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:27 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:38] Original URI: /admin/mapeditor
+[06/13/2011 20:50:38] Mod URI: /admin/mapeditor
+[06/13/2011 20:50:38] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:50:38] admin.class.php
+[06/13/2011 20:50:38] Template: admin-mapeditor
+[06/13/2011 20:50:38] Page Args: 
+[06/13/2011 20:50:38] Array
+(
+)
+
+[06/13/2011 20:50:38] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:37 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:38] Original URI: /favicon.ico
+[06/13/2011 20:50:38] Mod URI: /favicon.ico
+[06/13/2011 20:50:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:38] Original URI: /404
+[06/13/2011 20:50:38] Mod URI: /404
+[06/13/2011 20:50:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:38] 404.class.php
+[06/13/2011 20:50:38] Template: 404
+[06/13/2011 20:50:38] Page Args: 
+[06/13/2011 20:50:38] Array
+(
+)
+
+[06/13/2011 20:50:38] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:50:37 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:37 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:47] Original URI: /admin/mapeditor
+[06/13/2011 20:50:47] Mod URI: /admin/mapeditor
+[06/13/2011 20:50:47] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:50:47] admin.class.php
+[06/13/2011 20:50:47] Template: admin-mapeditor
+[06/13/2011 20:50:47] Page Args: 
+[06/13/2011 20:50:47] Array
+(
+)
+
+[06/13/2011 20:50:47] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:46 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:50:47] Original URI: /favicon.ico
+[06/13/2011 20:50:47] Mod URI: /favicon.ico
+[06/13/2011 20:50:47] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:50:47] Original URI: /404
+[06/13/2011 20:50:47] Mod URI: /404
+[06/13/2011 20:50:47] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:50:47] 404.class.php
+[06/13/2011 20:50:47] Template: 404
+[06/13/2011 20:50:47] Page Args: 
+[06/13/2011 20:50:47] Array
+(
+)
+
+[06/13/2011 20:50:47] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:50:46 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:50:46 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:51:05] Original URI: /admin/mapeditor
+[06/13/2011 20:51:05] Mod URI: /admin/mapeditor
+[06/13/2011 20:51:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:51:05] admin.class.php
+[06/13/2011 20:51:05] Template: admin-mapeditor
+[06/13/2011 20:51:05] Page Args: 
+[06/13/2011 20:51:05] Array
+(
+)
+
+[06/13/2011 20:51:05] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:51:04 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:51:05] Original URI: /favicon.ico
+[06/13/2011 20:51:05] Mod URI: /favicon.ico
+[06/13/2011 20:51:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:51:05] Original URI: /404
+[06/13/2011 20:51:05] Mod URI: /404
+[06/13/2011 20:51:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:51:05] 404.class.php
+[06/13/2011 20:51:05] Template: 404
+[06/13/2011 20:51:05] Page Args: 
+[06/13/2011 20:51:05] Array
+(
+)
+
+[06/13/2011 20:51:05] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:51:04 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:51:04 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:51:30] Original URI: /admin/mapeditor
+[06/13/2011 20:51:30] Mod URI: /admin/mapeditor
+[06/13/2011 20:51:30] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:51:30] admin.class.php
+[06/13/2011 20:51:30] Template: admin-mapeditor
+[06/13/2011 20:51:30] Page Args: 
+[06/13/2011 20:51:30] Array
+(
+)
+
+[06/13/2011 20:51:30] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:51:29 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:51:31] Original URI: /favicon.ico
+[06/13/2011 20:51:31] Mod URI: /favicon.ico
+[06/13/2011 20:51:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:51:31] Original URI: /404
+[06/13/2011 20:51:31] Mod URI: /404
+[06/13/2011 20:51:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:51:31] 404.class.php
+[06/13/2011 20:51:31] Template: 404
+[06/13/2011 20:51:31] Page Args: 
+[06/13/2011 20:51:31] Array
+(
+)
+
+[06/13/2011 20:51:31] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:51:30 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:51:30 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:51:33] Original URI: /admin
+[06/13/2011 20:51:33] Mod URI: /admin
+[06/13/2011 20:51:33] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:51:33] admin.class.php
+[06/13/2011 20:51:33] Template: admin
+[06/13/2011 20:51:33] Page Args: 
+[06/13/2011 20:51:33] Array
+(
+)
+
+[06/13/2011 20:51:33] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:51:32 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:51:33] Original URI: /favicon.ico
+[06/13/2011 20:51:33] Mod URI: /favicon.ico
+[06/13/2011 20:51:33] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:51:33] Original URI: /404
+[06/13/2011 20:51:33] Mod URI: /404
+[06/13/2011 20:51:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:51:33] 404.class.php
+[06/13/2011 20:51:33] Template: 404
+[06/13/2011 20:51:33] Page Args: 
+[06/13/2011 20:51:33] Array
+(
+)
+
+[06/13/2011 20:51:33] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:51:32 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:51:32 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:06] Original URI: /admin
+[06/13/2011 20:53:06] Mod URI: /admin
+[06/13/2011 20:53:06] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:53:06] admin.class.php
+[06/13/2011 20:53:06] Template: admin
+[06/13/2011 20:53:06] Page Args: 
+[06/13/2011 20:53:06] Array
+(
+)
+
+[06/13/2011 20:53:06] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:05 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:06] Original URI: /favicon.ico
+[06/13/2011 20:53:06] Mod URI: /favicon.ico
+[06/13/2011 20:53:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:07] Original URI: /404
+[06/13/2011 20:53:07] Mod URI: /404
+[06/13/2011 20:53:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:07] 404.class.php
+[06/13/2011 20:53:07] Template: 404
+[06/13/2011 20:53:07] Page Args: 
+[06/13/2011 20:53:07] Array
+(
+)
+
+[06/13/2011 20:53:07] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:06 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:06 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:10] Original URI: /admin/mapeditor
+[06/13/2011 20:53:10] Mod URI: /admin/mapeditor
+[06/13/2011 20:53:10] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:53:10] admin.class.php
+[06/13/2011 20:53:10] Template: admin-mapeditor
+[06/13/2011 20:53:10] Page Args: 
+[06/13/2011 20:53:10] Array
+(
+)
+
+[06/13/2011 20:53:10] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:09 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:10] Original URI: /favicon.ico
+[06/13/2011 20:53:10] Mod URI: /favicon.ico
+[06/13/2011 20:53:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:10] Original URI: /404
+[06/13/2011 20:53:10] Mod URI: /404
+[06/13/2011 20:53:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:10] 404.class.php
+[06/13/2011 20:53:10] Template: 404
+[06/13/2011 20:53:10] Page Args: 
+[06/13/2011 20:53:10] Array
+(
+)
+
+[06/13/2011 20:53:10] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:09 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:09 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:12] Original URI: /admin
+[06/13/2011 20:53:12] Mod URI: /admin
+[06/13/2011 20:53:12] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:53:12] admin.class.php
+[06/13/2011 20:53:12] Template: admin
+[06/13/2011 20:53:12] Page Args: 
+[06/13/2011 20:53:12] Array
+(
+)
+
+[06/13/2011 20:53:12] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:11 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:12] Original URI: /favicon.ico
+[06/13/2011 20:53:12] Mod URI: /favicon.ico
+[06/13/2011 20:53:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:12] Original URI: /404
+[06/13/2011 20:53:12] Mod URI: /404
+[06/13/2011 20:53:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:12] 404.class.php
+[06/13/2011 20:53:12] Template: 404
+[06/13/2011 20:53:12] Page Args: 
+[06/13/2011 20:53:12] Array
+(
+)
+
+[06/13/2011 20:53:12] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:11 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:11 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:13] Original URI: /admin/mapeditor
+[06/13/2011 20:53:13] Mod URI: /admin/mapeditor
+[06/13/2011 20:53:13] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:53:13] admin.class.php
+[06/13/2011 20:53:13] Template: admin-mapeditor
+[06/13/2011 20:53:13] Page Args: 
+[06/13/2011 20:53:13] Array
+(
+)
+
+[06/13/2011 20:53:13] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:12 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:13] Original URI: /favicon.ico
+[06/13/2011 20:53:13] Mod URI: /favicon.ico
+[06/13/2011 20:53:13] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:13] Original URI: /404
+[06/13/2011 20:53:13] Mod URI: /404
+[06/13/2011 20:53:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:13] 404.class.php
+[06/13/2011 20:53:13] Template: 404
+[06/13/2011 20:53:13] Page Args: 
+[06/13/2011 20:53:13] Array
+(
+)
+
+[06/13/2011 20:53:13] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:12 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:12 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:15] Original URI: /admin
+[06/13/2011 20:53:15] Mod URI: /admin
+[06/13/2011 20:53:15] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:53:15] admin.class.php
+[06/13/2011 20:53:15] Template: admin
+[06/13/2011 20:53:15] Page Args: 
+[06/13/2011 20:53:15] Array
+(
+)
+
+[06/13/2011 20:53:15] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:14 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:15] Original URI: /favicon.ico
+[06/13/2011 20:53:15] Mod URI: /favicon.ico
+[06/13/2011 20:53:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:15] Original URI: /404
+[06/13/2011 20:53:15] Mod URI: /404
+[06/13/2011 20:53:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:15] 404.class.php
+[06/13/2011 20:53:15] Template: 404
+[06/13/2011 20:53:15] Page Args: 
+[06/13/2011 20:53:15] Array
+(
+)
+
+[06/13/2011 20:53:15] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:14 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:14 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:18] Original URI: /admin/mapeditor
+[06/13/2011 20:53:18] Mod URI: /admin/mapeditor
+[06/13/2011 20:53:18] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:53:18] admin.class.php
+[06/13/2011 20:53:18] Template: admin-mapeditor
+[06/13/2011 20:53:18] Page Args: 
+[06/13/2011 20:53:18] Array
+(
+)
+
+[06/13/2011 20:53:18] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:17 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:19] Original URI: /favicon.ico
+[06/13/2011 20:53:19] Mod URI: /favicon.ico
+[06/13/2011 20:53:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:19] Original URI: /404
+[06/13/2011 20:53:19] Mod URI: /404
+[06/13/2011 20:53:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:19] 404.class.php
+[06/13/2011 20:53:19] Template: 404
+[06/13/2011 20:53:19] Page Args: 
+[06/13/2011 20:53:19] Array
+(
+)
+
+[06/13/2011 20:53:19] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:18 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:18 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:40] Original URI: /admin/mapeditor
+[06/13/2011 20:53:40] Mod URI: /admin/mapeditor
+[06/13/2011 20:53:40] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:53:40] admin.class.php
+[06/13/2011 20:53:40] Template: admin-mapeditor
+[06/13/2011 20:53:40] Page Args: 
+[06/13/2011 20:53:40] Array
+(
+)
+
+[06/13/2011 20:53:40] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:39 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:40] Original URI: /favicon.ico
+[06/13/2011 20:53:40] Mod URI: /favicon.ico
+[06/13/2011 20:53:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:40] Original URI: /404
+[06/13/2011 20:53:40] Mod URI: /404
+[06/13/2011 20:53:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:40] 404.class.php
+[06/13/2011 20:53:40] Template: 404
+[06/13/2011 20:53:40] Page Args: 
+[06/13/2011 20:53:40] Array
+(
+)
+
+[06/13/2011 20:53:40] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:39 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:39 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:44] Original URI: /admin
+[06/13/2011 20:53:44] Mod URI: /admin
+[06/13/2011 20:53:44] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 20:53:44] admin.class.php
+[06/13/2011 20:53:44] Template: admin
+[06/13/2011 20:53:44] Page Args: 
+[06/13/2011 20:53:44] Array
+(
+)
+
+[06/13/2011 20:53:44] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:43 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:44] Original URI: /favicon.ico
+[06/13/2011 20:53:44] Mod URI: /favicon.ico
+[06/13/2011 20:53:44] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:44] Original URI: /404
+[06/13/2011 20:53:44] Mod URI: /404
+[06/13/2011 20:53:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:44] 404.class.php
+[06/13/2011 20:53:44] Template: 404
+[06/13/2011 20:53:44] Page Args: 
+[06/13/2011 20:53:44] Array
+(
+)
+
+[06/13/2011 20:53:44] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:43 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:43 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:46] Original URI: /admin/mapeditor
+[06/13/2011 20:53:46] Mod URI: /admin/mapeditor
+[06/13/2011 20:53:46] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:53:46] admin.class.php
+[06/13/2011 20:53:46] Template: admin-mapeditor
+[06/13/2011 20:53:46] Page Args: 
+[06/13/2011 20:53:46] Array
+(
+)
+
+[06/13/2011 20:53:46] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:45 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:53:46] Original URI: /favicon.ico
+[06/13/2011 20:53:46] Mod URI: /favicon.ico
+[06/13/2011 20:53:46] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:53:46] Original URI: /404
+[06/13/2011 20:53:46] Mod URI: /404
+[06/13/2011 20:53:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:53:46] 404.class.php
+[06/13/2011 20:53:46] Template: 404
+[06/13/2011 20:53:46] Page Args: 
+[06/13/2011 20:53:46] Array
+(
+)
+
+[06/13/2011 20:53:46] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:53:45 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:53:45 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:56:23] Original URI: /admin/mapeditor
+[06/13/2011 20:56:23] Mod URI: /admin/mapeditor
+[06/13/2011 20:56:23] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 20:56:23] admin.class.php
+[06/13/2011 20:56:23] Template: admin-mapeditor
+[06/13/2011 20:56:23] Page Args: 
+[06/13/2011 20:56:23] Array
+(
+)
+
+[06/13/2011 20:56:23] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:56:22 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 20:56:24] Original URI: /favicon.ico
+[06/13/2011 20:56:24] Mod URI: /favicon.ico
+[06/13/2011 20:56:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 20:56:24] Original URI: /404
+[06/13/2011 20:56:24] Mod URI: /404
+[06/13/2011 20:56:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 20:56:24] 404.class.php
+[06/13/2011 20:56:24] Template: 404
+[06/13/2011 20:56:24] Page Args: 
+[06/13/2011 20:56:24] Array
+(
+)
+
+[06/13/2011 20:56:24] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 01:56:23 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 01:56:23 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 21:11:40] Original URI: /admin/mapeditor
+[06/13/2011 21:11:40] Mod URI: /admin/mapeditor
+[06/13/2011 21:11:40] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:11:40] admin.class.php
+[06/13/2011 21:11:40] Template: admin-mapeditor
+[06/13/2011 21:11:40] Page Args: 
+[06/13/2011 21:11:40] Array
+(
+)
+
+[06/13/2011 21:11:40] Original URI: /favicon.ico
+[06/13/2011 21:11:40] Mod URI: /favicon.ico
+[06/13/2011 21:11:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:11:41] Original URI: /404
+[06/13/2011 21:11:41] Mod URI: /404
+[06/13/2011 21:11:41] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:11:41] 404.class.php
+[06/13/2011 21:11:41] Template: 404
+[06/13/2011 21:11:41] Page Args: 
+[06/13/2011 21:11:41] Array
+(
+)
+
+[06/13/2011 21:11:41] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 02:11:40 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 02:11:40 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 21:13:07] Original URI: /admin/mapeditor
+[06/13/2011 21:13:07] Mod URI: /admin/mapeditor
+[06/13/2011 21:13:07] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:13:07] admin.class.php
+[06/13/2011 21:13:07] Template: admin-mapeditor
+[06/13/2011 21:13:07] Page Args: 
+[06/13/2011 21:13:07] Array
+(
+)
+
+[06/13/2011 21:13:07] Original URI: /favicon.ico
+[06/13/2011 21:13:07] Mod URI: /favicon.ico
+[06/13/2011 21:13:07] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:13:07] Original URI: /404
+[06/13/2011 21:13:07] Mod URI: /404
+[06/13/2011 21:13:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:13:07] 404.class.php
+[06/13/2011 21:13:07] Template: 404
+[06/13/2011 21:13:07] Page Args: 
+[06/13/2011 21:13:07] Array
+(
+)
+
+[06/13/2011 21:13:07] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 02:13:06 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 02:13:06 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 21:13:09] Original URI: /admin/mapeditor
+[06/13/2011 21:13:09] Mod URI: /admin/mapeditor
+[06/13/2011 21:13:09] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:13:09] admin.class.php
+[06/13/2011 21:13:09] Template: admin-mapeditor
+[06/13/2011 21:13:09] Page Args: 
+[06/13/2011 21:13:09] Array
+(
+)
+
+[06/13/2011 21:13:09] Original URI: /favicon.ico
+[06/13/2011 21:13:09] Mod URI: /favicon.ico
+[06/13/2011 21:13:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:13:09] Original URI: /404
+[06/13/2011 21:13:09] Mod URI: /404
+[06/13/2011 21:13:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:13:09] 404.class.php
+[06/13/2011 21:13:09] Template: 404
+[06/13/2011 21:13:09] Page Args: 
+[06/13/2011 21:13:09] Array
+(
+)
+
+[06/13/2011 21:13:09] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Mon, 14-Jun-2010 02:13:08 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Mon, 14-Jun-2010 02:13:08 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/13/2011 21:18:54] Original URI: /admin/mapeditor
+[06/13/2011 21:18:54] Mod URI: /admin/mapeditor
+[06/13/2011 21:18:54] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:18:54] admin.class.php
+[06/13/2011 21:18:54] Template: admin-mapeditor
+[06/13/2011 21:18:54] Page Args: 
+[06/13/2011 21:18:54] Array
+(
+)
+
+[06/13/2011 21:18:54] Original URI: 
+[06/13/2011 21:18:54] Mod URI: 
+[06/13/2011 21:18:54] Template: index
+[06/13/2011 21:18:54] Page Args: 
+[06/13/2011 21:18:54] 
+[06/13/2011 21:18:55] Original URI: /favicon.ico
+[06/13/2011 21:18:55] Mod URI: /favicon.ico
+[06/13/2011 21:18:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:18:55] Original URI: /404
+[06/13/2011 21:18:55] Mod URI: /404
+[06/13/2011 21:18:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:18:55] 404.class.php
+[06/13/2011 21:18:55] Template: 404
+[06/13/2011 21:18:55] Page Args: 
+[06/13/2011 21:18:55] Array
+(
+)
+
+[06/13/2011 21:19:31] Original URI: /admin/mapeditor
+[06/13/2011 21:19:31] Mod URI: /admin/mapeditor
+[06/13/2011 21:19:31] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:19:31] admin.class.php
+[06/13/2011 21:19:31] Template: admin-mapeditor
+[06/13/2011 21:19:31] Page Args: 
+[06/13/2011 21:19:31] Array
+(
+)
+
+[06/13/2011 21:19:31] Original URI: /favicon.ico
+[06/13/2011 21:19:31] Mod URI: /favicon.ico
+[06/13/2011 21:19:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:19:31] Original URI: /404
+[06/13/2011 21:19:31] Mod URI: /404
+[06/13/2011 21:19:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:19:31] 404.class.php
+[06/13/2011 21:19:31] Template: 404
+[06/13/2011 21:19:31] Page Args: 
+[06/13/2011 21:19:31] Array
+(
+)
+
+[06/13/2011 21:19:42] Original URI: /admin/mapeditor
+[06/13/2011 21:19:42] Mod URI: /admin/mapeditor
+[06/13/2011 21:19:42] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:19:42] admin.class.php
+[06/13/2011 21:19:42] Template: admin-mapeditor
+[06/13/2011 21:19:42] Page Args: 
+[06/13/2011 21:19:42] Array
+(
+)
+
+[06/13/2011 21:19:42] Original URI: /favicon.ico
+[06/13/2011 21:19:42] Mod URI: /favicon.ico
+[06/13/2011 21:19:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:19:42] Original URI: /404
+[06/13/2011 21:19:42] Mod URI: /404
+[06/13/2011 21:19:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:19:42] 404.class.php
+[06/13/2011 21:19:42] Template: 404
+[06/13/2011 21:19:42] Page Args: 
+[06/13/2011 21:19:42] Array
+(
+)
+
+[06/13/2011 21:20:37] Original URI: /admin/mapeditor
+[06/13/2011 21:20:37] Mod URI: /admin/mapeditor
+[06/13/2011 21:20:37] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:20:37] admin.class.php
+[06/13/2011 21:20:37] Template: admin-mapeditor
+[06/13/2011 21:20:37] Page Args: 
+[06/13/2011 21:20:37] Array
+(
+)
+
+[06/13/2011 21:20:38] Original URI: /favicon.ico
+[06/13/2011 21:20:38] Mod URI: /favicon.ico
+[06/13/2011 21:20:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:20:38] Original URI: /404
+[06/13/2011 21:20:38] Mod URI: /404
+[06/13/2011 21:20:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:20:38] 404.class.php
+[06/13/2011 21:20:38] Template: 404
+[06/13/2011 21:20:38] Page Args: 
+[06/13/2011 21:20:38] Array
+(
+)
+
+[06/13/2011 21:20:39] Original URI: /admin/mapeditor
+[06/13/2011 21:20:39] Mod URI: /admin/mapeditor
+[06/13/2011 21:20:39] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:20:39] admin.class.php
+[06/13/2011 21:20:39] Template: admin-mapeditor
+[06/13/2011 21:20:39] Page Args: 
+[06/13/2011 21:20:39] Array
+(
+)
+
+[06/13/2011 21:20:40] Original URI: /favicon.ico
+[06/13/2011 21:20:40] Mod URI: /favicon.ico
+[06/13/2011 21:20:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:20:40] Original URI: /404
+[06/13/2011 21:20:40] Mod URI: /404
+[06/13/2011 21:20:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:20:40] 404.class.php
+[06/13/2011 21:20:40] Template: 404
+[06/13/2011 21:20:40] Page Args: 
+[06/13/2011 21:20:40] Array
+(
+)
+
+[06/13/2011 21:21:00] Original URI: /admin/mapeditor
+[06/13/2011 21:21:00] Mod URI: /admin/mapeditor
+[06/13/2011 21:21:00] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:21:00] admin.class.php
+[06/13/2011 21:21:00] Template: admin-mapeditor
+[06/13/2011 21:21:00] Page Args: 
+[06/13/2011 21:21:00] Array
+(
+)
+
+[06/13/2011 21:21:00] Original URI: /favicon.ico
+[06/13/2011 21:21:00] Mod URI: /favicon.ico
+[06/13/2011 21:21:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:21:00] Original URI: /404
+[06/13/2011 21:21:00] Mod URI: /404
+[06/13/2011 21:21:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:21:00] 404.class.php
+[06/13/2011 21:21:00] Template: 404
+[06/13/2011 21:21:00] Page Args: 
+[06/13/2011 21:21:00] Array
+(
+)
+
+[06/13/2011 21:21:11] Original URI: /admin/mapeditor
+[06/13/2011 21:21:11] Mod URI: /admin/mapeditor
+[06/13/2011 21:21:11] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:21:11] admin.class.php
+[06/13/2011 21:21:11] Template: admin-mapeditor
+[06/13/2011 21:21:11] Page Args: 
+[06/13/2011 21:21:11] Array
+(
+)
+
+[06/13/2011 21:21:11] Original URI: /favicon.ico
+[06/13/2011 21:21:11] Mod URI: /favicon.ico
+[06/13/2011 21:21:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:21:11] Original URI: /404
+[06/13/2011 21:21:11] Mod URI: /404
+[06/13/2011 21:21:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:21:11] 404.class.php
+[06/13/2011 21:21:11] Template: 404
+[06/13/2011 21:21:11] Page Args: 
+[06/13/2011 21:21:11] Array
+(
+)
+
+[06/13/2011 21:22:24] Original URI: /admin/mapeditor
+[06/13/2011 21:22:24] Mod URI: /admin/mapeditor
+[06/13/2011 21:22:24] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:22:24] admin.class.php
+[06/13/2011 21:22:24] Template: admin-mapeditor
+[06/13/2011 21:22:24] Page Args: 
+[06/13/2011 21:22:24] Array
+(
+)
+
+[06/13/2011 21:22:24] Original URI: /favicon.ico
+[06/13/2011 21:22:24] Mod URI: /favicon.ico
+[06/13/2011 21:22:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:22:24] Original URI: /404
+[06/13/2011 21:22:24] Mod URI: /404
+[06/13/2011 21:22:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:22:24] 404.class.php
+[06/13/2011 21:22:24] Template: 404
+[06/13/2011 21:22:24] Page Args: 
+[06/13/2011 21:22:24] Array
+(
+)
+
+[06/13/2011 21:22:26] Original URI: /admin/mapeditor
+[06/13/2011 21:22:26] Mod URI: /admin/mapeditor
+[06/13/2011 21:22:26] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:22:26] admin.class.php
+[06/13/2011 21:22:26] Template: admin-mapeditor
+[06/13/2011 21:22:26] Page Args: 
+[06/13/2011 21:22:26] Array
+(
+)
+
+[06/13/2011 21:22:26] Original URI: /favicon.ico
+[06/13/2011 21:22:26] Mod URI: /favicon.ico
+[06/13/2011 21:22:26] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:22:26] Original URI: /404
+[06/13/2011 21:22:26] Mod URI: /404
+[06/13/2011 21:22:26] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:22:26] 404.class.php
+[06/13/2011 21:22:26] Template: 404
+[06/13/2011 21:22:26] Page Args: 
+[06/13/2011 21:22:26] Array
+(
+)
+
+[06/13/2011 21:22:35] Original URI: /admin/mapeditor
+[06/13/2011 21:22:35] Mod URI: /admin/mapeditor
+[06/13/2011 21:22:35] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:22:35] admin.class.php
+[06/13/2011 21:22:35] Template: admin-mapeditor
+[06/13/2011 21:22:35] Page Args: 
+[06/13/2011 21:22:35] Array
+(
+)
+
+[06/13/2011 21:22:36] Original URI: /favicon.ico
+[06/13/2011 21:22:36] Mod URI: /favicon.ico
+[06/13/2011 21:22:36] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:22:36] Original URI: /404
+[06/13/2011 21:22:36] Mod URI: /404
+[06/13/2011 21:22:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:22:36] 404.class.php
+[06/13/2011 21:22:36] Template: 404
+[06/13/2011 21:22:36] Page Args: 
+[06/13/2011 21:22:36] Array
+(
+)
+
+[06/13/2011 21:23:05] Original URI: /admin/mapeditor
+[06/13/2011 21:23:05] Mod URI: /admin/mapeditor
+[06/13/2011 21:23:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:23:05] admin.class.php
+[06/13/2011 21:23:05] Template: admin-mapeditor
+[06/13/2011 21:23:05] Page Args: 
+[06/13/2011 21:23:05] Array
+(
+)
+
+[06/13/2011 21:23:05] Original URI: /favicon.ico
+[06/13/2011 21:23:05] Mod URI: /favicon.ico
+[06/13/2011 21:23:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:23:05] Original URI: /404
+[06/13/2011 21:23:05] Mod URI: /404
+[06/13/2011 21:23:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:23:05] 404.class.php
+[06/13/2011 21:23:05] Template: 404
+[06/13/2011 21:23:05] Page Args: 
+[06/13/2011 21:23:05] Array
+(
+)
+
+[06/13/2011 21:23:26] Original URI: /admin/mapeditor
+[06/13/2011 21:23:26] Mod URI: /admin/mapeditor
+[06/13/2011 21:23:26] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:23:26] admin.class.php
+[06/13/2011 21:23:26] Template: admin-mapeditor
+[06/13/2011 21:23:26] Page Args: 
+[06/13/2011 21:23:26] Array
+(
+)
+
+[06/13/2011 21:23:26] Original URI: /favicon.ico
+[06/13/2011 21:23:26] Mod URI: /favicon.ico
+[06/13/2011 21:23:26] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:23:26] Original URI: /404
+[06/13/2011 21:23:26] Mod URI: /404
+[06/13/2011 21:23:26] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:23:26] 404.class.php
+[06/13/2011 21:23:26] Template: 404
+[06/13/2011 21:23:26] Page Args: 
+[06/13/2011 21:23:26] Array
+(
+)
+
+[06/13/2011 21:23:37] Original URI: /admin/mapeditor
+[06/13/2011 21:23:37] Mod URI: /admin/mapeditor
+[06/13/2011 21:23:37] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:23:37] admin.class.php
+[06/13/2011 21:23:37] Template: admin-mapeditor
+[06/13/2011 21:23:37] Page Args: 
+[06/13/2011 21:23:37] Array
+(
+)
+
+[06/13/2011 21:23:37] Original URI: /favicon.ico
+[06/13/2011 21:23:38] Mod URI: /favicon.ico
+[06/13/2011 21:23:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:23:38] Original URI: /404
+[06/13/2011 21:23:38] Mod URI: /404
+[06/13/2011 21:23:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:23:38] 404.class.php
+[06/13/2011 21:23:38] Template: 404
+[06/13/2011 21:23:38] Page Args: 
+[06/13/2011 21:23:38] Array
+(
+)
+
+[06/13/2011 21:23:50] Original URI: /admin/mapeditor
+[06/13/2011 21:23:50] Mod URI: /admin/mapeditor
+[06/13/2011 21:23:50] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:23:50] admin.class.php
+[06/13/2011 21:23:50] Template: admin-mapeditor
+[06/13/2011 21:23:50] Page Args: 
+[06/13/2011 21:23:50] Array
+(
+)
+
+[06/13/2011 21:23:51] Original URI: /favicon.ico
+[06/13/2011 21:23:51] Mod URI: /favicon.ico
+[06/13/2011 21:23:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:23:51] Original URI: /404
+[06/13/2011 21:23:51] Mod URI: /404
+[06/13/2011 21:23:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:23:51] 404.class.php
+[06/13/2011 21:23:51] Template: 404
+[06/13/2011 21:23:51] Page Args: 
+[06/13/2011 21:23:51] Array
+(
+)
+
+[06/13/2011 21:24:21] Original URI: /admin/mapeditor
+[06/13/2011 21:24:21] Mod URI: /admin/mapeditor
+[06/13/2011 21:24:21] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:24:21] admin.class.php
+[06/13/2011 21:24:21] Template: admin-mapeditor
+[06/13/2011 21:24:21] Page Args: 
+[06/13/2011 21:24:21] Array
+(
+)
+
+[06/13/2011 21:24:22] Original URI: /favicon.ico
+[06/13/2011 21:24:22] Mod URI: /favicon.ico
+[06/13/2011 21:24:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:24:22] Original URI: /404
+[06/13/2011 21:24:22] Mod URI: /404
+[06/13/2011 21:24:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:24:22] 404.class.php
+[06/13/2011 21:24:22] Template: 404
+[06/13/2011 21:24:22] Page Args: 
+[06/13/2011 21:24:22] Array
+(
+)
+
+[06/13/2011 21:24:32] Original URI: /admin/mapeditor
+[06/13/2011 21:24:32] Mod URI: /admin/mapeditor
+[06/13/2011 21:24:32] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:24:32] admin.class.php
+[06/13/2011 21:24:32] Template: admin-mapeditor
+[06/13/2011 21:24:32] Page Args: 
+[06/13/2011 21:24:32] Array
+(
+)
+
+[06/13/2011 21:24:33] Original URI: /favicon.ico
+[06/13/2011 21:24:33] Mod URI: /favicon.ico
+[06/13/2011 21:24:33] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:24:33] Original URI: /404
+[06/13/2011 21:24:33] Mod URI: /404
+[06/13/2011 21:24:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:24:33] 404.class.php
+[06/13/2011 21:24:33] Template: 404
+[06/13/2011 21:24:33] Page Args: 
+[06/13/2011 21:24:33] Array
+(
+)
+
+[06/13/2011 21:24:47] Original URI: /admin/mapeditor
+[06/13/2011 21:24:47] Mod URI: /admin/mapeditor
+[06/13/2011 21:24:47] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:24:47] admin.class.php
+[06/13/2011 21:24:47] Template: admin-mapeditor
+[06/13/2011 21:24:47] Page Args: 
+[06/13/2011 21:24:47] Array
+(
+)
+
+[06/13/2011 21:24:48] Original URI: /favicon.ico
+[06/13/2011 21:24:48] Mod URI: /favicon.ico
+[06/13/2011 21:24:48] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:24:48] Original URI: /404
+[06/13/2011 21:24:48] Mod URI: /404
+[06/13/2011 21:24:48] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:24:48] 404.class.php
+[06/13/2011 21:24:48] Template: 404
+[06/13/2011 21:24:48] Page Args: 
+[06/13/2011 21:24:48] Array
+(
+)
+
+[06/13/2011 21:25:04] Original URI: /admin/mapeditor
+[06/13/2011 21:25:04] Mod URI: /admin/mapeditor
+[06/13/2011 21:25:04] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:25:04] admin.class.php
+[06/13/2011 21:25:04] Template: admin-mapeditor
+[06/13/2011 21:25:04] Page Args: 
+[06/13/2011 21:25:04] Array
+(
+)
+
+[06/13/2011 21:25:04] Original URI: /favicon.ico
+[06/13/2011 21:25:04] Mod URI: /favicon.ico
+[06/13/2011 21:25:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:25:04] Original URI: /404
+[06/13/2011 21:25:04] Mod URI: /404
+[06/13/2011 21:25:04] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:25:04] 404.class.php
+[06/13/2011 21:25:04] Template: 404
+[06/13/2011 21:25:04] Page Args: 
+[06/13/2011 21:25:04] Array
+(
+)
+
+[06/13/2011 21:25:17] Original URI: /admin/mapeditor
+[06/13/2011 21:25:17] Mod URI: /admin/mapeditor
+[06/13/2011 21:25:17] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:25:17] admin.class.php
+[06/13/2011 21:25:17] Template: admin-mapeditor
+[06/13/2011 21:25:17] Page Args: 
+[06/13/2011 21:25:17] Array
+(
+)
+
+[06/13/2011 21:25:17] Original URI: /favicon.ico
+[06/13/2011 21:25:17] Mod URI: /favicon.ico
+[06/13/2011 21:25:17] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:25:17] Original URI: /404
+[06/13/2011 21:25:17] Mod URI: /404
+[06/13/2011 21:25:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:25:17] 404.class.php
+[06/13/2011 21:25:17] Template: 404
+[06/13/2011 21:25:17] Page Args: 
+[06/13/2011 21:25:17] Array
+(
+)
+
+[06/13/2011 21:25:23] Original URI: /admin/mapeditor
+[06/13/2011 21:25:23] Mod URI: /admin/mapeditor
+[06/13/2011 21:25:23] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:25:23] admin.class.php
+[06/13/2011 21:25:23] Template: admin-mapeditor
+[06/13/2011 21:25:23] Page Args: 
+[06/13/2011 21:25:23] Array
+(
+)
+
+[06/13/2011 21:25:24] Original URI: /favicon.ico
+[06/13/2011 21:25:24] Mod URI: /favicon.ico
+[06/13/2011 21:25:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:25:24] Original URI: /404
+[06/13/2011 21:25:24] Mod URI: /404
+[06/13/2011 21:25:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:25:24] 404.class.php
+[06/13/2011 21:25:24] Template: 404
+[06/13/2011 21:25:24] Page Args: 
+[06/13/2011 21:25:24] Array
+(
+)
+
+[06/13/2011 21:25:38] Original URI: /admin/mapeditor
+[06/13/2011 21:25:38] Mod URI: /admin/mapeditor
+[06/13/2011 21:25:38] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:25:38] admin.class.php
+[06/13/2011 21:25:38] Template: admin-mapeditor
+[06/13/2011 21:25:38] Page Args: 
+[06/13/2011 21:25:38] Array
+(
+)
+
+[06/13/2011 21:25:39] Original URI: /favicon.ico
+[06/13/2011 21:25:39] Mod URI: /favicon.ico
+[06/13/2011 21:25:39] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:25:39] Original URI: /404
+[06/13/2011 21:25:39] Mod URI: /404
+[06/13/2011 21:25:39] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:25:39] 404.class.php
+[06/13/2011 21:25:39] Template: 404
+[06/13/2011 21:25:39] Page Args: 
+[06/13/2011 21:25:39] Array
+(
+)
+
+[06/13/2011 21:26:03] Original URI: /admin/mapeditor
+[06/13/2011 21:26:03] Mod URI: /admin/mapeditor
+[06/13/2011 21:26:03] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:26:03] admin.class.php
+[06/13/2011 21:26:03] Template: admin-mapeditor
+[06/13/2011 21:26:03] Page Args: 
+[06/13/2011 21:26:03] Array
+(
+)
+
+[06/13/2011 21:26:03] Original URI: /favicon.ico
+[06/13/2011 21:26:03] Mod URI: /favicon.ico
+[06/13/2011 21:26:03] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:26:03] Original URI: /admin/mapeditor
+[06/13/2011 21:26:03] Mod URI: /admin/mapeditor
+[06/13/2011 21:26:03] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:26:03] admin.class.php
+[06/13/2011 21:26:03] Template: admin-mapeditor
+[06/13/2011 21:26:03] Page Args: 
+[06/13/2011 21:26:03] Array
+(
+)
+
+[06/13/2011 21:26:03] Original URI: /404
+[06/13/2011 21:26:03] Mod URI: /404
+[06/13/2011 21:26:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:26:03] 404.class.php
+[06/13/2011 21:26:03] Template: 404
+[06/13/2011 21:26:03] Page Args: 
+[06/13/2011 21:26:03] Array
+(
+)
+
+[06/13/2011 21:26:03] Original URI: /favicon.ico
+[06/13/2011 21:26:03] Mod URI: /favicon.ico
+[06/13/2011 21:26:03] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:26:03] Original URI: /404
+[06/13/2011 21:26:03] Mod URI: /404
+[06/13/2011 21:26:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:26:03] 404.class.php
+[06/13/2011 21:26:04] Template: 404
+[06/13/2011 21:26:04] Page Args: 
+[06/13/2011 21:26:04] Array
+(
+)
+
+[06/13/2011 21:27:56] Original URI: /admin
+[06/13/2011 21:27:56] Mod URI: /admin
+[06/13/2011 21:27:56] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 21:27:56] admin.class.php
+[06/13/2011 21:27:56] Template: admin
+[06/13/2011 21:27:56] Page Args: 
+[06/13/2011 21:27:56] Array
+(
+)
+
+[06/13/2011 21:27:56] Original URI: /favicon.ico
+[06/13/2011 21:27:56] Mod URI: /favicon.ico
+[06/13/2011 21:27:56] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:27:56] Original URI: /404
+[06/13/2011 21:27:56] Mod URI: /404
+[06/13/2011 21:27:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:27:56] 404.class.php
+[06/13/2011 21:27:56] Template: 404
+[06/13/2011 21:27:56] Page Args: 
+[06/13/2011 21:27:56] Array
+(
+)
+
+[06/13/2011 21:27:58] Original URI: /admin/mapeditor
+[06/13/2011 21:27:58] Mod URI: /admin/mapeditor
+[06/13/2011 21:27:58] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:27:58] admin.class.php
+[06/13/2011 21:27:58] Template: admin-mapeditor
+[06/13/2011 21:27:58] Page Args: 
+[06/13/2011 21:27:58] Array
+(
+)
+
+[06/13/2011 21:27:58] Original URI: /favicon.ico
+[06/13/2011 21:27:58] Mod URI: /favicon.ico
+[06/13/2011 21:27:58] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:27:58] Original URI: /404
+[06/13/2011 21:27:58] Mod URI: /404
+[06/13/2011 21:27:58] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:27:58] 404.class.php
+[06/13/2011 21:27:58] Template: 404
+[06/13/2011 21:27:58] Page Args: 
+[06/13/2011 21:27:58] Array
+(
+)
+
+[06/13/2011 21:28:22] Original URI: /contact-us
+[06/13/2011 21:28:22] Mod URI: /contact-us
+[06/13/2011 21:28:22] Array
+(
+    [0] => 
+    [1] => contact-us
+)
+
+[06/13/2011 21:28:22] contact-us.class.php
+[06/13/2011 21:28:22] Template: contact-us
+[06/13/2011 21:28:22] Page Args: 
+[06/13/2011 21:28:22] Array
+(
+)
+
+[06/13/2011 21:28:22] Original URI: /favicon.ico
+[06/13/2011 21:28:22] Mod URI: /favicon.ico
+[06/13/2011 21:28:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:28:22] Original URI: /404
+[06/13/2011 21:28:22] Mod URI: /404
+[06/13/2011 21:28:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:28:22] 404.class.php
+[06/13/2011 21:28:22] Template: 404
+[06/13/2011 21:28:22] Page Args: 
+[06/13/2011 21:28:22] Array
+(
+)
+
+[06/13/2011 21:28:24] Original URI: /admin
+[06/13/2011 21:28:24] Mod URI: /admin
+[06/13/2011 21:28:24] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 21:28:24] admin.class.php
+[06/13/2011 21:28:24] Template: admin
+[06/13/2011 21:28:24] Page Args: 
+[06/13/2011 21:28:24] Array
+(
+)
+
+[06/13/2011 21:28:24] Original URI: /favicon.ico
+[06/13/2011 21:28:24] Mod URI: /favicon.ico
+[06/13/2011 21:28:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:28:25] Original URI: /404
+[06/13/2011 21:28:25] Mod URI: /404
+[06/13/2011 21:28:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:28:25] 404.class.php
+[06/13/2011 21:28:25] Template: 404
+[06/13/2011 21:28:25] Page Args: 
+[06/13/2011 21:28:25] Array
+(
+)
+
+[06/13/2011 21:28:28] Original URI: /admin/mapeditor
+[06/13/2011 21:28:28] Mod URI: /admin/mapeditor
+[06/13/2011 21:28:28] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:28:28] admin.class.php
+[06/13/2011 21:28:28] Template: admin-mapeditor
+[06/13/2011 21:28:28] Page Args: 
+[06/13/2011 21:28:28] Array
+(
+)
+
+[06/13/2011 21:28:29] Original URI: /favicon.ico
+[06/13/2011 21:28:29] Mod URI: /favicon.ico
+[06/13/2011 21:28:29] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:28:29] Original URI: /404
+[06/13/2011 21:28:29] Mod URI: /404
+[06/13/2011 21:28:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:28:29] 404.class.php
+[06/13/2011 21:28:29] Template: 404
+[06/13/2011 21:28:29] Page Args: 
+[06/13/2011 21:28:29] Array
+(
+)
+
+[06/13/2011 21:28:51] Original URI: /admin/mapeditor
+[06/13/2011 21:28:51] Mod URI: /admin/mapeditor
+[06/13/2011 21:28:51] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:28:51] admin.class.php
+[06/13/2011 21:28:51] Template: admin-mapeditor
+[06/13/2011 21:28:51] Page Args: 
+[06/13/2011 21:28:51] Array
+(
+)
+
+[06/13/2011 21:28:52] Original URI: /favicon.ico
+[06/13/2011 21:28:52] Mod URI: /favicon.ico
+[06/13/2011 21:28:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:28:52] Original URI: /404
+[06/13/2011 21:28:52] Mod URI: /404
+[06/13/2011 21:28:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:28:52] 404.class.php
+[06/13/2011 21:28:52] Template: 404
+[06/13/2011 21:28:52] Page Args: 
+[06/13/2011 21:28:52] Array
+(
+)
+
+[06/13/2011 21:29:28] Original URI: /admin/mapeditor
+[06/13/2011 21:29:28] Mod URI: /admin/mapeditor
+[06/13/2011 21:29:28] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:29:28] admin.class.php
+[06/13/2011 21:29:28] Template: admin-mapeditor
+[06/13/2011 21:29:28] Page Args: 
+[06/13/2011 21:29:28] Array
+(
+)
+
+[06/13/2011 21:29:28] Original URI: /favicon.ico
+[06/13/2011 21:29:28] Mod URI: /favicon.ico
+[06/13/2011 21:29:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:29] Original URI: /404
+[06/13/2011 21:29:29] Mod URI: /404
+[06/13/2011 21:29:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:29] 404.class.php
+[06/13/2011 21:29:29] Template: 404
+[06/13/2011 21:29:29] Page Args: 
+[06/13/2011 21:29:29] Array
+(
+)
+
+[06/13/2011 21:29:32] Original URI: 
+[06/13/2011 21:29:32] Mod URI: 
+[06/13/2011 21:29:32] Template: index
+[06/13/2011 21:29:32] Page Args: 
+[06/13/2011 21:29:32] 
+[06/13/2011 21:29:32] Original URI: /favicon.ico
+[06/13/2011 21:29:32] Mod URI: /favicon.ico
+[06/13/2011 21:29:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:32] Original URI: /404
+[06/13/2011 21:29:32] Mod URI: /404
+[06/13/2011 21:29:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:32] 404.class.php
+[06/13/2011 21:29:32] Template: 404
+[06/13/2011 21:29:32] Page Args: 
+[06/13/2011 21:29:32] Array
+(
+)
+
+[06/13/2011 21:29:34] Original URI: /contact-us
+[06/13/2011 21:29:34] Mod URI: /contact-us
+[06/13/2011 21:29:34] Array
+(
+    [0] => 
+    [1] => contact-us
+)
+
+[06/13/2011 21:29:34] contact-us.class.php
+[06/13/2011 21:29:34] Template: contact-us
+[06/13/2011 21:29:34] Page Args: 
+[06/13/2011 21:29:34] Array
+(
+)
+
+[06/13/2011 21:29:34] Original URI: /favicon.ico
+[06/13/2011 21:29:34] Mod URI: /favicon.ico
+[06/13/2011 21:29:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:34] Original URI: /404
+[06/13/2011 21:29:34] Mod URI: /404
+[06/13/2011 21:29:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:34] 404.class.php
+[06/13/2011 21:29:34] Template: 404
+[06/13/2011 21:29:34] Page Args: 
+[06/13/2011 21:29:34] Array
+(
+)
+
+[06/13/2011 21:29:37] Original URI: /admin
+[06/13/2011 21:29:37] Mod URI: /admin
+[06/13/2011 21:29:37] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 21:29:37] admin.class.php
+[06/13/2011 21:29:37] Template: admin
+[06/13/2011 21:29:37] Page Args: 
+[06/13/2011 21:29:37] Array
+(
+)
+
+[06/13/2011 21:29:37] Original URI: /favicon.ico
+[06/13/2011 21:29:37] Mod URI: /favicon.ico
+[06/13/2011 21:29:37] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:37] Original URI: /404
+[06/13/2011 21:29:37] Mod URI: /404
+[06/13/2011 21:29:37] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:37] 404.class.php
+[06/13/2011 21:29:37] Template: 404
+[06/13/2011 21:29:37] Page Args: 
+[06/13/2011 21:29:37] Array
+(
+)
+
+[06/13/2011 21:29:40] Original URI: /game
+[06/13/2011 21:29:40] Mod URI: /game
+[06/13/2011 21:29:40] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/13/2011 21:29:40] game.class.php
+[06/13/2011 21:29:40] Template: game
+[06/13/2011 21:29:40] Page Args: 
+[06/13/2011 21:29:40] Array
+(
+)
+
+[06/13/2011 21:29:40] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/13/2011 21:29:40] Original URI: /favicon.ico
+[06/13/2011 21:29:40] Mod URI: /favicon.ico
+[06/13/2011 21:29:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:40] Original URI: /404
+[06/13/2011 21:29:40] Mod URI: /404
+[06/13/2011 21:29:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:40] 404.class.php
+[06/13/2011 21:29:40] Template: 404
+[06/13/2011 21:29:40] Page Args: 
+[06/13/2011 21:29:40] Array
+(
+)
+
+[06/13/2011 21:29:53] Original URI: /game
+[06/13/2011 21:29:53] Mod URI: /game
+[06/13/2011 21:29:53] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/13/2011 21:29:53] game.class.php
+[06/13/2011 21:29:53] Template: game
+[06/13/2011 21:29:53] Page Args: 
+[06/13/2011 21:29:53] Array
+(
+)
+
+[06/13/2011 21:29:53] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/13/2011 21:29:53] Original URI: /favicon.ico
+[06/13/2011 21:29:53] Mod URI: /favicon.ico
+[06/13/2011 21:29:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:53] Original URI: /404
+[06/13/2011 21:29:53] Mod URI: /404
+[06/13/2011 21:29:53] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:53] 404.class.php
+[06/13/2011 21:29:53] Template: 404
+[06/13/2011 21:29:53] Page Args: 
+[06/13/2011 21:29:53] Array
+(
+)
+
+[06/13/2011 21:29:55] Original URI: /admin
+[06/13/2011 21:29:55] Mod URI: /admin
+[06/13/2011 21:29:55] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/13/2011 21:29:55] admin.class.php
+[06/13/2011 21:29:55] Template: admin
+[06/13/2011 21:29:55] Page Args: 
+[06/13/2011 21:29:55] Array
+(
+)
+
+[06/13/2011 21:29:55] Original URI: /favicon.ico
+[06/13/2011 21:29:55] Mod URI: /favicon.ico
+[06/13/2011 21:29:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:55] Original URI: /404
+[06/13/2011 21:29:55] Mod URI: /404
+[06/13/2011 21:29:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:55] 404.class.php
+[06/13/2011 21:29:55] Template: 404
+[06/13/2011 21:29:55] Page Args: 
+[06/13/2011 21:29:55] Array
+(
+)
+
+[06/13/2011 21:29:57] Original URI: /admin/mapeditor
+[06/13/2011 21:29:57] Mod URI: /admin/mapeditor
+[06/13/2011 21:29:57] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:29:57] admin.class.php
+[06/13/2011 21:29:57] Template: admin-mapeditor
+[06/13/2011 21:29:57] Page Args: 
+[06/13/2011 21:29:57] Array
+(
+)
+
+[06/13/2011 21:29:57] Original URI: /favicon.ico
+[06/13/2011 21:29:57] Mod URI: /favicon.ico
+[06/13/2011 21:29:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:29:57] Original URI: /404
+[06/13/2011 21:29:57] Mod URI: /404
+[06/13/2011 21:29:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:29:57] 404.class.php
+[06/13/2011 21:29:57] Template: 404
+[06/13/2011 21:29:57] Page Args: 
+[06/13/2011 21:29:57] Array
+(
+)
+
+[06/13/2011 21:33:54] Original URI: /admin/mapeditor
+[06/13/2011 21:33:54] Mod URI: /admin/mapeditor
+[06/13/2011 21:33:54] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:33:54] admin.class.php
+[06/13/2011 21:33:54] Template: admin-mapeditor
+[06/13/2011 21:33:54] Page Args: 
+[06/13/2011 21:33:54] Array
+(
+)
+
+[06/13/2011 21:33:55] Original URI: /favicon.ico
+[06/13/2011 21:33:55] Mod URI: /favicon.ico
+[06/13/2011 21:33:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:33:55] Original URI: /404
+[06/13/2011 21:33:55] Mod URI: /404
+[06/13/2011 21:33:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:33:55] 404.class.php
+[06/13/2011 21:33:55] Template: 404
+[06/13/2011 21:33:55] Page Args: 
+[06/13/2011 21:33:55] Array
+(
+)
+
+[06/13/2011 21:34:45] Original URI: /admin/mapeditor
+[06/13/2011 21:34:45] Mod URI: /admin/mapeditor
+[06/13/2011 21:34:45] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:34:45] admin.class.php
+[06/13/2011 21:34:45] Template: admin-mapeditor
+[06/13/2011 21:34:45] Page Args: 
+[06/13/2011 21:34:45] Array
+(
+)
+
+[06/13/2011 21:34:46] Original URI: /favicon.ico
+[06/13/2011 21:34:46] Mod URI: /favicon.ico
+[06/13/2011 21:34:46] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:34:46] Original URI: /404
+[06/13/2011 21:34:46] Mod URI: /404
+[06/13/2011 21:34:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:34:46] 404.class.php
+[06/13/2011 21:34:46] Template: 404
+[06/13/2011 21:34:46] Page Args: 
+[06/13/2011 21:34:46] Array
+(
+)
+
+[06/13/2011 21:35:24] Original URI: /admin/mapeditor
+[06/13/2011 21:35:24] Mod URI: /admin/mapeditor
+[06/13/2011 21:35:24] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:35:24] admin.class.php
+[06/13/2011 21:35:24] Template: admin-mapeditor
+[06/13/2011 21:35:24] Page Args: 
+[06/13/2011 21:35:24] Array
+(
+)
+
+[06/13/2011 21:35:25] Original URI: /favicon.ico
+[06/13/2011 21:35:25] Mod URI: /favicon.ico
+[06/13/2011 21:35:25] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:35:25] Original URI: /404
+[06/13/2011 21:35:25] Mod URI: /404
+[06/13/2011 21:35:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:35:25] 404.class.php
+[06/13/2011 21:35:25] Template: 404
+[06/13/2011 21:35:25] Page Args: 
+[06/13/2011 21:35:25] Array
+(
+)
+
+[06/13/2011 21:35:41] Original URI: /admin/mapeditor
+[06/13/2011 21:35:41] Mod URI: /admin/mapeditor
+[06/13/2011 21:35:41] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:35:41] admin.class.php
+[06/13/2011 21:35:41] Template: admin-mapeditor
+[06/13/2011 21:35:41] Page Args: 
+[06/13/2011 21:35:41] Array
+(
+)
+
+[06/13/2011 21:35:42] Original URI: /favicon.ico
+[06/13/2011 21:35:42] Mod URI: /favicon.ico
+[06/13/2011 21:35:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:35:42] Original URI: /404
+[06/13/2011 21:35:42] Mod URI: /404
+[06/13/2011 21:35:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:35:42] 404.class.php
+[06/13/2011 21:35:42] Template: 404
+[06/13/2011 21:35:42] Page Args: 
+[06/13/2011 21:35:42] Array
+(
+)
+
+[06/13/2011 21:35:53] Original URI: /admin/mapeditor
+[06/13/2011 21:35:53] Mod URI: /admin/mapeditor
+[06/13/2011 21:35:53] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:35:53] admin.class.php
+[06/13/2011 21:35:53] Template: admin-mapeditor
+[06/13/2011 21:35:53] Page Args: 
+[06/13/2011 21:35:53] Array
+(
+)
+
+[06/13/2011 21:35:53] Original URI: /favicon.ico
+[06/13/2011 21:35:53] Mod URI: /favicon.ico
+[06/13/2011 21:35:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:35:53] Original URI: /404
+[06/13/2011 21:35:53] Mod URI: /404
+[06/13/2011 21:35:53] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:35:53] 404.class.php
+[06/13/2011 21:35:53] Template: 404
+[06/13/2011 21:35:53] Page Args: 
+[06/13/2011 21:35:53] Array
+(
+)
+
+[06/13/2011 21:36:14] Original URI: /admin/mapeditor
+[06/13/2011 21:36:14] Mod URI: /admin/mapeditor
+[06/13/2011 21:36:14] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:36:14] admin.class.php
+[06/13/2011 21:36:14] Template: admin-mapeditor
+[06/13/2011 21:36:14] Page Args: 
+[06/13/2011 21:36:14] Array
+(
+)
+
+[06/13/2011 21:36:14] Original URI: /favicon.ico
+[06/13/2011 21:36:14] Mod URI: /favicon.ico
+[06/13/2011 21:36:14] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:36:14] Original URI: /404
+[06/13/2011 21:36:14] Mod URI: /404
+[06/13/2011 21:36:14] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:36:14] 404.class.php
+[06/13/2011 21:36:14] Template: 404
+[06/13/2011 21:36:14] Page Args: 
+[06/13/2011 21:36:14] Array
+(
+)
+
+[06/13/2011 21:36:33] Original URI: /admin/mapeditor
+[06/13/2011 21:36:33] Mod URI: /admin/mapeditor
+[06/13/2011 21:36:33] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:36:33] admin.class.php
+[06/13/2011 21:36:33] Template: admin-mapeditor
+[06/13/2011 21:36:33] Page Args: 
+[06/13/2011 21:36:33] Array
+(
+)
+
+[06/13/2011 21:36:33] Original URI: /favicon.ico
+[06/13/2011 21:36:33] Mod URI: /favicon.ico
+[06/13/2011 21:36:33] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:36:33] Original URI: /404
+[06/13/2011 21:36:33] Mod URI: /404
+[06/13/2011 21:36:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:36:33] 404.class.php
+[06/13/2011 21:36:33] Template: 404
+[06/13/2011 21:36:33] Page Args: 
+[06/13/2011 21:36:33] Array
+(
+)
+
+[06/13/2011 21:37:19] Original URI: /admin/mapeditor
+[06/13/2011 21:37:19] Mod URI: /admin/mapeditor
+[06/13/2011 21:37:19] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:37:19] admin.class.php
+[06/13/2011 21:37:19] Template: admin-mapeditor
+[06/13/2011 21:37:19] Page Args: 
+[06/13/2011 21:37:19] Array
+(
+)
+
+[06/13/2011 21:37:20] Original URI: /favicon.ico
+[06/13/2011 21:37:20] Mod URI: /favicon.ico
+[06/13/2011 21:37:20] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:37:20] Original URI: /404
+[06/13/2011 21:37:20] Mod URI: /404
+[06/13/2011 21:37:20] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:37:20] 404.class.php
+[06/13/2011 21:37:20] Template: 404
+[06/13/2011 21:37:20] Page Args: 
+[06/13/2011 21:37:20] Array
+(
+)
+
+[06/13/2011 21:37:21] Original URI: /admin/mapeditor
+[06/13/2011 21:37:21] Mod URI: /admin/mapeditor
+[06/13/2011 21:37:21] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:37:21] admin.class.php
+[06/13/2011 21:37:21] Template: admin-mapeditor
+[06/13/2011 21:37:21] Page Args: 
+[06/13/2011 21:37:21] Array
+(
+)
+
+[06/13/2011 21:37:21] Original URI: /favicon.ico
+[06/13/2011 21:37:21] Mod URI: /favicon.ico
+[06/13/2011 21:37:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:37:21] Original URI: /404
+[06/13/2011 21:37:21] Mod URI: /404
+[06/13/2011 21:37:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:37:21] 404.class.php
+[06/13/2011 21:37:21] Template: 404
+[06/13/2011 21:37:21] Page Args: 
+[06/13/2011 21:37:21] Array
+(
+)
+
+[06/13/2011 21:37:57] Original URI: /admin/mapeditor
+[06/13/2011 21:37:57] Mod URI: /admin/mapeditor
+[06/13/2011 21:37:57] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:37:57] admin.class.php
+[06/13/2011 21:37:57] Template: admin-mapeditor
+[06/13/2011 21:37:57] Page Args: 
+[06/13/2011 21:37:57] Array
+(
+)
+
+[06/13/2011 21:37:57] Original URI: /favicon.ico
+[06/13/2011 21:37:57] Mod URI: /favicon.ico
+[06/13/2011 21:37:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:37:57] Original URI: /404
+[06/13/2011 21:37:57] Mod URI: /404
+[06/13/2011 21:37:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:37:57] 404.class.php
+[06/13/2011 21:37:57] Template: 404
+[06/13/2011 21:37:57] Page Args: 
+[06/13/2011 21:37:57] Array
+(
+)
+
+[06/13/2011 21:38:11] Original URI: /admin/mapeditor
+[06/13/2011 21:38:11] Mod URI: /admin/mapeditor
+[06/13/2011 21:38:11] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:38:11] admin.class.php
+[06/13/2011 21:38:11] Template: admin-mapeditor
+[06/13/2011 21:38:11] Page Args: 
+[06/13/2011 21:38:11] Array
+(
+)
+
+[06/13/2011 21:38:11] Original URI: /favicon.ico
+[06/13/2011 21:38:11] Mod URI: /favicon.ico
+[06/13/2011 21:38:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:38:12] Original URI: /404
+[06/13/2011 21:38:12] Mod URI: /404
+[06/13/2011 21:38:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:38:12] 404.class.php
+[06/13/2011 21:38:12] Template: 404
+[06/13/2011 21:38:12] Page Args: 
+[06/13/2011 21:38:12] Array
+(
+)
+
+[06/13/2011 21:40:02] Original URI: /admin/mapeditor
+[06/13/2011 21:40:02] Mod URI: /admin/mapeditor
+[06/13/2011 21:40:02] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:40:02] admin.class.php
+[06/13/2011 21:40:02] Template: admin-mapeditor
+[06/13/2011 21:40:02] Page Args: 
+[06/13/2011 21:40:02] Array
+(
+)
+
+[06/13/2011 21:40:02] Original URI: /favicon.ico
+[06/13/2011 21:40:02] Mod URI: /favicon.ico
+[06/13/2011 21:40:02] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:40:02] Original URI: /404
+[06/13/2011 21:40:02] Mod URI: /404
+[06/13/2011 21:40:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:40:02] 404.class.php
+[06/13/2011 21:40:02] Template: 404
+[06/13/2011 21:40:02] Page Args: 
+[06/13/2011 21:40:02] Array
+(
+)
+
+[06/13/2011 21:40:21] Original URI: /admin/mapeditor
+[06/13/2011 21:40:21] Mod URI: /admin/mapeditor
+[06/13/2011 21:40:21] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:40:21] admin.class.php
+[06/13/2011 21:40:21] Template: admin-mapeditor
+[06/13/2011 21:40:21] Page Args: 
+[06/13/2011 21:40:21] Array
+(
+)
+
+[06/13/2011 21:40:21] Original URI: /favicon.ico
+[06/13/2011 21:40:21] Mod URI: /favicon.ico
+[06/13/2011 21:40:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:40:21] Original URI: /404
+[06/13/2011 21:40:21] Mod URI: /404
+[06/13/2011 21:40:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:40:21] 404.class.php
+[06/13/2011 21:40:21] Template: 404
+[06/13/2011 21:40:21] Page Args: 
+[06/13/2011 21:40:21] Array
+(
+)
+
+[06/13/2011 21:40:44] Original URI: /admin/mapeditor
+[06/13/2011 21:40:44] Mod URI: /admin/mapeditor
+[06/13/2011 21:40:44] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:40:44] admin.class.php
+[06/13/2011 21:40:44] Template: admin-mapeditor
+[06/13/2011 21:40:44] Page Args: 
+[06/13/2011 21:40:44] Array
+(
+)
+
+[06/13/2011 21:40:44] Original URI: /favicon.ico
+[06/13/2011 21:40:44] Mod URI: /favicon.ico
+[06/13/2011 21:40:44] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:40:44] Original URI: /404
+[06/13/2011 21:40:44] Mod URI: /404
+[06/13/2011 21:40:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:40:44] 404.class.php
+[06/13/2011 21:40:44] Template: 404
+[06/13/2011 21:40:44] Page Args: 
+[06/13/2011 21:40:44] Array
+(
+)
+
+[06/13/2011 21:41:03] Original URI: /admin/mapeditor
+[06/13/2011 21:41:03] Mod URI: /admin/mapeditor
+[06/13/2011 21:41:03] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:41:03] admin.class.php
+[06/13/2011 21:41:03] Template: admin-mapeditor
+[06/13/2011 21:41:03] Page Args: 
+[06/13/2011 21:41:03] Array
+(
+)
+
+[06/13/2011 21:41:04] Original URI: /favicon.ico
+[06/13/2011 21:41:04] Mod URI: /favicon.ico
+[06/13/2011 21:41:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:41:04] Original URI: /404
+[06/13/2011 21:41:04] Mod URI: /404
+[06/13/2011 21:41:04] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:41:04] 404.class.php
+[06/13/2011 21:41:04] Template: 404
+[06/13/2011 21:41:04] Page Args: 
+[06/13/2011 21:41:04] Array
+(
+)
+
+[06/13/2011 21:43:22] Original URI: /admin/mapeditor
+[06/13/2011 21:43:22] Mod URI: /admin/mapeditor
+[06/13/2011 21:43:22] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:43:22] admin.class.php
+[06/13/2011 21:43:22] Template: admin-mapeditor
+[06/13/2011 21:43:22] Page Args: 
+[06/13/2011 21:43:22] Array
+(
+)
+
+[06/13/2011 21:43:22] Original URI: /favicon.ico
+[06/13/2011 21:43:22] Mod URI: /favicon.ico
+[06/13/2011 21:43:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:43:22] Original URI: /404
+[06/13/2011 21:43:22] Mod URI: /404
+[06/13/2011 21:43:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:43:22] 404.class.php
+[06/13/2011 21:43:22] Template: 404
+[06/13/2011 21:43:22] Page Args: 
+[06/13/2011 21:43:22] Array
+(
+)
+
+[06/13/2011 21:44:20] Original URI: /admin/mapeditor
+[06/13/2011 21:44:20] Mod URI: /admin/mapeditor
+[06/13/2011 21:44:20] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:44:20] admin.class.php
+[06/13/2011 21:44:20] Template: admin-mapeditor
+[06/13/2011 21:44:20] Page Args: 
+[06/13/2011 21:44:20] Array
+(
+)
+
+[06/13/2011 21:44:20] Original URI: /favicon.ico
+[06/13/2011 21:44:20] Mod URI: /favicon.ico
+[06/13/2011 21:44:20] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:44:20] Original URI: /404
+[06/13/2011 21:44:20] Mod URI: /404
+[06/13/2011 21:44:20] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:44:20] 404.class.php
+[06/13/2011 21:44:20] Template: 404
+[06/13/2011 21:44:20] Page Args: 
+[06/13/2011 21:44:20] Array
+(
+)
+
+[06/13/2011 21:44:44] Original URI: /admin/mapeditor
+[06/13/2011 21:44:44] Mod URI: /admin/mapeditor
+[06/13/2011 21:44:44] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:44:44] admin.class.php
+[06/13/2011 21:44:44] Template: admin-mapeditor
+[06/13/2011 21:44:44] Page Args: 
+[06/13/2011 21:44:44] Array
+(
+)
+
+[06/13/2011 21:44:44] Original URI: 
+[06/13/2011 21:44:44] Mod URI: 
+[06/13/2011 21:44:44] Template: index
+[06/13/2011 21:44:44] Page Args: 
+[06/13/2011 21:44:44] 
+[06/13/2011 21:44:44] Original URI: /favicon.ico
+[06/13/2011 21:44:44] Mod URI: /favicon.ico
+[06/13/2011 21:44:44] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:44:44] Original URI: /404
+[06/13/2011 21:44:44] Mod URI: /404
+[06/13/2011 21:44:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:44:44] 404.class.php
+[06/13/2011 21:44:44] Template: 404
+[06/13/2011 21:44:44] Page Args: 
+[06/13/2011 21:44:44] Array
+(
+)
+
+[06/13/2011 21:44:48] Original URI: /admin/mapeditor
+[06/13/2011 21:44:48] Mod URI: /admin/mapeditor
+[06/13/2011 21:44:48] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:44:48] admin.class.php
+[06/13/2011 21:44:48] Template: admin-mapeditor
+[06/13/2011 21:44:48] Page Args: 
+[06/13/2011 21:44:48] Array
+(
+)
+
+[06/13/2011 21:44:48] Original URI: /favicon.ico
+[06/13/2011 21:44:48] Mod URI: /favicon.ico
+[06/13/2011 21:44:48] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:44:48] Original URI: /404
+[06/13/2011 21:44:48] Mod URI: /404
+[06/13/2011 21:44:48] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:44:48] 404.class.php
+[06/13/2011 21:44:48] Template: 404
+[06/13/2011 21:44:48] Page Args: 
+[06/13/2011 21:44:48] Array
+(
+)
+
+[06/13/2011 21:47:03] Original URI: /admin/mapeditor
+[06/13/2011 21:47:03] Mod URI: /admin/mapeditor
+[06/13/2011 21:47:03] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:47:03] admin.class.php
+[06/13/2011 21:47:03] Template: admin-mapeditor
+[06/13/2011 21:47:03] Page Args: 
+[06/13/2011 21:47:03] Array
+(
+)
+
+[06/13/2011 21:47:04] Original URI: /favicon.ico
+[06/13/2011 21:47:04] Mod URI: /favicon.ico
+[06/13/2011 21:47:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:47:04] Original URI: /404
+[06/13/2011 21:47:04] Mod URI: /404
+[06/13/2011 21:47:04] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:47:04] 404.class.php
+[06/13/2011 21:47:04] Template: 404
+[06/13/2011 21:47:04] Page Args: 
+[06/13/2011 21:47:04] Array
+(
+)
+
+[06/13/2011 21:47:05] Original URI: /admin/mapeditor
+[06/13/2011 21:47:05] Mod URI: /admin/mapeditor
+[06/13/2011 21:47:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:47:05] admin.class.php
+[06/13/2011 21:47:05] Template: admin-mapeditor
+[06/13/2011 21:47:05] Page Args: 
+[06/13/2011 21:47:05] Array
+(
+)
+
+[06/13/2011 21:47:06] Original URI: /favicon.ico
+[06/13/2011 21:47:06] Mod URI: /favicon.ico
+[06/13/2011 21:47:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:47:06] Original URI: /404
+[06/13/2011 21:47:06] Mod URI: /404
+[06/13/2011 21:47:06] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:47:06] 404.class.php
+[06/13/2011 21:47:06] Template: 404
+[06/13/2011 21:47:06] Page Args: 
+[06/13/2011 21:47:06] Array
+(
+)
+
+[06/13/2011 21:47:46] Original URI: /admin/mapeditor
+[06/13/2011 21:47:46] Mod URI: /admin/mapeditor
+[06/13/2011 21:47:46] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:47:46] admin.class.php
+[06/13/2011 21:47:46] Template: admin-mapeditor
+[06/13/2011 21:47:46] Page Args: 
+[06/13/2011 21:47:46] Array
+(
+)
+
+[06/13/2011 21:47:46] Original URI: /favicon.ico
+[06/13/2011 21:47:46] Mod URI: /favicon.ico
+[06/13/2011 21:47:46] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:47:46] Original URI: /404
+[06/13/2011 21:47:46] Mod URI: /404
+[06/13/2011 21:47:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:47:46] 404.class.php
+[06/13/2011 21:47:46] Template: 404
+[06/13/2011 21:47:46] Page Args: 
+[06/13/2011 21:47:46] Array
+(
+)
+
+[06/13/2011 21:47:49] Original URI: /admin/mapeditor
+[06/13/2011 21:47:49] Mod URI: /admin/mapeditor
+[06/13/2011 21:47:49] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:47:49] admin.class.php
+[06/13/2011 21:47:49] Template: admin-mapeditor
+[06/13/2011 21:47:49] Page Args: 
+[06/13/2011 21:47:49] Array
+(
+)
+
+[06/13/2011 21:47:49] Original URI: /favicon.ico
+[06/13/2011 21:47:49] Mod URI: /favicon.ico
+[06/13/2011 21:47:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:47:49] Original URI: /404
+[06/13/2011 21:47:49] Mod URI: /404
+[06/13/2011 21:47:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:47:49] 404.class.php
+[06/13/2011 21:47:49] Template: 404
+[06/13/2011 21:47:49] Page Args: 
+[06/13/2011 21:47:49] Array
+(
+)
+
+[06/13/2011 21:47:50] Original URI: /admin/mapeditor
+[06/13/2011 21:47:50] Mod URI: /admin/mapeditor
+[06/13/2011 21:47:50] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:47:50] admin.class.php
+[06/13/2011 21:47:50] Template: admin-mapeditor
+[06/13/2011 21:47:50] Page Args: 
+[06/13/2011 21:47:50] Array
+(
+)
+
+[06/13/2011 21:47:50] Original URI: /favicon.ico
+[06/13/2011 21:47:50] Mod URI: /favicon.ico
+[06/13/2011 21:47:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:47:50] Original URI: /404
+[06/13/2011 21:47:50] Mod URI: /404
+[06/13/2011 21:47:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:47:50] 404.class.php
+[06/13/2011 21:47:50] Template: 404
+[06/13/2011 21:47:50] Page Args: 
+[06/13/2011 21:47:50] Array
+(
+)
+
+[06/13/2011 21:48:04] Original URI: /admin/mapeditor
+[06/13/2011 21:48:04] Mod URI: /admin/mapeditor
+[06/13/2011 21:48:04] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:48:04] admin.class.php
+[06/13/2011 21:48:04] Template: admin-mapeditor
+[06/13/2011 21:48:04] Page Args: 
+[06/13/2011 21:48:04] Array
+(
+)
+
+[06/13/2011 21:48:04] Original URI: /favicon.ico
+[06/13/2011 21:48:04] Mod URI: /favicon.ico
+[06/13/2011 21:48:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:48:04] Original URI: /404
+[06/13/2011 21:48:04] Mod URI: /404
+[06/13/2011 21:48:04] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:48:04] 404.class.php
+[06/13/2011 21:48:04] Template: 404
+[06/13/2011 21:48:04] Page Args: 
+[06/13/2011 21:48:04] Array
+(
+)
+
+[06/13/2011 21:48:10] Original URI: /admin/mapeditor
+[06/13/2011 21:48:10] Mod URI: /admin/mapeditor
+[06/13/2011 21:48:10] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:48:10] admin.class.php
+[06/13/2011 21:48:10] Template: admin-mapeditor
+[06/13/2011 21:48:10] Page Args: 
+[06/13/2011 21:48:10] Array
+(
+)
+
+[06/13/2011 21:48:10] Original URI: /favicon.ico
+[06/13/2011 21:48:10] Mod URI: /favicon.ico
+[06/13/2011 21:48:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:48:10] Original URI: /404
+[06/13/2011 21:48:10] Mod URI: /404
+[06/13/2011 21:48:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:48:10] 404.class.php
+[06/13/2011 21:48:10] Template: 404
+[06/13/2011 21:48:10] Page Args: 
+[06/13/2011 21:48:10] Array
+(
+)
+
+[06/13/2011 21:48:19] Original URI: /admin/mapeditor
+[06/13/2011 21:48:19] Mod URI: /admin/mapeditor
+[06/13/2011 21:48:19] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:48:19] admin.class.php
+[06/13/2011 21:48:19] Template: admin-mapeditor
+[06/13/2011 21:48:19] Page Args: 
+[06/13/2011 21:48:19] Array
+(
+)
+
+[06/13/2011 21:48:19] Original URI: /favicon.ico
+[06/13/2011 21:48:19] Mod URI: /favicon.ico
+[06/13/2011 21:48:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:48:19] Original URI: /404
+[06/13/2011 21:48:19] Mod URI: /404
+[06/13/2011 21:48:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:48:19] 404.class.php
+[06/13/2011 21:48:19] Template: 404
+[06/13/2011 21:48:19] Page Args: 
+[06/13/2011 21:48:19] Array
+(
+)
+
+[06/13/2011 21:49:27] Original URI: /admin/mapeditor
+[06/13/2011 21:49:27] Mod URI: /admin/mapeditor
+[06/13/2011 21:49:27] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:49:27] admin.class.php
+[06/13/2011 21:49:27] Template: admin-mapeditor
+[06/13/2011 21:49:27] Page Args: 
+[06/13/2011 21:49:27] Array
+(
+)
+
+[06/13/2011 21:49:27] Original URI: /favicon.ico
+[06/13/2011 21:49:27] Mod URI: /favicon.ico
+[06/13/2011 21:49:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:49:27] Original URI: /404
+[06/13/2011 21:49:27] Mod URI: /404
+[06/13/2011 21:49:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:49:27] 404.class.php
+[06/13/2011 21:49:27] Template: 404
+[06/13/2011 21:49:27] Page Args: 
+[06/13/2011 21:49:27] Array
+(
+)
+
+[06/13/2011 21:49:31] Original URI: /admin/mapeditor
+[06/13/2011 21:49:31] Mod URI: /admin/mapeditor
+[06/13/2011 21:49:31] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:49:31] admin.class.php
+[06/13/2011 21:49:31] Template: admin-mapeditor
+[06/13/2011 21:49:31] Page Args: 
+[06/13/2011 21:49:31] Array
+(
+)
+
+[06/13/2011 21:49:31] Original URI: /favicon.ico
+[06/13/2011 21:49:31] Mod URI: /favicon.ico
+[06/13/2011 21:49:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:49:31] Original URI: /404
+[06/13/2011 21:49:31] Mod URI: /404
+[06/13/2011 21:49:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:49:31] 404.class.php
+[06/13/2011 21:49:31] Template: 404
+[06/13/2011 21:49:31] Page Args: 
+[06/13/2011 21:49:31] Array
+(
+)
+
+[06/13/2011 21:49:42] Original URI: /admin/mapeditor
+[06/13/2011 21:49:42] Mod URI: /admin/mapeditor
+[06/13/2011 21:49:42] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:49:42] admin.class.php
+[06/13/2011 21:49:42] Template: admin-mapeditor
+[06/13/2011 21:49:42] Page Args: 
+[06/13/2011 21:49:42] Array
+(
+)
+
+[06/13/2011 21:49:42] Original URI: /favicon.ico
+[06/13/2011 21:49:42] Mod URI: /favicon.ico
+[06/13/2011 21:49:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:49:42] Original URI: /404
+[06/13/2011 21:49:42] Mod URI: /404
+[06/13/2011 21:49:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:49:42] 404.class.php
+[06/13/2011 21:49:42] Template: 404
+[06/13/2011 21:49:42] Page Args: 
+[06/13/2011 21:49:42] Array
+(
+)
+
+[06/13/2011 21:49:50] Original URI: /admin/mapeditor
+[06/13/2011 21:49:50] Mod URI: /admin/mapeditor
+[06/13/2011 21:49:50] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:49:50] admin.class.php
+[06/13/2011 21:49:50] Template: admin-mapeditor
+[06/13/2011 21:49:50] Page Args: 
+[06/13/2011 21:49:50] Array
+(
+)
+
+[06/13/2011 21:49:50] Original URI: /favicon.ico
+[06/13/2011 21:49:50] Mod URI: /favicon.ico
+[06/13/2011 21:49:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:49:50] Original URI: /404
+[06/13/2011 21:49:50] Mod URI: /404
+[06/13/2011 21:49:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:49:50] 404.class.php
+[06/13/2011 21:49:50] Template: 404
+[06/13/2011 21:49:50] Page Args: 
+[06/13/2011 21:49:50] Array
+(
+)
+
+[06/13/2011 21:50:20] Original URI: /admin/mapeditor
+[06/13/2011 21:50:20] Mod URI: /admin/mapeditor
+[06/13/2011 21:50:20] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:50:20] admin.class.php
+[06/13/2011 21:50:20] Template: admin-mapeditor
+[06/13/2011 21:50:20] Page Args: 
+[06/13/2011 21:50:20] Array
+(
+)
+
+[06/13/2011 21:50:20] Original URI: /favicon.ico
+[06/13/2011 21:50:20] Mod URI: /favicon.ico
+[06/13/2011 21:50:20] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:50:20] Original URI: /404
+[06/13/2011 21:50:20] Mod URI: /404
+[06/13/2011 21:50:20] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:50:20] 404.class.php
+[06/13/2011 21:50:20] Template: 404
+[06/13/2011 21:50:20] Page Args: 
+[06/13/2011 21:50:20] Array
+(
+)
+
+[06/13/2011 21:50:35] Original URI: /admin/mapeditor
+[06/13/2011 21:50:35] Mod URI: /admin/mapeditor
+[06/13/2011 21:50:35] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:50:35] admin.class.php
+[06/13/2011 21:50:35] Template: admin-mapeditor
+[06/13/2011 21:50:35] Page Args: 
+[06/13/2011 21:50:35] Array
+(
+)
+
+[06/13/2011 21:50:35] Original URI: /favicon.ico
+[06/13/2011 21:50:35] Mod URI: /favicon.ico
+[06/13/2011 21:50:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:50:35] Original URI: /404
+[06/13/2011 21:50:35] Mod URI: /404
+[06/13/2011 21:50:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:50:35] 404.class.php
+[06/13/2011 21:50:35] Template: 404
+[06/13/2011 21:50:35] Page Args: 
+[06/13/2011 21:50:35] Array
+(
+)
+
+[06/13/2011 21:51:18] Original URI: /admin/mapeditor
+[06/13/2011 21:51:18] Mod URI: /admin/mapeditor
+[06/13/2011 21:51:18] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:51:18] admin.class.php
+[06/13/2011 21:51:18] Template: admin-mapeditor
+[06/13/2011 21:51:18] Page Args: 
+[06/13/2011 21:51:18] Array
+(
+)
+
+[06/13/2011 21:51:18] Original URI: /favicon.ico
+[06/13/2011 21:51:18] Mod URI: /favicon.ico
+[06/13/2011 21:51:18] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:51:18] Original URI: /404
+[06/13/2011 21:51:18] Mod URI: /404
+[06/13/2011 21:51:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:51:18] 404.class.php
+[06/13/2011 21:51:18] Template: 404
+[06/13/2011 21:51:18] Page Args: 
+[06/13/2011 21:51:18] Array
+(
+)
+
+[06/13/2011 21:52:56] Original URI: /admin/mapeditor
+[06/13/2011 21:52:56] Mod URI: /admin/mapeditor
+[06/13/2011 21:52:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:52:56] admin.class.php
+[06/13/2011 21:52:56] Template: admin-mapeditor
+[06/13/2011 21:52:56] Page Args: 
+[06/13/2011 21:52:56] Array
+(
+)
+
+[06/13/2011 21:52:56] Original URI: /favicon.ico
+[06/13/2011 21:52:56] Mod URI: /favicon.ico
+[06/13/2011 21:52:56] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:52:57] Original URI: /404
+[06/13/2011 21:52:57] Mod URI: /404
+[06/13/2011 21:52:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:52:57] 404.class.php
+[06/13/2011 21:52:57] Template: 404
+[06/13/2011 21:52:57] Page Args: 
+[06/13/2011 21:52:57] Array
+(
+)
+
+[06/13/2011 21:55:59] Original URI: /admin/mapeditor
+[06/13/2011 21:55:59] Mod URI: /admin/mapeditor
+[06/13/2011 21:55:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:55:59] admin.class.php
+[06/13/2011 21:55:59] Template: admin-mapeditor
+[06/13/2011 21:55:59] Page Args: 
+[06/13/2011 21:55:59] Array
+(
+)
+
+[06/13/2011 21:55:59] Original URI: /favicon.ico
+[06/13/2011 21:55:59] Mod URI: /favicon.ico
+[06/13/2011 21:55:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:55:59] Original URI: /404
+[06/13/2011 21:55:59] Mod URI: /404
+[06/13/2011 21:55:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:55:59] 404.class.php
+[06/13/2011 21:55:59] Template: 404
+[06/13/2011 21:55:59] Page Args: 
+[06/13/2011 21:55:59] Array
+(
+)
+
+[06/13/2011 21:56:10] Original URI: /admin/mapeditor
+[06/13/2011 21:56:10] Mod URI: /admin/mapeditor
+[06/13/2011 21:56:10] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:56:10] admin.class.php
+[06/13/2011 21:56:10] Template: admin-mapeditor
+[06/13/2011 21:56:10] Page Args: 
+[06/13/2011 21:56:10] Array
+(
+)
+
+[06/13/2011 21:56:11] Original URI: /favicon.ico
+[06/13/2011 21:56:11] Mod URI: /favicon.ico
+[06/13/2011 21:56:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:56:11] Original URI: /404
+[06/13/2011 21:56:11] Mod URI: /404
+[06/13/2011 21:56:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:56:11] 404.class.php
+[06/13/2011 21:56:11] Template: 404
+[06/13/2011 21:56:11] Page Args: 
+[06/13/2011 21:56:11] Array
+(
+)
+
+[06/13/2011 21:56:27] Original URI: /admin/mapeditor
+[06/13/2011 21:56:27] Mod URI: /admin/mapeditor
+[06/13/2011 21:56:27] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:56:27] admin.class.php
+[06/13/2011 21:56:27] Template: admin-mapeditor
+[06/13/2011 21:56:27] Page Args: 
+[06/13/2011 21:56:27] Array
+(
+)
+
+[06/13/2011 21:56:27] Original URI: /favicon.ico
+[06/13/2011 21:56:27] Mod URI: /favicon.ico
+[06/13/2011 21:56:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:56:27] Original URI: /404
+[06/13/2011 21:56:27] Mod URI: /404
+[06/13/2011 21:56:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:56:27] 404.class.php
+[06/13/2011 21:56:27] Template: 404
+[06/13/2011 21:56:27] Page Args: 
+[06/13/2011 21:56:27] Array
+(
+)
+
+[06/13/2011 21:56:34] Original URI: /admin/mapeditor
+[06/13/2011 21:56:34] Mod URI: /admin/mapeditor
+[06/13/2011 21:56:34] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:56:34] admin.class.php
+[06/13/2011 21:56:34] Template: admin-mapeditor
+[06/13/2011 21:56:34] Page Args: 
+[06/13/2011 21:56:34] Array
+(
+)
+
+[06/13/2011 21:56:34] Original URI: /favicon.ico
+[06/13/2011 21:56:34] Mod URI: /favicon.ico
+[06/13/2011 21:56:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:56:34] Original URI: /404
+[06/13/2011 21:56:34] Mod URI: /404
+[06/13/2011 21:56:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:56:34] 404.class.php
+[06/13/2011 21:56:34] Template: 404
+[06/13/2011 21:56:34] Page Args: 
+[06/13/2011 21:56:34] Array
+(
+)
+
+[06/13/2011 21:56:36] Original URI: /admin/mapeditor
+[06/13/2011 21:56:36] Mod URI: /admin/mapeditor
+[06/13/2011 21:56:36] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:56:36] admin.class.php
+[06/13/2011 21:56:36] Template: admin-mapeditor
+[06/13/2011 21:56:36] Page Args: 
+[06/13/2011 21:56:36] Array
+(
+)
+
+[06/13/2011 21:56:36] Original URI: /favicon.ico
+[06/13/2011 21:56:36] Mod URI: /favicon.ico
+[06/13/2011 21:56:36] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:56:36] Original URI: /404
+[06/13/2011 21:56:36] Mod URI: /404
+[06/13/2011 21:56:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:56:36] 404.class.php
+[06/13/2011 21:56:36] Template: 404
+[06/13/2011 21:56:36] Page Args: 
+[06/13/2011 21:56:36] Array
+(
+)
+
+[06/13/2011 21:57:12] Original URI: /admin/mapeditor
+[06/13/2011 21:57:12] Mod URI: /admin/mapeditor
+[06/13/2011 21:57:12] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:57:12] admin.class.php
+[06/13/2011 21:57:12] Template: admin-mapeditor
+[06/13/2011 21:57:12] Page Args: 
+[06/13/2011 21:57:12] Array
+(
+)
+
+[06/13/2011 21:57:13] Original URI: /favicon.ico
+[06/13/2011 21:57:13] Mod URI: /favicon.ico
+[06/13/2011 21:57:13] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:57:13] Original URI: /404
+[06/13/2011 21:57:13] Mod URI: /404
+[06/13/2011 21:57:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:57:13] 404.class.php
+[06/13/2011 21:57:13] Template: 404
+[06/13/2011 21:57:13] Page Args: 
+[06/13/2011 21:57:13] Array
+(
+)
+
+[06/13/2011 21:58:42] Original URI: /admin/mapeditor
+[06/13/2011 21:58:42] Mod URI: /admin/mapeditor
+[06/13/2011 21:58:42] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 21:58:42] admin.class.php
+[06/13/2011 21:58:42] Template: admin-mapeditor
+[06/13/2011 21:58:42] Page Args: 
+[06/13/2011 21:58:42] Array
+(
+)
+
+[06/13/2011 21:58:42] Original URI: /favicon.ico
+[06/13/2011 21:58:42] Mod URI: /favicon.ico
+[06/13/2011 21:58:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 21:58:42] Original URI: /404
+[06/13/2011 21:58:42] Mod URI: /404
+[06/13/2011 21:58:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 21:58:42] 404.class.php
+[06/13/2011 21:58:42] Template: 404
+[06/13/2011 21:58:42] Page Args: 
+[06/13/2011 21:58:42] Array
+(
+)
+
+[06/13/2011 22:01:59] Original URI: /admin/mapeditor
+[06/13/2011 22:01:59] Mod URI: /admin/mapeditor
+[06/13/2011 22:01:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:01:59] admin.class.php
+[06/13/2011 22:01:59] Template: admin-mapeditor
+[06/13/2011 22:01:59] Page Args: 
+[06/13/2011 22:01:59] Array
+(
+)
+
+[06/13/2011 22:02:00] Original URI: /favicon.ico
+[06/13/2011 22:02:00] Mod URI: /favicon.ico
+[06/13/2011 22:02:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:02:00] Original URI: /404
+[06/13/2011 22:02:00] Mod URI: /404
+[06/13/2011 22:02:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:02:00] 404.class.php
+[06/13/2011 22:02:00] Template: 404
+[06/13/2011 22:02:00] Page Args: 
+[06/13/2011 22:02:00] Array
+(
+)
+
+[06/13/2011 22:02:59] Original URI: /admin/mapeditor
+[06/13/2011 22:02:59] Mod URI: /admin/mapeditor
+[06/13/2011 22:02:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:02:59] admin.class.php
+[06/13/2011 22:02:59] Template: admin-mapeditor
+[06/13/2011 22:02:59] Page Args: 
+[06/13/2011 22:02:59] Array
+(
+)
+
+[06/13/2011 22:02:59] Original URI: /favicon.ico
+[06/13/2011 22:02:59] Mod URI: /favicon.ico
+[06/13/2011 22:02:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:02:59] Original URI: /404
+[06/13/2011 22:02:59] Mod URI: /404
+[06/13/2011 22:02:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:02:59] 404.class.php
+[06/13/2011 22:02:59] Template: 404
+[06/13/2011 22:02:59] Page Args: 
+[06/13/2011 22:02:59] Array
+(
+)
+
+[06/13/2011 22:03:36] Original URI: /admin/mapeditor
+[06/13/2011 22:03:36] Mod URI: /admin/mapeditor
+[06/13/2011 22:03:36] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:03:36] admin.class.php
+[06/13/2011 22:03:36] Template: admin-mapeditor
+[06/13/2011 22:03:36] Page Args: 
+[06/13/2011 22:03:36] Array
+(
+)
+
+[06/13/2011 22:03:37] Original URI: /favicon.ico
+[06/13/2011 22:03:37] Mod URI: /favicon.ico
+[06/13/2011 22:03:37] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:03:37] Original URI: /404
+[06/13/2011 22:03:37] Mod URI: /404
+[06/13/2011 22:03:37] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:03:37] 404.class.php
+[06/13/2011 22:03:37] Template: 404
+[06/13/2011 22:03:37] Page Args: 
+[06/13/2011 22:03:37] Array
+(
+)
+
+[06/13/2011 22:03:38] Original URI: /admin/mapeditor
+[06/13/2011 22:03:38] Mod URI: /admin/mapeditor
+[06/13/2011 22:03:38] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:03:38] admin.class.php
+[06/13/2011 22:03:38] Template: admin-mapeditor
+[06/13/2011 22:03:38] Page Args: 
+[06/13/2011 22:03:38] Array
+(
+)
+
+[06/13/2011 22:03:38] Original URI: /favicon.ico
+[06/13/2011 22:03:38] Mod URI: /favicon.ico
+[06/13/2011 22:03:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:03:38] Original URI: /404
+[06/13/2011 22:03:38] Mod URI: /404
+[06/13/2011 22:03:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:03:38] 404.class.php
+[06/13/2011 22:03:38] Template: 404
+[06/13/2011 22:03:38] Page Args: 
+[06/13/2011 22:03:38] Array
+(
+)
+
+[06/13/2011 22:03:49] Original URI: /admin/mapeditor
+[06/13/2011 22:03:49] Mod URI: /admin/mapeditor
+[06/13/2011 22:03:49] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:03:49] admin.class.php
+[06/13/2011 22:03:49] Template: admin-mapeditor
+[06/13/2011 22:03:49] Page Args: 
+[06/13/2011 22:03:49] Array
+(
+)
+
+[06/13/2011 22:03:50] Original URI: /favicon.ico
+[06/13/2011 22:03:50] Mod URI: /favicon.ico
+[06/13/2011 22:03:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:03:50] Original URI: /404
+[06/13/2011 22:03:50] Mod URI: /404
+[06/13/2011 22:03:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:03:50] 404.class.php
+[06/13/2011 22:03:50] Template: 404
+[06/13/2011 22:03:50] Page Args: 
+[06/13/2011 22:03:50] Array
+(
+)
+
+[06/13/2011 22:04:54] Original URI: /admin/mapeditor
+[06/13/2011 22:04:54] Mod URI: /admin/mapeditor
+[06/13/2011 22:04:54] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:04:54] admin.class.php
+[06/13/2011 22:04:54] Template: admin-mapeditor
+[06/13/2011 22:04:54] Page Args: 
+[06/13/2011 22:04:54] Array
+(
+)
+
+[06/13/2011 22:04:55] Original URI: /favicon.ico
+[06/13/2011 22:04:55] Mod URI: /favicon.ico
+[06/13/2011 22:04:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:04:55] Original URI: /404
+[06/13/2011 22:04:55] Mod URI: /404
+[06/13/2011 22:04:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:04:55] 404.class.php
+[06/13/2011 22:04:55] Template: 404
+[06/13/2011 22:04:55] Page Args: 
+[06/13/2011 22:04:55] Array
+(
+)
+
+[06/13/2011 22:05:04] Original URI: /admin/mapeditor
+[06/13/2011 22:05:04] Mod URI: /admin/mapeditor
+[06/13/2011 22:05:04] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:05:04] admin.class.php
+[06/13/2011 22:05:04] Template: admin-mapeditor
+[06/13/2011 22:05:04] Page Args: 
+[06/13/2011 22:05:04] Array
+(
+)
+
+[06/13/2011 22:05:05] Original URI: /favicon.ico
+[06/13/2011 22:05:05] Mod URI: /favicon.ico
+[06/13/2011 22:05:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:05:05] Original URI: /404
+[06/13/2011 22:05:05] Mod URI: /404
+[06/13/2011 22:05:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:05:05] 404.class.php
+[06/13/2011 22:05:05] Template: 404
+[06/13/2011 22:05:05] Page Args: 
+[06/13/2011 22:05:05] Array
+(
+)
+
+[06/13/2011 22:05:18] Original URI: /admin/mapeditor
+[06/13/2011 22:05:18] Mod URI: /admin/mapeditor
+[06/13/2011 22:05:18] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:05:18] admin.class.php
+[06/13/2011 22:05:18] Template: admin-mapeditor
+[06/13/2011 22:05:18] Page Args: 
+[06/13/2011 22:05:18] Array
+(
+)
+
+[06/13/2011 22:05:18] Original URI: /favicon.ico
+[06/13/2011 22:05:18] Mod URI: /favicon.ico
+[06/13/2011 22:05:18] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:05:18] Original URI: /404
+[06/13/2011 22:05:18] Mod URI: /404
+[06/13/2011 22:05:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:05:18] 404.class.php
+[06/13/2011 22:05:18] Template: 404
+[06/13/2011 22:05:18] Page Args: 
+[06/13/2011 22:05:18] Array
+(
+)
+
+[06/13/2011 22:07:06] Original URI: /admin/mapeditor
+[06/13/2011 22:07:06] Mod URI: /admin/mapeditor
+[06/13/2011 22:07:06] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:07:06] admin.class.php
+[06/13/2011 22:07:06] Template: admin-mapeditor
+[06/13/2011 22:07:06] Page Args: 
+[06/13/2011 22:07:06] Array
+(
+)
+
+[06/13/2011 22:07:07] Original URI: /favicon.ico
+[06/13/2011 22:07:07] Mod URI: /favicon.ico
+[06/13/2011 22:07:07] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:07:07] Original URI: /404
+[06/13/2011 22:07:07] Mod URI: /404
+[06/13/2011 22:07:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:07:07] 404.class.php
+[06/13/2011 22:07:07] Template: 404
+[06/13/2011 22:07:07] Page Args: 
+[06/13/2011 22:07:07] Array
+(
+)
+
+[06/13/2011 22:08:24] Original URI: /admin/mapeditor
+[06/13/2011 22:08:24] Mod URI: /admin/mapeditor
+[06/13/2011 22:08:24] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:08:24] admin.class.php
+[06/13/2011 22:08:24] Template: admin-mapeditor
+[06/13/2011 22:08:24] Page Args: 
+[06/13/2011 22:08:24] Array
+(
+)
+
+[06/13/2011 22:08:24] Original URI: /favicon.ico
+[06/13/2011 22:08:24] Mod URI: /favicon.ico
+[06/13/2011 22:08:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:08:24] Original URI: /404
+[06/13/2011 22:08:24] Mod URI: /404
+[06/13/2011 22:08:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:08:24] 404.class.php
+[06/13/2011 22:08:24] Template: 404
+[06/13/2011 22:08:24] Page Args: 
+[06/13/2011 22:08:24] Array
+(
+)
+
+[06/13/2011 22:08:53] Original URI: /admin/mapeditor
+[06/13/2011 22:08:53] Mod URI: /admin/mapeditor
+[06/13/2011 22:08:53] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:08:53] admin.class.php
+[06/13/2011 22:08:53] Template: admin-mapeditor
+[06/13/2011 22:08:53] Page Args: 
+[06/13/2011 22:08:53] Array
+(
+)
+
+[06/13/2011 22:08:53] Original URI: /favicon.ico
+[06/13/2011 22:08:53] Mod URI: /favicon.ico
+[06/13/2011 22:08:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:08:53] Original URI: /404
+[06/13/2011 22:08:53] Mod URI: /404
+[06/13/2011 22:08:53] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:08:53] 404.class.php
+[06/13/2011 22:08:53] Template: 404
+[06/13/2011 22:08:53] Page Args: 
+[06/13/2011 22:08:53] Array
+(
+)
+
+[06/13/2011 22:09:51] Original URI: /admin/mapeditor
+[06/13/2011 22:09:51] Mod URI: /admin/mapeditor
+[06/13/2011 22:09:51] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:09:51] admin.class.php
+[06/13/2011 22:09:51] Template: admin-mapeditor
+[06/13/2011 22:09:51] Page Args: 
+[06/13/2011 22:09:51] Array
+(
+)
+
+[06/13/2011 22:09:52] Original URI: /js/mapeditor.js
+[06/13/2011 22:09:52] Mod URI: /js/mapeditor.js
+[06/13/2011 22:09:52] Array
+(
+    [0] => 
+    [1] => js
+    [2] => mapeditor.js
+)
+
+[06/13/2011 22:09:52] Original URI: /404
+[06/13/2011 22:09:52] Mod URI: /404
+[06/13/2011 22:09:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:09:52] 404.class.php
+[06/13/2011 22:09:52] Template: 404
+[06/13/2011 22:09:52] Page Args: 
+[06/13/2011 22:09:52] Array
+(
+)
+
+[06/13/2011 22:09:52] Original URI: /favicon.ico
+[06/13/2011 22:09:52] Mod URI: /favicon.ico
+[06/13/2011 22:09:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:09:52] Original URI: /404
+[06/13/2011 22:09:52] Mod URI: /404
+[06/13/2011 22:09:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:09:52] 404.class.php
+[06/13/2011 22:09:52] Template: 404
+[06/13/2011 22:09:52] Page Args: 
+[06/13/2011 22:09:52] Array
+(
+)
+
+[06/13/2011 22:09:56] Original URI: /admin/mapeditor
+[06/13/2011 22:09:56] Mod URI: /admin/mapeditor
+[06/13/2011 22:09:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:09:56] admin.class.php
+[06/13/2011 22:09:56] Template: admin-mapeditor
+[06/13/2011 22:09:56] Page Args: 
+[06/13/2011 22:09:56] Array
+(
+)
+
+[06/13/2011 22:09:57] Original URI: /favicon.ico
+[06/13/2011 22:09:57] Mod URI: /favicon.ico
+[06/13/2011 22:09:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:09:57] Original URI: /404
+[06/13/2011 22:09:57] Mod URI: /404
+[06/13/2011 22:09:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:09:57] 404.class.php
+[06/13/2011 22:09:57] Template: 404
+[06/13/2011 22:09:57] Page Args: 
+[06/13/2011 22:09:57] Array
+(
+)
+
+[06/13/2011 22:10:12] Original URI: /js/mapeditor.js
+[06/13/2011 22:10:12] Mod URI: /js/mapeditor.js
+[06/13/2011 22:10:12] Array
+(
+    [0] => 
+    [1] => js
+    [2] => mapeditor.js
+)
+
+[06/13/2011 22:10:12] Original URI: /404
+[06/13/2011 22:10:12] Mod URI: /404
+[06/13/2011 22:10:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:10:12] 404.class.php
+[06/13/2011 22:10:12] Template: 404
+[06/13/2011 22:10:12] Page Args: 
+[06/13/2011 22:10:12] Array
+(
+)
+
+[06/13/2011 22:10:12] Original URI: /favicon.ico
+[06/13/2011 22:10:12] Mod URI: /favicon.ico
+[06/13/2011 22:10:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:10:12] Original URI: /404
+[06/13/2011 22:10:12] Mod URI: /404
+[06/13/2011 22:10:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:10:12] 404.class.php
+[06/13/2011 22:10:12] Template: 404
+[06/13/2011 22:10:12] Page Args: 
+[06/13/2011 22:10:12] Array
+(
+)
+
+[06/13/2011 22:10:19] Original URI: /admin/mapeditor
+[06/13/2011 22:10:19] Mod URI: /admin/mapeditor
+[06/13/2011 22:10:19] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:10:19] admin.class.php
+[06/13/2011 22:10:19] Template: admin-mapeditor
+[06/13/2011 22:10:19] Page Args: 
+[06/13/2011 22:10:19] Array
+(
+)
+
+[06/13/2011 22:10:19] Original URI: /js/mapeditor.js
+[06/13/2011 22:10:19] Mod URI: /js/mapeditor.js
+[06/13/2011 22:10:19] Array
+(
+    [0] => 
+    [1] => js
+    [2] => mapeditor.js
+)
+
+[06/13/2011 22:10:19] Original URI: /404
+[06/13/2011 22:10:19] Mod URI: /404
+[06/13/2011 22:10:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:10:19] 404.class.php
+[06/13/2011 22:10:19] Template: 404
+[06/13/2011 22:10:19] Page Args: 
+[06/13/2011 22:10:19] Array
+(
+)
+
+[06/13/2011 22:10:19] Original URI: /favicon.ico
+[06/13/2011 22:10:19] Mod URI: /favicon.ico
+[06/13/2011 22:10:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:10:19] Original URI: /404
+[06/13/2011 22:10:19] Mod URI: /404
+[06/13/2011 22:10:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:10:19] 404.class.php
+[06/13/2011 22:10:19] Template: 404
+[06/13/2011 22:10:19] Page Args: 
+[06/13/2011 22:10:19] Array
+(
+)
+
+[06/13/2011 22:10:30] Original URI: /admin/mapeditor
+[06/13/2011 22:10:30] Mod URI: /admin/mapeditor
+[06/13/2011 22:10:30] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:10:30] admin.class.php
+[06/13/2011 22:10:30] Template: admin-mapeditor
+[06/13/2011 22:10:30] Page Args: 
+[06/13/2011 22:10:30] Array
+(
+)
+
+[06/13/2011 22:10:30] Original URI: /js/mapeditor.js
+[06/13/2011 22:10:30] Mod URI: /js/mapeditor.js
+[06/13/2011 22:10:30] Array
+(
+    [0] => 
+    [1] => js
+    [2] => mapeditor.js
+)
+
+[06/13/2011 22:10:30] Original URI: /404
+[06/13/2011 22:10:30] Mod URI: /404
+[06/13/2011 22:10:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:10:30] 404.class.php
+[06/13/2011 22:10:30] Template: 404
+[06/13/2011 22:10:30] Page Args: 
+[06/13/2011 22:10:30] Array
+(
+)
+
+[06/13/2011 22:10:30] Original URI: /favicon.ico
+[06/13/2011 22:10:30] Mod URI: /favicon.ico
+[06/13/2011 22:10:30] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:10:30] Original URI: /404
+[06/13/2011 22:10:30] Mod URI: /404
+[06/13/2011 22:10:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:10:30] 404.class.php
+[06/13/2011 22:10:30] Template: 404
+[06/13/2011 22:10:30] Page Args: 
+[06/13/2011 22:10:30] Array
+(
+)
+
+[06/13/2011 22:16:21] Original URI: /admin/mapeditor
+[06/13/2011 22:16:21] Mod URI: /admin/mapeditor
+[06/13/2011 22:16:21] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:16:21] admin.class.php
+[06/13/2011 22:16:21] Template: admin-mapeditor
+[06/13/2011 22:16:21] Page Args: 
+[06/13/2011 22:16:21] Array
+(
+)
+
+[06/13/2011 22:16:22] Original URI: /favicon.ico
+[06/13/2011 22:16:22] Mod URI: /favicon.ico
+[06/13/2011 22:16:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:16:22] Original URI: /404
+[06/13/2011 22:16:22] Mod URI: /404
+[06/13/2011 22:16:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:16:22] 404.class.php
+[06/13/2011 22:16:22] Template: 404
+[06/13/2011 22:16:22] Page Args: 
+[06/13/2011 22:16:22] Array
+(
+)
+
+[06/13/2011 22:17:27] Original URI: /admin/mapeditor
+[06/13/2011 22:17:27] Mod URI: /admin/mapeditor
+[06/13/2011 22:17:27] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:17:27] admin.class.php
+[06/13/2011 22:17:27] Template: admin-mapeditor
+[06/13/2011 22:17:27] Page Args: 
+[06/13/2011 22:17:27] Array
+(
+)
+
+[06/13/2011 22:17:28] Original URI: /favicon.ico
+[06/13/2011 22:17:28] Mod URI: /favicon.ico
+[06/13/2011 22:17:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:17:28] Original URI: /404
+[06/13/2011 22:17:28] Mod URI: /404
+[06/13/2011 22:17:28] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:17:28] 404.class.php
+[06/13/2011 22:17:28] Template: 404
+[06/13/2011 22:17:28] Page Args: 
+[06/13/2011 22:17:28] Array
+(
+)
+
+[06/13/2011 22:17:35] Original URI: /admin/mapeditor
+[06/13/2011 22:17:35] Mod URI: /admin/mapeditor
+[06/13/2011 22:17:35] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:17:35] admin.class.php
+[06/13/2011 22:17:35] Template: admin-mapeditor
+[06/13/2011 22:17:35] Page Args: 
+[06/13/2011 22:17:35] Array
+(
+)
+
+[06/13/2011 22:17:35] Original URI: /favicon.ico
+[06/13/2011 22:17:35] Mod URI: /favicon.ico
+[06/13/2011 22:17:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:17:36] Original URI: /404
+[06/13/2011 22:17:36] Mod URI: /404
+[06/13/2011 22:17:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:17:36] 404.class.php
+[06/13/2011 22:17:36] Template: 404
+[06/13/2011 22:17:36] Page Args: 
+[06/13/2011 22:17:36] Array
+(
+)
+
+[06/13/2011 22:17:42] Original URI: /favicon.ico
+[06/13/2011 22:17:42] Mod URI: /favicon.ico
+[06/13/2011 22:17:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:17:42] Original URI: /404
+[06/13/2011 22:17:42] Mod URI: /404
+[06/13/2011 22:17:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:17:42] 404.class.php
+[06/13/2011 22:17:42] Template: 404
+[06/13/2011 22:17:42] Page Args: 
+[06/13/2011 22:17:42] Array
+(
+)
+
+[06/13/2011 22:17:44] Original URI: /favicon.ico
+[06/13/2011 22:17:44] Mod URI: /favicon.ico
+[06/13/2011 22:17:44] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:17:44] Original URI: /404
+[06/13/2011 22:17:44] Mod URI: /404
+[06/13/2011 22:17:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:17:44] 404.class.php
+[06/13/2011 22:17:44] Template: 404
+[06/13/2011 22:17:44] Page Args: 
+[06/13/2011 22:17:44] Array
+(
+)
+
+[06/13/2011 22:17:48] Original URI: /admin/mapeditor
+[06/13/2011 22:17:48] Mod URI: /admin/mapeditor
+[06/13/2011 22:17:48] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:17:48] admin.class.php
+[06/13/2011 22:17:48] Template: admin-mapeditor
+[06/13/2011 22:17:48] Page Args: 
+[06/13/2011 22:17:48] Array
+(
+)
+
+[06/13/2011 22:17:49] Original URI: /favicon.ico
+[06/13/2011 22:17:49] Mod URI: /favicon.ico
+[06/13/2011 22:17:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:17:49] Original URI: /404
+[06/13/2011 22:17:49] Mod URI: /404
+[06/13/2011 22:17:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:17:49] 404.class.php
+[06/13/2011 22:17:49] Template: 404
+[06/13/2011 22:17:49] Page Args: 
+[06/13/2011 22:17:49] Array
+(
+)
+
+[06/13/2011 22:18:23] Original URI: /admin/mapeditor
+[06/13/2011 22:18:23] Mod URI: /admin/mapeditor
+[06/13/2011 22:18:23] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:18:23] admin.class.php
+[06/13/2011 22:18:23] Template: admin-mapeditor
+[06/13/2011 22:18:23] Page Args: 
+[06/13/2011 22:18:23] Array
+(
+)
+
+[06/13/2011 22:18:24] Original URI: /favicon.ico
+[06/13/2011 22:18:24] Mod URI: /favicon.ico
+[06/13/2011 22:18:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:18:24] Original URI: /404
+[06/13/2011 22:18:24] Mod URI: /404
+[06/13/2011 22:18:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:18:24] 404.class.php
+[06/13/2011 22:18:24] Template: 404
+[06/13/2011 22:18:24] Page Args: 
+[06/13/2011 22:18:24] Array
+(
+)
+
+[06/13/2011 22:19:16] Original URI: /admin/mapeditor
+[06/13/2011 22:19:16] Mod URI: /admin/mapeditor
+[06/13/2011 22:19:16] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:19:16] admin.class.php
+[06/13/2011 22:19:16] Template: admin-mapeditor
+[06/13/2011 22:19:16] Page Args: 
+[06/13/2011 22:19:16] Array
+(
+)
+
+[06/13/2011 22:19:16] Original URI: /favicon.ico
+[06/13/2011 22:19:16] Mod URI: /favicon.ico
+[06/13/2011 22:19:16] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:19:17] Original URI: /404
+[06/13/2011 22:19:17] Mod URI: /404
+[06/13/2011 22:19:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:19:17] 404.class.php
+[06/13/2011 22:19:17] Template: 404
+[06/13/2011 22:19:17] Page Args: 
+[06/13/2011 22:19:17] Array
+(
+)
+
+[06/13/2011 22:19:17] Original URI: /admin/mapeditor
+[06/13/2011 22:19:17] Mod URI: /admin/mapeditor
+[06/13/2011 22:19:17] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/13/2011 22:19:17] admin.class.php
+[06/13/2011 22:19:17] Template: admin-mapeditor
+[06/13/2011 22:19:17] Page Args: 
+[06/13/2011 22:19:17] Array
+(
+)
+
+[06/13/2011 22:19:18] Original URI: /favicon.ico
+[06/13/2011 22:19:18] Mod URI: /favicon.ico
+[06/13/2011 22:19:18] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/13/2011 22:19:18] Original URI: /404
+[06/13/2011 22:19:18] Mod URI: /404
+[06/13/2011 22:19:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/13/2011 22:19:18] 404.class.php
+[06/13/2011 22:19:18] Template: 404
+[06/13/2011 22:19:18] Page Args: 
+[06/13/2011 22:19:18] Array
+(
+)
+

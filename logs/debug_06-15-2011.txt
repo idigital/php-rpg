@@ -1,0 +1,3892 @@
+[06/15/2011 07:11:44] Original URI: /admin/mapeditor
+[06/15/2011 07:11:44] Mod URI: /admin/mapeditor
+[06/15/2011 07:11:44] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 07:11:44] admin.class.php
+[06/15/2011 07:11:44] Template: admin-mapeditor
+[06/15/2011 07:11:44] Page Args: 
+[06/15/2011 07:11:44] Array
+(
+)
+
+[06/15/2011 07:11:44] Original URI: /login
+[06/15/2011 07:11:44] Mod URI: /login
+[06/15/2011 07:11:44] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/15/2011 07:11:44] login.class.php
+[06/15/2011 07:11:44] Template: login
+[06/15/2011 07:11:44] Page Args: 
+[06/15/2011 07:11:44] Array
+(
+)
+
+[06/15/2011 07:11:44] Original URI: /images/sign-up.png
+[06/15/2011 07:11:44] Mod URI: /images/sign-up.png
+[06/15/2011 07:11:44] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/15/2011 07:11:44] Original URI: /404
+[06/15/2011 07:11:44] Mod URI: /404
+[06/15/2011 07:11:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 07:11:44] 404.class.php
+[06/15/2011 07:11:44] Template: 404
+[06/15/2011 07:11:44] Page Args: 
+[06/15/2011 07:11:44] Array
+(
+)
+
+[06/15/2011 07:11:45] Original URI: /favicon.ico
+[06/15/2011 07:11:45] Mod URI: /favicon.ico
+[06/15/2011 07:11:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 07:11:45] Original URI: /404
+[06/15/2011 07:11:45] Mod URI: /404
+[06/15/2011 07:11:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 07:11:45] 404.class.php
+[06/15/2011 07:11:45] Template: 404
+[06/15/2011 07:11:45] Page Args: 
+[06/15/2011 07:11:45] Array
+(
+)
+
+[06/15/2011 10:54:48] Original URI: 
+[06/15/2011 10:54:48] Mod URI: 
+[06/15/2011 10:54:48] Template: index
+[06/15/2011 10:54:48] Page Args: 
+[06/15/2011 10:54:48] 
+[06/15/2011 10:54:50] Original URI: /favicon.ico
+[06/15/2011 10:54:50] Mod URI: /favicon.ico
+[06/15/2011 10:54:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 10:54:50] Original URI: /404
+[06/15/2011 10:54:50] Mod URI: /404
+[06/15/2011 10:54:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 10:54:50] 404.class.php
+[06/15/2011 10:54:50] Template: 404
+[06/15/2011 10:54:50] Page Args: 
+[06/15/2011 10:54:50] Array
+(
+)
+
+[06/15/2011 10:54:50] Original URI: /favicon.ico
+[06/15/2011 10:54:50] Mod URI: /favicon.ico
+[06/15/2011 10:54:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 10:54:50] Original URI: /404
+[06/15/2011 10:54:50] Mod URI: /404
+[06/15/2011 10:54:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 10:54:50] 404.class.php
+[06/15/2011 10:54:50] Template: 404
+[06/15/2011 10:54:50] Page Args: 
+[06/15/2011 10:54:50] Array
+(
+)
+
+[06/15/2011 21:05:27] Original URI: /login
+[06/15/2011 21:05:27] Mod URI: /login
+[06/15/2011 21:05:27] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/15/2011 21:05:27] login.class.php
+[06/15/2011 21:05:27] Template: login
+[06/15/2011 21:05:27] Page Args: 
+[06/15/2011 21:05:27] Array
+(
+)
+
+[06/15/2011 21:05:27] login(brandon.reese@gmail.com,not360change)
+[06/15/2011 21:05:27] createSession(11)
+[06/15/2011 21:05:27] sessions row for userid exists
+[06/15/2011 21:05:27] Sessid: c9a45aeb142d4a3cf58c34a0c41c5631
+[06/15/2011 21:05:28] Original URI: 
+[06/15/2011 21:05:28] Mod URI: 
+[06/15/2011 21:05:28] Template: index
+[06/15/2011 21:05:28] Page Args: 
+[06/15/2011 21:05:28] 
+[06/15/2011 21:05:28] Original URI: /favicon.ico
+[06/15/2011 21:05:28] Mod URI: /favicon.ico
+[06/15/2011 21:05:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:05:28] Original URI: /404
+[06/15/2011 21:05:28] Mod URI: /404
+[06/15/2011 21:05:28] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:05:28] 404.class.php
+[06/15/2011 21:05:28] Template: 404
+[06/15/2011 21:05:28] Page Args: 
+[06/15/2011 21:05:28] Array
+(
+)
+
+[06/15/2011 21:05:30] Original URI: /admin
+[06/15/2011 21:05:30] Mod URI: /admin
+[06/15/2011 21:05:30] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 21:05:30] admin.class.php
+[06/15/2011 21:05:30] Template: admin
+[06/15/2011 21:05:30] Page Args: 
+[06/15/2011 21:05:30] Array
+(
+)
+
+[06/15/2011 21:05:30] Original URI: /favicon.ico
+[06/15/2011 21:05:30] Mod URI: /favicon.ico
+[06/15/2011 21:05:30] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:05:30] Original URI: /404
+[06/15/2011 21:05:30] Mod URI: /404
+[06/15/2011 21:05:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:05:30] 404.class.php
+[06/15/2011 21:05:30] Template: 404
+[06/15/2011 21:05:30] Page Args: 
+[06/15/2011 21:05:30] Array
+(
+)
+
+[06/15/2011 21:05:31] Original URI: /admin/mapeditor
+[06/15/2011 21:05:31] Mod URI: /admin/mapeditor
+[06/15/2011 21:05:31] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:05:31] admin.class.php
+[06/15/2011 21:05:31] Template: admin-mapeditor
+[06/15/2011 21:05:31] Page Args: 
+[06/15/2011 21:05:31] Array
+(
+)
+
+[06/15/2011 21:05:31] Original URI: /favicon.ico
+[06/15/2011 21:05:31] Mod URI: /favicon.ico
+[06/15/2011 21:05:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:05:32] Original URI: /404
+[06/15/2011 21:05:32] Mod URI: /404
+[06/15/2011 21:05:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:05:32] 404.class.php
+[06/15/2011 21:05:32] Template: 404
+[06/15/2011 21:05:32] Page Args: 
+[06/15/2011 21:05:32] Array
+(
+)
+
+[06/15/2011 21:11:28] Original URI: /admin/mapeditor
+[06/15/2011 21:11:28] Mod URI: /admin/mapeditor
+[06/15/2011 21:11:28] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:11:28] admin.class.php
+[06/15/2011 21:11:28] Template: admin-mapeditor
+[06/15/2011 21:11:28] Page Args: 
+[06/15/2011 21:11:28] Array
+(
+)
+
+[06/15/2011 21:11:31] Original URI: /favicon.ico
+[06/15/2011 21:11:31] Mod URI: /favicon.ico
+[06/15/2011 21:11:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:11:31] Original URI: /404
+[06/15/2011 21:11:31] Mod URI: /404
+[06/15/2011 21:11:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:11:31] 404.class.php
+[06/15/2011 21:11:31] Template: 404
+[06/15/2011 21:11:31] Page Args: 
+[06/15/2011 21:11:31] Array
+(
+)
+
+[06/15/2011 21:12:20] Original URI: /admin/mapeditor
+[06/15/2011 21:12:20] Mod URI: /admin/mapeditor
+[06/15/2011 21:12:20] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:12:20] admin.class.php
+[06/15/2011 21:12:20] Template: admin-mapeditor
+[06/15/2011 21:12:20] Page Args: 
+[06/15/2011 21:12:20] Array
+(
+)
+
+[06/15/2011 21:12:24] Original URI: /favicon.ico
+[06/15/2011 21:12:24] Mod URI: /favicon.ico
+[06/15/2011 21:12:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:12:24] Original URI: /404
+[06/15/2011 21:12:24] Mod URI: /404
+[06/15/2011 21:12:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:12:24] 404.class.php
+[06/15/2011 21:12:24] Template: 404
+[06/15/2011 21:12:24] Page Args: 
+[06/15/2011 21:12:24] Array
+(
+)
+
+[06/15/2011 21:13:20] Original URI: /admin/mapeditor
+[06/15/2011 21:13:20] Mod URI: /admin/mapeditor
+[06/15/2011 21:13:20] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:13:20] admin.class.php
+[06/15/2011 21:13:20] Template: admin-mapeditor
+[06/15/2011 21:13:20] Page Args: 
+[06/15/2011 21:13:20] Array
+(
+)
+
+[06/15/2011 21:13:24] Original URI: /favicon.ico
+[06/15/2011 21:13:24] Mod URI: /favicon.ico
+[06/15/2011 21:13:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:13:24] Original URI: /404
+[06/15/2011 21:13:24] Mod URI: /404
+[06/15/2011 21:13:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:13:24] 404.class.php
+[06/15/2011 21:13:24] Template: 404
+[06/15/2011 21:13:24] Page Args: 
+[06/15/2011 21:13:24] Array
+(
+)
+
+[06/15/2011 21:14:55] Original URI: /admin/mapeditor
+[06/15/2011 21:14:55] Mod URI: /admin/mapeditor
+[06/15/2011 21:14:55] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:14:55] admin.class.php
+[06/15/2011 21:14:55] Template: admin-mapeditor
+[06/15/2011 21:14:55] Page Args: 
+[06/15/2011 21:14:55] Array
+(
+)
+
+[06/15/2011 21:14:59] Original URI: /favicon.ico
+[06/15/2011 21:14:59] Mod URI: /favicon.ico
+[06/15/2011 21:14:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:14:59] Original URI: /404
+[06/15/2011 21:14:59] Mod URI: /404
+[06/15/2011 21:14:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:14:59] 404.class.php
+[06/15/2011 21:14:59] Template: 404
+[06/15/2011 21:14:59] Page Args: 
+[06/15/2011 21:14:59] Array
+(
+)
+
+[06/15/2011 21:19:32] Original URI: /admin/mapeditor
+[06/15/2011 21:19:32] Mod URI: /admin/mapeditor
+[06/15/2011 21:19:32] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:19:32] admin.class.php
+[06/15/2011 21:19:32] Template: admin-mapeditor
+[06/15/2011 21:19:32] Page Args: 
+[06/15/2011 21:19:32] Array
+(
+)
+
+[06/15/2011 21:19:35] Original URI: /favicon.ico
+[06/15/2011 21:19:35] Mod URI: /favicon.ico
+[06/15/2011 21:19:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:19:35] Original URI: /404
+[06/15/2011 21:19:35] Mod URI: /404
+[06/15/2011 21:19:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:19:35] 404.class.php
+[06/15/2011 21:19:35] Template: 404
+[06/15/2011 21:19:35] Page Args: 
+[06/15/2011 21:19:35] Array
+(
+)
+
+[06/15/2011 21:20:09] Original URI: /admin/mapeditor
+[06/15/2011 21:20:09] Mod URI: /admin/mapeditor
+[06/15/2011 21:20:09] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:20:09] admin.class.php
+[06/15/2011 21:20:09] Template: admin-mapeditor
+[06/15/2011 21:20:09] Page Args: 
+[06/15/2011 21:20:09] Array
+(
+)
+
+[06/15/2011 21:20:12] Original URI: /favicon.ico
+[06/15/2011 21:20:12] Mod URI: /favicon.ico
+[06/15/2011 21:20:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:20:12] Original URI: /404
+[06/15/2011 21:20:12] Mod URI: /404
+[06/15/2011 21:20:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:20:12] 404.class.php
+[06/15/2011 21:20:12] Template: 404
+[06/15/2011 21:20:12] Page Args: 
+[06/15/2011 21:20:12] Array
+(
+)
+
+[06/15/2011 21:20:48] Original URI: /admin/mapeditor
+[06/15/2011 21:20:48] Mod URI: /admin/mapeditor
+[06/15/2011 21:20:48] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:20:48] admin.class.php
+[06/15/2011 21:20:48] Template: admin-mapeditor
+[06/15/2011 21:20:48] Page Args: 
+[06/15/2011 21:20:48] Array
+(
+)
+
+[06/15/2011 21:20:52] Original URI: /favicon.ico
+[06/15/2011 21:20:52] Mod URI: /favicon.ico
+[06/15/2011 21:20:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:20:52] Original URI: /404
+[06/15/2011 21:20:52] Mod URI: /404
+[06/15/2011 21:20:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:20:52] 404.class.php
+[06/15/2011 21:20:52] Template: 404
+[06/15/2011 21:20:52] Page Args: 
+[06/15/2011 21:20:52] Array
+(
+)
+
+[06/15/2011 21:21:51] Original URI: /admin/mapeditor
+[06/15/2011 21:21:51] Mod URI: /admin/mapeditor
+[06/15/2011 21:21:51] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:21:51] admin.class.php
+[06/15/2011 21:21:51] Template: admin-mapeditor
+[06/15/2011 21:21:51] Page Args: 
+[06/15/2011 21:21:51] Array
+(
+)
+
+[06/15/2011 21:21:54] Original URI: /favicon.ico
+[06/15/2011 21:21:54] Mod URI: /favicon.ico
+[06/15/2011 21:21:54] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:21:54] Original URI: /404
+[06/15/2011 21:21:54] Mod URI: /404
+[06/15/2011 21:21:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:21:54] 404.class.php
+[06/15/2011 21:21:54] Template: 404
+[06/15/2011 21:21:54] Page Args: 
+[06/15/2011 21:21:54] Array
+(
+)
+
+[06/15/2011 21:22:31] Original URI: /admin/mapeditor
+[06/15/2011 21:22:31] Mod URI: /admin/mapeditor
+[06/15/2011 21:22:31] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:22:31] admin.class.php
+[06/15/2011 21:22:31] Template: admin-mapeditor
+[06/15/2011 21:22:31] Page Args: 
+[06/15/2011 21:22:31] Array
+(
+)
+
+[06/15/2011 21:22:34] Original URI: /favicon.ico
+[06/15/2011 21:22:34] Mod URI: /favicon.ico
+[06/15/2011 21:22:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:22:34] Original URI: /404
+[06/15/2011 21:22:34] Mod URI: /404
+[06/15/2011 21:22:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:22:34] 404.class.php
+[06/15/2011 21:22:34] Template: 404
+[06/15/2011 21:22:34] Page Args: 
+[06/15/2011 21:22:34] Array
+(
+)
+
+[06/15/2011 21:23:25] Original URI: /admin/mapeditor
+[06/15/2011 21:23:25] Mod URI: /admin/mapeditor
+[06/15/2011 21:23:25] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:23:25] admin.class.php
+[06/15/2011 21:23:25] Template: admin-mapeditor
+[06/15/2011 21:23:25] Page Args: 
+[06/15/2011 21:23:25] Array
+(
+)
+
+[06/15/2011 21:23:28] Original URI: /favicon.ico
+[06/15/2011 21:23:28] Mod URI: /favicon.ico
+[06/15/2011 21:23:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:23:28] Original URI: /404
+[06/15/2011 21:23:28] Mod URI: /404
+[06/15/2011 21:23:28] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:23:28] 404.class.php
+[06/15/2011 21:23:28] Template: 404
+[06/15/2011 21:23:28] Page Args: 
+[06/15/2011 21:23:28] Array
+(
+)
+
+[06/15/2011 21:23:56] Original URI: /admin/mapeditor
+[06/15/2011 21:23:56] Mod URI: /admin/mapeditor
+[06/15/2011 21:23:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:23:56] admin.class.php
+[06/15/2011 21:23:56] Template: admin-mapeditor
+[06/15/2011 21:23:56] Page Args: 
+[06/15/2011 21:23:56] Array
+(
+)
+
+[06/15/2011 21:23:59] Original URI: /favicon.ico
+[06/15/2011 21:23:59] Mod URI: /favicon.ico
+[06/15/2011 21:23:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:23:59] Original URI: /404
+[06/15/2011 21:23:59] Mod URI: /404
+[06/15/2011 21:23:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:23:59] 404.class.php
+[06/15/2011 21:23:59] Template: 404
+[06/15/2011 21:23:59] Page Args: 
+[06/15/2011 21:23:59] Array
+(
+)
+
+[06/15/2011 21:24:47] Original URI: /admin/mapeditor
+[06/15/2011 21:24:47] Mod URI: /admin/mapeditor
+[06/15/2011 21:24:47] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:24:47] admin.class.php
+[06/15/2011 21:24:47] Template: admin-mapeditor
+[06/15/2011 21:24:47] Page Args: 
+[06/15/2011 21:24:47] Array
+(
+)
+
+[06/15/2011 21:24:50] Original URI: /favicon.ico
+[06/15/2011 21:24:50] Mod URI: /favicon.ico
+[06/15/2011 21:24:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:24:50] Original URI: /404
+[06/15/2011 21:24:50] Mod URI: /404
+[06/15/2011 21:24:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:24:50] 404.class.php
+[06/15/2011 21:24:50] Template: 404
+[06/15/2011 21:24:50] Page Args: 
+[06/15/2011 21:24:50] Array
+(
+)
+
+[06/15/2011 21:25:18] Original URI: /admin/mapeditor
+[06/15/2011 21:25:18] Mod URI: /admin/mapeditor
+[06/15/2011 21:25:18] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:25:18] admin.class.php
+[06/15/2011 21:25:18] Template: admin-mapeditor
+[06/15/2011 21:25:18] Page Args: 
+[06/15/2011 21:25:18] Array
+(
+)
+
+[06/15/2011 21:25:50] Original URI: /admin/mapeditor
+[06/15/2011 21:25:50] Mod URI: /admin/mapeditor
+[06/15/2011 21:25:50] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:25:50] admin.class.php
+[06/15/2011 21:25:50] Template: admin-mapeditor
+[06/15/2011 21:25:50] Page Args: 
+[06/15/2011 21:25:50] Array
+(
+)
+
+[06/15/2011 21:25:56] Original URI: /admin/mapeditor
+[06/15/2011 21:25:56] Mod URI: /admin/mapeditor
+[06/15/2011 21:25:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:25:56] admin.class.php
+[06/15/2011 21:25:56] Template: admin-mapeditor
+[06/15/2011 21:25:56] Page Args: 
+[06/15/2011 21:25:56] Array
+(
+)
+
+[06/15/2011 21:25:57] Original URI: /admin/mapeditor
+[06/15/2011 21:25:57] Mod URI: /admin/mapeditor
+[06/15/2011 21:25:57] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:25:57] admin.class.php
+[06/15/2011 21:25:57] Template: admin-mapeditor
+[06/15/2011 21:25:57] Page Args: 
+[06/15/2011 21:25:57] Array
+(
+)
+
+[06/15/2011 21:25:59] Original URI: /admin
+[06/15/2011 21:25:59] Mod URI: /admin
+[06/15/2011 21:25:59] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 21:25:59] admin.class.php
+[06/15/2011 21:25:59] Template: admin
+[06/15/2011 21:25:59] Page Args: 
+[06/15/2011 21:25:59] Array
+(
+)
+
+[06/15/2011 21:25:59] Original URI: /admin/mapeditor
+[06/15/2011 21:25:59] Mod URI: /admin/mapeditor
+[06/15/2011 21:25:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:25:59] admin.class.php
+[06/15/2011 21:25:59] Template: admin-mapeditor
+[06/15/2011 21:25:59] Page Args: 
+[06/15/2011 21:25:59] Array
+(
+)
+
+[06/15/2011 21:26:31] Original URI: /admin
+[06/15/2011 21:26:31] Mod URI: /admin
+[06/15/2011 21:26:31] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 21:26:31] admin.class.php
+[06/15/2011 21:26:31] Template: admin
+[06/15/2011 21:26:31] Page Args: 
+[06/15/2011 21:26:31] Array
+(
+)
+
+[06/15/2011 21:26:56] Original URI: /admin/mapeditor
+[06/15/2011 21:26:56] Mod URI: /admin/mapeditor
+[06/15/2011 21:26:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:26:56] admin.class.php
+[06/15/2011 21:26:56] Template: admin-mapeditor
+[06/15/2011 21:26:56] Page Args: 
+[06/15/2011 21:26:56] Array
+(
+)
+
+[06/15/2011 21:27:37] Original URI: /admin/mapeditor
+[06/15/2011 21:27:37] Mod URI: /admin/mapeditor
+[06/15/2011 21:27:37] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:27:37] admin.class.php
+[06/15/2011 21:27:37] Template: admin-mapeditor
+[06/15/2011 21:27:37] Page Args: 
+[06/15/2011 21:27:37] Array
+(
+)
+
+[06/15/2011 21:28:39] Original URI: 
+[06/15/2011 21:28:39] Mod URI: 
+[06/15/2011 21:28:39] Template: index
+[06/15/2011 21:28:39] Page Args: 
+[06/15/2011 21:28:39] 
+[06/15/2011 21:28:40] Original URI: /favicon.ico
+[06/15/2011 21:28:40] Mod URI: /favicon.ico
+[06/15/2011 21:28:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:28:40] Original URI: /404
+[06/15/2011 21:28:40] Mod URI: /404
+[06/15/2011 21:28:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:28:40] 404.class.php
+[06/15/2011 21:28:40] Template: 404
+[06/15/2011 21:28:40] Page Args: 
+[06/15/2011 21:28:40] Array
+(
+)
+
+[06/15/2011 21:28:41] Original URI: /admin
+[06/15/2011 21:28:41] Mod URI: /admin
+[06/15/2011 21:28:41] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 21:28:41] admin.class.php
+[06/15/2011 21:28:41] Template: admin
+[06/15/2011 21:28:41] Page Args: 
+[06/15/2011 21:28:41] Array
+(
+)
+
+[06/15/2011 21:28:41] Original URI: /favicon.ico
+[06/15/2011 21:28:41] Mod URI: /favicon.ico
+[06/15/2011 21:28:41] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:28:41] Original URI: /404
+[06/15/2011 21:28:41] Mod URI: /404
+[06/15/2011 21:28:41] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:28:41] 404.class.php
+[06/15/2011 21:28:41] Template: 404
+[06/15/2011 21:28:41] Page Args: 
+[06/15/2011 21:28:41] Array
+(
+)
+
+[06/15/2011 21:28:42] Original URI: /admin/mapeditor
+[06/15/2011 21:28:42] Mod URI: /admin/mapeditor
+[06/15/2011 21:28:42] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:28:42] admin.class.php
+[06/15/2011 21:28:42] Template: admin-mapeditor
+[06/15/2011 21:28:42] Page Args: 
+[06/15/2011 21:28:42] Array
+(
+)
+
+[06/15/2011 21:28:43] Original URI: /favicon.ico
+[06/15/2011 21:28:43] Mod URI: /favicon.ico
+[06/15/2011 21:28:43] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:28:43] Original URI: /404
+[06/15/2011 21:28:43] Mod URI: /404
+[06/15/2011 21:28:43] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:28:43] 404.class.php
+[06/15/2011 21:28:43] Template: 404
+[06/15/2011 21:28:43] Page Args: 
+[06/15/2011 21:28:43] Array
+(
+)
+
+[06/15/2011 21:29:24] Original URI: /admin/mapeditor
+[06/15/2011 21:29:24] Mod URI: /admin/mapeditor
+[06/15/2011 21:29:24] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:29:24] admin.class.php
+[06/15/2011 21:29:24] Template: admin-mapeditor
+[06/15/2011 21:29:24] Page Args: 
+[06/15/2011 21:29:24] Array
+(
+)
+
+[06/15/2011 21:29:30] Original URI: 
+[06/15/2011 21:29:30] Mod URI: 
+[06/15/2011 21:29:30] Template: index
+[06/15/2011 21:29:30] Page Args: 
+[06/15/2011 21:29:30] 
+[06/15/2011 21:29:30] Original URI: /favicon.ico
+[06/15/2011 21:29:30] Mod URI: /favicon.ico
+[06/15/2011 21:29:30] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:29:30] Original URI: /404
+[06/15/2011 21:29:30] Mod URI: /404
+[06/15/2011 21:29:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:29:30] 404.class.php
+[06/15/2011 21:29:30] Template: 404
+[06/15/2011 21:29:30] Page Args: 
+[06/15/2011 21:29:30] Array
+(
+)
+
+[06/15/2011 21:29:32] Original URI: /admin
+[06/15/2011 21:29:32] Mod URI: /admin
+[06/15/2011 21:29:32] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 21:29:32] admin.class.php
+[06/15/2011 21:29:32] Template: admin
+[06/15/2011 21:29:32] Page Args: 
+[06/15/2011 21:29:32] Array
+(
+)
+
+[06/15/2011 21:29:32] Original URI: /favicon.ico
+[06/15/2011 21:29:32] Mod URI: /favicon.ico
+[06/15/2011 21:29:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:29:32] Original URI: /404
+[06/15/2011 21:29:32] Mod URI: /404
+[06/15/2011 21:29:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:29:32] 404.class.php
+[06/15/2011 21:29:32] Template: 404
+[06/15/2011 21:29:32] Page Args: 
+[06/15/2011 21:29:32] Array
+(
+)
+
+[06/15/2011 21:29:32] Original URI: /admin/mapeditor
+[06/15/2011 21:29:32] Mod URI: /admin/mapeditor
+[06/15/2011 21:29:32] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:29:32] admin.class.php
+[06/15/2011 21:29:32] Template: admin-mapeditor
+[06/15/2011 21:29:32] Page Args: 
+[06/15/2011 21:29:32] Array
+(
+)
+
+[06/15/2011 21:29:33] Original URI: /favicon.ico
+[06/15/2011 21:29:33] Mod URI: /favicon.ico
+[06/15/2011 21:29:33] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:29:33] Original URI: /404
+[06/15/2011 21:29:33] Mod URI: /404
+[06/15/2011 21:29:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:29:33] 404.class.php
+[06/15/2011 21:29:33] Template: 404
+[06/15/2011 21:29:33] Page Args: 
+[06/15/2011 21:29:33] Array
+(
+)
+
+[06/15/2011 21:30:22] Original URI: /admin/mapeditor
+[06/15/2011 21:30:22] Mod URI: /admin/mapeditor
+[06/15/2011 21:30:22] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:30:22] admin.class.php
+[06/15/2011 21:30:22] Template: admin-mapeditor
+[06/15/2011 21:30:22] Page Args: 
+[06/15/2011 21:30:22] Array
+(
+)
+
+[06/15/2011 21:30:23] Original URI: /favicon.ico
+[06/15/2011 21:30:23] Mod URI: /favicon.ico
+[06/15/2011 21:30:23] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:30:23] Original URI: /404
+[06/15/2011 21:30:23] Mod URI: /404
+[06/15/2011 21:30:23] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:30:23] 404.class.php
+[06/15/2011 21:30:23] Template: 404
+[06/15/2011 21:30:23] Page Args: 
+[06/15/2011 21:30:23] Array
+(
+)
+
+[06/15/2011 21:30:56] Original URI: /admin/mapeditor
+[06/15/2011 21:30:56] Mod URI: /admin/mapeditor
+[06/15/2011 21:30:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:30:56] admin.class.php
+[06/15/2011 21:30:56] Template: admin-mapeditor
+[06/15/2011 21:30:56] Page Args: 
+[06/15/2011 21:30:56] Array
+(
+)
+
+[06/15/2011 21:30:59] Original URI: /favicon.ico
+[06/15/2011 21:30:59] Mod URI: /favicon.ico
+[06/15/2011 21:30:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:30:59] Original URI: /404
+[06/15/2011 21:30:59] Mod URI: /404
+[06/15/2011 21:30:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:30:59] 404.class.php
+[06/15/2011 21:30:59] Template: 404
+[06/15/2011 21:30:59] Page Args: 
+[06/15/2011 21:30:59] Array
+(
+)
+
+[06/15/2011 21:32:07] Original URI: /admin/mapeditor
+[06/15/2011 21:32:07] Mod URI: /admin/mapeditor
+[06/15/2011 21:32:07] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:32:07] admin.class.php
+[06/15/2011 21:32:07] Template: admin-mapeditor
+[06/15/2011 21:32:07] Page Args: 
+[06/15/2011 21:32:07] Array
+(
+)
+
+[06/15/2011 21:32:11] Original URI: /favicon.ico
+[06/15/2011 21:32:11] Mod URI: /favicon.ico
+[06/15/2011 21:32:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:32:11] Original URI: /404
+[06/15/2011 21:32:11] Mod URI: /404
+[06/15/2011 21:32:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:32:11] 404.class.php
+[06/15/2011 21:32:11] Template: 404
+[06/15/2011 21:32:11] Page Args: 
+[06/15/2011 21:32:11] Array
+(
+)
+
+[06/15/2011 21:33:38] Original URI: /admin/mapeditor
+[06/15/2011 21:33:38] Mod URI: /admin/mapeditor
+[06/15/2011 21:33:38] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:33:38] admin.class.php
+[06/15/2011 21:33:38] Template: admin-mapeditor
+[06/15/2011 21:33:38] Page Args: 
+[06/15/2011 21:33:38] Array
+(
+)
+
+[06/15/2011 21:33:38] Original URI: /favicon.ico
+[06/15/2011 21:33:38] Mod URI: /favicon.ico
+[06/15/2011 21:33:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:33:38] Original URI: /404
+[06/15/2011 21:33:38] Mod URI: /404
+[06/15/2011 21:33:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:33:38] 404.class.php
+[06/15/2011 21:33:38] Template: 404
+[06/15/2011 21:33:38] Page Args: 
+[06/15/2011 21:33:38] Array
+(
+)
+
+[06/15/2011 21:33:49] Original URI: /admin/mapeditor
+[06/15/2011 21:33:49] Mod URI: /admin/mapeditor
+[06/15/2011 21:33:49] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:33:49] admin.class.php
+[06/15/2011 21:33:49] Template: admin-mapeditor
+[06/15/2011 21:33:49] Page Args: 
+[06/15/2011 21:33:49] Array
+(
+)
+
+[06/15/2011 21:33:49] Original URI: /favicon.ico
+[06/15/2011 21:33:49] Mod URI: /favicon.ico
+[06/15/2011 21:33:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:33:49] Original URI: /404
+[06/15/2011 21:33:49] Mod URI: /404
+[06/15/2011 21:33:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:33:49] 404.class.php
+[06/15/2011 21:33:49] Template: 404
+[06/15/2011 21:33:49] Page Args: 
+[06/15/2011 21:33:49] Array
+(
+)
+
+[06/15/2011 21:34:06] Original URI: /admin/mapeditor
+[06/15/2011 21:34:06] Mod URI: /admin/mapeditor
+[06/15/2011 21:34:06] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:34:06] admin.class.php
+[06/15/2011 21:34:06] Template: admin-mapeditor
+[06/15/2011 21:34:06] Page Args: 
+[06/15/2011 21:34:06] Array
+(
+)
+
+[06/15/2011 21:34:09] Original URI: /favicon.ico
+[06/15/2011 21:34:09] Mod URI: /favicon.ico
+[06/15/2011 21:34:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:34:09] Original URI: /404
+[06/15/2011 21:34:09] Mod URI: /404
+[06/15/2011 21:34:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:34:09] 404.class.php
+[06/15/2011 21:34:09] Template: 404
+[06/15/2011 21:34:09] Page Args: 
+[06/15/2011 21:34:09] Array
+(
+)
+
+[06/15/2011 21:34:43] Original URI: /admin/mapeditor
+[06/15/2011 21:34:43] Mod URI: /admin/mapeditor
+[06/15/2011 21:34:43] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:34:43] admin.class.php
+[06/15/2011 21:34:43] Template: admin-mapeditor
+[06/15/2011 21:34:43] Page Args: 
+[06/15/2011 21:34:43] Array
+(
+)
+
+[06/15/2011 21:34:46] Original URI: /favicon.ico
+[06/15/2011 21:34:46] Mod URI: /favicon.ico
+[06/15/2011 21:34:46] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:34:46] Original URI: /404
+[06/15/2011 21:34:46] Mod URI: /404
+[06/15/2011 21:34:46] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:34:46] 404.class.php
+[06/15/2011 21:34:46] Template: 404
+[06/15/2011 21:34:46] Page Args: 
+[06/15/2011 21:34:46] Array
+(
+)
+
+[06/15/2011 21:35:21] Original URI: /admin/mapeditor
+[06/15/2011 21:35:21] Mod URI: /admin/mapeditor
+[06/15/2011 21:35:21] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:35:21] admin.class.php
+[06/15/2011 21:35:21] Template: admin-mapeditor
+[06/15/2011 21:35:21] Page Args: 
+[06/15/2011 21:35:21] Array
+(
+)
+
+[06/15/2011 21:35:24] Original URI: /favicon.ico
+[06/15/2011 21:35:24] Mod URI: /favicon.ico
+[06/15/2011 21:35:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:35:24] Original URI: /404
+[06/15/2011 21:35:24] Mod URI: /404
+[06/15/2011 21:35:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:35:24] 404.class.php
+[06/15/2011 21:35:24] Template: 404
+[06/15/2011 21:35:24] Page Args: 
+[06/15/2011 21:35:24] Array
+(
+)
+
+[06/15/2011 21:36:31] Original URI: /admin/mapeditor
+[06/15/2011 21:36:31] Mod URI: /admin/mapeditor
+[06/15/2011 21:36:31] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:36:31] admin.class.php
+[06/15/2011 21:36:31] Template: admin-mapeditor
+[06/15/2011 21:36:31] Page Args: 
+[06/15/2011 21:36:31] Array
+(
+)
+
+[06/15/2011 21:36:35] Original URI: /favicon.ico
+[06/15/2011 21:36:35] Mod URI: /favicon.ico
+[06/15/2011 21:36:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:36:35] Original URI: /404
+[06/15/2011 21:36:35] Mod URI: /404
+[06/15/2011 21:36:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:36:35] 404.class.php
+[06/15/2011 21:36:35] Template: 404
+[06/15/2011 21:36:35] Page Args: 
+[06/15/2011 21:36:35] Array
+(
+)
+
+[06/15/2011 21:37:27] Original URI: /admin/mapeditor
+[06/15/2011 21:37:27] Mod URI: /admin/mapeditor
+[06/15/2011 21:37:27] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:37:27] admin.class.php
+[06/15/2011 21:37:27] Template: admin-mapeditor
+[06/15/2011 21:37:27] Page Args: 
+[06/15/2011 21:37:27] Array
+(
+)
+
+[06/15/2011 21:37:31] Original URI: /favicon.ico
+[06/15/2011 21:37:31] Mod URI: /favicon.ico
+[06/15/2011 21:37:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:37:31] Original URI: /404
+[06/15/2011 21:37:31] Mod URI: /404
+[06/15/2011 21:37:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:37:31] 404.class.php
+[06/15/2011 21:37:31] Template: 404
+[06/15/2011 21:37:31] Page Args: 
+[06/15/2011 21:37:31] Array
+(
+)
+
+[06/15/2011 21:38:02] Original URI: /admin/mapeditor
+[06/15/2011 21:38:02] Mod URI: /admin/mapeditor
+[06/15/2011 21:38:02] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:38:02] admin.class.php
+[06/15/2011 21:38:02] Template: admin-mapeditor
+[06/15/2011 21:38:02] Page Args: 
+[06/15/2011 21:38:02] Array
+(
+)
+
+[06/15/2011 21:38:05] Original URI: /favicon.ico
+[06/15/2011 21:38:05] Mod URI: /favicon.ico
+[06/15/2011 21:38:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:38:05] Original URI: /404
+[06/15/2011 21:38:05] Mod URI: /404
+[06/15/2011 21:38:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:38:05] 404.class.php
+[06/15/2011 21:38:05] Template: 404
+[06/15/2011 21:38:05] Page Args: 
+[06/15/2011 21:38:05] Array
+(
+)
+
+[06/15/2011 21:38:30] Original URI: /admin/mapeditor
+[06/15/2011 21:38:30] Mod URI: /admin/mapeditor
+[06/15/2011 21:38:30] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:38:30] admin.class.php
+[06/15/2011 21:38:30] Template: admin-mapeditor
+[06/15/2011 21:38:30] Page Args: 
+[06/15/2011 21:38:30] Array
+(
+)
+
+[06/15/2011 21:38:30] Original URI: /favicon.ico
+[06/15/2011 21:38:30] Mod URI: /favicon.ico
+[06/15/2011 21:38:30] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:38:30] Original URI: /404
+[06/15/2011 21:38:31] Mod URI: /404
+[06/15/2011 21:38:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:38:31] 404.class.php
+[06/15/2011 21:38:31] Template: 404
+[06/15/2011 21:38:31] Page Args: 
+[06/15/2011 21:38:31] Array
+(
+)
+
+[06/15/2011 21:39:26] Original URI: /admin/mapeditor
+[06/15/2011 21:39:26] Mod URI: /admin/mapeditor
+[06/15/2011 21:39:26] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:39:26] admin.class.php
+[06/15/2011 21:39:26] Template: admin-mapeditor
+[06/15/2011 21:39:26] Page Args: 
+[06/15/2011 21:39:26] Array
+(
+)
+
+[06/15/2011 21:39:29] Original URI: /favicon.ico
+[06/15/2011 21:39:29] Mod URI: /favicon.ico
+[06/15/2011 21:39:29] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:39:29] Original URI: /404
+[06/15/2011 21:39:29] Mod URI: /404
+[06/15/2011 21:39:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:39:29] 404.class.php
+[06/15/2011 21:39:29] Template: 404
+[06/15/2011 21:39:29] Page Args: 
+[06/15/2011 21:39:29] Array
+(
+)
+
+[06/15/2011 21:39:40] Original URI: /admin/mapeditor
+[06/15/2011 21:39:40] Mod URI: /admin/mapeditor
+[06/15/2011 21:39:40] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:39:40] admin.class.php
+[06/15/2011 21:39:40] Template: admin-mapeditor
+[06/15/2011 21:39:40] Page Args: 
+[06/15/2011 21:39:40] Array
+(
+)
+
+[06/15/2011 21:39:40] Original URI: /favicon.ico
+[06/15/2011 21:39:40] Mod URI: /favicon.ico
+[06/15/2011 21:39:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:39:40] Original URI: /404
+[06/15/2011 21:39:40] Mod URI: /404
+[06/15/2011 21:39:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:39:40] 404.class.php
+[06/15/2011 21:39:40] Template: 404
+[06/15/2011 21:39:40] Page Args: 
+[06/15/2011 21:39:40] Array
+(
+)
+
+[06/15/2011 21:39:59] Original URI: /admin/mapeditor
+[06/15/2011 21:39:59] Mod URI: /admin/mapeditor
+[06/15/2011 21:39:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:39:59] admin.class.php
+[06/15/2011 21:39:59] Template: admin-mapeditor
+[06/15/2011 21:39:59] Page Args: 
+[06/15/2011 21:39:59] Array
+(
+)
+
+[06/15/2011 21:40:02] Original URI: /favicon.ico
+[06/15/2011 21:40:02] Mod URI: /favicon.ico
+[06/15/2011 21:40:02] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:40:02] Original URI: /404
+[06/15/2011 21:40:02] Mod URI: /404
+[06/15/2011 21:40:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:40:02] 404.class.php
+[06/15/2011 21:40:02] Template: 404
+[06/15/2011 21:40:02] Page Args: 
+[06/15/2011 21:40:02] Array
+(
+)
+
+[06/15/2011 21:40:29] Original URI: /admin/mapeditor
+[06/15/2011 21:40:29] Mod URI: /admin/mapeditor
+[06/15/2011 21:40:29] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:40:29] admin.class.php
+[06/15/2011 21:40:29] Template: admin-mapeditor
+[06/15/2011 21:40:29] Page Args: 
+[06/15/2011 21:40:29] Array
+(
+)
+
+[06/15/2011 21:40:32] Original URI: /favicon.ico
+[06/15/2011 21:40:32] Mod URI: /favicon.ico
+[06/15/2011 21:40:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:40:32] Original URI: /404
+[06/15/2011 21:40:32] Mod URI: /404
+[06/15/2011 21:40:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:40:32] 404.class.php
+[06/15/2011 21:40:32] Template: 404
+[06/15/2011 21:40:32] Page Args: 
+[06/15/2011 21:40:32] Array
+(
+)
+
+[06/15/2011 21:40:50] Original URI: /admin/mapeditor
+[06/15/2011 21:40:50] Mod URI: /admin/mapeditor
+[06/15/2011 21:40:50] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:40:50] admin.class.php
+[06/15/2011 21:40:50] Template: admin-mapeditor
+[06/15/2011 21:40:50] Page Args: 
+[06/15/2011 21:40:50] Array
+(
+)
+
+[06/15/2011 21:40:51] Original URI: /favicon.ico
+[06/15/2011 21:40:51] Mod URI: /favicon.ico
+[06/15/2011 21:40:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:40:51] Original URI: /404
+[06/15/2011 21:40:51] Mod URI: /404
+[06/15/2011 21:40:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:40:51] 404.class.php
+[06/15/2011 21:40:51] Template: 404
+[06/15/2011 21:40:51] Page Args: 
+[06/15/2011 21:40:51] Array
+(
+)
+
+[06/15/2011 21:42:11] Original URI: /admin/mapeditor
+[06/15/2011 21:42:11] Mod URI: /admin/mapeditor
+[06/15/2011 21:42:11] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:42:11] admin.class.php
+[06/15/2011 21:42:11] Template: admin-mapeditor
+[06/15/2011 21:42:11] Page Args: 
+[06/15/2011 21:42:11] Array
+(
+)
+
+[06/15/2011 21:42:14] Original URI: /favicon.ico
+[06/15/2011 21:42:14] Mod URI: /favicon.ico
+[06/15/2011 21:42:14] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:42:15] Original URI: /404
+[06/15/2011 21:42:15] Mod URI: /404
+[06/15/2011 21:42:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:42:15] 404.class.php
+[06/15/2011 21:42:15] Template: 404
+[06/15/2011 21:42:15] Page Args: 
+[06/15/2011 21:42:15] Array
+(
+)
+
+[06/15/2011 21:43:07] Original URI: /admin/mapeditor
+[06/15/2011 21:43:07] Mod URI: /admin/mapeditor
+[06/15/2011 21:43:07] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:43:07] admin.class.php
+[06/15/2011 21:43:07] Template: admin-mapeditor
+[06/15/2011 21:43:07] Page Args: 
+[06/15/2011 21:43:07] Array
+(
+)
+
+[06/15/2011 21:43:11] Original URI: /favicon.ico
+[06/15/2011 21:43:11] Mod URI: /favicon.ico
+[06/15/2011 21:43:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:43:11] Original URI: /404
+[06/15/2011 21:43:11] Mod URI: /404
+[06/15/2011 21:43:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:43:11] 404.class.php
+[06/15/2011 21:43:11] Template: 404
+[06/15/2011 21:43:11] Page Args: 
+[06/15/2011 21:43:11] Array
+(
+)
+
+[06/15/2011 21:43:12] Original URI: /admin/mapeditor
+[06/15/2011 21:43:12] Mod URI: /admin/mapeditor
+[06/15/2011 21:43:12] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:43:12] admin.class.php
+[06/15/2011 21:43:12] Template: admin-mapeditor
+[06/15/2011 21:43:12] Page Args: 
+[06/15/2011 21:43:12] Array
+(
+)
+
+[06/15/2011 21:43:12] Original URI: /favicon.ico
+[06/15/2011 21:43:12] Mod URI: /favicon.ico
+[06/15/2011 21:43:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:43:12] Original URI: /404
+[06/15/2011 21:43:12] Mod URI: /404
+[06/15/2011 21:43:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:43:12] 404.class.php
+[06/15/2011 21:43:12] Template: 404
+[06/15/2011 21:43:12] Page Args: 
+[06/15/2011 21:43:12] Array
+(
+)
+
+[06/15/2011 21:44:06] Original URI: /admin/mapeditor
+[06/15/2011 21:44:06] Mod URI: /admin/mapeditor
+[06/15/2011 21:44:06] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:44:06] admin.class.php
+[06/15/2011 21:44:06] Template: admin-mapeditor
+[06/15/2011 21:44:06] Page Args: 
+[06/15/2011 21:44:06] Array
+(
+)
+
+[06/15/2011 21:44:09] Original URI: /favicon.ico
+[06/15/2011 21:44:09] Mod URI: /favicon.ico
+[06/15/2011 21:44:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:44:09] Original URI: /404
+[06/15/2011 21:44:09] Mod URI: /404
+[06/15/2011 21:44:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:44:09] 404.class.php
+[06/15/2011 21:44:09] Template: 404
+[06/15/2011 21:44:09] Page Args: 
+[06/15/2011 21:44:09] Array
+(
+)
+
+[06/15/2011 21:44:59] Original URI: /admin/mapeditor
+[06/15/2011 21:44:59] Mod URI: /admin/mapeditor
+[06/15/2011 21:44:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:44:59] admin.class.php
+[06/15/2011 21:44:59] Template: admin-mapeditor
+[06/15/2011 21:44:59] Page Args: 
+[06/15/2011 21:44:59] Array
+(
+)
+
+[06/15/2011 21:45:02] Original URI: /favicon.ico
+[06/15/2011 21:45:02] Mod URI: /favicon.ico
+[06/15/2011 21:45:02] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:45:02] Original URI: /404
+[06/15/2011 21:45:02] Mod URI: /404
+[06/15/2011 21:45:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:45:02] 404.class.php
+[06/15/2011 21:45:02] Template: 404
+[06/15/2011 21:45:02] Page Args: 
+[06/15/2011 21:45:02] Array
+(
+)
+
+[06/15/2011 21:45:31] Original URI: /admin/mapeditor
+[06/15/2011 21:45:31] Mod URI: /admin/mapeditor
+[06/15/2011 21:45:31] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:45:31] admin.class.php
+[06/15/2011 21:45:31] Template: admin-mapeditor
+[06/15/2011 21:45:31] Page Args: 
+[06/15/2011 21:45:31] Array
+(
+)
+
+[06/15/2011 21:45:34] Original URI: /favicon.ico
+[06/15/2011 21:45:34] Mod URI: /favicon.ico
+[06/15/2011 21:45:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:45:34] Original URI: /404
+[06/15/2011 21:45:34] Mod URI: /404
+[06/15/2011 21:45:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:45:34] 404.class.php
+[06/15/2011 21:45:34] Template: 404
+[06/15/2011 21:45:34] Page Args: 
+[06/15/2011 21:45:34] Array
+(
+)
+
+[06/15/2011 21:46:48] Original URI: /admin/mapeditor
+[06/15/2011 21:46:48] Mod URI: /admin/mapeditor
+[06/15/2011 21:46:48] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:46:48] admin.class.php
+[06/15/2011 21:46:48] Template: admin-mapeditor
+[06/15/2011 21:46:48] Page Args: 
+[06/15/2011 21:46:48] Array
+(
+)
+
+[06/15/2011 21:46:52] Original URI: /favicon.ico
+[06/15/2011 21:46:52] Mod URI: /favicon.ico
+[06/15/2011 21:46:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:46:52] Original URI: /404
+[06/15/2011 21:46:52] Mod URI: /404
+[06/15/2011 21:46:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:46:52] 404.class.php
+[06/15/2011 21:46:52] Template: 404
+[06/15/2011 21:46:52] Page Args: 
+[06/15/2011 21:46:52] Array
+(
+)
+
+[06/15/2011 21:47:55] Original URI: /admin/mapeditor
+[06/15/2011 21:47:55] Mod URI: /admin/mapeditor
+[06/15/2011 21:47:55] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:47:55] admin.class.php
+[06/15/2011 21:47:55] Template: admin-mapeditor
+[06/15/2011 21:47:55] Page Args: 
+[06/15/2011 21:47:55] Array
+(
+)
+
+[06/15/2011 21:47:59] Original URI: /favicon.ico
+[06/15/2011 21:47:59] Mod URI: /favicon.ico
+[06/15/2011 21:47:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:47:59] Original URI: /404
+[06/15/2011 21:47:59] Mod URI: /404
+[06/15/2011 21:47:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:47:59] 404.class.php
+[06/15/2011 21:47:59] Template: 404
+[06/15/2011 21:47:59] Page Args: 
+[06/15/2011 21:47:59] Array
+(
+)
+
+[06/15/2011 21:49:18] Original URI: /admin/mapeditor
+[06/15/2011 21:49:18] Mod URI: /admin/mapeditor
+[06/15/2011 21:49:18] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:49:18] admin.class.php
+[06/15/2011 21:49:18] Template: admin-mapeditor
+[06/15/2011 21:49:18] Page Args: 
+[06/15/2011 21:49:18] Array
+(
+)
+
+[06/15/2011 21:49:21] Original URI: /favicon.ico
+[06/15/2011 21:49:21] Mod URI: /favicon.ico
+[06/15/2011 21:49:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:49:21] Original URI: /404
+[06/15/2011 21:49:21] Mod URI: /404
+[06/15/2011 21:49:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:49:21] 404.class.php
+[06/15/2011 21:49:21] Template: 404
+[06/15/2011 21:49:21] Page Args: 
+[06/15/2011 21:49:21] Array
+(
+)
+
+[06/15/2011 21:49:40] Original URI: /admin/mapeditor
+[06/15/2011 21:49:40] Mod URI: /admin/mapeditor
+[06/15/2011 21:49:40] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:49:40] admin.class.php
+[06/15/2011 21:49:40] Template: admin-mapeditor
+[06/15/2011 21:49:40] Page Args: 
+[06/15/2011 21:49:40] Array
+(
+)
+
+[06/15/2011 21:49:41] Original URI: /favicon.ico
+[06/15/2011 21:49:41] Mod URI: /favicon.ico
+[06/15/2011 21:49:41] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:49:41] Original URI: /404
+[06/15/2011 21:49:41] Mod URI: /404
+[06/15/2011 21:49:41] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:49:41] 404.class.php
+[06/15/2011 21:49:41] Template: 404
+[06/15/2011 21:49:41] Page Args: 
+[06/15/2011 21:49:41] Array
+(
+)
+
+[06/15/2011 21:50:12] Original URI: /admin/mapeditor
+[06/15/2011 21:50:12] Mod URI: /admin/mapeditor
+[06/15/2011 21:50:12] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:50:12] admin.class.php
+[06/15/2011 21:50:12] Template: admin-mapeditor
+[06/15/2011 21:50:12] Page Args: 
+[06/15/2011 21:50:12] Array
+(
+)
+
+[06/15/2011 21:50:15] Original URI: /favicon.ico
+[06/15/2011 21:50:15] Mod URI: /favicon.ico
+[06/15/2011 21:50:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:50:15] Original URI: /404
+[06/15/2011 21:50:15] Mod URI: /404
+[06/15/2011 21:50:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:50:15] 404.class.php
+[06/15/2011 21:50:15] Template: 404
+[06/15/2011 21:50:15] Page Args: 
+[06/15/2011 21:50:15] Array
+(
+)
+
+[06/15/2011 21:51:22] Original URI: /admin/mapeditor
+[06/15/2011 21:51:22] Mod URI: /admin/mapeditor
+[06/15/2011 21:51:22] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:51:22] admin.class.php
+[06/15/2011 21:51:22] Template: admin-mapeditor
+[06/15/2011 21:51:22] Page Args: 
+[06/15/2011 21:51:22] Array
+(
+)
+
+[06/15/2011 21:51:25] Original URI: /favicon.ico
+[06/15/2011 21:51:25] Mod URI: /favicon.ico
+[06/15/2011 21:51:25] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:51:25] Original URI: /404
+[06/15/2011 21:51:25] Mod URI: /404
+[06/15/2011 21:51:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:51:25] 404.class.php
+[06/15/2011 21:51:25] Template: 404
+[06/15/2011 21:51:25] Page Args: 
+[06/15/2011 21:51:25] Array
+(
+)
+
+[06/15/2011 21:54:59] Original URI: /admin/mapeditor
+[06/15/2011 21:54:59] Mod URI: /admin/mapeditor
+[06/15/2011 21:54:59] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:54:59] admin.class.php
+[06/15/2011 21:54:59] Template: admin-mapeditor
+[06/15/2011 21:54:59] Page Args: 
+[06/15/2011 21:54:59] Array
+(
+)
+
+[06/15/2011 21:55:03] Original URI: /favicon.ico
+[06/15/2011 21:55:03] Mod URI: /favicon.ico
+[06/15/2011 21:55:03] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:55:03] Original URI: /404
+[06/15/2011 21:55:03] Mod URI: /404
+[06/15/2011 21:55:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:55:03] 404.class.php
+[06/15/2011 21:55:03] Template: 404
+[06/15/2011 21:55:03] Page Args: 
+[06/15/2011 21:55:03] Array
+(
+)
+
+[06/15/2011 21:57:15] Original URI: /admin/mapeditor
+[06/15/2011 21:57:15] Mod URI: /admin/mapeditor
+[06/15/2011 21:57:15] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 21:57:15] admin.class.php
+[06/15/2011 21:57:15] Template: admin-mapeditor
+[06/15/2011 21:57:15] Page Args: 
+[06/15/2011 21:57:15] Array
+(
+)
+
+[06/15/2011 21:57:19] Original URI: /favicon.ico
+[06/15/2011 21:57:19] Mod URI: /favicon.ico
+[06/15/2011 21:57:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 21:57:19] Original URI: /404
+[06/15/2011 21:57:19] Mod URI: /404
+[06/15/2011 21:57:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 21:57:19] 404.class.php
+[06/15/2011 21:57:19] Template: 404
+[06/15/2011 21:57:19] Page Args: 
+[06/15/2011 21:57:19] Array
+(
+)
+
+[06/15/2011 22:05:14] Original URI: /admin/mapeditor
+[06/15/2011 22:05:14] Mod URI: /admin/mapeditor
+[06/15/2011 22:05:14] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:05:14] admin.class.php
+[06/15/2011 22:05:14] Template: admin-mapeditor
+[06/15/2011 22:05:14] Page Args: 
+[06/15/2011 22:05:14] Array
+(
+)
+
+[06/15/2011 22:05:17] Original URI: /favicon.ico
+[06/15/2011 22:05:17] Mod URI: /favicon.ico
+[06/15/2011 22:05:17] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:05:17] Original URI: /404
+[06/15/2011 22:05:17] Mod URI: /404
+[06/15/2011 22:05:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:05:17] 404.class.php
+[06/15/2011 22:05:17] Template: 404
+[06/15/2011 22:05:17] Page Args: 
+[06/15/2011 22:05:17] Array
+(
+)
+
+[06/15/2011 22:07:27] Original URI: /admin/mapeditor
+[06/15/2011 22:07:27] Mod URI: /admin/mapeditor
+[06/15/2011 22:07:27] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:07:27] admin.class.php
+[06/15/2011 22:07:27] Template: admin-mapeditor
+[06/15/2011 22:07:27] Page Args: 
+[06/15/2011 22:07:27] Array
+(
+)
+
+[06/15/2011 22:07:30] Original URI: /favicon.ico
+[06/15/2011 22:07:30] Mod URI: /favicon.ico
+[06/15/2011 22:07:30] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:07:30] Original URI: /404
+[06/15/2011 22:07:30] Mod URI: /404
+[06/15/2011 22:07:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:07:30] 404.class.php
+[06/15/2011 22:07:30] Template: 404
+[06/15/2011 22:07:30] Page Args: 
+[06/15/2011 22:07:30] Array
+(
+)
+
+[06/15/2011 22:08:54] Original URI: 
+[06/15/2011 22:08:54] Mod URI: 
+[06/15/2011 22:08:54] Template: index
+[06/15/2011 22:08:54] Page Args: 
+[06/15/2011 22:08:54] 
+[06/15/2011 22:08:54] Original URI: /favicon.ico
+[06/15/2011 22:08:54] Mod URI: /favicon.ico
+[06/15/2011 22:08:54] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:08:54] Original URI: /404
+[06/15/2011 22:08:54] Mod URI: /404
+[06/15/2011 22:08:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:08:54] 404.class.php
+[06/15/2011 22:08:54] Template: 404
+[06/15/2011 22:08:54] Page Args: 
+[06/15/2011 22:08:54] Array
+(
+)
+
+[06/15/2011 22:08:56] Original URI: /admin
+[06/15/2011 22:08:56] Mod URI: /admin
+[06/15/2011 22:08:56] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 22:08:56] admin.class.php
+[06/15/2011 22:08:56] Template: admin
+[06/15/2011 22:08:56] Page Args: 
+[06/15/2011 22:08:56] Array
+(
+)
+
+[06/15/2011 22:08:56] Original URI: /favicon.ico
+[06/15/2011 22:08:56] Mod URI: /favicon.ico
+[06/15/2011 22:08:56] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:08:56] Original URI: /404
+[06/15/2011 22:08:56] Mod URI: /404
+[06/15/2011 22:08:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:08:56] 404.class.php
+[06/15/2011 22:08:56] Template: 404
+[06/15/2011 22:08:56] Page Args: 
+[06/15/2011 22:08:56] Array
+(
+)
+
+[06/15/2011 22:08:57] Original URI: /admin/mapeditor
+[06/15/2011 22:08:57] Mod URI: /admin/mapeditor
+[06/15/2011 22:08:57] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:08:57] admin.class.php
+[06/15/2011 22:08:57] Template: admin-mapeditor
+[06/15/2011 22:08:57] Page Args: 
+[06/15/2011 22:08:57] Array
+(
+)
+
+[06/15/2011 22:08:57] Original URI: /favicon.ico
+[06/15/2011 22:08:57] Mod URI: /favicon.ico
+[06/15/2011 22:08:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:08:57] Original URI: /404
+[06/15/2011 22:08:57] Mod URI: /404
+[06/15/2011 22:08:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:08:57] 404.class.php
+[06/15/2011 22:08:57] Template: 404
+[06/15/2011 22:08:57] Page Args: 
+[06/15/2011 22:08:57] Array
+(
+)
+
+[06/15/2011 22:10:13] Original URI: 
+[06/15/2011 22:10:13] Mod URI: 
+[06/15/2011 22:10:13] Template: index
+[06/15/2011 22:10:13] Page Args: 
+[06/15/2011 22:10:13] 
+[06/15/2011 22:10:14] Original URI: /favicon.ico
+[06/15/2011 22:10:14] Mod URI: /favicon.ico
+[06/15/2011 22:10:14] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:10:14] Original URI: /404
+[06/15/2011 22:10:14] Mod URI: /404
+[06/15/2011 22:10:14] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:10:14] 404.class.php
+[06/15/2011 22:10:14] Template: 404
+[06/15/2011 22:10:14] Page Args: 
+[06/15/2011 22:10:14] Array
+(
+)
+
+[06/15/2011 22:10:15] Original URI: /admin
+[06/15/2011 22:10:15] Mod URI: /admin
+[06/15/2011 22:10:15] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 22:10:15] admin.class.php
+[06/15/2011 22:10:15] Template: admin
+[06/15/2011 22:10:15] Page Args: 
+[06/15/2011 22:10:15] Array
+(
+)
+
+[06/15/2011 22:10:15] Original URI: /favicon.ico
+[06/15/2011 22:10:15] Mod URI: /favicon.ico
+[06/15/2011 22:10:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:10:15] Original URI: /404
+[06/15/2011 22:10:15] Mod URI: /404
+[06/15/2011 22:10:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:10:15] 404.class.php
+[06/15/2011 22:10:15] Template: 404
+[06/15/2011 22:10:15] Page Args: 
+[06/15/2011 22:10:15] Array
+(
+)
+
+[06/15/2011 22:11:00] Original URI: /admin/mapeditor
+[06/15/2011 22:11:00] Mod URI: /admin/mapeditor
+[06/15/2011 22:11:00] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:11:00] admin.class.php
+[06/15/2011 22:11:00] Template: admin-mapeditor
+[06/15/2011 22:11:00] Page Args: 
+[06/15/2011 22:11:00] Array
+(
+)
+
+[06/15/2011 22:11:00] Original URI: /favicon.ico
+[06/15/2011 22:11:00] Mod URI: /favicon.ico
+[06/15/2011 22:11:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:11:00] Original URI: /404
+[06/15/2011 22:11:00] Mod URI: /404
+[06/15/2011 22:11:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:11:00] 404.class.php
+[06/15/2011 22:11:00] Template: 404
+[06/15/2011 22:11:00] Page Args: 
+[06/15/2011 22:11:00] Array
+(
+)
+
+[06/15/2011 22:11:05] Original URI: /admin/mapeditor
+[06/15/2011 22:11:05] Mod URI: /admin/mapeditor
+[06/15/2011 22:11:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:11:05] admin.class.php
+[06/15/2011 22:11:05] Template: admin-mapeditor
+[06/15/2011 22:11:05] Page Args: 
+[06/15/2011 22:11:05] Array
+(
+)
+
+[06/15/2011 22:11:05] Original URI: /favicon.ico
+[06/15/2011 22:11:05] Mod URI: /favicon.ico
+[06/15/2011 22:11:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:11:06] Original URI: /404
+[06/15/2011 22:11:06] Mod URI: /404
+[06/15/2011 22:11:06] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:11:06] 404.class.php
+[06/15/2011 22:11:06] Template: 404
+[06/15/2011 22:11:06] Page Args: 
+[06/15/2011 22:11:06] Array
+(
+)
+
+[06/15/2011 22:11:22] Original URI: /admin/mapeditor
+[06/15/2011 22:11:22] Mod URI: /admin/mapeditor
+[06/15/2011 22:11:22] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:11:22] admin.class.php
+[06/15/2011 22:11:22] Template: admin-mapeditor
+[06/15/2011 22:11:22] Page Args: 
+[06/15/2011 22:11:22] Array
+(
+)
+
+[06/15/2011 22:11:22] Original URI: /favicon.ico
+[06/15/2011 22:11:22] Mod URI: /favicon.ico
+[06/15/2011 22:11:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:11:22] Original URI: /404
+[06/15/2011 22:11:22] Mod URI: /404
+[06/15/2011 22:11:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:11:22] 404.class.php
+[06/15/2011 22:11:22] Template: 404
+[06/15/2011 22:11:22] Page Args: 
+[06/15/2011 22:11:22] Array
+(
+)
+
+[06/15/2011 22:12:05] Original URI: /admin/mapeditor
+[06/15/2011 22:12:05] Mod URI: /admin/mapeditor
+[06/15/2011 22:12:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:12:05] admin.class.php
+[06/15/2011 22:12:05] Template: admin-mapeditor
+[06/15/2011 22:12:05] Page Args: 
+[06/15/2011 22:12:05] Array
+(
+)
+
+[06/15/2011 22:12:09] Original URI: /favicon.ico
+[06/15/2011 22:12:09] Mod URI: /favicon.ico
+[06/15/2011 22:12:09] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:12:09] Original URI: /404
+[06/15/2011 22:12:09] Mod URI: /404
+[06/15/2011 22:12:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:12:09] 404.class.php
+[06/15/2011 22:12:09] Template: 404
+[06/15/2011 22:12:09] Page Args: 
+[06/15/2011 22:12:09] Array
+(
+)
+
+[06/15/2011 22:12:48] Original URI: /admin/mapeditor
+[06/15/2011 22:12:48] Mod URI: /admin/mapeditor
+[06/15/2011 22:12:48] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:12:48] admin.class.php
+[06/15/2011 22:12:48] Template: admin-mapeditor
+[06/15/2011 22:12:48] Page Args: 
+[06/15/2011 22:12:48] Array
+(
+)
+
+[06/15/2011 22:12:51] Original URI: /favicon.ico
+[06/15/2011 22:12:51] Mod URI: /favicon.ico
+[06/15/2011 22:12:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:12:51] Original URI: /404
+[06/15/2011 22:12:51] Mod URI: /404
+[06/15/2011 22:12:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:12:51] 404.class.php
+[06/15/2011 22:12:51] Template: 404
+[06/15/2011 22:12:51] Page Args: 
+[06/15/2011 22:12:51] Array
+(
+)
+
+[06/15/2011 22:14:51] Original URI: /admin/mapeditor
+[06/15/2011 22:14:51] Mod URI: /admin/mapeditor
+[06/15/2011 22:14:51] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:14:51] admin.class.php
+[06/15/2011 22:14:51] Template: admin-mapeditor
+[06/15/2011 22:14:51] Page Args: 
+[06/15/2011 22:14:51] Array
+(
+)
+
+[06/15/2011 22:14:55] Original URI: /favicon.ico
+[06/15/2011 22:14:55] Mod URI: /favicon.ico
+[06/15/2011 22:14:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:14:55] Original URI: /404
+[06/15/2011 22:14:55] Mod URI: /404
+[06/15/2011 22:14:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:14:55] 404.class.php
+[06/15/2011 22:14:55] Template: 404
+[06/15/2011 22:14:55] Page Args: 
+[06/15/2011 22:14:55] Array
+(
+)
+
+[06/15/2011 22:18:46] Original URI: /admin/mapeditor
+[06/15/2011 22:18:46] Mod URI: /admin/mapeditor
+[06/15/2011 22:18:46] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:18:46] admin.class.php
+[06/15/2011 22:18:46] Template: admin-mapeditor
+[06/15/2011 22:18:46] Page Args: 
+[06/15/2011 22:18:46] Array
+(
+)
+
+[06/15/2011 22:18:47] Original URI: /favicon.ico
+[06/15/2011 22:18:47] Mod URI: /favicon.ico
+[06/15/2011 22:18:47] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:18:47] Original URI: /404
+[06/15/2011 22:18:47] Mod URI: /404
+[06/15/2011 22:18:47] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:18:47] 404.class.php
+[06/15/2011 22:18:47] Template: 404
+[06/15/2011 22:18:47] Page Args: 
+[06/15/2011 22:18:47] Array
+(
+)
+
+[06/15/2011 22:45:54] Original URI: /admin/mapeditor
+[06/15/2011 22:45:54] Mod URI: /admin/mapeditor
+[06/15/2011 22:45:54] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:45:54] admin.class.php
+[06/15/2011 22:45:54] Template: admin-mapeditor
+[06/15/2011 22:45:54] Page Args: 
+[06/15/2011 22:45:54] Array
+(
+)
+
+[06/15/2011 22:45:57] Original URI: /favicon.ico
+[06/15/2011 22:45:57] Mod URI: /favicon.ico
+[06/15/2011 22:45:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:45:57] Original URI: /404
+[06/15/2011 22:45:57] Mod URI: /404
+[06/15/2011 22:45:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:45:57] 404.class.php
+[06/15/2011 22:45:57] Template: 404
+[06/15/2011 22:45:57] Page Args: 
+[06/15/2011 22:45:57] Array
+(
+)
+
+[06/15/2011 22:47:20] Original URI: /admin/mapeditor
+[06/15/2011 22:47:20] Mod URI: /admin/mapeditor
+[06/15/2011 22:47:20] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:47:20] admin.class.php
+[06/15/2011 22:47:20] Template: admin-mapeditor
+[06/15/2011 22:47:20] Page Args: 
+[06/15/2011 22:47:20] Array
+(
+)
+
+[06/15/2011 22:47:24] Original URI: /favicon.ico
+[06/15/2011 22:47:24] Mod URI: /favicon.ico
+[06/15/2011 22:47:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:47:24] Original URI: /404
+[06/15/2011 22:47:24] Mod URI: /404
+[06/15/2011 22:47:24] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:47:24] 404.class.php
+[06/15/2011 22:47:24] Template: 404
+[06/15/2011 22:47:24] Page Args: 
+[06/15/2011 22:47:24] Array
+(
+)
+
+[06/15/2011 22:50:26] Original URI: /admin/mapeditor
+[06/15/2011 22:50:26] Mod URI: /admin/mapeditor
+[06/15/2011 22:50:26] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 22:50:26] admin.class.php
+[06/15/2011 22:50:26] Template: admin-mapeditor
+[06/15/2011 22:50:26] Page Args: 
+[06/15/2011 22:50:26] Array
+(
+)
+
+[06/15/2011 22:50:29] Original URI: /favicon.ico
+[06/15/2011 22:50:29] Mod URI: /favicon.ico
+[06/15/2011 22:50:29] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 22:50:29] Original URI: /404
+[06/15/2011 22:50:29] Mod URI: /404
+[06/15/2011 22:50:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 22:50:29] 404.class.php
+[06/15/2011 22:50:29] Template: 404
+[06/15/2011 22:50:29] Page Args: 
+[06/15/2011 22:50:29] Array
+(
+)
+
+[06/15/2011 23:01:34] Original URI: /admin/mapeditor
+[06/15/2011 23:01:34] Mod URI: /admin/mapeditor
+[06/15/2011 23:01:34] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:01:34] admin.class.php
+[06/15/2011 23:01:34] Template: admin-mapeditor
+[06/15/2011 23:01:34] Page Args: 
+[06/15/2011 23:01:34] Array
+(
+)
+
+[06/15/2011 23:01:38] Original URI: /favicon.ico
+[06/15/2011 23:01:38] Mod URI: /favicon.ico
+[06/15/2011 23:01:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:01:38] Original URI: /404
+[06/15/2011 23:01:38] Mod URI: /404
+[06/15/2011 23:01:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:01:38] 404.class.php
+[06/15/2011 23:01:38] Template: 404
+[06/15/2011 23:01:38] Page Args: 
+[06/15/2011 23:01:38] Array
+(
+)
+
+[06/15/2011 23:01:41] mapEditor: loadMap
+[06/15/2011 23:01:41] Ajax Results:
+[06/15/2011 23:01:41] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/15/2011 23:03:07] mapEditor: loadMap
+[06/15/2011 23:03:07] Ajax Results:
+[06/15/2011 23:03:07] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/15/2011 23:03:22] mapEditor: loadMap
+[06/15/2011 23:03:22] Ajax Results:
+[06/15/2011 23:03:22] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:04:09] Original URI: /admin/mapeditor
+[06/15/2011 23:04:09] Mod URI: /admin/mapeditor
+[06/15/2011 23:04:09] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:04:09] admin.class.php
+[06/15/2011 23:04:09] Template: admin-mapeditor
+[06/15/2011 23:04:09] Page Args: 
+[06/15/2011 23:04:09] Array
+(
+)
+
+[06/15/2011 23:04:12] Original URI: /favicon.ico
+[06/15/2011 23:04:12] Mod URI: /favicon.ico
+[06/15/2011 23:04:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:04:12] Original URI: /404
+[06/15/2011 23:04:12] Mod URI: /404
+[06/15/2011 23:04:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:04:12] 404.class.php
+[06/15/2011 23:04:12] Template: 404
+[06/15/2011 23:04:12] Page Args: 
+[06/15/2011 23:04:12] Array
+(
+)
+
+[06/15/2011 23:04:13] mapEditor: loadMap
+[06/15/2011 23:04:13] Ajax Results:
+[06/15/2011 23:04:13] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:04:36] Original URI: /admin/mapeditor
+[06/15/2011 23:04:36] Mod URI: /admin/mapeditor
+[06/15/2011 23:04:36] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:04:36] admin.class.php
+[06/15/2011 23:04:36] Template: admin-mapeditor
+[06/15/2011 23:04:36] Page Args: 
+[06/15/2011 23:04:36] Array
+(
+)
+
+[06/15/2011 23:04:39] Original URI: /favicon.ico
+[06/15/2011 23:04:39] Mod URI: /favicon.ico
+[06/15/2011 23:04:39] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:04:39] Original URI: /404
+[06/15/2011 23:04:39] Mod URI: /404
+[06/15/2011 23:04:39] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:04:39] 404.class.php
+[06/15/2011 23:04:39] Template: 404
+[06/15/2011 23:04:39] Page Args: 
+[06/15/2011 23:04:39] Array
+(
+)
+
+[06/15/2011 23:04:40] mapEditor: loadMap
+[06/15/2011 23:04:40] Ajax Results:
+[06/15/2011 23:04:40] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:04:53] Original URI: /admin/mapeditor
+[06/15/2011 23:04:53] Mod URI: /admin/mapeditor
+[06/15/2011 23:04:53] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:04:53] admin.class.php
+[06/15/2011 23:04:53] Template: admin-mapeditor
+[06/15/2011 23:04:53] Page Args: 
+[06/15/2011 23:04:53] Array
+(
+)
+
+[06/15/2011 23:04:53] Original URI: /favicon.ico
+[06/15/2011 23:04:53] Mod URI: /favicon.ico
+[06/15/2011 23:04:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:04:53] Original URI: /404
+[06/15/2011 23:04:53] Mod URI: /404
+[06/15/2011 23:04:53] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:04:53] 404.class.php
+[06/15/2011 23:04:53] Template: 404
+[06/15/2011 23:04:53] Page Args: 
+[06/15/2011 23:04:53] Array
+(
+)
+
+[06/15/2011 23:04:55] mapEditor: loadMap
+[06/15/2011 23:04:55] Ajax Results:
+[06/15/2011 23:04:55] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:05:07] Original URI: /admin/mapeditor
+[06/15/2011 23:05:07] Mod URI: /admin/mapeditor
+[06/15/2011 23:05:07] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:05:07] admin.class.php
+[06/15/2011 23:05:07] Template: admin-mapeditor
+[06/15/2011 23:05:07] Page Args: 
+[06/15/2011 23:05:07] Array
+(
+)
+
+[06/15/2011 23:05:08] Original URI: /favicon.ico
+[06/15/2011 23:05:08] Mod URI: /favicon.ico
+[06/15/2011 23:05:08] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:05:08] Original URI: /404
+[06/15/2011 23:05:08] Mod URI: /404
+[06/15/2011 23:05:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:05:08] 404.class.php
+[06/15/2011 23:05:08] Template: 404
+[06/15/2011 23:05:08] Page Args: 
+[06/15/2011 23:05:08] Array
+(
+)
+
+[06/15/2011 23:06:16] Original URI: /admin/mapeditor
+[06/15/2011 23:06:16] Mod URI: /admin/mapeditor
+[06/15/2011 23:06:16] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:06:16] admin.class.php
+[06/15/2011 23:06:16] Template: admin-mapeditor
+[06/15/2011 23:06:16] Page Args: 
+[06/15/2011 23:06:16] Array
+(
+)
+
+[06/15/2011 23:06:19] Original URI: /favicon.ico
+[06/15/2011 23:06:19] Mod URI: /favicon.ico
+[06/15/2011 23:06:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:06:19] Original URI: /404
+[06/15/2011 23:06:19] Mod URI: /404
+[06/15/2011 23:06:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:06:19] 404.class.php
+[06/15/2011 23:06:19] Template: 404
+[06/15/2011 23:06:19] Page Args: 
+[06/15/2011 23:06:19] Array
+(
+)
+
+[06/15/2011 23:06:20] mapEditor: loadMap
+[06/15/2011 23:06:20] Ajax Results:
+[06/15/2011 23:06:20] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:07:01] Original URI: /admin/mapeditor
+[06/15/2011 23:07:01] Mod URI: /admin/mapeditor
+[06/15/2011 23:07:01] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:07:01] admin.class.php
+[06/15/2011 23:07:01] Template: admin-mapeditor
+[06/15/2011 23:07:01] Page Args: 
+[06/15/2011 23:07:01] Array
+(
+)
+
+[06/15/2011 23:07:04] Original URI: /favicon.ico
+[06/15/2011 23:07:04] Mod URI: /favicon.ico
+[06/15/2011 23:07:04] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:07:04] Original URI: /404
+[06/15/2011 23:07:04] Mod URI: /404
+[06/15/2011 23:07:04] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:07:04] 404.class.php
+[06/15/2011 23:07:04] Template: 404
+[06/15/2011 23:07:04] Page Args: 
+[06/15/2011 23:07:04] Array
+(
+)
+
+[06/15/2011 23:07:05] mapEditor: loadMap
+[06/15/2011 23:07:05] Ajax Results:
+[06/15/2011 23:07:05] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:07:30] Original URI: /admin/mapeditor
+[06/15/2011 23:07:30] Mod URI: /admin/mapeditor
+[06/15/2011 23:07:30] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:07:30] admin.class.php
+[06/15/2011 23:07:30] Template: admin-mapeditor
+[06/15/2011 23:07:30] Page Args: 
+[06/15/2011 23:07:30] Array
+(
+)
+
+[06/15/2011 23:07:34] Original URI: /favicon.ico
+[06/15/2011 23:07:34] Mod URI: /favicon.ico
+[06/15/2011 23:07:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:07:34] Original URI: /404
+[06/15/2011 23:07:34] Mod URI: /404
+[06/15/2011 23:07:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:07:34] 404.class.php
+[06/15/2011 23:07:34] Template: 404
+[06/15/2011 23:07:34] Page Args: 
+[06/15/2011 23:07:34] Array
+(
+)
+
+[06/15/2011 23:07:35] mapEditor: loadMap
+[06/15/2011 23:07:35] Ajax Results:
+[06/15/2011 23:07:35] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:07:49] Original URI: /admin/mapeditor
+[06/15/2011 23:07:49] Mod URI: /admin/mapeditor
+[06/15/2011 23:07:49] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:07:49] admin.class.php
+[06/15/2011 23:07:49] Template: admin-mapeditor
+[06/15/2011 23:07:49] Page Args: 
+[06/15/2011 23:07:49] Array
+(
+)
+
+[06/15/2011 23:07:49] Original URI: /favicon.ico
+[06/15/2011 23:07:49] Mod URI: /favicon.ico
+[06/15/2011 23:07:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:07:49] Original URI: /404
+[06/15/2011 23:07:49] Mod URI: /404
+[06/15/2011 23:07:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:07:49] 404.class.php
+[06/15/2011 23:07:49] Template: 404
+[06/15/2011 23:07:49] Page Args: 
+[06/15/2011 23:07:49] Array
+(
+)
+
+[06/15/2011 23:07:50] mapEditor: loadMap
+[06/15/2011 23:07:50] Ajax Results:
+[06/15/2011 23:07:50] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:10:05] Original URI: /admin/mapeditor
+[06/15/2011 23:10:05] Mod URI: /admin/mapeditor
+[06/15/2011 23:10:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:10:05] admin.class.php
+[06/15/2011 23:10:05] Template: admin-mapeditor
+[06/15/2011 23:10:05] Page Args: 
+[06/15/2011 23:10:05] Array
+(
+)
+
+[06/15/2011 23:10:08] Original URI: /favicon.ico
+[06/15/2011 23:10:08] Mod URI: /favicon.ico
+[06/15/2011 23:10:08] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:10:08] Original URI: /404
+[06/15/2011 23:10:08] Mod URI: /404
+[06/15/2011 23:10:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:10:08] 404.class.php
+[06/15/2011 23:10:08] Template: 404
+[06/15/2011 23:10:08] Page Args: 
+[06/15/2011 23:10:08] Array
+(
+)
+
+[06/15/2011 23:10:10] mapEditor: loadMap
+[06/15/2011 23:10:10] Ajax Results:
+[06/15/2011 23:10:10] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:11:26] mapEditor: loadMap
+[06/15/2011 23:11:26] Ajax Results:
+[06/15/2011 23:11:26] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/15/2011 23:11:28] Original URI: /admin/mapeditor
+[06/15/2011 23:11:28] Mod URI: /admin/mapeditor
+[06/15/2011 23:11:28] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:11:28] admin.class.php
+[06/15/2011 23:11:28] Template: admin-mapeditor
+[06/15/2011 23:11:28] Page Args: 
+[06/15/2011 23:11:28] Array
+(
+)
+
+[06/15/2011 23:11:31] Original URI: /favicon.ico
+[06/15/2011 23:11:31] Mod URI: /favicon.ico
+[06/15/2011 23:11:31] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:11:31] Original URI: /404
+[06/15/2011 23:11:31] Mod URI: /404
+[06/15/2011 23:11:31] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:11:31] 404.class.php
+[06/15/2011 23:11:31] Template: 404
+[06/15/2011 23:11:31] Page Args: 
+[06/15/2011 23:11:31] Array
+(
+)
+
+[06/15/2011 23:11:32] mapEditor: loadMap
+[06/15/2011 23:11:32] Ajax Results:
+[06/15/2011 23:11:32] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/15/2011 23:12:48] mapEditor: loadMap
+[06/15/2011 23:12:48] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN 0 AND -10
+[06/15/2011 23:12:48] Ajax Results:
+[06/15/2011 23:12:48] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/15/2011 23:14:09] mapEditor: loadMap
+[06/15/2011 23:14:09] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -10 AND 0
+[06/15/2011 23:14:09] Ajax Results:
+[06/15/2011 23:14:09] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:15:19] Original URI: /admin/mapeditor
+[06/15/2011 23:15:19] Mod URI: /admin/mapeditor
+[06/15/2011 23:15:19] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:15:19] admin.class.php
+[06/15/2011 23:15:19] Template: admin-mapeditor
+[06/15/2011 23:15:19] Page Args: 
+[06/15/2011 23:15:19] Array
+(
+)
+
+[06/15/2011 23:15:22] Original URI: /favicon.ico
+[06/15/2011 23:15:22] Mod URI: /favicon.ico
+[06/15/2011 23:15:22] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:15:22] Original URI: /404
+[06/15/2011 23:15:22] Mod URI: /404
+[06/15/2011 23:15:22] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:15:22] 404.class.php
+[06/15/2011 23:15:22] Template: 404
+[06/15/2011 23:15:22] Page Args: 
+[06/15/2011 23:15:22] Array
+(
+)
+
+[06/15/2011 23:15:24] mapEditor: loadMap
+[06/15/2011 23:15:24] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -10 AND 0
+[06/15/2011 23:15:24] Ajax Results:
+[06/15/2011 23:15:24] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:16:09] Original URI: /admin/mapeditor
+[06/15/2011 23:16:09] Mod URI: /admin/mapeditor
+[06/15/2011 23:16:09] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:16:09] admin.class.php
+[06/15/2011 23:16:09] Template: admin-mapeditor
+[06/15/2011 23:16:09] Page Args: 
+[06/15/2011 23:16:09] Array
+(
+)
+
+[06/15/2011 23:16:12] Original URI: /favicon.ico
+[06/15/2011 23:16:12] Mod URI: /favicon.ico
+[06/15/2011 23:16:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:16:12] Original URI: /404
+[06/15/2011 23:16:12] Mod URI: /404
+[06/15/2011 23:16:12] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:16:12] 404.class.php
+[06/15/2011 23:16:12] Template: 404
+[06/15/2011 23:16:12] Page Args: 
+[06/15/2011 23:16:12] Array
+(
+)
+
+[06/15/2011 23:16:13] mapEditor: loadMap
+[06/15/2011 23:16:13] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -10 AND 0
+[06/15/2011 23:16:13] Ajax Results:
+[06/15/2011 23:16:13] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:20:34] mapEditor: loadMap
+[06/15/2011 23:20:34] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/15/2011 23:20:34] Ajax Results:
+[06/15/2011 23:20:34] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:21:05] Original URI: /admin
+[06/15/2011 23:21:05] Mod URI: /admin
+[06/15/2011 23:21:05] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/15/2011 23:21:05] admin.class.php
+[06/15/2011 23:21:05] Template: admin
+[06/15/2011 23:21:05] Page Args: 
+[06/15/2011 23:21:05] Array
+(
+)
+
+[06/15/2011 23:21:06] Original URI: /favicon.ico
+[06/15/2011 23:21:06] Mod URI: /favicon.ico
+[06/15/2011 23:21:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:21:06] Original URI: /404
+[06/15/2011 23:21:06] Mod URI: /404
+[06/15/2011 23:21:06] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:21:06] 404.class.php
+[06/15/2011 23:21:06] Template: 404
+[06/15/2011 23:21:06] Page Args: 
+[06/15/2011 23:21:06] Array
+(
+)
+
+[06/15/2011 23:21:07] Original URI: /admin/mapeditor
+[06/15/2011 23:21:07] Mod URI: /admin/mapeditor
+[06/15/2011 23:21:07] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:21:07] admin.class.php
+[06/15/2011 23:21:07] Template: admin-mapeditor
+[06/15/2011 23:21:07] Page Args: 
+[06/15/2011 23:21:07] Array
+(
+)
+
+[06/15/2011 23:21:07] Original URI: /favicon.ico
+[06/15/2011 23:21:07] Mod URI: /favicon.ico
+[06/15/2011 23:21:07] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:21:07] Original URI: /404
+[06/15/2011 23:21:07] Mod URI: /404
+[06/15/2011 23:21:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:21:07] 404.class.php
+[06/15/2011 23:21:07] Template: 404
+[06/15/2011 23:21:07] Page Args: 
+[06/15/2011 23:21:07] Array
+(
+)
+
+[06/15/2011 23:21:08] mapEditor: loadMap
+[06/15/2011 23:21:08] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -10 AND 0
+[06/15/2011 23:21:08] Ajax Results:
+[06/15/2011 23:21:08] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:21:16] mapEditor: loadMap
+[06/15/2011 23:21:16] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 6 AND 16 AND map_y BETWEEN -4 AND 6
+[06/15/2011 23:21:16] Ajax Results:
+[06/15/2011 23:21:16] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/15/2011 23:21:23] mapEditor: loadMap
+[06/15/2011 23:21:23] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 3 AND 13 AND map_y BETWEEN -4 AND 6
+[06/15/2011 23:21:23] Ajax Results:
+[06/15/2011 23:21:23] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:23:22] mapEditor: loadMap
+[06/15/2011 23:23:22] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 3 AND 13 AND map_y BETWEEN -4 AND 6
+[06/15/2011 23:23:22] Ajax Results:
+[06/15/2011 23:23:22] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:23:24] Original URI: /admin/mapeditor
+[06/15/2011 23:23:24] Mod URI: /admin/mapeditor
+[06/15/2011 23:23:24] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:23:24] admin.class.php
+[06/15/2011 23:23:24] Template: admin-mapeditor
+[06/15/2011 23:23:24] Page Args: 
+[06/15/2011 23:23:24] Array
+(
+)
+
+[06/15/2011 23:23:28] Original URI: /favicon.ico
+[06/15/2011 23:23:28] Mod URI: /favicon.ico
+[06/15/2011 23:23:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:23:28] Original URI: /404
+[06/15/2011 23:23:28] Mod URI: /404
+[06/15/2011 23:23:28] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:23:28] 404.class.php
+[06/15/2011 23:23:28] Template: 404
+[06/15/2011 23:23:28] Page Args: 
+[06/15/2011 23:23:28] Array
+(
+)
+
+[06/15/2011 23:23:32] mapEditor: loadMap
+[06/15/2011 23:23:32] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/15/2011 23:23:32] Ajax Results:
+[06/15/2011 23:23:32] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:23:54] Original URI: /admin/mapeditor
+[06/15/2011 23:23:54] Mod URI: /admin/mapeditor
+[06/15/2011 23:23:54] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/15/2011 23:23:54] admin.class.php
+[06/15/2011 23:23:54] Template: admin-mapeditor
+[06/15/2011 23:23:54] Page Args: 
+[06/15/2011 23:23:54] Array
+(
+)
+
+[06/15/2011 23:23:58] Original URI: /favicon.ico
+[06/15/2011 23:23:58] Mod URI: /favicon.ico
+[06/15/2011 23:23:58] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/15/2011 23:23:58] Original URI: /404
+[06/15/2011 23:23:58] Mod URI: /404
+[06/15/2011 23:23:58] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/15/2011 23:23:58] 404.class.php
+[06/15/2011 23:23:58] Template: 404
+[06/15/2011 23:23:58] Page Args: 
+[06/15/2011 23:23:58] Array
+(
+)
+
+[06/15/2011 23:24:00] mapEditor: loadMap
+[06/15/2011 23:24:00] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/15/2011 23:24:00] Ajax Results:
+[06/15/2011 23:24:00] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/15/2011 23:25:50] mapEditor: loadMap
+[06/15/2011 23:25:50] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/15/2011 23:25:50] Ajax Results:
+[06/15/2011 23:25:50] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+

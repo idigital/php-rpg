@@ -1,0 +1,2318 @@
+[06/02/2012 23:51:25] Original URI: 
+[06/02/2012 23:51:25] Mod URI: 
+[06/02/2012 23:51:25] Template: index
+[06/02/2012 23:51:25] Page Args: 
+[06/02/2012 23:51:25] 
+[06/02/2012 23:51:25] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[06/02/2012 23:51:26] Original URI: /favicon.ico
+[06/02/2012 23:51:26] Mod URI: /favicon.ico
+[06/02/2012 23:51:26] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:53:00] Original URI: 
+[06/02/2012 23:53:00] Mod URI: 
+[06/02/2012 23:53:00] Template: index
+[06/02/2012 23:53:00] Page Args: 
+[06/02/2012 23:53:00] 
+[06/02/2012 23:53:00] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[06/02/2012 23:53:01] Original URI: /favicon.ico
+[06/02/2012 23:53:01] Mod URI: /favicon.ico
+[06/02/2012 23:53:01] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:53:01] Original URI: /404
+[06/02/2012 23:53:01] Mod URI: /404
+[06/02/2012 23:53:01] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:53:01] 404.class.php
+[06/02/2012 23:53:01] Template: 404
+[06/02/2012 23:53:01] Page Args: 
+[06/02/2012 23:53:01] Array
+(
+)
+
+[06/02/2012 23:53:01] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[06/02/2012 23:53:02] Original URI: /game
+[06/02/2012 23:53:02] Mod URI: /game
+[06/02/2012 23:53:02] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/02/2012 23:53:02] game.class.php
+[06/02/2012 23:53:02] Template: game
+[06/02/2012 23:53:02] Page Args: 
+[06/02/2012 23:53:02] Array
+(
+)
+
+[06/02/2012 23:53:02] Original URI: /login
+[06/02/2012 23:53:02] Mod URI: /login
+[06/02/2012 23:53:02] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/02/2012 23:53:02] login.class.php
+[06/02/2012 23:53:02] Template: login
+[06/02/2012 23:53:02] Page Args: 
+[06/02/2012 23:53:02] Array
+(
+)
+
+[06/02/2012 23:53:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:53:02] Original URI: /images/sign-up.png
+[06/02/2012 23:53:02] Mod URI: /images/sign-up.png
+[06/02/2012 23:53:02] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/02/2012 23:53:02] Original URI: /404
+[06/02/2012 23:53:02] Mod URI: /404
+[06/02/2012 23:53:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:53:02] 404.class.php
+[06/02/2012 23:53:02] Template: 404
+[06/02/2012 23:53:02] Page Args: 
+[06/02/2012 23:53:02] Array
+(
+)
+
+[06/02/2012 23:53:03] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:53:03] Original URI: /favicon.ico
+[06/02/2012 23:53:03] Mod URI: /favicon.ico
+[06/02/2012 23:53:03] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:53:03] Original URI: /404
+[06/02/2012 23:53:03] Mod URI: /404
+[06/02/2012 23:53:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:53:03] 404.class.php
+[06/02/2012 23:53:03] Template: 404
+[06/02/2012 23:53:03] Page Args: 
+[06/02/2012 23:53:03] Array
+(
+)
+
+[06/02/2012 23:53:03] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:53:09] Original URI: /login
+[06/02/2012 23:53:09] Mod URI: /login
+[06/02/2012 23:53:09] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/02/2012 23:53:09] login.class.php
+[06/02/2012 23:53:09] Template: login
+[06/02/2012 23:53:09] Page Args: 
+[06/02/2012 23:53:09] Array
+(
+)
+
+[06/02/2012 23:53:09] login(brandon.reese@gmail.com,not360change)
+[06/02/2012 23:53:09] createSession(11)
+[06/02/2012 23:53:09] sessions row for userid exists
+[06/02/2012 23:53:09] Sessid: bcbfa1da4847425d93a36a24cb432984
+[06/02/2012 23:53:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699189.69,4,11,'BrandonReese appears from within the void!','showUser(\'11\');')
+[06/02/2012 23:53:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=bcbfa1da4847425d93a36a24cb432984
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[06/02/2012 23:53:09] Original URI: 
+[06/02/2012 23:53:09] Mod URI: 
+[06/02/2012 23:53:09] Template: index
+[06/02/2012 23:53:09] Page Args: 
+[06/02/2012 23:53:09] 
+[06/02/2012 23:53:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:53:10] Original URI: /favicon.ico
+[06/02/2012 23:53:10] Mod URI: /favicon.ico
+[06/02/2012 23:53:10] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:53:10] Original URI: /404
+[06/02/2012 23:53:10] Mod URI: /404
+[06/02/2012 23:53:10] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:53:10] 404.class.php
+[06/02/2012 23:53:10] Template: 404
+[06/02/2012 23:53:10] Page Args: 
+[06/02/2012 23:53:10] Array
+(
+)
+
+[06/02/2012 23:53:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:53:12] Original URI: /game
+[06/02/2012 23:53:12] Mod URI: /game
+[06/02/2012 23:53:12] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/02/2012 23:53:12] game.class.php
+[06/02/2012 23:53:12] Template: game
+[06/02/2012 23:53:12] Page Args: 
+[06/02/2012 23:53:12] Array
+(
+)
+
+[06/02/2012 23:53:12] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/02/2012 23:53:13] game: initializeGame
+[06/02/2012 23:53:13] Array
+(
+    [user_id] => 11
+)
+
+[06/02/2012 23:53:13] Ajax Results:
+[06/02/2012 23:53:13] {"template_dir":"..\/templates","site_url":"http:\/\/rpg.bremaweb.com","debug":"1","self_consign_percent":".65","drop_consign_percent":".5","tax_rate":".07725","active_sale":"2","image_url":"http:\/\/rpg.bremaweb.com\/images","site_name":"RPG 2011","avatar_url":"http:\/\/rpg.bremaweb.com\/avatars\/","avatar_dir":"\/web\/avatars"}
+[06/02/2012 23:53:13] Original URI: /favicon.ico
+[06/02/2012 23:53:13] Mod URI: /favicon.ico
+[06/02/2012 23:53:13] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:53:13] map: getTileInfoById
+[06/02/2012 23:53:13] Array
+(
+    [tile_id] => 4
+)
+
+[06/02/2012 23:53:13] Ajax Results:
+[06/02/2012 23:53:13] {"tile":{"tile_id":"4","tile_x":"0","tile_y":"-3","tile_z":"0","tile_title":"Another Cool Tile","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"7"},"east":{"tile_id":"5"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[{"mob_name":"Aubree Mae","mob_id":"4","mob_avatar":"mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg"}]}
+[06/02/2012 23:53:13] game: updateStats
+[06/02/2012 23:53:13] Array
+(
+)
+
+[06/02/2012 23:53:13] Ajax Results:
+[06/02/2012 23:53:13] {"user_health":"1","user_mana":"1","user_energy":"-0.866682"}
+[06/02/2012 23:53:13] Original URI: /404
+[06/02/2012 23:53:13] Mod URI: /404
+[06/02/2012 23:53:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:53:13] 404.class.php
+[06/02/2012 23:53:13] Template: 404
+[06/02/2012 23:53:13] Page Args: 
+[06/02/2012 23:53:13] Array
+(
+)
+
+[06/02/2012 23:53:13] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:53:15] game: updateGame
+[06/02/2012 23:53:15] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:15] Ajax Results:
+[06/02/2012 23:53:15] 
+[06/02/2012 23:53:17] game: updateGame
+[06/02/2012 23:53:17] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:17] Ajax Results:
+[06/02/2012 23:53:17] 
+[06/02/2012 23:53:19] game: updateGame
+[06/02/2012 23:53:19] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:19] Ajax Results:
+[06/02/2012 23:53:19] 
+[06/02/2012 23:53:21] game: updateGame
+[06/02/2012 23:53:21] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:21] Ajax Results:
+[06/02/2012 23:53:21] 
+[06/02/2012 23:53:23] game: updateGame
+[06/02/2012 23:53:23] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:23] Ajax Results:
+[06/02/2012 23:53:23] 
+[06/02/2012 23:53:25] game: updateGame
+[06/02/2012 23:53:25] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:25] Ajax Results:
+[06/02/2012 23:53:25] 
+[06/02/2012 23:53:27] game: updateGame
+[06/02/2012 23:53:27] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:27] Ajax Results:
+[06/02/2012 23:53:27] 
+[06/02/2012 23:53:29] game: updateGame
+[06/02/2012 23:53:29] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:29] Ajax Results:
+[06/02/2012 23:53:29] 
+[06/02/2012 23:53:31] game: updateGame
+[06/02/2012 23:53:31] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:31] Ajax Results:
+[06/02/2012 23:53:31] 
+[06/02/2012 23:53:33] game: updateGame
+[06/02/2012 23:53:33] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:33] Ajax Results:
+[06/02/2012 23:53:33] 
+[06/02/2012 23:53:35] game: updateGame
+[06/02/2012 23:53:35] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:35] Ajax Results:
+[06/02/2012 23:53:35] 
+[06/02/2012 23:53:37] game: updateGame
+[06/02/2012 23:53:37] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:37] Ajax Results:
+[06/02/2012 23:53:37] 
+[06/02/2012 23:53:39] game: updateGame
+[06/02/2012 23:53:39] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:39] Ajax Results:
+[06/02/2012 23:53:39] 
+[06/02/2012 23:53:41] game: updateGame
+[06/02/2012 23:53:41] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:41] Ajax Results:
+[06/02/2012 23:53:41] 
+[06/02/2012 23:53:43] game: updateGame
+[06/02/2012 23:53:43] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:43] Ajax Results:
+[06/02/2012 23:53:43] 
+[06/02/2012 23:53:45] game: updateGame
+[06/02/2012 23:53:45] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:45] Ajax Results:
+[06/02/2012 23:53:45] 
+[06/02/2012 23:54:05] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699245.64,11,0,'','removeMob(5);')
+[06/02/2012 23:54:05] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699245.67,9,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:53:47] game: updateGame
+[06/02/2012 23:53:47] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:47] Ajax Results:
+[06/02/2012 23:53:47] 
+[06/02/2012 23:53:49] game: updateGame
+[06/02/2012 23:53:49] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:49] Ajax Results:
+[06/02/2012 23:53:49] 
+[06/02/2012 23:53:51] game: updateGame
+[06/02/2012 23:53:51] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:51] Ajax Results:
+[06/02/2012 23:53:51] 
+[06/02/2012 23:54:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699250.78,15,0,'','removeMob(1);')
+[06/02/2012 23:54:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699250.83,16,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[06/02/2012 23:53:53] game: updateGame
+[06/02/2012 23:53:53] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:53] Ajax Results:
+[06/02/2012 23:53:53] 
+[06/02/2012 23:53:55] game: updateGame
+[06/02/2012 23:53:55] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:55] Ajax Results:
+[06/02/2012 23:53:55] 
+[06/02/2012 23:53:57] game: updateGame
+[06/02/2012 23:53:57] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:57] Ajax Results:
+[06/02/2012 23:53:57] 
+[06/02/2012 23:53:59] game: updateGame
+[06/02/2012 23:53:59] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:53:59] Ajax Results:
+[06/02/2012 23:53:59] 
+[06/02/2012 23:54:01] game: updateGame
+[06/02/2012 23:54:01] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:01] Ajax Results:
+[06/02/2012 23:54:01] 
+[06/02/2012 23:54:03] game: updateGame
+[06/02/2012 23:54:03] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:03] Ajax Results:
+[06/02/2012 23:54:03] 
+[06/02/2012 23:54:05] game: updateGame
+[06/02/2012 23:54:05] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:05] Ajax Results:
+[06/02/2012 23:54:05] 
+[06/02/2012 23:54:07] game: updateGame
+[06/02/2012 23:54:07] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:07] Ajax Results:
+[06/02/2012 23:54:07] 
+[06/02/2012 23:54:09] game: updateGame
+[06/02/2012 23:54:09] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:09] Ajax Results:
+[06/02/2012 23:54:09] 
+[06/02/2012 23:54:11] game: updateGame
+[06/02/2012 23:54:11] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:11] Ajax Results:
+[06/02/2012 23:54:11] 
+[06/02/2012 23:54:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699270.96,10,0,'','removeMob(3);')
+[06/02/2012 23:54:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699271,9,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[06/02/2012 23:54:13] game: updateGame
+[06/02/2012 23:54:13] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:13] Ajax Results:
+[06/02/2012 23:54:13] 
+[06/02/2012 23:54:15] game: updateGame
+[06/02/2012 23:54:15] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:15] Ajax Results:
+[06/02/2012 23:54:15] 
+[06/02/2012 23:54:17] game: updateGame
+[06/02/2012 23:54:17] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:17] Ajax Results:
+[06/02/2012 23:54:17] 
+[06/02/2012 23:54:19] game: updateGame
+[06/02/2012 23:54:19] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:19] Ajax Results:
+[06/02/2012 23:54:19] 
+[06/02/2012 23:54:21] game: updateGame
+[06/02/2012 23:54:21] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:21] Ajax Results:
+[06/02/2012 23:54:21] 
+[06/02/2012 23:54:23] game: updateGame
+[06/02/2012 23:54:23] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:23] Ajax Results:
+[06/02/2012 23:54:23] 
+[06/02/2012 23:54:25] game: updateGame
+[06/02/2012 23:54:25] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:25] Ajax Results:
+[06/02/2012 23:54:25] 
+[06/02/2012 23:54:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699286.1,16,0,'','removeMob(2);')
+[06/02/2012 23:54:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699286.13,19,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[06/02/2012 23:54:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699286.18,9,0,'','removeMob(5);')
+[06/02/2012 23:54:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699286.22,20,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:54:27] game: updateGame
+[06/02/2012 23:54:27] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:27] Ajax Results:
+[06/02/2012 23:54:27] 
+[06/02/2012 23:54:29] game: updateGame
+[06/02/2012 23:54:29] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:29] Ajax Results:
+[06/02/2012 23:54:29] 
+[06/02/2012 23:54:31] game: updateGame
+[06/02/2012 23:54:31] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:31] Ajax Results:
+[06/02/2012 23:54:31] 
+[06/02/2012 23:54:33] game: updateGame
+[06/02/2012 23:54:33] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:33] Ajax Results:
+[06/02/2012 23:54:33] 
+[06/02/2012 23:54:35] game: updateGame
+[06/02/2012 23:54:35] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:35] Ajax Results:
+[06/02/2012 23:54:35] 
+[06/02/2012 23:54:37] game: updateGame
+[06/02/2012 23:54:37] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:37] Ajax Results:
+[06/02/2012 23:54:37] 
+[06/02/2012 23:54:39] game: updateGame
+[06/02/2012 23:54:39] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:39] Ajax Results:
+[06/02/2012 23:54:39] 
+[06/02/2012 23:54:41] game: updateGame
+[06/02/2012 23:54:41] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:41] Ajax Results:
+[06/02/2012 23:54:41] 
+[06/02/2012 23:54:43] game: updateGame
+[06/02/2012 23:54:43] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:43] Ajax Results:
+[06/02/2012 23:54:43] 
+[06/02/2012 23:54:45] game: updateGame
+[06/02/2012 23:54:45] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:45] Ajax Results:
+[06/02/2012 23:54:45] 
+[06/02/2012 23:54:47] game: updateGame
+[06/02/2012 23:54:47] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:47] Ajax Results:
+[06/02/2012 23:54:47] 
+[06/02/2012 23:54:49] game: updateGame
+[06/02/2012 23:54:49] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:49] Ajax Results:
+[06/02/2012 23:54:49] 
+[06/02/2012 23:54:51] game: updateGame
+[06/02/2012 23:54:51] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:51] Ajax Results:
+[06/02/2012 23:54:51] 
+[06/02/2012 23:55:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699311.4,16,0,'','removeMob(1);')
+[06/02/2012 23:55:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699311.43,15,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[06/02/2012 23:54:53] game: updateGame
+[06/02/2012 23:54:53] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:53] Ajax Results:
+[06/02/2012 23:54:53] 
+[06/02/2012 23:54:55] game: updateGame
+[06/02/2012 23:54:55] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:55] Ajax Results:
+[06/02/2012 23:54:55] 
+[06/02/2012 23:54:57] game: updateGame
+[06/02/2012 23:54:57] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:57] Ajax Results:
+[06/02/2012 23:54:57] 
+[06/02/2012 23:54:59] game: updateGame
+[06/02/2012 23:54:59] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:54:59] Ajax Results:
+[06/02/2012 23:54:59] 
+[06/02/2012 23:55:01] game: updateGame
+[06/02/2012 23:55:01] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:55:01] Ajax Results:
+[06/02/2012 23:55:01] 
+[06/02/2012 23:55:03] game: updateGame
+[06/02/2012 23:55:03] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:55:03] Ajax Results:
+[06/02/2012 23:55:03] 
+[06/02/2012 23:55:05] game: updateGame
+[06/02/2012 23:55:05] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:55:05] Ajax Results:
+[06/02/2012 23:55:05] 
+[06/02/2012 23:55:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699326.56,15,0,'','removeMob(1);')
+[06/02/2012 23:55:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699326.59,14,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[06/02/2012 23:55:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699326.64,4,0,'','removeMob(4);')
+[06/02/2012 23:55:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699326.67,7,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[06/02/2012 23:55:07] game: updateGame
+[06/02/2012 23:55:07] Array
+(
+    [last_update] => 1338699192.8915
+)
+
+[06/02/2012 23:55:07] Ajax Results:
+[06/02/2012 23:55:07] {"update_time":1338699307.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:55:09] game: updateGame
+[06/02/2012 23:55:09] Array
+(
+    [last_update] => 1338699307.6094
+)
+
+[06/02/2012 23:55:09] Ajax Results:
+[06/02/2012 23:55:09] {"update_time":1338699309.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:55:11] game: updateGame
+[06/02/2012 23:55:11] Array
+(
+    [last_update] => 1338699309.6094
+)
+
+[06/02/2012 23:55:11] Ajax Results:
+[06/02/2012 23:55:11] {"update_time":1338699311.5938,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:55:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699331.76,7,0,'','removeMob(4);')
+[06/02/2012 23:55:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699331.8,4,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[06/02/2012 23:55:13] game: updateGame
+[06/02/2012 23:55:13] Array
+(
+    [last_update] => 1338699311.5938
+)
+
+[06/02/2012 23:55:13] Ajax Results:
+[06/02/2012 23:55:13] {"update_time":1338699313.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:15] game: updateGame
+[06/02/2012 23:55:15] Array
+(
+    [last_update] => 1338699313.6094
+)
+
+[06/02/2012 23:55:15] Ajax Results:
+[06/02/2012 23:55:15] {"update_time":1338699315.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:17] game: updateGame
+[06/02/2012 23:55:17] Array
+(
+    [last_update] => 1338699315.6094
+)
+
+[06/02/2012 23:55:17] Ajax Results:
+[06/02/2012 23:55:17] {"update_time":1338699317.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:19] game: updateGame
+[06/02/2012 23:55:19] Array
+(
+    [last_update] => 1338699317.6094
+)
+
+[06/02/2012 23:55:19] Ajax Results:
+[06/02/2012 23:55:19] {"update_time":1338699319.625,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:21] game: updateGame
+[06/02/2012 23:55:21] Array
+(
+    [last_update] => 1338699319.625
+)
+
+[06/02/2012 23:55:21] Ajax Results:
+[06/02/2012 23:55:21] {"update_time":1338699321.625,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:23] game: updateGame
+[06/02/2012 23:55:23] Array
+(
+    [last_update] => 1338699321.625
+)
+
+[06/02/2012 23:55:23] Ajax Results:
+[06/02/2012 23:55:23] {"update_time":1338699323.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:25] game: updateGame
+[06/02/2012 23:55:25] Array
+(
+    [last_update] => 1338699323.6094
+)
+
+[06/02/2012 23:55:25] Ajax Results:
+[06/02/2012 23:55:25] {"update_time":1338699325.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:27] game: updateGame
+[06/02/2012 23:55:27] Array
+(
+    [last_update] => 1338699325.6094
+)
+
+[06/02/2012 23:55:27] Ajax Results:
+[06/02/2012 23:55:27] {"update_time":1338699327.6094,"activity":[{"activity_message":"","activity_js":"removeMob(4);"},{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699346.96,14,0,'','removeMob(1);')
+[06/02/2012 23:55:47] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699347,15,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[06/02/2012 23:55:29] game: updateGame
+[06/02/2012 23:55:29] Array
+(
+    [last_update] => 1338699327.6094
+)
+
+[06/02/2012 23:55:29] Ajax Results:
+[06/02/2012 23:55:29] {"update_time":1338699329.6094,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:31] game: updateGame
+[06/02/2012 23:55:31] Array
+(
+    [last_update] => 1338699329.6094
+)
+
+[06/02/2012 23:55:31] Ajax Results:
+[06/02/2012 23:55:31] {"update_time":1338699331.6094,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:33] game: updateGame
+[06/02/2012 23:55:33] Array
+(
+    [last_update] => 1338699331.6094
+)
+
+[06/02/2012 23:55:33] Ajax Results:
+[06/02/2012 23:55:33] {"update_time":1338699333.6094,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:55:35] game: updateGame
+[06/02/2012 23:55:35] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:35] Ajax Results:
+[06/02/2012 23:55:35] 
+[06/02/2012 23:55:37] game: updateGame
+[06/02/2012 23:55:37] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:37] Ajax Results:
+[06/02/2012 23:55:37] 
+[06/02/2012 23:55:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699357.08,9,0,'','removeMob(3);')
+[06/02/2012 23:55:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699357.1,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[06/02/2012 23:55:39] game: updateGame
+[06/02/2012 23:55:39] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:39] Ajax Results:
+[06/02/2012 23:55:39] 
+[06/02/2012 23:55:41] game: updateGame
+[06/02/2012 23:55:41] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:41] Ajax Results:
+[06/02/2012 23:55:41] 
+[06/02/2012 23:56:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699362.19,19,0,'','removeMob(2);')
+[06/02/2012 23:56:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699362.23,18,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[06/02/2012 23:56:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699362.4,20,0,'','removeMob(5);')
+[06/02/2012 23:56:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699362.45,9,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:55:43] game: updateGame
+[06/02/2012 23:55:43] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:43] Ajax Results:
+[06/02/2012 23:55:43] 
+[06/02/2012 23:55:45] game: updateGame
+[06/02/2012 23:55:45] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:45] Ajax Results:
+[06/02/2012 23:55:45] 
+[06/02/2012 23:55:47] game: updateGame
+[06/02/2012 23:55:47] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:47] Ajax Results:
+[06/02/2012 23:55:47] 
+[06/02/2012 23:55:49] game: updateGame
+[06/02/2012 23:55:49] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:49] Ajax Results:
+[06/02/2012 23:55:49] 
+[06/02/2012 23:55:51] game: updateGame
+[06/02/2012 23:55:51] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:51] Ajax Results:
+[06/02/2012 23:55:51] 
+[06/02/2012 23:55:53] game: updateGame
+[06/02/2012 23:55:53] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:53] Ajax Results:
+[06/02/2012 23:55:53] 
+[06/02/2012 23:55:55] game: updateGame
+[06/02/2012 23:55:55] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:55] Ajax Results:
+[06/02/2012 23:55:55] 
+[06/02/2012 23:55:57] game: updateGame
+[06/02/2012 23:55:57] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:57] Ajax Results:
+[06/02/2012 23:55:57] 
+[06/02/2012 23:56:17] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699377.59,18,0,'','removeMob(2);')
+[06/02/2012 23:56:17] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699377.62,17,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[06/02/2012 23:55:59] game: updateGame
+[06/02/2012 23:55:59] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:55:59] Ajax Results:
+[06/02/2012 23:55:59] 
+[06/02/2012 23:56:01] game: updateGame
+[06/02/2012 23:56:01] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:01] Ajax Results:
+[06/02/2012 23:56:01] 
+[06/02/2012 23:56:03] game: updateGame
+[06/02/2012 23:56:03] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:03] Ajax Results:
+[06/02/2012 23:56:03] 
+[06/02/2012 23:56:05] game: updateGame
+[06/02/2012 23:56:05] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:05] Ajax Results:
+[06/02/2012 23:56:05] 
+[06/02/2012 23:56:07] game: updateGame
+[06/02/2012 23:56:07] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:07] Ajax Results:
+[06/02/2012 23:56:07] 
+[06/02/2012 23:56:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699387.7,17,0,'','removeMob(2);')
+[06/02/2012 23:56:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699387.74,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[06/02/2012 23:56:09] game: updateGame
+[06/02/2012 23:56:09] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:09] Ajax Results:
+[06/02/2012 23:56:09] 
+[06/02/2012 23:56:11] game: updateGame
+[06/02/2012 23:56:11] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:11] Ajax Results:
+[06/02/2012 23:56:11] 
+[06/02/2012 23:56:13] game: updateGame
+[06/02/2012 23:56:13] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:13] Ajax Results:
+[06/02/2012 23:56:13] 
+[06/02/2012 23:56:15] game: updateGame
+[06/02/2012 23:56:15] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:15] Ajax Results:
+[06/02/2012 23:56:15] 
+[06/02/2012 23:56:17] game: updateGame
+[06/02/2012 23:56:17] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:17] Ajax Results:
+[06/02/2012 23:56:17] 
+[06/02/2012 23:56:19] game: updateGame
+[06/02/2012 23:56:19] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:19] Ajax Results:
+[06/02/2012 23:56:19] 
+[06/02/2012 23:56:21] game: updateGame
+[06/02/2012 23:56:21] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:21] Ajax Results:
+[06/02/2012 23:56:21] 
+[06/02/2012 23:56:23] game: updateGame
+[06/02/2012 23:56:23] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:23] Ajax Results:
+[06/02/2012 23:56:23] 
+[06/02/2012 23:56:25] game: updateGame
+[06/02/2012 23:56:25] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:25] Ajax Results:
+[06/02/2012 23:56:25] 
+[06/02/2012 23:56:27] game: updateGame
+[06/02/2012 23:56:27] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:27] Ajax Results:
+[06/02/2012 23:56:27] 
+[06/02/2012 23:56:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699407.95,4,0,'','removeMob(4);')
+[06/02/2012 23:56:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699408.02,5,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[06/02/2012 23:56:29] game: updateGame
+[06/02/2012 23:56:29] Array
+(
+    [last_update] => 1338699333.6094
+)
+
+[06/02/2012 23:56:29] Ajax Results:
+[06/02/2012 23:56:29] {"update_time":1338699389.625,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:56:31] game: updateGame
+[06/02/2012 23:56:31] Array
+(
+    [last_update] => 1338699389.625
+)
+
+[06/02/2012 23:56:31] Ajax Results:
+[06/02/2012 23:56:31] {"update_time":1338699391.6406,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:56:33] game: updateGame
+[06/02/2012 23:56:33] Array
+(
+    [last_update] => 1338699391.6406
+)
+
+[06/02/2012 23:56:33] Ajax Results:
+[06/02/2012 23:56:33] {"update_time":1338699393.6406,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:56:35] game: updateGame
+[06/02/2012 23:56:35] Array
+(
+    [last_update] => 1338699393.6406
+)
+
+[06/02/2012 23:56:35] Ajax Results:
+[06/02/2012 23:56:35] {"update_time":1338699395.6406,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:56:37] game: updateGame
+[06/02/2012 23:56:37] Array
+(
+    [last_update] => 1338699395.6406
+)
+
+[06/02/2012 23:56:37] Ajax Results:
+[06/02/2012 23:56:37] {"update_time":1338699397.6406,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:56:37] map: move
+[06/02/2012 23:56:37] Array
+(
+    [direction] => east
+    [tile_id] => 5
+)
+
+[06/02/2012 23:56:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699397.97,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/02/2012 23:56:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699398,4,11,'','removeUser(11);')
+[06/02/2012 23:56:38] Ajax Results:
+[06/02/2012 23:56:38] clearTile();
+loadTile(5);
+updateStats();
+$('#tile_id').val('5');
+
+[06/02/2012 23:56:38] map: getTileInfoById
+[06/02/2012 23:56:38] Array
+(
+    [tile_id] => 5
+)
+
+[06/02/2012 23:56:38] Ajax Results:
+[06/02/2012 23:56:38] {"tile":{"tile_id":"5","tile_x":"1","tile_y":"-3","tile_z":"0","tile_title":"Another Good New Tile","tile_desc":"undefined","tile_exits":{"east":{"tile_id":"6"},"west":{"tile_id":"4"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[{"mob_name":"Aubree Mae","mob_id":"4","mob_avatar":"mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg"}]}
+[06/02/2012 23:56:38] game: updateStats
+[06/02/2012 23:56:38] Array
+(
+)
+
+[06/02/2012 23:56:38] Ajax Results:
+[06/02/2012 23:56:38] {"user_health":"1","user_mana":"1","user_energy":"-0.333349"}
+[06/02/2012 23:56:39] game: updateGame
+[06/02/2012 23:56:39] Array
+(
+    [last_update] => 1338699397.6406
+)
+
+[06/02/2012 23:56:39] Ajax Results:
+[06/02/2012 23:56:39] {"update_time":1338699399.6406,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:56:41] game: updateGame
+[06/02/2012 23:56:41] Array
+(
+    [last_update] => 1338699399.6406
+)
+
+[06/02/2012 23:56:41] Ajax Results:
+[06/02/2012 23:56:41] {"update_time":1338699401.6406,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:56:43] game: updateGame
+[06/02/2012 23:56:43] Array
+(
+    [last_update] => 1338699401.6406
+)
+
+[06/02/2012 23:56:43] Ajax Results:
+[06/02/2012 23:56:43] {"update_time":1338699403.6406,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:56:45] game: updateGame
+[06/02/2012 23:56:45] Array
+(
+    [last_update] => 1338699403.6406
+)
+
+[06/02/2012 23:56:45] Ajax Results:
+[06/02/2012 23:56:45] {"update_time":1338699405.6406,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:56:47] game: updateGame
+[06/02/2012 23:56:47] Array
+(
+    [last_update] => 1338699405.6406
+)
+
+[06/02/2012 23:56:47] Ajax Results:
+[06/02/2012 23:56:47] {"update_time":1338699407.6406,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:56:49] game: updateGame
+[06/02/2012 23:56:49] Array
+(
+    [last_update] => 1338699407.6406
+)
+
+[06/02/2012 23:56:49] Ajax Results:
+[06/02/2012 23:56:49] {"update_time":1338699409.625,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:56:51] game: updateGame
+[06/02/2012 23:56:51] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:56:51] Ajax Results:
+[06/02/2012 23:56:51] 
+[06/02/2012 23:56:53] game: updateGame
+[06/02/2012 23:56:53] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:56:53] Ajax Results:
+[06/02/2012 23:56:53] 
+[06/02/2012 23:57:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699433.39,15,0,'','removeMob(1);')
+[06/02/2012 23:57:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699433.43,14,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[06/02/2012 23:56:55] game: updateGame
+[06/02/2012 23:56:55] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:56:55] Ajax Results:
+[06/02/2012 23:56:55] 
+[06/02/2012 23:56:57] game: updateGame
+[06/02/2012 23:56:57] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:56:57] Ajax Results:
+[06/02/2012 23:56:57] 
+[06/02/2012 23:56:59] game: updateGame
+[06/02/2012 23:56:59] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:56:59] Ajax Results:
+[06/02/2012 23:56:59] 
+[06/02/2012 23:57:01] game: updateGame
+[06/02/2012 23:57:01] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:01] Ajax Results:
+[06/02/2012 23:57:01] 
+[06/02/2012 23:57:03] game: updateGame
+[06/02/2012 23:57:03] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:03] Ajax Results:
+[06/02/2012 23:57:03] 
+[06/02/2012 23:57:05] game: updateGame
+[06/02/2012 23:57:05] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:05] Ajax Results:
+[06/02/2012 23:57:05] 
+[06/02/2012 23:57:07] game: updateGame
+[06/02/2012 23:57:07] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:07] Ajax Results:
+[06/02/2012 23:57:07] 
+[06/02/2012 23:57:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699448.58,9,0,'','removeMob(5);')
+[06/02/2012 23:57:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699448.62,10,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:57:09] game: updateGame
+[06/02/2012 23:57:09] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:09] Ajax Results:
+[06/02/2012 23:57:09] 
+[06/02/2012 23:57:11] game: updateGame
+[06/02/2012 23:57:11] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:11] Ajax Results:
+[06/02/2012 23:57:11] 
+[06/02/2012 23:57:13] game: updateGame
+[06/02/2012 23:57:13] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:13] Ajax Results:
+[06/02/2012 23:57:13] 
+[06/02/2012 23:57:15] game: updateGame
+[06/02/2012 23:57:15] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:15] Ajax Results:
+[06/02/2012 23:57:15] 
+[06/02/2012 23:57:17] game: updateGame
+[06/02/2012 23:57:17] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:17] Ajax Results:
+[06/02/2012 23:57:17] 
+[06/02/2012 23:57:19] game: updateGame
+[06/02/2012 23:57:19] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:19] Ajax Results:
+[06/02/2012 23:57:19] 
+[06/02/2012 23:57:21] game: updateGame
+[06/02/2012 23:57:21] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:21] Ajax Results:
+[06/02/2012 23:57:21] 
+[06/02/2012 23:57:23] game: updateGame
+[06/02/2012 23:57:23] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:23] Ajax Results:
+[06/02/2012 23:57:23] 
+[06/02/2012 23:57:25] game: updateGame
+[06/02/2012 23:57:25] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:25] Ajax Results:
+[06/02/2012 23:57:25] 
+[06/02/2012 23:57:27] game: updateGame
+[06/02/2012 23:57:27] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:27] Ajax Results:
+[06/02/2012 23:57:27] 
+[06/02/2012 23:57:29] game: updateGame
+[06/02/2012 23:57:29] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:29] Ajax Results:
+[06/02/2012 23:57:29] 
+[06/02/2012 23:57:31] game: updateGame
+[06/02/2012 23:57:31] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:31] Ajax Results:
+[06/02/2012 23:57:31] 
+[06/02/2012 23:57:33] game: updateGame
+[06/02/2012 23:57:33] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:33] Ajax Results:
+[06/02/2012 23:57:33] 
+[06/02/2012 23:57:35] game: updateGame
+[06/02/2012 23:57:35] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:35] Ajax Results:
+[06/02/2012 23:57:35] 
+[06/02/2012 23:57:37] game: updateGame
+[06/02/2012 23:57:37] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:37] Ajax Results:
+[06/02/2012 23:57:37] 
+[06/02/2012 23:57:39] game: updateGame
+[06/02/2012 23:57:39] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:39] Ajax Results:
+[06/02/2012 23:57:39] 
+[06/02/2012 23:57:41] game: updateGame
+[06/02/2012 23:57:41] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:41] Ajax Results:
+[06/02/2012 23:57:41] 
+[06/02/2012 23:57:43] game: updateGame
+[06/02/2012 23:57:43] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:43] Ajax Results:
+[06/02/2012 23:57:43] 
+[06/02/2012 23:58:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699484,1,0,'','removeMob(2);')
+[06/02/2012 23:58:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699484.07,17,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[06/02/2012 23:57:45] game: updateGame
+[06/02/2012 23:57:45] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:45] Ajax Results:
+[06/02/2012 23:57:45] 
+[06/02/2012 23:57:47] game: updateGame
+[06/02/2012 23:57:47] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:47] Ajax Results:
+[06/02/2012 23:57:47] 
+[06/02/2012 23:57:49] game: updateGame
+[06/02/2012 23:57:49] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:49] Ajax Results:
+[06/02/2012 23:57:49] 
+[06/02/2012 23:57:51] game: updateGame
+[06/02/2012 23:57:51] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:51] Ajax Results:
+[06/02/2012 23:57:51] 
+[06/02/2012 23:57:53] game: updateGame
+[06/02/2012 23:57:53] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:53] Ajax Results:
+[06/02/2012 23:57:53] 
+[06/02/2012 23:57:55] game: updateGame
+[06/02/2012 23:57:55] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:55] Ajax Results:
+[06/02/2012 23:57:55] 
+[06/02/2012 23:57:57] game: updateGame
+[06/02/2012 23:57:57] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:57] Ajax Results:
+[06/02/2012 23:57:57] 
+[06/02/2012 23:57:59] game: updateGame
+[06/02/2012 23:57:59] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:57:59] Ajax Results:
+[06/02/2012 23:57:59] 
+[06/02/2012 23:58:01] game: updateGame
+[06/02/2012 23:58:01] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:58:01] Ajax Results:
+[06/02/2012 23:58:01] 
+[06/02/2012 23:58:03] game: updateGame
+[06/02/2012 23:58:03] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:58:03] Ajax Results:
+[06/02/2012 23:58:03] 
+[06/02/2012 23:58:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699504.22,5,0,'','removeMob(4);')
+[06/02/2012 23:58:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699504.25,6,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[06/02/2012 23:58:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699504.35,10,0,'','removeMob(5);')
+[06/02/2012 23:58:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699504.37,6,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:58:05] game: updateGame
+[06/02/2012 23:58:05] Array
+(
+    [last_update] => 1338699409.625
+)
+
+[06/02/2012 23:58:05] Ajax Results:
+[06/02/2012 23:58:05] {"update_time":1338699485.6719,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:58:07] game: updateGame
+[06/02/2012 23:58:07] Array
+(
+    [last_update] => 1338699485.6719
+)
+
+[06/02/2012 23:58:07] Ajax Results:
+[06/02/2012 23:58:07] {"update_time":1338699487.6719,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:58:09] game: updateGame
+[06/02/2012 23:58:09] Array
+(
+    [last_update] => 1338699487.6719
+)
+
+[06/02/2012 23:58:09] Ajax Results:
+[06/02/2012 23:58:09] {"update_time":1338699489.6719,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:58:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699509.45,6,0,'','removeMob(5);')
+[06/02/2012 23:58:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699509.49,10,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:58:11] game: updateGame
+[06/02/2012 23:58:11] Array
+(
+    [last_update] => 1338699489.6719
+)
+
+[06/02/2012 23:58:11] Ajax Results:
+[06/02/2012 23:58:11] {"update_time":1338699491.6719,"activity":[{"activity_message":"","activity_js":"removeMob(4);"}]}
+[06/02/2012 23:58:12] map: move
+[06/02/2012 23:58:12] Array
+(
+    [direction] => west
+    [tile_id] => 4
+)
+
+[06/02/2012 23:58:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699492.64,4,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/02/2012 23:58:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699492.68,5,11,'','removeUser(11);')
+[06/02/2012 23:58:12] Ajax Results:
+[06/02/2012 23:58:12] clearTile();
+loadTile(4);
+updateStats();
+$('#tile_id').val('4');
+
+[06/02/2012 23:58:12] map: getTileInfoById
+[06/02/2012 23:58:12] Array
+(
+    [tile_id] => 4
+)
+
+[06/02/2012 23:58:12] Ajax Results:
+[06/02/2012 23:58:12] {"tile":{"tile_id":"4","tile_x":"0","tile_y":"-3","tile_z":"0","tile_title":"Another Cool Tile","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"7"},"east":{"tile_id":"5"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[]}
+[06/02/2012 23:58:12] game: updateStats
+[06/02/2012 23:58:12] Array
+(
+)
+
+[06/02/2012 23:58:12] Ajax Results:
+[06/02/2012 23:58:12] {"user_health":"1","user_mana":"1","user_energy":"-0.0666824"}
+[06/02/2012 23:58:13] game: updateGame
+[06/02/2012 23:58:13] Array
+(
+    [last_update] => 1338699491.6719
+)
+
+[06/02/2012 23:58:13] Ajax Results:
+[06/02/2012 23:58:13] 
+[06/02/2012 23:58:14] map: move
+[06/02/2012 23:58:14] Array
+(
+    [direction] => north
+    [tile_id] => 7
+)
+
+[06/02/2012 23:58:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699494.25,7,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/02/2012 23:58:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699494.28,4,11,'','removeUser(11);')
+[06/02/2012 23:58:14] Ajax Results:
+[06/02/2012 23:58:14] clearTile();
+loadTile(7);
+updateStats();
+$('#tile_id').val('7');
+
+[06/02/2012 23:58:14] map: getTileInfoById
+[06/02/2012 23:58:14] Array
+(
+    [tile_id] => 7
+)
+
+[06/02/2012 23:58:14] Ajax Results:
+[06/02/2012 23:58:14] {"tile":{"tile_id":"7","tile_x":"0","tile_y":"-2","tile_z":"0","tile_title":"Northern","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"8"},"south":{"tile_id":"4"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[]}
+[06/02/2012 23:58:14] game: updateStats
+[06/02/2012 23:58:14] Array
+(
+)
+
+[06/02/2012 23:58:14] Ajax Results:
+[06/02/2012 23:58:14] {"user_health":"1","user_mana":"1","user_energy":"-0.116682"}
+[06/02/2012 23:58:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699514.63,6,0,'','removeMob(4);')
+[06/02/2012 23:58:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699514.67,5,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[06/02/2012 23:58:15] game: updateGame
+[06/02/2012 23:58:15] Array
+(
+    [last_update] => 1338699491.6719
+)
+
+[06/02/2012 23:58:15] Ajax Results:
+[06/02/2012 23:58:15] 
+[06/02/2012 23:58:16] map: move
+[06/02/2012 23:58:16] Array
+(
+    [direction] => south
+    [tile_id] => 4
+)
+
+[06/02/2012 23:58:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699496.61,4,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/02/2012 23:58:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699496.66,7,11,'','removeUser(11);')
+[06/02/2012 23:58:16] Ajax Results:
+[06/02/2012 23:58:16] clearTile();
+loadTile(4);
+updateStats();
+$('#tile_id').val('4');
+
+[06/02/2012 23:58:16] map: getTileInfoById
+[06/02/2012 23:58:16] Array
+(
+    [tile_id] => 4
+)
+
+[06/02/2012 23:58:16] Ajax Results:
+[06/02/2012 23:58:16] {"tile":{"tile_id":"4","tile_x":"0","tile_y":"-3","tile_z":"0","tile_title":"Another Cool Tile","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"7"},"east":{"tile_id":"5"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[]}
+[06/02/2012 23:58:16] game: updateStats
+[06/02/2012 23:58:16] Array
+(
+)
+
+[06/02/2012 23:58:16] Ajax Results:
+[06/02/2012 23:58:16] {"user_health":"1","user_mana":"1","user_energy":"-0.150016"}
+[06/02/2012 23:58:17] game: updateGame
+[06/02/2012 23:58:17] Array
+(
+    [last_update] => 1338699491.6719
+)
+
+[06/02/2012 23:58:17] Ajax Results:
+[06/02/2012 23:58:17] 
+[06/02/2012 23:58:19] game: updateGame
+[06/02/2012 23:58:19] Array
+(
+    [last_update] => 1338699491.6719
+)
+
+[06/02/2012 23:58:19] Ajax Results:
+[06/02/2012 23:58:19] 
+[06/02/2012 23:58:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699519.77,5,0,'','removeMob(4);')
+[06/02/2012 23:58:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699519.81,4,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[06/02/2012 23:58:21] game: updateGame
+[06/02/2012 23:58:21] Array
+(
+    [last_update] => 1338699491.6719
+)
+
+[06/02/2012 23:58:21] Ajax Results:
+[06/02/2012 23:58:21] {"update_time":1338699501.6719,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:23] game: updateGame
+[06/02/2012 23:58:23] Array
+(
+    [last_update] => 1338699501.6719
+)
+
+[06/02/2012 23:58:23] Ajax Results:
+[06/02/2012 23:58:23] {"update_time":1338699503.6719,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:25] game: updateGame
+[06/02/2012 23:58:25] Array
+(
+    [last_update] => 1338699503.6719
+)
+
+[06/02/2012 23:58:25] Ajax Results:
+[06/02/2012 23:58:25] {"update_time":1338699505.6719,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699524.91,10,0,'','removeMob(5);')
+[06/02/2012 23:58:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699524.95,6,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:58:27] game: updateGame
+[06/02/2012 23:58:27] Array
+(
+    [last_update] => 1338699505.6719
+)
+
+[06/02/2012 23:58:27] Ajax Results:
+[06/02/2012 23:58:27] {"update_time":1338699507.6563,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:29] game: updateGame
+[06/02/2012 23:58:29] Array
+(
+    [last_update] => 1338699507.6563
+)
+
+[06/02/2012 23:58:29] Ajax Results:
+[06/02/2012 23:58:29] {"update_time":1338699509.6875,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:31] game: updateGame
+[06/02/2012 23:58:31] Array
+(
+    [last_update] => 1338699509.6875
+)
+
+[06/02/2012 23:58:31] Ajax Results:
+[06/02/2012 23:58:31] {"update_time":1338699511.6719,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:33] game: updateGame
+[06/02/2012 23:58:33] Array
+(
+    [last_update] => 1338699511.6719
+)
+
+[06/02/2012 23:58:33] Ajax Results:
+[06/02/2012 23:58:33] {"update_time":1338699513.6719,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:35] game: updateGame
+[06/02/2012 23:58:35] Array
+(
+    [last_update] => 1338699513.6719
+)
+
+[06/02/2012 23:58:35] Ajax Results:
+[06/02/2012 23:58:35] {"update_time":1338699515.6563,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:37] game: updateGame
+[06/02/2012 23:58:37] Array
+(
+    [last_update] => 1338699515.6563
+)
+
+[06/02/2012 23:58:37] Ajax Results:
+[06/02/2012 23:58:37] {"update_time":1338699517.6563,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:39] game: updateGame
+[06/02/2012 23:58:39] Array
+(
+    [last_update] => 1338699517.6563
+)
+
+[06/02/2012 23:58:39] Ajax Results:
+[06/02/2012 23:58:39] {"update_time":1338699519.6875,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:59:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699540.04,6,0,'','removeMob(5);')
+[06/02/2012 23:59:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699540.06,5,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[06/02/2012 23:58:41] game: updateGame
+[06/02/2012 23:58:41] Array
+(
+    [last_update] => 1338699519.6875
+)
+
+[06/02/2012 23:58:41] Ajax Results:
+[06/02/2012 23:58:41] {"update_time":1338699521.6719,"activity":[{"activity_message":"","activity_js":"showMob(4,'Aubree Mae','mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg');"}]}
+[06/02/2012 23:58:43] game: updateGame
+[06/02/2012 23:58:43] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:43] Ajax Results:
+[06/02/2012 23:58:43] 
+[06/02/2012 23:58:45] game: updateGame
+[06/02/2012 23:58:45] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:45] Ajax Results:
+[06/02/2012 23:58:45] 
+[06/02/2012 23:58:47] game: updateGame
+[06/02/2012 23:58:47] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:47] Ajax Results:
+[06/02/2012 23:58:47] 
+[06/02/2012 23:58:49] game: updateGame
+[06/02/2012 23:58:49] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:49] Ajax Results:
+[06/02/2012 23:58:49] 
+[06/02/2012 23:58:51] game: updateGame
+[06/02/2012 23:58:51] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:51] Ajax Results:
+[06/02/2012 23:58:51] 
+[06/02/2012 23:58:53] game: updateGame
+[06/02/2012 23:58:53] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:53] Ajax Results:
+[06/02/2012 23:58:53] 
+[06/02/2012 23:58:55] game: updateGame
+[06/02/2012 23:58:55] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:55] Ajax Results:
+[06/02/2012 23:58:55] 
+[06/02/2012 23:58:57] game: updateGame
+[06/02/2012 23:58:57] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:57] Ajax Results:
+[06/02/2012 23:58:57] 
+[06/02/2012 23:58:59] game: updateGame
+[06/02/2012 23:58:59] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:58:59] Ajax Results:
+[06/02/2012 23:58:59] 
+[06/02/2012 23:59:01] game: updateGame
+[06/02/2012 23:59:01] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:01] Ajax Results:
+[06/02/2012 23:59:01] 
+[06/02/2012 23:59:03] game: updateGame
+[06/02/2012 23:59:03] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:03] Ajax Results:
+[06/02/2012 23:59:03] 
+[06/02/2012 23:59:05] game: updateGame
+[06/02/2012 23:59:05] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:05] Ajax Results:
+[06/02/2012 23:59:05] 
+[06/02/2012 23:59:07] game: updateGame
+[06/02/2012 23:59:07] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:07] Ajax Results:
+[06/02/2012 23:59:07] 
+[06/02/2012 23:59:09] game: updateGame
+[06/02/2012 23:59:09] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:09] Ajax Results:
+[06/02/2012 23:59:09] 
+[06/02/2012 23:59:11] game: updateGame
+[06/02/2012 23:59:11] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:11] Ajax Results:
+[06/02/2012 23:59:11] 
+[06/02/2012 23:59:13] game: updateGame
+[06/02/2012 23:59:13] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:13] Ajax Results:
+[06/02/2012 23:59:13] 
+[06/02/2012 23:59:15] game: updateGame
+[06/02/2012 23:59:15] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:15] Ajax Results:
+[06/02/2012 23:59:15] 
+[06/02/2012 23:59:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699575.4,17,0,'','removeMob(2);')
+[06/02/2012 23:59:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1338699575.44,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[06/02/2012 23:59:17] game: updateGame
+[06/02/2012 23:59:17] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:17] Ajax Results:
+[06/02/2012 23:59:17] 
+[06/02/2012 23:59:19] game: updateGame
+[06/02/2012 23:59:19] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:19] Ajax Results:
+[06/02/2012 23:59:19] 
+[06/02/2012 23:59:21] game: updateGame
+[06/02/2012 23:59:21] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:21] Ajax Results:
+[06/02/2012 23:59:21] 
+[06/02/2012 23:59:23] game: updateGame
+[06/02/2012 23:59:23] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:23] Ajax Results:
+[06/02/2012 23:59:23] 
+[06/02/2012 23:59:25] game: updateGame
+[06/02/2012 23:59:25] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:25] Ajax Results:
+[06/02/2012 23:59:25] 
+[06/02/2012 23:59:27] game: updateGame
+[06/02/2012 23:59:27] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:27] Ajax Results:
+[06/02/2012 23:59:27] 
+[06/02/2012 23:59:29] game: updateGame
+[06/02/2012 23:59:29] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:29] Ajax Results:
+[06/02/2012 23:59:29] 
+[06/02/2012 23:59:31] game: updateGame
+[06/02/2012 23:59:31] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:31] Ajax Results:
+[06/02/2012 23:59:31] 
+[06/02/2012 23:59:33] game: updateGame
+[06/02/2012 23:59:33] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:33] Ajax Results:
+[06/02/2012 23:59:33] 
+[06/02/2012 23:59:35] game: updateGame
+[06/02/2012 23:59:35] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:35] Ajax Results:
+[06/02/2012 23:59:35] 
+[06/02/2012 23:59:37] game: updateGame
+[06/02/2012 23:59:37] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:37] Ajax Results:
+[06/02/2012 23:59:37] 
+[06/02/2012 23:59:39] game: updateGame
+[06/02/2012 23:59:39] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:39] Ajax Results:
+[06/02/2012 23:59:39] 
+[06/02/2012 23:59:41] game: updateGame
+[06/02/2012 23:59:41] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:41] Ajax Results:
+[06/02/2012 23:59:41] 
+[06/02/2012 23:59:43] game: updateGame
+[06/02/2012 23:59:43] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:43] Ajax Results:
+[06/02/2012 23:59:43] 
+[06/02/2012 23:59:45] game: updateGame
+[06/02/2012 23:59:45] Array
+(
+    [last_update] => 1338699521.6719
+)
+
+[06/02/2012 23:59:45] Ajax Results:
+[06/02/2012 23:59:45] 
+[06/02/2012 23:59:47] Original URI: /game
+[06/02/2012 23:59:47] Mod URI: /game
+[06/02/2012 23:59:47] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/02/2012 23:59:47] game.class.php
+[06/02/2012 23:59:47] Template: game
+[06/02/2012 23:59:47] Page Args: 
+[06/02/2012 23:59:47] Array
+(
+)
+
+[06/02/2012 23:59:47] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/02/2012 23:59:47] game: initializeGame
+[06/02/2012 23:59:47] Array
+(
+    [user_id] => 11
+)
+
+[06/02/2012 23:59:47] Ajax Results:
+[06/02/2012 23:59:47] {"template_dir":"..\/templates","site_url":"http:\/\/rpg.bremaweb.com","debug":"1","self_consign_percent":".65","drop_consign_percent":".5","tax_rate":".07725","active_sale":"2","image_url":"http:\/\/rpg.bremaweb.com\/images","site_name":"RPG 2011","avatar_url":"http:\/\/rpg.bremaweb.com\/avatars\/","avatar_dir":"\/web\/avatars"}
+[06/02/2012 23:59:47] map: getTileInfoById
+[06/02/2012 23:59:47] Array
+(
+    [tile_id] => 4
+)
+
+[06/02/2012 23:59:47] Ajax Results:
+[06/02/2012 23:59:47] {"tile":{"tile_id":"4","tile_x":"0","tile_y":"-3","tile_z":"0","tile_title":"Another Cool Tile","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"7"},"east":{"tile_id":"5"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[{"mob_name":"Aubree Mae","mob_id":"4","mob_avatar":"mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg"}]}
+[06/02/2012 23:59:47] game: updateStats
+[06/02/2012 23:59:47] Array
+(
+)
+
+[06/02/2012 23:59:47] Ajax Results:
+[06/02/2012 23:59:47] {"user_health":"1","user_mana":"1","user_energy":"0.149984"}
+[06/02/2012 23:59:48] Original URI: /favicon.ico
+[06/02/2012 23:59:48] Mod URI: /favicon.ico
+[06/02/2012 23:59:48] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:59:48] Original URI: /404
+[06/02/2012 23:59:48] Mod URI: /404
+[06/02/2012 23:59:48] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:59:48] 404.class.php
+[06/02/2012 23:59:48] Template: 404
+[06/02/2012 23:59:48] Page Args: 
+[06/02/2012 23:59:48] Array
+(
+)
+
+[06/02/2012 23:59:48] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:59:49] Original URI: /game
+[06/02/2012 23:59:49] Mod URI: /game
+[06/02/2012 23:59:49] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/02/2012 23:59:49] game.class.php
+[06/02/2012 23:59:49] Template: game
+[06/02/2012 23:59:49] Page Args: 
+[06/02/2012 23:59:49] Array
+(
+)
+
+[06/02/2012 23:59:49] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/02/2012 23:59:50] game: initializeGame
+[06/02/2012 23:59:50] Array
+(
+    [user_id] => 11
+)
+
+[06/02/2012 23:59:50] Ajax Results:
+[06/02/2012 23:59:50] {"template_dir":"..\/templates","site_url":"http:\/\/rpg.bremaweb.com","debug":"1","self_consign_percent":".65","drop_consign_percent":".5","tax_rate":".07725","active_sale":"2","image_url":"http:\/\/rpg.bremaweb.com\/images","site_name":"RPG 2011","avatar_url":"http:\/\/rpg.bremaweb.com\/avatars\/","avatar_dir":"\/web\/avatars"}
+[06/02/2012 23:59:50] Original URI: /favicon.ico
+[06/02/2012 23:59:50] Mod URI: /favicon.ico
+[06/02/2012 23:59:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:59:50] map: getTileInfoById
+[06/02/2012 23:59:50] Array
+(
+    [tile_id] => 4
+)
+
+[06/02/2012 23:59:50] Ajax Results:
+[06/02/2012 23:59:50] {"tile":{"tile_id":"4","tile_x":"0","tile_y":"-3","tile_z":"0","tile_title":"Another Cool Tile","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"7"},"east":{"tile_id":"5"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[{"mob_name":"Aubree Mae","mob_id":"4","mob_avatar":"mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg"}]}
+[06/02/2012 23:59:50] Original URI: /404
+[06/02/2012 23:59:50] Mod URI: /404
+[06/02/2012 23:59:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:59:50] 404.class.php
+[06/02/2012 23:59:50] Template: 404
+[06/02/2012 23:59:50] Page Args: 
+[06/02/2012 23:59:50] Array
+(
+)
+
+[06/02/2012 23:59:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:59:52] game: updateGame
+[06/02/2012 23:59:52] Array
+(
+    [last_update] => 1338699589.8759
+)
+
+[06/02/2012 23:59:52] Ajax Results:
+[06/02/2012 23:59:52] 
+[06/02/2012 23:59:53] Original URI: /game
+[06/02/2012 23:59:53] Mod URI: /game
+[06/02/2012 23:59:53] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/02/2012 23:59:53] game.class.php
+[06/02/2012 23:59:53] Template: game
+[06/02/2012 23:59:53] Page Args: 
+[06/02/2012 23:59:53] Array
+(
+)
+
+[06/02/2012 23:59:53] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/02/2012 23:59:53] game: initializeGame
+[06/02/2012 23:59:53] Array
+(
+    [user_id] => 11
+)
+
+[06/02/2012 23:59:53] Ajax Results:
+[06/02/2012 23:59:53] {"template_dir":"..\/templates","site_url":"http:\/\/rpg.bremaweb.com","debug":"1","self_consign_percent":".65","drop_consign_percent":".5","tax_rate":".07725","active_sale":"2","image_url":"http:\/\/rpg.bremaweb.com\/images","site_name":"RPG 2011","avatar_url":"http:\/\/rpg.bremaweb.com\/avatars\/","avatar_dir":"\/web\/avatars"}
+[06/02/2012 23:59:53] Original URI: /favicon.ico
+[06/02/2012 23:59:53] Mod URI: /favicon.ico
+[06/02/2012 23:59:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/02/2012 23:59:53] map: getTileInfoById
+[06/02/2012 23:59:53] Array
+(
+    [tile_id] => 4
+)
+
+[06/02/2012 23:59:53] Ajax Results:
+[06/02/2012 23:59:53] {"tile":{"tile_id":"4","tile_x":"0","tile_y":"-3","tile_z":"0","tile_title":"Another Cool Tile","tile_desc":"undefined","tile_exits":{"north":{"tile_id":"7"},"east":{"tile_id":"5"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[{"mob_name":"Aubree Mae","mob_id":"4","mob_avatar":"mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg"}]}
+[06/02/2012 23:59:53] Original URI: /404
+[06/02/2012 23:59:53] Mod URI: /404
+[06/02/2012 23:59:53] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/02/2012 23:59:53] 404.class.php
+[06/02/2012 23:59:53] Template: 404
+[06/02/2012 23:59:53] Page Args: 
+[06/02/2012 23:59:53] Array
+(
+)
+
+[06/02/2012 23:59:53] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/02/2012 23:59:55] game: updateGame
+[06/02/2012 23:59:55] Array
+(
+    [last_update] => 1338699593.032
+)
+
+[06/02/2012 23:59:55] Ajax Results:
+[06/02/2012 23:59:55] 
+[06/02/2012 23:59:57] game: updateGame
+[06/02/2012 23:59:57] Array
+(
+    [last_update] => 1338699593.032
+)
+
+[06/02/2012 23:59:57] Ajax Results:
+[06/02/2012 23:59:57] 
+[06/02/2012 23:59:59] game: updateGame
+[06/02/2012 23:59:59] Array
+(
+    [last_update] => 1338699593.032
+)
+
+[06/02/2012 23:59:59] Ajax Results:
+[06/02/2012 23:59:59] 

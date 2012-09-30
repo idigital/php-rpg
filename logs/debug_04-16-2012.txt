@@ -1,0 +1,16 @@
+[04/16/2012 14:02:12] Original URI: 
+[04/16/2012 14:02:12] Mod URI: 
+[04/16/2012 14:02:12] Template: index
+[04/16/2012 14:02:12] Page Args: 
+[04/16/2012 14:02:12] 
+[04/16/2012 14:02:12] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=4cgo92duihhp77dd89p67fqnk6; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+

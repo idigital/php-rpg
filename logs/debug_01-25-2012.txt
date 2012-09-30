@@ -1,0 +1,2956 @@
+[01/25/2012 20:13:40] Original URI: 
+[01/25/2012 20:13:40] Mod URI: 
+[01/25/2012 20:13:40] Template: index
+[01/25/2012 20:13:40] Page Args: 
+[01/25/2012 20:13:40] 
+[01/25/2012 20:13:41] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=mgc175j8ippg7m159tdl9rg5m2; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[01/25/2012 20:13:41] Original URI: /favicon.ico
+[01/25/2012 20:13:41] Mod URI: /favicon.ico
+[01/25/2012 20:13:41] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:13:41] Original URI: /404
+[01/25/2012 20:13:41] Mod URI: /404
+[01/25/2012 20:13:41] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:13:41] 404.class.php
+[01/25/2012 20:13:41] Template: 404
+[01/25/2012 20:13:41] Page Args: 
+[01/25/2012 20:13:41] Array
+(
+)
+
+[01/25/2012 20:13:41] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[01/25/2012 20:13:50] Original URI: /game
+[01/25/2012 20:13:50] Mod URI: /game
+[01/25/2012 20:13:50] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[01/25/2012 20:13:50] game.class.php
+[01/25/2012 20:13:50] Template: game
+[01/25/2012 20:13:50] Page Args: 
+[01/25/2012 20:13:50] Array
+(
+)
+
+[01/25/2012 20:13:50] Original URI: /login
+[01/25/2012 20:13:50] Mod URI: /login
+[01/25/2012 20:13:50] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[01/25/2012 20:13:50] login.class.php
+[01/25/2012 20:13:50] Template: login
+[01/25/2012 20:13:50] Page Args: 
+[01/25/2012 20:13:50] Array
+(
+)
+
+[01/25/2012 20:13:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:13:50] Original URI: /images/sign-up.png
+[01/25/2012 20:13:50] Mod URI: /images/sign-up.png
+[01/25/2012 20:13:50] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[01/25/2012 20:13:51] Original URI: /404
+[01/25/2012 20:13:51] Mod URI: /404
+[01/25/2012 20:13:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:13:51] 404.class.php
+[01/25/2012 20:13:51] Template: 404
+[01/25/2012 20:13:51] Page Args: 
+[01/25/2012 20:13:51] Array
+(
+)
+
+[01/25/2012 20:13:51] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:13:51] Original URI: /favicon.ico
+[01/25/2012 20:13:51] Mod URI: /favicon.ico
+[01/25/2012 20:13:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:13:51] Original URI: /404
+[01/25/2012 20:13:51] Mod URI: /404
+[01/25/2012 20:13:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:13:51] 404.class.php
+[01/25/2012 20:13:51] Template: 404
+[01/25/2012 20:13:51] Page Args: 
+[01/25/2012 20:13:51] Array
+(
+)
+
+[01/25/2012 20:13:51] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:13:58] Original URI: /login
+[01/25/2012 20:13:58] Mod URI: /login
+[01/25/2012 20:13:58] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[01/25/2012 20:13:58] login.class.php
+[01/25/2012 20:13:58] Template: login
+[01/25/2012 20:13:58] Page Args: 
+[01/25/2012 20:13:58] Array
+(
+)
+
+[01/25/2012 20:13:58] login(brandon.reese@gmail.com,not360change)
+[01/25/2012 20:13:58] createSession(11)
+[01/25/2012 20:13:58] sessions row for userid exists
+[01/25/2012 20:13:58] Sessid: a8dc444665af616e55427ea6685fa81b
+[01/25/2012 20:13:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544038.83,6,11,'<![CDATA[BrandonReese appears from within the void!]]>','<![CDATA[showUser(\'11\');]]>')
+[01/25/2012 20:13:58] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=a8dc444665af616e55427ea6685fa81b
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[01/25/2012 20:13:58] Original URI: 
+[01/25/2012 20:13:58] Mod URI: 
+[01/25/2012 20:13:58] Template: index
+[01/25/2012 20:13:58] Page Args: 
+[01/25/2012 20:13:58] 
+[01/25/2012 20:13:58] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:13:59] Original URI: /favicon.ico
+[01/25/2012 20:13:59] Mod URI: /favicon.ico
+[01/25/2012 20:13:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:13:59] Original URI: /404
+[01/25/2012 20:13:59] Mod URI: /404
+[01/25/2012 20:13:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:13:59] 404.class.php
+[01/25/2012 20:13:59] Template: 404
+[01/25/2012 20:13:59] Page Args: 
+[01/25/2012 20:13:59] Array
+(
+)
+
+[01/25/2012 20:13:59] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:14:02] Original URI: /game
+[01/25/2012 20:14:02] Mod URI: /game
+[01/25/2012 20:14:02] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[01/25/2012 20:14:02] game.class.php
+[01/25/2012 20:14:02] Template: game
+[01/25/2012 20:14:02] Page Args: 
+[01/25/2012 20:14:02] Array
+(
+)
+
+[01/25/2012 20:14:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[01/25/2012 20:14:03] game: initializeGame
+[01/25/2012 20:14:03] Array
+(
+    [user_id] => 11
+)
+
+[01/25/2012 20:14:03] Ajax Results:
+[01/25/2012 20:14:03] <settings>
+<template_dir>../templates</template_dir>
+<site_url>http://rpg.bremaweb.com</site_url>
+<debug>1</debug>
+<self_consign_percent>.65</self_consign_percent>
+<drop_consign_percent>.5</drop_consign_percent>
+<tax_rate>.07725</tax_rate>
+<active_sale>2</active_sale>
+<image_url>http://rpg.bremaweb.com/images</image_url>
+<site_name>RPG 2011</site_name>
+<avatar_url>http://rpg.bremaweb.com/avatars/</avatar_url>
+<avatar_dir>/web/avatars</avatar_dir>
+</settings>
+
+[01/25/2012 20:14:03] map: getTileInfoById
+[01/25/2012 20:14:03] Array
+(
+    [tile_id] => 6
+)
+
+[01/25/2012 20:14:03] Ajax Results:
+[01/25/2012 20:14:03] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[More new!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>2</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>5</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:14:03] game: updateStats
+[01/25/2012 20:14:03] Array
+(
+)
+
+[01/25/2012 20:14:03] Ajax Results:
+[01/25/2012 20:14:03] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>93</field_value></field></fields>
+[01/25/2012 20:14:03] Original URI: /favicon.ico
+[01/25/2012 20:14:03] Mod URI: /favicon.ico
+[01/25/2012 20:14:03] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:14:03] Original URI: /404
+[01/25/2012 20:14:03] Mod URI: /404
+[01/25/2012 20:14:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:14:03] 404.class.php
+[01/25/2012 20:14:03] Template: 404
+[01/25/2012 20:14:03] Page Args: 
+[01/25/2012 20:14:03] Array
+(
+)
+
+[01/25/2012 20:14:03] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:14:05] game: updateGame
+[01/25/2012 20:14:05] Array
+(
+    [last_update] => 1327544042.1995
+)
+
+[01/25/2012 20:14:05] Ajax Results:
+[01/25/2012 20:14:05] 
+[01/25/2012 20:14:08] game: updateGame
+[01/25/2012 20:14:08] Array
+(
+    [last_update] => 1327544042.1995
+)
+
+[01/25/2012 20:14:08] Ajax Results:
+[01/25/2012 20:14:08] 
+[01/25/2012 20:14:10] game: updateGame
+[01/25/2012 20:14:10] Array
+(
+    [last_update] => 1327544042.1995
+)
+
+[01/25/2012 20:14:10] Ajax Results:
+[01/25/2012 20:14:10] 
+[01/25/2012 20:14:10] map: move
+[01/25/2012 20:14:10] Array
+(
+    [direction] => east
+    [tile_id] => 2
+)
+
+[01/25/2012 20:14:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544050.64,2,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:14:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544050.66,6,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:14:10] Ajax Results:
+[01/25/2012 20:14:10] clearTile();
+loadTile(2);
+updateStats();
+document.getElementById('tile_id').value = '2';
+
+[01/25/2012 20:14:10] map: getTileInfoById
+[01/25/2012 20:14:10] Array
+(
+    [tile_id] => 2
+)
+
+[01/25/2012 20:14:10] Ajax Results:
+[01/25/2012 20:14:10] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Test2]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>west</direction>
+<tile_id>6</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:14:11] game: updateStats
+[01/25/2012 20:14:11] Array
+(
+)
+
+[01/25/2012 20:14:11] Ajax Results:
+[01/25/2012 20:14:11] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>88</field_value></field></fields>
+[01/25/2012 20:14:13] map: move
+[01/25/2012 20:14:13] Array
+(
+    [direction] => west
+    [tile_id] => 6
+)
+
+[01/25/2012 20:14:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544053.21,6,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:14:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544053.23,2,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:14:13] Ajax Results:
+[01/25/2012 20:14:13] clearTile();
+loadTile(6);
+updateStats();
+document.getElementById('tile_id').value = '6';
+
+[01/25/2012 20:14:13] map: getTileInfoById
+[01/25/2012 20:14:13] Array
+(
+    [tile_id] => 6
+)
+
+[01/25/2012 20:14:13] Ajax Results:
+[01/25/2012 20:14:13] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[More new!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>2</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>5</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:14:13] game: updateStats
+[01/25/2012 20:14:13] Array
+(
+)
+
+[01/25/2012 20:14:13] Ajax Results:
+[01/25/2012 20:14:13] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>83</field_value></field></fields>
+[01/25/2012 20:14:14] map: move
+[01/25/2012 20:14:14] Array
+(
+    [direction] => west
+    [tile_id] => 5
+)
+
+[01/25/2012 20:14:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544054.55,5,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:14:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544054.57,6,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:14:14] Ajax Results:
+[01/25/2012 20:14:14] clearTile();
+loadTile(5);
+updateStats();
+document.getElementById('tile_id').value = '5';
+
+[01/25/2012 20:14:14] map: getTileInfoById
+[01/25/2012 20:14:14] Array
+(
+    [tile_id] => 5
+)
+
+[01/25/2012 20:14:14] Ajax Results:
+[01/25/2012 20:14:14] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another Good New Tile]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>6</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>4</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:14:14] game: updateStats
+[01/25/2012 20:14:14] Array
+(
+)
+
+[01/25/2012 20:14:14] Ajax Results:
+[01/25/2012 20:14:14] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>78</field_value></field></fields>
+[01/25/2012 20:14:16] map: move
+[01/25/2012 20:14:16] Array
+(
+    [direction] => west
+    [tile_id] => 4
+)
+
+[01/25/2012 20:14:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544056.63,4,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:14:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544056.65,5,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:14:16] Ajax Results:
+[01/25/2012 20:14:16] clearTile();
+loadTile(4);
+updateStats();
+document.getElementById('tile_id').value = '4';
+
+[01/25/2012 20:14:16] map: getTileInfoById
+[01/25/2012 20:14:16] Array
+(
+    [tile_id] => 4
+)
+
+[01/25/2012 20:14:16] Ajax Results:
+[01/25/2012 20:14:16] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another Cool Tile]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>5</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:14:16] game: updateStats
+[01/25/2012 20:14:16] Array
+(
+)
+
+[01/25/2012 20:14:16] Ajax Results:
+[01/25/2012 20:14:16] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>73</field_value></field></fields>
+[01/25/2012 20:14:18] map: move
+[01/25/2012 20:14:18] Array
+(
+    [direction] => north
+    [tile_id] => 7
+)
+
+[01/25/2012 20:14:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544058.05,7,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:14:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544058.08,4,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:14:18] Ajax Results:
+[01/25/2012 20:14:18] clearTile();
+loadTile(7);
+updateStats();
+document.getElementById('tile_id').value = '7';
+
+[01/25/2012 20:14:18] map: getTileInfoById
+[01/25/2012 20:14:18] Array
+(
+    [tile_id] => 7
+)
+
+[01/25/2012 20:14:18] Ajax Results:
+[01/25/2012 20:14:18] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Northern]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>4</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+<user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:14:18] game: updateStats
+[01/25/2012 20:14:18] Array
+(
+)
+
+[01/25/2012 20:14:18] Ajax Results:
+[01/25/2012 20:14:18] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>68</field_value></field></fields>
+[01/25/2012 20:16:43] map: move
+[01/25/2012 20:16:43] Array
+(
+    [direction] => north
+    [tile_id] => 8
+)
+
+[01/25/2012 20:16:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544203.08,8,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:16:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544203.1,7,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:16:43] Ajax Results:
+[01/25/2012 20:16:43] clearTile();
+loadTile(8);
+updateStats();
+document.getElementById('tile_id').value = '8';
+
+[01/25/2012 20:16:43] map: getTileInfoById
+[01/25/2012 20:16:43] Array
+(
+    [tile_id] => 8
+)
+
+[01/25/2012 20:16:43] Ajax Results:
+[01/25/2012 20:16:43] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Woot Woot]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:16:43] game: updateStats
+[01/25/2012 20:16:43] Array
+(
+)
+
+[01/25/2012 20:16:43] Ajax Results:
+[01/25/2012 20:16:43] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>63</field_value></field></fields>
+[01/25/2012 20:16:44] map: move
+[01/25/2012 20:16:44] Array
+(
+    [direction] => north
+    [tile_id] => 3
+)
+
+[01/25/2012 20:16:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544204.84,3,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:16:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544204.86,8,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:16:44] Ajax Results:
+[01/25/2012 20:16:44] clearTile();
+loadTile(3);
+updateStats();
+document.getElementById('tile_id').value = '3';
+
+[01/25/2012 20:16:45] map: getTileInfoById
+[01/25/2012 20:16:45] Array
+(
+    [tile_id] => 3
+)
+
+[01/25/2012 20:16:45] Ajax Results:
+[01/25/2012 20:16:45] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[The Origin Tile]]></tile_title>
+	<tile_desc><![CDATA[This is the origin tile. I can't think of anything interesting to put here. Here is some color though (<span style="color: #990000;">red</span>) Blah blah blah. Need to put in a full text editor in here rather than just a text area<br />
+<br />
+Yeah I'm pretty exicted about this project.]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>13</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>12</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+<mob>
+	<mob_name>Madi Jean</mob_name>
+	<mob_id>5</mob_id>
+	<mob_avatar>mobavatar-0292865e4407c0400b811721fc835ff5.jpg</mob_avatar>
+</mob>
+</mobs>
+</tile>
+
+[01/25/2012 20:16:45] game: updateStats
+[01/25/2012 20:16:45] Array
+(
+)
+
+[01/25/2012 20:16:45] Ajax Results:
+[01/25/2012 20:16:45] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>58</field_value></field></fields>
+[01/25/2012 20:16:56] map: move
+[01/25/2012 20:16:56] Array
+(
+    [direction] => north
+    [tile_id] => 13
+)
+
+[01/25/2012 20:16:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544216.52,13,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:16:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544216.54,3,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:16:56] Ajax Results:
+[01/25/2012 20:16:56] clearTile();
+loadTile(13);
+updateStats();
+document.getElementById('tile_id').value = '13';
+
+[01/25/2012 20:16:56] map: getTileInfoById
+[01/25/2012 20:16:56] Array
+(
+    [tile_id] => 13
+)
+
+[01/25/2012 20:16:56] Ajax Results:
+[01/25/2012 20:16:56] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[North Square]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>14</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:16:56] game: updateStats
+[01/25/2012 20:16:56] Array
+(
+)
+
+[01/25/2012 20:16:56] Ajax Results:
+[01/25/2012 20:16:56] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>53</field_value></field></fields>
+[01/25/2012 20:16:58] map: move
+[01/25/2012 20:16:58] Array
+(
+    [direction] => east
+    [tile_id] => 14
+)
+
+[01/25/2012 20:16:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544218.59,14,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:16:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544218.61,13,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:16:58] Ajax Results:
+[01/25/2012 20:16:58] clearTile();
+loadTile(14);
+updateStats();
+document.getElementById('tile_id').value = '14';
+
+[01/25/2012 20:16:58] map: getTileInfoById
+[01/25/2012 20:16:58] Array
+(
+    [tile_id] => 14
+)
+
+[01/25/2012 20:16:58] Ajax Results:
+[01/25/2012 20:16:58] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Eastern]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>15</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>13</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:16:58] game: updateStats
+[01/25/2012 20:16:58] Array
+(
+)
+
+[01/25/2012 20:16:58] Ajax Results:
+[01/25/2012 20:16:58] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>48</field_value></field></fields>
+[01/25/2012 20:17:00] map: move
+[01/25/2012 20:17:00] Array
+(
+    [direction] => east
+    [tile_id] => 15
+)
+
+[01/25/2012 20:17:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544220.36,15,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:17:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544220.39,14,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:17:00] Ajax Results:
+[01/25/2012 20:17:00] clearTile();
+loadTile(15);
+updateStats();
+document.getElementById('tile_id').value = '15';
+
+[01/25/2012 20:17:00] map: getTileInfoById
+[01/25/2012 20:17:00] Array
+(
+    [tile_id] => 15
+)
+
+[01/25/2012 20:17:00] Ajax Results:
+[01/25/2012 20:17:00] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Eastern 2]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>16</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>14</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:17:00] game: updateStats
+[01/25/2012 20:17:00] Array
+(
+)
+
+[01/25/2012 20:17:00] Ajax Results:
+[01/25/2012 20:17:00] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>43</field_value></field></fields>
+[01/25/2012 20:17:02] map: move
+[01/25/2012 20:17:02] Array
+(
+    [direction] => north
+    [tile_id] => 16
+)
+
+[01/25/2012 20:17:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544222.87,16,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:17:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544222.89,15,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:17:02] Ajax Results:
+[01/25/2012 20:17:02] clearTile();
+loadTile(16);
+updateStats();
+document.getElementById('tile_id').value = '16';
+
+[01/25/2012 20:17:03] map: getTileInfoById
+[01/25/2012 20:17:03] Array
+(
+    [tile_id] => 16
+)
+
+[01/25/2012 20:17:03] Ajax Results:
+[01/25/2012 20:17:03] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Testing]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>19</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>15</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+<mob>
+	<mob_name>Josie Belle</mob_name>
+	<mob_id>3</mob_id>
+	<mob_avatar>mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg</mob_avatar>
+</mob>
+<mob>
+	<mob_name>Aubree Mae</mob_name>
+	<mob_id>4</mob_id>
+	<mob_avatar>mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg</mob_avatar>
+</mob>
+</mobs>
+</tile>
+
+[01/25/2012 20:17:03] game: updateStats
+[01/25/2012 20:17:03] Array
+(
+)
+
+[01/25/2012 20:17:03] Ajax Results:
+[01/25/2012 20:17:03] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>38</field_value></field></fields>
+[01/25/2012 20:17:07] map: move
+[01/25/2012 20:17:07] Array
+(
+    [direction] => north
+    [tile_id] => 19
+)
+
+[01/25/2012 20:17:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544227.56,19,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:17:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544227.59,16,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:17:07] Ajax Results:
+[01/25/2012 20:17:07] clearTile();
+loadTile(19);
+updateStats();
+document.getElementById('tile_id').value = '19';
+
+[01/25/2012 20:17:07] map: getTileInfoById
+[01/25/2012 20:17:07] Array
+(
+    [tile_id] => 19
+)
+
+[01/25/2012 20:17:07] Ajax Results:
+[01/25/2012 20:17:07] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[hihi]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>16</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>18</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:17:07] game: updateStats
+[01/25/2012 20:17:07] Array
+(
+)
+
+[01/25/2012 20:17:07] Ajax Results:
+[01/25/2012 20:17:07] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>33</field_value></field></fields>
+[01/25/2012 20:17:09] map: move
+[01/25/2012 20:17:09] Array
+(
+    [direction] => east
+    [tile_id] => 18
+)
+
+[01/25/2012 20:17:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544229.88,18,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:17:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544229.9,19,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:17:09] Ajax Results:
+[01/25/2012 20:17:09] clearTile();
+loadTile(18);
+updateStats();
+document.getElementById('tile_id').value = '18';
+
+[01/25/2012 20:17:10] map: getTileInfoById
+[01/25/2012 20:17:10] Array
+(
+    [tile_id] => 18
+)
+
+[01/25/2012 20:17:10] Ajax Results:
+[01/25/2012 20:17:10] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[undefined]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>17</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>19</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:17:10] game: updateStats
+[01/25/2012 20:17:10] Array
+(
+)
+
+[01/25/2012 20:17:10] Ajax Results:
+[01/25/2012 20:17:10] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>28</field_value></field></fields>
+[01/25/2012 20:17:11] map: move
+[01/25/2012 20:17:11] Array
+(
+    [direction] => east
+    [tile_id] => 17
+)
+
+[01/25/2012 20:17:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544231.4,17,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:17:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544231.42,18,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:17:11] Ajax Results:
+[01/25/2012 20:17:11] clearTile();
+loadTile(17);
+updateStats();
+document.getElementById('tile_id').value = '17';
+
+[01/25/2012 20:17:11] map: getTileInfoById
+[01/25/2012 20:17:11] Array
+(
+    [tile_id] => 17
+)
+
+[01/25/2012 20:17:11] Ajax Results:
+[01/25/2012 20:17:11] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[undefined]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>1</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>18</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:17:11] game: updateStats
+[01/25/2012 20:17:11] Array
+(
+)
+
+[01/25/2012 20:17:11] Ajax Results:
+[01/25/2012 20:17:11] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>23</field_value></field></fields>
+[01/25/2012 20:17:13] map: move
+[01/25/2012 20:17:13] Array
+(
+    [direction] => north
+    [tile_id] => 1
+)
+
+[01/25/2012 20:17:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544233.27,1,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[01/25/2012 20:17:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544233.28,17,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[01/25/2012 20:17:13] Ajax Results:
+[01/25/2012 20:17:13] clearTile();
+loadTile(1);
+updateStats();
+document.getElementById('tile_id').value = '1';
+
+[01/25/2012 20:17:13] map: getTileInfoById
+[01/25/2012 20:17:13] Array
+(
+    [tile_id] => 1
+)
+
+[01/25/2012 20:17:13] Ajax Results:
+[01/25/2012 20:17:13] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Test1]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>17</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:17:13] game: updateStats
+[01/25/2012 20:17:13] Array
+(
+)
+
+[01/25/2012 20:17:13] Ajax Results:
+[01/25/2012 20:17:13] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>18</field_value></field></fields>
+[01/25/2012 20:17:23] game: doChat
+[01/25/2012 20:17:23] Array
+(
+    [message] => Hello
+)
+
+[01/25/2012 20:17:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544243.82,1,11,'<![CDATA[BrandonReese says, &quot;Hello&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:17:23] Ajax Results:
+[01/25/2012 20:17:23] 
+[01/25/2012 20:17:42] Original URI: 
+[01/25/2012 20:17:42] Mod URI: 
+[01/25/2012 20:17:42] Template: index
+[01/25/2012 20:17:42] Page Args: 
+[01/25/2012 20:17:42] 
+[01/25/2012 20:17:42] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=n6rnvihskgor0ih0md5l2r4495; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[01/25/2012 20:17:42] Original URI: /favicon.ico
+[01/25/2012 20:17:42] Mod URI: /favicon.ico
+[01/25/2012 20:17:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:17:42] Original URI: /404
+[01/25/2012 20:17:42] Mod URI: /404
+[01/25/2012 20:17:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:42] 404.class.php
+[01/25/2012 20:17:42] Template: 404
+[01/25/2012 20:17:42] Page Args: 
+[01/25/2012 20:17:42] Array
+(
+)
+
+[01/25/2012 20:17:42] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[01/25/2012 20:17:44] Original URI: /game
+[01/25/2012 20:17:44] Mod URI: /game
+[01/25/2012 20:17:44] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[01/25/2012 20:17:44] game.class.php
+[01/25/2012 20:17:44] Template: game
+[01/25/2012 20:17:44] Page Args: 
+[01/25/2012 20:17:44] Array
+(
+)
+
+[01/25/2012 20:17:44] Original URI: /login
+[01/25/2012 20:17:44] Mod URI: /login
+[01/25/2012 20:17:44] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[01/25/2012 20:17:44] login.class.php
+[01/25/2012 20:17:44] Template: login
+[01/25/2012 20:17:44] Page Args: 
+[01/25/2012 20:17:44] Array
+(
+)
+
+[01/25/2012 20:17:45] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:45] Original URI: /images/sign-up.png
+[01/25/2012 20:17:45] Mod URI: /images/sign-up.png
+[01/25/2012 20:17:45] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[01/25/2012 20:17:45] Original URI: /404
+[01/25/2012 20:17:45] Mod URI: /404
+[01/25/2012 20:17:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:45] 404.class.php
+[01/25/2012 20:17:45] Template: 404
+[01/25/2012 20:17:45] Page Args: 
+[01/25/2012 20:17:45] Array
+(
+)
+
+[01/25/2012 20:17:45] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:45] Original URI: /favicon.ico
+[01/25/2012 20:17:45] Mod URI: /favicon.ico
+[01/25/2012 20:17:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:17:45] Original URI: /404
+[01/25/2012 20:17:45] Mod URI: /404
+[01/25/2012 20:17:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:45] 404.class.php
+[01/25/2012 20:17:45] Template: 404
+[01/25/2012 20:17:45] Page Args: 
+[01/25/2012 20:17:45] Array
+(
+)
+
+[01/25/2012 20:17:45] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:50] Original URI: /login
+[01/25/2012 20:17:50] Mod URI: /login
+[01/25/2012 20:17:50] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[01/25/2012 20:17:50] login.class.php
+[01/25/2012 20:17:50] Template: login
+[01/25/2012 20:17:50] Page Args: 
+[01/25/2012 20:17:50] Array
+(
+)
+
+[01/25/2012 20:17:50] login(brandon@bremaweb.com,not360change)
+[01/25/2012 20:17:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:50] Original URI: /images/sign-up.png
+[01/25/2012 20:17:50] Mod URI: /images/sign-up.png
+[01/25/2012 20:17:50] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[01/25/2012 20:17:50] Original URI: /404
+[01/25/2012 20:17:50] Mod URI: /404
+[01/25/2012 20:17:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:50] 404.class.php
+[01/25/2012 20:17:50] Template: 404
+[01/25/2012 20:17:50] Page Args: 
+[01/25/2012 20:17:50] Array
+(
+)
+
+[01/25/2012 20:17:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:50] Original URI: /favicon.ico
+[01/25/2012 20:17:50] Mod URI: /favicon.ico
+[01/25/2012 20:17:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:17:50] Original URI: /404
+[01/25/2012 20:17:50] Mod URI: /404
+[01/25/2012 20:17:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:50] 404.class.php
+[01/25/2012 20:17:50] Template: 404
+[01/25/2012 20:17:50] Page Args: 
+[01/25/2012 20:17:50] Array
+(
+)
+
+[01/25/2012 20:17:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:56] Original URI: /login
+[01/25/2012 20:17:56] Mod URI: /login
+[01/25/2012 20:17:56] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[01/25/2012 20:17:56] login.class.php
+[01/25/2012 20:17:56] Template: login
+[01/25/2012 20:17:56] Page Args: 
+[01/25/2012 20:17:56] Array
+(
+)
+
+[01/25/2012 20:17:56] login(brandon@bremaweb.com,not360change)
+[01/25/2012 20:17:56] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:56] Original URI: /images/sign-up.png
+[01/25/2012 20:17:56] Mod URI: /images/sign-up.png
+[01/25/2012 20:17:56] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[01/25/2012 20:17:56] Original URI: /404
+[01/25/2012 20:17:56] Mod URI: /404
+[01/25/2012 20:17:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:56] 404.class.php
+[01/25/2012 20:17:56] Template: 404
+[01/25/2012 20:17:56] Page Args: 
+[01/25/2012 20:17:56] Array
+(
+)
+
+[01/25/2012 20:17:56] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:17:56] Original URI: /favicon.ico
+[01/25/2012 20:17:56] Mod URI: /favicon.ico
+[01/25/2012 20:17:56] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:17:56] Original URI: /404
+[01/25/2012 20:17:56] Mod URI: /404
+[01/25/2012 20:17:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:17:56] 404.class.php
+[01/25/2012 20:17:56] Template: 404
+[01/25/2012 20:17:56] Page Args: 
+[01/25/2012 20:17:56] Array
+(
+)
+
+[01/25/2012 20:17:56] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:18:48] Original URI: /login
+[01/25/2012 20:18:48] Mod URI: /login
+[01/25/2012 20:18:48] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[01/25/2012 20:18:48] login.class.php
+[01/25/2012 20:18:48] Template: login
+[01/25/2012 20:18:48] Page Args: 
+[01/25/2012 20:18:48] Array
+(
+)
+
+[01/25/2012 20:18:48] login(bremaweb@gmail.com,not360change)
+[01/25/2012 20:18:48] createSession(14)
+[01/25/2012 20:18:48] sessions row for userid exists
+[01/25/2012 20:18:48] Sessid: 2075da74c7d2e780ecd9fd525183ee42
+[01/25/2012 20:18:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544328.83,7,14,'<![CDATA[Zeek appears from within the void!]]>','<![CDATA[showUser(\'14\');]]>')
+[01/25/2012 20:18:48] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=2075da74c7d2e780ecd9fd525183ee42
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[01/25/2012 20:18:48] Original URI: 
+[01/25/2012 20:18:48] Mod URI: 
+[01/25/2012 20:18:48] Template: index
+[01/25/2012 20:18:48] Page Args: 
+[01/25/2012 20:18:48] 
+[01/25/2012 20:18:49] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:18:49] Original URI: /favicon.ico
+[01/25/2012 20:18:49] Mod URI: /favicon.ico
+[01/25/2012 20:18:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:18:49] Original URI: /404
+[01/25/2012 20:18:49] Mod URI: /404
+[01/25/2012 20:18:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:18:49] 404.class.php
+[01/25/2012 20:18:49] Template: 404
+[01/25/2012 20:18:49] Page Args: 
+[01/25/2012 20:18:49] Array
+(
+)
+
+[01/25/2012 20:18:49] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:18:51] Original URI: /game
+[01/25/2012 20:18:51] Mod URI: /game
+[01/25/2012 20:18:51] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[01/25/2012 20:18:51] game.class.php
+[01/25/2012 20:18:51] Template: game
+[01/25/2012 20:18:51] Page Args: 
+[01/25/2012 20:18:51] Array
+(
+)
+
+[01/25/2012 20:18:51] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[01/25/2012 20:18:51] game: initializeGame
+[01/25/2012 20:18:51] Array
+(
+    [user_id] => 14
+)
+
+[01/25/2012 20:18:51] Ajax Results:
+[01/25/2012 20:18:51] <settings>
+<template_dir>../templates</template_dir>
+<site_url>http://rpg.bremaweb.com</site_url>
+<debug>1</debug>
+<self_consign_percent>.65</self_consign_percent>
+<drop_consign_percent>.5</drop_consign_percent>
+<tax_rate>.07725</tax_rate>
+<active_sale>2</active_sale>
+<image_url>http://rpg.bremaweb.com/images</image_url>
+<site_name>RPG 2011</site_name>
+<avatar_url>http://rpg.bremaweb.com/avatars/</avatar_url>
+<avatar_dir>/web/avatars</avatar_dir>
+</settings>
+
+[01/25/2012 20:18:51] map: getTileInfoById
+[01/25/2012 20:18:51] Array
+(
+    [tile_id] => 7
+)
+
+[01/25/2012 20:18:51] Ajax Results:
+[01/25/2012 20:18:51] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Northern]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>4</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:18:51] game: updateStats
+[01/25/2012 20:18:51] Array
+(
+)
+
+[01/25/2012 20:18:51] Ajax Results:
+[01/25/2012 20:18:51] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>77</field_value></field></fields>
+[01/25/2012 20:18:51] Original URI: /favicon.ico
+[01/25/2012 20:18:51] Mod URI: /favicon.ico
+[01/25/2012 20:18:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:18:51] Original URI: /404
+[01/25/2012 20:18:51] Mod URI: /404
+[01/25/2012 20:18:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:18:51] 404.class.php
+[01/25/2012 20:18:51] Template: 404
+[01/25/2012 20:18:51] Page Args: 
+[01/25/2012 20:18:51] Array
+(
+)
+
+[01/25/2012 20:18:51] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:18:53] game: updateGame
+[01/25/2012 20:18:53] Array
+(
+    [last_update] => 1327544331.0536
+)
+
+[01/25/2012 20:18:53] Ajax Results:
+[01/25/2012 20:18:53] 
+[01/25/2012 20:18:55] map: move
+[01/25/2012 20:18:55] Array
+(
+    [direction] => north
+    [tile_id] => 8
+)
+
+[01/25/2012 20:18:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544335.41,8,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:18:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544335.43,7,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:18:55] Ajax Results:
+[01/25/2012 20:18:55] clearTile();
+loadTile(8);
+updateStats();
+document.getElementById('tile_id').value = '8';
+
+[01/25/2012 20:18:55] map: getTileInfoById
+[01/25/2012 20:18:55] Array
+(
+    [tile_id] => 8
+)
+
+[01/25/2012 20:18:55] Ajax Results:
+[01/25/2012 20:18:55] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Woot Woot]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:18:55] game: updateStats
+[01/25/2012 20:18:55] Array
+(
+)
+
+[01/25/2012 20:18:55] Ajax Results:
+[01/25/2012 20:18:55] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>72</field_value></field></fields>
+[01/25/2012 20:18:56] game: updateGame
+[01/25/2012 20:18:56] Array
+(
+    [last_update] => 1327544331.0536
+)
+
+[01/25/2012 20:18:56] Ajax Results:
+[01/25/2012 20:18:56] 
+[01/25/2012 20:18:56] map: move
+[01/25/2012 20:18:56] Array
+(
+    [direction] => north
+    [tile_id] => 3
+)
+
+[01/25/2012 20:18:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544336.81,3,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:18:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544336.83,8,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:18:56] Ajax Results:
+[01/25/2012 20:18:56] clearTile();
+loadTile(3);
+updateStats();
+document.getElementById('tile_id').value = '3';
+
+[01/25/2012 20:18:57] map: getTileInfoById
+[01/25/2012 20:18:57] Array
+(
+    [tile_id] => 3
+)
+
+[01/25/2012 20:18:57] Ajax Results:
+[01/25/2012 20:18:57] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[The Origin Tile]]></tile_title>
+	<tile_desc><![CDATA[This is the origin tile. I can't think of anything interesting to put here. Here is some color though (<span style="color: #990000;">red</span>) Blah blah blah. Need to put in a full text editor in here rather than just a text area<br />
+<br />
+Yeah I'm pretty exicted about this project.]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>13</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>12</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+<mob>
+	<mob_name>Madi Jean</mob_name>
+	<mob_id>5</mob_id>
+	<mob_avatar>mobavatar-0292865e4407c0400b811721fc835ff5.jpg</mob_avatar>
+</mob>
+</mobs>
+</tile>
+
+[01/25/2012 20:18:57] game: updateStats
+[01/25/2012 20:18:57] Array
+(
+)
+
+[01/25/2012 20:18:57] Ajax Results:
+[01/25/2012 20:18:57] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>67</field_value></field></fields>
+[01/25/2012 20:18:58] game: updateGame
+[01/25/2012 20:18:58] Array
+(
+    [last_update] => 1327544331.0536
+)
+
+[01/25/2012 20:18:58] Ajax Results:
+[01/25/2012 20:18:58] 
+[01/25/2012 20:18:58] map: move
+[01/25/2012 20:18:58] Array
+(
+    [direction] => north
+    [tile_id] => 13
+)
+
+[01/25/2012 20:18:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544338.82,13,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:18:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544338.85,3,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:18:58] Ajax Results:
+[01/25/2012 20:18:58] clearTile();
+loadTile(13);
+updateStats();
+document.getElementById('tile_id').value = '13';
+
+[01/25/2012 20:18:59] map: getTileInfoById
+[01/25/2012 20:18:59] Array
+(
+    [tile_id] => 13
+)
+
+[01/25/2012 20:18:59] Ajax Results:
+[01/25/2012 20:18:59] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[North Square]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>14</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:18:59] game: updateStats
+[01/25/2012 20:18:59] Array
+(
+)
+
+[01/25/2012 20:18:59] Ajax Results:
+[01/25/2012 20:18:59] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>62</field_value></field></fields>
+[01/25/2012 20:19:00] map: move
+[01/25/2012 20:19:00] Array
+(
+    [direction] => east
+    [tile_id] => 14
+)
+
+[01/25/2012 20:19:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544340.35,14,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544340.37,13,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:00] Ajax Results:
+[01/25/2012 20:19:00] clearTile();
+loadTile(14);
+updateStats();
+document.getElementById('tile_id').value = '14';
+
+[01/25/2012 20:19:00] map: getTileInfoById
+[01/25/2012 20:19:00] Array
+(
+    [tile_id] => 14
+)
+
+[01/25/2012 20:19:00] Ajax Results:
+[01/25/2012 20:19:00] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>14</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Eastern]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>15</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>13</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:00] game: updateStats
+[01/25/2012 20:19:00] Array
+(
+)
+
+[01/25/2012 20:19:00] Ajax Results:
+[01/25/2012 20:19:00] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>57</field_value></field></fields>
+[01/25/2012 20:19:01] map: move
+[01/25/2012 20:19:01] Array
+(
+    [direction] => east
+    [tile_id] => 15
+)
+
+[01/25/2012 20:19:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544341.81,15,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544341.86,14,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:01] Ajax Results:
+[01/25/2012 20:19:01] clearTile();
+loadTile(15);
+updateStats();
+document.getElementById('tile_id').value = '15';
+
+[01/25/2012 20:19:02] map: getTileInfoById
+[01/25/2012 20:19:02] Array
+(
+    [tile_id] => 15
+)
+
+[01/25/2012 20:19:02] Ajax Results:
+[01/25/2012 20:19:02] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>15</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Eastern 2]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>16</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>14</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:02] game: updateStats
+[01/25/2012 20:19:02] Array
+(
+)
+
+[01/25/2012 20:19:02] Ajax Results:
+[01/25/2012 20:19:02] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>52</field_value></field></fields>
+[01/25/2012 20:19:03] map: move
+[01/25/2012 20:19:03] Array
+(
+    [direction] => north
+    [tile_id] => 16
+)
+
+[01/25/2012 20:19:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544343.28,16,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544343.3,15,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:03] Ajax Results:
+[01/25/2012 20:19:03] clearTile();
+loadTile(16);
+updateStats();
+document.getElementById('tile_id').value = '16';
+
+[01/25/2012 20:19:03] map: getTileInfoById
+[01/25/2012 20:19:03] Array
+(
+    [tile_id] => 16
+)
+
+[01/25/2012 20:19:03] Ajax Results:
+[01/25/2012 20:19:03] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>16</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Testing]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>19</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>15</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+<mob>
+	<mob_name>Josie Belle</mob_name>
+	<mob_id>3</mob_id>
+	<mob_avatar>mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg</mob_avatar>
+</mob>
+<mob>
+	<mob_name>Aubree Mae</mob_name>
+	<mob_id>4</mob_id>
+	<mob_avatar>mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg</mob_avatar>
+</mob>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:03] game: updateStats
+[01/25/2012 20:19:03] Array
+(
+)
+
+[01/25/2012 20:19:03] Ajax Results:
+[01/25/2012 20:19:03] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>47</field_value></field></fields>
+[01/25/2012 20:19:04] map: move
+[01/25/2012 20:19:04] Array
+(
+    [direction] => north
+    [tile_id] => 19
+)
+
+[01/25/2012 20:19:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544344.91,19,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544344.93,16,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:04] Ajax Results:
+[01/25/2012 20:19:04] clearTile();
+loadTile(19);
+updateStats();
+document.getElementById('tile_id').value = '19';
+
+[01/25/2012 20:19:05] map: getTileInfoById
+[01/25/2012 20:19:05] Array
+(
+    [tile_id] => 19
+)
+
+[01/25/2012 20:19:05] Ajax Results:
+[01/25/2012 20:19:05] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>19</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[hihi]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>16</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>18</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:05] game: updateStats
+[01/25/2012 20:19:05] Array
+(
+)
+
+[01/25/2012 20:19:05] Ajax Results:
+[01/25/2012 20:19:05] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>42</field_value></field></fields>
+[01/25/2012 20:19:06] map: move
+[01/25/2012 20:19:06] Array
+(
+    [direction] => east
+    [tile_id] => 18
+)
+
+[01/25/2012 20:19:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544346.8,18,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544346.83,19,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:06] Ajax Results:
+[01/25/2012 20:19:06] clearTile();
+loadTile(18);
+updateStats();
+document.getElementById('tile_id').value = '18';
+
+[01/25/2012 20:19:07] map: getTileInfoById
+[01/25/2012 20:19:07] Array
+(
+    [tile_id] => 18
+)
+
+[01/25/2012 20:19:07] Ajax Results:
+[01/25/2012 20:19:07] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[undefined]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>17</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>19</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:07] game: updateStats
+[01/25/2012 20:19:07] Array
+(
+)
+
+[01/25/2012 20:19:07] Ajax Results:
+[01/25/2012 20:19:07] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>37</field_value></field></fields>
+[01/25/2012 20:19:08] map: move
+[01/25/2012 20:19:08] Array
+(
+    [direction] => east
+    [tile_id] => 17
+)
+
+[01/25/2012 20:19:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544348.11,17,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544348.14,18,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:08] Ajax Results:
+[01/25/2012 20:19:08] clearTile();
+loadTile(17);
+updateStats();
+document.getElementById('tile_id').value = '17';
+
+[01/25/2012 20:19:08] map: getTileInfoById
+[01/25/2012 20:19:08] Array
+(
+    [tile_id] => 17
+)
+
+[01/25/2012 20:19:08] Ajax Results:
+[01/25/2012 20:19:08] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[undefined]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>1</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>18</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:08] game: updateStats
+[01/25/2012 20:19:08] Array
+(
+)
+
+[01/25/2012 20:19:08] Ajax Results:
+[01/25/2012 20:19:08] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>32</field_value></field></fields>
+[01/25/2012 20:19:09] map: move
+[01/25/2012 20:19:09] Array
+(
+    [direction] => north
+    [tile_id] => 1
+)
+
+[01/25/2012 20:19:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544349.53,1,14,'<![CDATA[]]>','<![CDATA[showUser(14,\'Zeek\',\'user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg\');]]>')
+[01/25/2012 20:19:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544349.55,17,14,'<![CDATA[]]>','<![CDATA[removeUser(14);]]>')
+[01/25/2012 20:19:09] Ajax Results:
+[01/25/2012 20:19:09] clearTile();
+loadTile(1);
+updateStats();
+document.getElementById('tile_id').value = '1';
+
+[01/25/2012 20:19:09] map: getTileInfoById
+[01/25/2012 20:19:09] Array
+(
+    [tile_id] => 1
+)
+
+[01/25/2012 20:19:09] Ajax Results:
+[01/25/2012 20:19:09] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Test1]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>17</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+<user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:09] game: updateStats
+[01/25/2012 20:19:09] Array
+(
+)
+
+[01/25/2012 20:19:09] Ajax Results:
+[01/25/2012 20:19:09] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>27</field_value></field></fields>
+[01/25/2012 20:19:14] game: doChat
+[01/25/2012 20:19:14] Array
+(
+    [message] => Hey what's up
+)
+
+[01/25/2012 20:19:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544354.87,1,14,'<![CDATA[Zeek says, &quot;Hey what\'s up&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:19:14] Ajax Results:
+[01/25/2012 20:19:14] 
+[01/25/2012 20:19:31] Original URI: /game
+[01/25/2012 20:19:31] Mod URI: /game
+[01/25/2012 20:19:31] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[01/25/2012 20:19:31] game.class.php
+[01/25/2012 20:19:31] Template: game
+[01/25/2012 20:19:31] Page Args: 
+[01/25/2012 20:19:31] Array
+(
+)
+
+[01/25/2012 20:19:31] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[01/25/2012 20:19:32] Original URI: /favicon.ico
+[01/25/2012 20:19:32] Mod URI: /favicon.ico
+[01/25/2012 20:19:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:19:32] game: initializeGame
+[01/25/2012 20:19:32] Array
+(
+    [user_id] => 11
+)
+
+[01/25/2012 20:19:32] Ajax Results:
+[01/25/2012 20:19:32] <settings>
+<template_dir>../templates</template_dir>
+<site_url>http://rpg.bremaweb.com</site_url>
+<debug>1</debug>
+<self_consign_percent>.65</self_consign_percent>
+<drop_consign_percent>.5</drop_consign_percent>
+<tax_rate>.07725</tax_rate>
+<active_sale>2</active_sale>
+<image_url>http://rpg.bremaweb.com/images</image_url>
+<site_name>RPG 2011</site_name>
+<avatar_url>http://rpg.bremaweb.com/avatars/</avatar_url>
+<avatar_dir>/web/avatars</avatar_dir>
+</settings>
+
+[01/25/2012 20:19:32] map: getTileInfoById
+[01/25/2012 20:19:32] Array
+(
+    [tile_id] => 1
+)
+
+[01/25/2012 20:19:32] Ajax Results:
+[01/25/2012 20:19:32] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Test1]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>17</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+<user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[01/25/2012 20:19:32] game: updateStats
+[01/25/2012 20:19:32] Array
+(
+)
+
+[01/25/2012 20:19:32] Ajax Results:
+[01/25/2012 20:19:32] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>18</field_value></field></fields>
+[01/25/2012 20:19:32] Original URI: /404
+[01/25/2012 20:19:32] Mod URI: /404
+[01/25/2012 20:19:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:19:32] 404.class.php
+[01/25/2012 20:19:32] Template: 404
+[01/25/2012 20:19:32] Page Args: 
+[01/25/2012 20:19:32] Array
+(
+)
+
+[01/25/2012 20:19:32] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:19:34] game: updateGame
+[01/25/2012 20:19:34] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:34] Ajax Results:
+[01/25/2012 20:19:34] 
+[01/25/2012 20:19:36] game: doChat
+[01/25/2012 20:19:36] Array
+(
+    [message] => Hey
+)
+
+[01/25/2012 20:19:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544376.73,1,11,'<![CDATA[BrandonReese says, &quot;Hey&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:19:36] Ajax Results:
+[01/25/2012 20:19:36] 
+[01/25/2012 20:19:37] game: updateGame
+[01/25/2012 20:19:37] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:37] Ajax Results:
+[01/25/2012 20:19:37] 
+[01/25/2012 20:19:39] game: updateGame
+[01/25/2012 20:19:39] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:39] Ajax Results:
+[01/25/2012 20:19:39] 
+[01/25/2012 20:19:41] game: updateGame
+[01/25/2012 20:19:41] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:41] Ajax Results:
+[01/25/2012 20:19:41] 
+[01/25/2012 20:19:44] game: updateGame
+[01/25/2012 20:19:44] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:44] Ajax Results:
+[01/25/2012 20:19:44] 
+[01/25/2012 20:19:46] game: updateGame
+[01/25/2012 20:19:46] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:46] Ajax Results:
+[01/25/2012 20:19:46] 
+[01/25/2012 20:19:47] game: doChat
+[01/25/2012 20:19:47] Array
+(
+    [message] => How are you?
+)
+
+[01/25/2012 20:19:47] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544387,1,14,'<![CDATA[Zeek says, &quot;How are you?&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:19:47] Ajax Results:
+[01/25/2012 20:19:47] 
+[01/25/2012 20:19:48] game: updateGame
+[01/25/2012 20:19:48] Array
+(
+    [last_update] => 1327544371.7126
+)
+
+[01/25/2012 20:19:48] Ajax Results:
+[01/25/2012 20:19:48] <activity>
+<update_time>1327544388.7741</update_time>
+<activity_row>
+	<activity_message><![CDATA[Zeek says, &quot;How are you?&quot;]]></activity_message>
+	<activity_js><![CDATA[]]></activity_js>
+</activity_row>
+</activity>
+
+[01/25/2012 20:19:51] game: updateGame
+[01/25/2012 20:19:51] Array
+(
+    [last_update] => 1327544388.7741
+)
+
+[01/25/2012 20:19:51] Ajax Results:
+[01/25/2012 20:19:51] 
+[01/25/2012 20:19:53] game: updateGame
+[01/25/2012 20:19:53] Array
+(
+    [last_update] => 1327544388.7741
+)
+
+[01/25/2012 20:19:53] Ajax Results:
+[01/25/2012 20:19:53] 
+[01/25/2012 20:19:54] game: doChat
+[01/25/2012 20:19:54] Array
+(
+    [message] => Good, you?
+)
+
+[01/25/2012 20:19:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544394.11,1,11,'<![CDATA[BrandonReese says, &quot;Good, you?&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:19:54] Ajax Results:
+[01/25/2012 20:19:54] 
+[01/25/2012 20:19:55] game: updateGame
+[01/25/2012 20:19:55] Array
+(
+    [last_update] => 1327544388.7741
+)
+
+[01/25/2012 20:19:55] Ajax Results:
+[01/25/2012 20:19:55] 
+[01/25/2012 20:19:57] game: updateGame
+[01/25/2012 20:19:57] Array
+(
+    [last_update] => 1327544388.7741
+)
+
+[01/25/2012 20:19:57] Ajax Results:
+[01/25/2012 20:19:57] 
+[01/25/2012 20:20:00] game: updateGame
+[01/25/2012 20:20:00] Array
+(
+    [last_update] => 1327544388.7741
+)
+
+[01/25/2012 20:20:00] Ajax Results:
+[01/25/2012 20:20:00] 
+[01/25/2012 20:20:00] game: doChat
+[01/25/2012 20:20:00] Array
+(
+    [message] => Dang!
+)
+
+[01/25/2012 20:20:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544400.56,1,14,'<![CDATA[Zeek says, &quot;Dang!&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:20:00] Ajax Results:
+[01/25/2012 20:20:00] 
+[01/25/2012 20:20:02] game: updateGame
+[01/25/2012 20:20:02] Array
+(
+    [last_update] => 1327544388.7741
+)
+
+[01/25/2012 20:20:02] Ajax Results:
+[01/25/2012 20:20:02] <activity>
+<update_time>1327544402.5346</update_time>
+<activity_row>
+	<activity_message><![CDATA[Zeek says, &quot;Dang!&quot;]]></activity_message>
+	<activity_js><![CDATA[]]></activity_js>
+</activity_row>
+</activity>
+
+[01/25/2012 20:20:04] game: updateGame
+[01/25/2012 20:20:04] Array
+(
+    [last_update] => 1327544402.5346
+)
+
+[01/25/2012 20:20:04] Ajax Results:
+[01/25/2012 20:20:04] 
+[01/25/2012 20:20:07] game: updateGame
+[01/25/2012 20:20:07] Array
+(
+    [last_update] => 1327544402.5346
+)
+
+[01/25/2012 20:20:07] Ajax Results:
+[01/25/2012 20:20:07] 
+[01/25/2012 20:20:08] game: doChat
+[01/25/2012 20:20:08] Array
+(
+    [message] => Got it
+)
+
+[01/25/2012 20:20:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544408.12,1,11,'<![CDATA[BrandonReese says, &quot;Got it&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:20:08] Ajax Results:
+[01/25/2012 20:20:08] 
+[01/25/2012 20:20:09] game: updateGame
+[01/25/2012 20:20:09] Array
+(
+    [last_update] => 1327544402.5346
+)
+
+[01/25/2012 20:20:09] Ajax Results:
+[01/25/2012 20:20:09] 
+[01/25/2012 20:20:11] game: updateGame
+[01/25/2012 20:20:11] Array
+(
+    [last_update] => 1327544402.5346
+)
+
+[01/25/2012 20:20:11] Ajax Results:
+[01/25/2012 20:20:11] 
+[01/25/2012 20:20:14] game: updateGame
+[01/25/2012 20:20:14] Array
+(
+    [last_update] => 1327544402.5346
+)
+
+[01/25/2012 20:20:14] Ajax Results:
+[01/25/2012 20:20:14] 
+[01/25/2012 20:20:15] game: doChat
+[01/25/2012 20:20:15] Array
+(
+    [message] => Why is mine not updating?
+)
+
+[01/25/2012 20:20:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1327544415,1,14,'<![CDATA[Zeek says, &quot;Why is mine not updating?&quot;]]>','<![CDATA[]]>')
+[01/25/2012 20:20:15] Ajax Results:
+[01/25/2012 20:20:15] 
+[01/25/2012 20:20:16] game: updateGame
+[01/25/2012 20:20:16] Array
+(
+    [last_update] => 1327544402.5346
+)
+
+[01/25/2012 20:20:16] Ajax Results:
+[01/25/2012 20:20:16] <activity>
+<update_time>1327544416.313</update_time>
+<activity_row>
+	<activity_message><![CDATA[Zeek says, &quot;Why is mine not updating?&quot;]]></activity_message>
+	<activity_js><![CDATA[]]></activity_js>
+</activity_row>
+</activity>
+
+[01/25/2012 20:20:18] game: updateGame
+[01/25/2012 20:20:18] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:18] Ajax Results:
+[01/25/2012 20:20:18] 
+[01/25/2012 20:20:20] game: updateGame
+[01/25/2012 20:20:20] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:20] Ajax Results:
+[01/25/2012 20:20:20] 
+[01/25/2012 20:20:22] Original URI: /myaccount/profile
+[01/25/2012 20:20:22] Mod URI: /myaccount/profile
+[01/25/2012 20:20:22] Array
+(
+    [0] => 
+    [1] => myaccount
+    [2] => profile
+)
+
+[01/25/2012 20:20:22] myaccount.class.php
+[01/25/2012 20:20:22] Template: myaccount-profile
+[01/25/2012 20:20:22] Page Args: 
+[01/25/2012 20:20:22] Array
+(
+)
+
+[01/25/2012 20:20:23] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:20:23] game: updateGame
+[01/25/2012 20:20:23] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:23] Ajax Results:
+[01/25/2012 20:20:23] 
+[01/25/2012 20:20:23] Original URI: /favicon.ico
+[01/25/2012 20:20:23] Mod URI: /favicon.ico
+[01/25/2012 20:20:23] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:20:23] Original URI: /404
+[01/25/2012 20:20:23] Mod URI: /404
+[01/25/2012 20:20:23] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:20:23] 404.class.php
+[01/25/2012 20:20:23] Template: 404
+[01/25/2012 20:20:23] Page Args: 
+[01/25/2012 20:20:23] Array
+(
+)
+
+[01/25/2012 20:20:23] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:20:25] game: updateGame
+[01/25/2012 20:20:25] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:25] Ajax Results:
+[01/25/2012 20:20:25] 
+[01/25/2012 20:20:27] game: updateGame
+[01/25/2012 20:20:27] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:27] Ajax Results:
+[01/25/2012 20:20:27] 
+[01/25/2012 20:20:30] game: updateGame
+[01/25/2012 20:20:30] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:30] Ajax Results:
+[01/25/2012 20:20:30] 
+[01/25/2012 20:20:32] game: updateGame
+[01/25/2012 20:20:32] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:32] Ajax Results:
+[01/25/2012 20:20:32] 
+[01/25/2012 20:20:34] game: updateGame
+[01/25/2012 20:20:34] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:34] Ajax Results:
+[01/25/2012 20:20:34] 
+[01/25/2012 20:20:35] Original URI: /myaccount
+[01/25/2012 20:20:35] Mod URI: /myaccount
+[01/25/2012 20:20:35] Array
+(
+    [0] => 
+    [1] => myaccount
+)
+
+[01/25/2012 20:20:35] myaccount.class.php
+[01/25/2012 20:20:35] Template: myaccount
+[01/25/2012 20:20:35] Page Args: 
+[01/25/2012 20:20:35] Array
+(
+)
+
+[01/25/2012 20:20:35] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:20:36] Original URI: /favicon.ico
+[01/25/2012 20:20:36] Mod URI: /favicon.ico
+[01/25/2012 20:20:36] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[01/25/2012 20:20:36] Original URI: /404
+[01/25/2012 20:20:36] Mod URI: /404
+[01/25/2012 20:20:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[01/25/2012 20:20:36] 404.class.php
+[01/25/2012 20:20:36] Template: 404
+[01/25/2012 20:20:36] Page Args: 
+[01/25/2012 20:20:36] Array
+(
+)
+
+[01/25/2012 20:20:36] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[01/25/2012 20:20:36] game: updateGame
+[01/25/2012 20:20:36] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:36] Ajax Results:
+[01/25/2012 20:20:36] 
+[01/25/2012 20:20:39] game: updateGame
+[01/25/2012 20:20:39] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:39] Ajax Results:
+[01/25/2012 20:20:39] 
+[01/25/2012 20:20:41] game: updateGame
+[01/25/2012 20:20:41] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:41] Ajax Results:
+[01/25/2012 20:20:41] 
+[01/25/2012 20:20:43] game: updateGame
+[01/25/2012 20:20:43] Array
+(
+    [last_update] => 1327544416.313
+)
+
+[01/25/2012 20:20:43] Ajax Results:
+[01/25/2012 20:20:43] 

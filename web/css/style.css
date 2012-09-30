@@ -1,0 +1,33 @@
+body { }
+
+h2 { text-align: center; }
+h3 { text-align: center; margin: 0px; margin-bottom: 3px; }
+
+div#content { width: 1000px; text-align: left; }
+div#admin_nav { float: left; text-align: left; border: solid 1px #000000; padding: 5px; width: 175px;}
+div#admin_content { float: right; width: 785px; padding: 5px; border: solid 1px #000000; }
+
+div#map_layout { width: 520px; border: solid 2px #000000; float: right; }
+div#layout_info { width: 260px; float: left; }
+div.map_tile { float: left; height: 50px; width: 50px; border: solid 1px #000000;}
+div.occupied_tile { float: left; height: 50px; width: 50px; border: solid 1px #000000; background-color: #990000; }
+
+div#game_left { float: left; width: 190px; border: solid 2px #000000; text-align: left; padding: 5px; background-color: #333333; color: #CCCCCC; }
+div#game_right { float: right; width: 775px; border: solid 1px #000000; padding: 7px; background-color: #333333; color: #CCCCCC; }
+
+div#tile_title { font-size: 14pt; text-align: left; }
+div#tile_desc { font-size: 12pt; text-align: left; }
+div#tile_users { min-height: 70px; }
+
+div#messages { width: 600px; height: 125px; border: solid 2px #000000; overflow: scroll; margin-top: 15px; background-color: #333333; color: #CCCCCC; }
+/* div#messages { width: 600px; position: relative; padding: 3px; background-color: #333333; color: #CCCCCC; } */
+input#chat_input { background-color: #555555; color: #CCCCCC; }
+
+div#game_left a { color: #FFBF00; font-weight: bold; }
+
+div#my_account_nav { float: left; width: 200px; }
+
+span.game_avatar { margin: 3px; height: 64px; width: 64px; }
+
+input.disabled-direction { background-color: #EFEFEF; color: #CCCCCC; font-weight: normal; }
+input.enabled-direction { background-color: #0000FF; color: #FFFFFF; font-weight: bold; }

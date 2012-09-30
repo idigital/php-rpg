@@ -1,0 +1,209 @@
+[06/29/2011 10:56:43] Original URI: /game
+[06/29/2011 10:56:43] Mod URI: /game
+[06/29/2011 10:56:43] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/29/2011 10:56:43] game.class.php
+[06/29/2011 10:56:43] Template: game
+[06/29/2011 10:56:43] Page Args: 
+[06/29/2011 10:56:43] Array
+(
+)
+
+[06/29/2011 10:56:43] Original URI: /login
+[06/29/2011 10:56:43] Mod URI: /login
+[06/29/2011 10:56:43] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/29/2011 10:56:43] login.class.php
+[06/29/2011 10:56:43] Template: login
+[06/29/2011 10:56:43] Page Args: 
+[06/29/2011 10:56:43] Array
+(
+)
+
+[06/29/2011 10:56:43] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2011 10:56:44] Original URI: /images/sign-up.png
+[06/29/2011 10:56:44] Mod URI: /images/sign-up.png
+[06/29/2011 10:56:44] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/29/2011 10:56:44] Original URI: /404
+[06/29/2011 10:56:44] Mod URI: /404
+[06/29/2011 10:56:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2011 10:56:44] 404.class.php
+[06/29/2011 10:56:44] Template: 404
+[06/29/2011 10:56:44] Page Args: 
+[06/29/2011 10:56:44] Array
+(
+)
+
+[06/29/2011 10:56:44] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2011 10:56:44] Original URI: /images/sign-up.png
+[06/29/2011 10:56:44] Mod URI: /images/sign-up.png
+[06/29/2011 10:56:44] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/29/2011 10:56:45] Original URI: /favicon.ico
+[06/29/2011 10:56:45] Mod URI: /favicon.ico
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/29/2011 10:56:45] Original URI: /404
+[06/29/2011 10:56:45] Mod URI: /404
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2011 10:56:45] 404.class.php
+[06/29/2011 10:56:45] Template: 404
+[06/29/2011 10:56:45] Page Args: 
+[06/29/2011 10:56:45] Array
+(
+)
+
+[06/29/2011 10:56:45] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2011 10:56:45] Original URI: /favicon.ico
+[06/29/2011 10:56:45] Mod URI: /favicon.ico
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/29/2011 10:56:45] Original URI: /404
+[06/29/2011 10:56:45] Mod URI: /404
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2011 10:56:45] 404.class.php
+[06/29/2011 10:56:45] Template: 404
+[06/29/2011 10:56:45] Page Args: 
+[06/29/2011 10:56:45] Array
+(
+)
+
+[06/29/2011 10:56:45] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2011 10:56:45] Original URI: /favicon.ico
+[06/29/2011 10:56:45] Mod URI: /favicon.ico
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/29/2011 10:56:45] Original URI: /404
+[06/29/2011 10:56:45] Mod URI: /404
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2011 10:56:45] 404.class.php
+[06/29/2011 10:56:45] Template: 404
+[06/29/2011 10:56:45] Page Args: 
+[06/29/2011 10:56:45] Array
+(
+)
+
+[06/29/2011 10:56:45] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2011 10:56:45] Original URI: /favicon.ico
+[06/29/2011 10:56:45] Mod URI: /favicon.ico
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/29/2011 10:56:45] Original URI: /404
+[06/29/2011 10:56:45] Mod URI: /404
+[06/29/2011 10:56:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2011 10:56:45] 404.class.php
+[06/29/2011 10:56:45] Template: 404
+[06/29/2011 10:56:45] Page Args: 
+[06/29/2011 10:56:45] Array
+(
+)
+
+[06/29/2011 10:56:45] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+

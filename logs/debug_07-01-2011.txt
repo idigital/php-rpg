@@ -1,0 +1,85 @@
+[07/01/2011 20:24:23] Original URI: 
+[07/01/2011 20:24:23] Mod URI: 
+[07/01/2011 20:24:23] Template: index
+[07/01/2011 20:24:23] Page Args: 
+[07/01/2011 20:24:23] 
+[07/01/2011 20:24:23] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Set-Cookie: PHPSESSID=ef2c8bb3317d29cedaec1ac1cb26b155; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Fri, 02-Jul-2010 01:24:22 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Fri, 02-Jul-2010 01:24:22 GMT
+    [7] => Content-type: text/html
+)
+
+[07/01/2011 20:24:23] Original URI: /favicon.ico
+[07/01/2011 20:24:23] Mod URI: /favicon.ico
+[07/01/2011 20:24:23] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[07/01/2011 20:24:23] Original URI: /404
+[07/01/2011 20:24:23] Mod URI: /404
+[07/01/2011 20:24:23] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[07/01/2011 20:24:23] 404.class.php
+[07/01/2011 20:24:24] Template: 404
+[07/01/2011 20:24:24] Page Args: 
+[07/01/2011 20:24:24] Array
+(
+)
+
+[07/01/2011 20:24:24] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Fri, 02-Jul-2010 01:24:22 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Fri, 02-Jul-2010 01:24:22 GMT
+    [6] => Content-type: text/html
+)
+
+[07/01/2011 20:24:26] Original URI: /favicon.ico
+[07/01/2011 20:24:26] Mod URI: /favicon.ico
+[07/01/2011 20:24:26] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[07/01/2011 20:24:26] Original URI: /404
+[07/01/2011 20:24:26] Mod URI: /404
+[07/01/2011 20:24:26] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[07/01/2011 20:24:26] 404.class.php
+[07/01/2011 20:24:26] Template: 404
+[07/01/2011 20:24:26] Page Args: 
+[07/01/2011 20:24:26] Array
+(
+)
+
+[07/01/2011 20:24:26] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Fri, 02-Jul-2010 01:24:25 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Fri, 02-Jul-2010 01:24:25 GMT
+    [6] => Content-type: text/html
+)
+

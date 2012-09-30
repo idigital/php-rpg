@@ -1,0 +1,51 @@
+[08/22/2011 20:34:25] Original URI: 
+[08/22/2011 20:34:25] Mod URI: 
+[08/22/2011 20:34:25] Template: index
+[08/22/2011 20:34:25] Page Args: 
+[08/22/2011 20:34:25] 
+[08/22/2011 20:34:25] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Set-Cookie: PHPSESSID=6e139e78b5177d0b8ba05c07182657e4; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Mon, 23-Aug-2010 01:34:24 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Mon, 23-Aug-2010 01:34:24 GMT
+    [7] => Content-type: text/html
+)
+
+[08/22/2011 20:34:28] Original URI: /favicon.ico
+[08/22/2011 20:34:28] Mod URI: /favicon.ico
+[08/22/2011 20:34:28] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[08/22/2011 20:34:28] Original URI: /404
+[08/22/2011 20:34:28] Mod URI: /404
+[08/22/2011 20:34:28] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[08/22/2011 20:34:28] 404.class.php
+[08/22/2011 20:34:28] Template: 404
+[08/22/2011 20:34:28] Page Args: 
+[08/22/2011 20:34:28] Array
+(
+)
+
+[08/22/2011 20:34:28] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Mon, 23-Aug-2010 01:34:27 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Mon, 23-Aug-2010 01:34:27 GMT
+    [6] => Content-type: text/html
+)
+

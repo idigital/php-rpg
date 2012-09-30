@@ -1,0 +1,1243 @@
+[06/16/2011 07:25:21] mapEditor: loadMap
+[06/16/2011 07:25:21] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/16/2011 07:25:21] Ajax Results:
+[06/16/2011 07:25:21] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:07] mapEditor: loadMap
+[06/16/2011 07:27:07] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -8 AND 2
+[06/16/2011 07:27:07] Ajax Results:
+[06/16/2011 07:27:07] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:11] mapEditor: loadMap
+[06/16/2011 07:27:11] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -3 AND 7
+[06/16/2011 07:27:11] Ajax Results:
+[06/16/2011 07:27:11] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:15] mapEditor: loadMap
+[06/16/2011 07:27:15] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -10 AND 0
+[06/16/2011 07:27:15] Ajax Results:
+[06/16/2011 07:27:15] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:19] mapEditor: loadMap
+[06/16/2011 07:27:19] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -6 AND 4
+[06/16/2011 07:27:19] Ajax Results:
+[06/16/2011 07:27:19] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:24] mapEditor: loadMap
+[06/16/2011 07:27:24] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/16/2011 07:27:24] Ajax Results:
+[06/16/2011 07:27:24] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:27] mapEditor: loadMap
+[06/16/2011 07:27:27] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -4 AND 6
+[06/16/2011 07:27:27] Ajax Results:
+[06/16/2011 07:27:27] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:32] mapEditor: loadMap
+[06/16/2011 07:27:32] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN -5 AND 5 AND map_y BETWEEN -4 AND 6
+[06/16/2011 07:27:32] Ajax Results:
+[06/16/2011 07:27:32] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:27:36] mapEditor: loadMap
+[06/16/2011 07:27:36] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN -4 AND 6 AND map_y BETWEEN -4 AND 6
+[06/16/2011 07:27:36] Ajax Results:
+[06/16/2011 07:27:36] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:28:10] mapEditor: loadMap
+[06/16/2011 07:28:10] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN -4 AND 6 AND map_y BETWEEN -5 AND 5
+[06/16/2011 07:28:10] Ajax Results:
+[06/16/2011 07:28:10] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:28:15] mapEditor: loadMap
+[06/16/2011 07:28:15] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN -3 AND 7 AND map_y BETWEEN -5 AND 5
+[06/16/2011 07:28:15] Ajax Results:
+[06/16/2011 07:28:15] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 07:29:09] mapEditor: loadMap
+[06/16/2011 07:29:09] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 10 AND 20 AND map_y BETWEEN 0 AND 10
+[06/16/2011 07:29:09] Ajax Results:
+[06/16/2011 07:29:09] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/16/2011 08:06:13] mapEditor: loadMap
+[06/16/2011 08:06:13] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 10 AND 20 AND map_y BETWEEN 0 AND 10
+[06/16/2011 08:06:13] Ajax Results:
+[06/16/2011 08:06:13] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/16/2011 08:06:16] mapEditor: loadMap
+[06/16/2011 08:06:16] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -10 AND 0
+[06/16/2011 08:06:16] Ajax Results:
+[06/16/2011 08:06:16] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+</maps>
+
+[06/16/2011 08:06:21] mapEditor: loadMap
+[06/16/2011 08:06:21] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 5 AND 15 AND map_y BETWEEN -10 AND 0
+[06/16/2011 08:06:21] Ajax Results:
+[06/16/2011 08:06:21] <?xml version="1.0" encoding="UTF-8"?><maps>
+</maps>
+
+[06/16/2011 08:06:26] mapEditor: loadMap
+[06/16/2011 08:06:26] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 0 AND 10 AND map_y BETWEEN -5 AND 5
+[06/16/2011 08:06:26] Ajax Results:
+[06/16/2011 08:06:26] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 08:06:30] mapEditor: loadMap
+[06/16/2011 08:06:30] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN 3 AND 13 AND map_y BETWEEN -5 AND 5
+[06/16/2011 08:06:30] Ajax Results:
+[06/16/2011 08:06:30] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 08:06:34] mapEditor: loadMap
+[06/16/2011 08:06:34] loadMap SQL:SELECT * FROM maps WHERE map_x BETWEEN -3 AND 7 AND map_y BETWEEN -5 AND 5
+[06/16/2011 08:06:34] Ajax Results:
+[06/16/2011 08:06:34] <?xml version="1.0" encoding="UTF-8"?><maps>
+<tile>
+	<map_id>3</map_id>
+	<map_x>0</map_x>
+	<map_y>0</map_y>
+	<map_z>0</map_z>
+	<map_title>The Origin</map_title>
+</tile>
+<tile>
+	<map_id>2</map_id>
+	<map_x>3</map_x>
+	<map_y>-3</map_y>
+	<map_z>0</map_z>
+	<map_title>Test2</map_title>
+</tile>
+<tile>
+	<map_id>1</map_id>
+	<map_x>4</map_x>
+	<map_y>4</map_y>
+	<map_z>0</map_z>
+	<map_title>Test1</map_title>
+</tile>
+</maps>
+
+[06/16/2011 22:04:31] Original URI: /admin
+[06/16/2011 22:04:31] Mod URI: /admin
+[06/16/2011 22:04:31] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/16/2011 22:04:31] admin.class.php
+[06/16/2011 22:04:31] Template: admin
+[06/16/2011 22:04:31] Page Args: 
+[06/16/2011 22:04:31] Array
+(
+)
+
+[06/16/2011 22:04:31] Original URI: /login
+[06/16/2011 22:04:31] Mod URI: /login
+[06/16/2011 22:04:31] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/16/2011 22:04:31] login.class.php
+[06/16/2011 22:04:31] Template: login
+[06/16/2011 22:04:31] Page Args: 
+[06/16/2011 22:04:31] Array
+(
+)
+
+[06/16/2011 22:04:32] Original URI: /images/sign-up.png
+[06/16/2011 22:04:32] Mod URI: /images/sign-up.png
+[06/16/2011 22:04:32] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/16/2011 22:04:32] Original URI: /404
+[06/16/2011 22:04:32] Mod URI: /404
+[06/16/2011 22:04:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:04:32] 404.class.php
+[06/16/2011 22:04:32] Template: 404
+[06/16/2011 22:04:32] Page Args: 
+[06/16/2011 22:04:32] Array
+(
+)
+
+[06/16/2011 22:04:32] Original URI: /favicon.ico
+[06/16/2011 22:04:32] Mod URI: /favicon.ico
+[06/16/2011 22:04:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:04:32] Original URI: /404
+[06/16/2011 22:04:32] Mod URI: /404
+[06/16/2011 22:04:32] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:04:32] 404.class.php
+[06/16/2011 22:04:32] Template: 404
+[06/16/2011 22:04:32] Page Args: 
+[06/16/2011 22:04:32] Array
+(
+)
+
+[06/16/2011 22:04:39] Original URI: /login
+[06/16/2011 22:04:39] Mod URI: /login
+[06/16/2011 22:04:39] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/16/2011 22:04:39] login.class.php
+[06/16/2011 22:04:39] Template: login
+[06/16/2011 22:04:39] Page Args: 
+[06/16/2011 22:04:39] Array
+(
+)
+
+[06/16/2011 22:04:39] login(brandon.reese@gmail.com,not360change)
+[06/16/2011 22:04:39] createSession(11)
+[06/16/2011 22:04:39] sessions row for userid exists
+[06/16/2011 22:04:39] Sessid: dbb8ec5a54f0248dd5cc2364882b84c1
+[06/16/2011 22:04:39] Original URI: 
+[06/16/2011 22:04:39] Mod URI: 
+[06/16/2011 22:04:39] Template: index
+[06/16/2011 22:04:39] Page Args: 
+[06/16/2011 22:04:39] 
+[06/16/2011 22:04:39] Original URI: /favicon.ico
+[06/16/2011 22:04:39] Mod URI: /favicon.ico
+[06/16/2011 22:04:39] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:04:39] Original URI: /404
+[06/16/2011 22:04:39] Mod URI: /404
+[06/16/2011 22:04:39] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:04:39] 404.class.php
+[06/16/2011 22:04:39] Template: 404
+[06/16/2011 22:04:39] Page Args: 
+[06/16/2011 22:04:39] Array
+(
+)
+
+[06/16/2011 22:04:42] Original URI: /admin
+[06/16/2011 22:04:42] Mod URI: /admin
+[06/16/2011 22:04:42] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/16/2011 22:04:42] admin.class.php
+[06/16/2011 22:04:42] Template: admin
+[06/16/2011 22:04:42] Page Args: 
+[06/16/2011 22:04:42] Array
+(
+)
+
+[06/16/2011 22:04:42] Original URI: /favicon.ico
+[06/16/2011 22:04:42] Mod URI: /favicon.ico
+[06/16/2011 22:04:42] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:04:42] Original URI: /404
+[06/16/2011 22:04:42] Mod URI: /404
+[06/16/2011 22:04:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:04:42] 404.class.php
+[06/16/2011 22:04:42] Template: 404
+[06/16/2011 22:04:42] Page Args: 
+[06/16/2011 22:04:42] Array
+(
+)
+
+[06/16/2011 22:09:05] Original URI: /admin/mapeditor
+[06/16/2011 22:09:05] Mod URI: /admin/mapeditor
+[06/16/2011 22:09:05] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:09:05] admin.class.php
+[06/16/2011 22:09:05] Template: admin-mapeditor
+[06/16/2011 22:09:05] Page Args: 
+[06/16/2011 22:09:05] Array
+(
+)
+
+[06/16/2011 22:09:05] Original URI: /favicon.ico
+[06/16/2011 22:09:05] Mod URI: /favicon.ico
+[06/16/2011 22:09:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:09:05] Original URI: /404
+[06/16/2011 22:09:05] Mod URI: /404
+[06/16/2011 22:09:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:09:05] 404.class.php
+[06/16/2011 22:09:05] Template: 404
+[06/16/2011 22:09:05] Page Args: 
+[06/16/2011 22:09:05] Array
+(
+)
+
+[06/16/2011 22:09:08] mapEditor: loadMap
+[06/16/2011 22:09:08] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:09:08] Ajax Results:
+[06/16/2011 22:09:08] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:09:15] map: getTileInfoByCoord
+[06/16/2011 22:09:17] map: getTileInfoByCoord
+[06/16/2011 22:09:24] mapEditor: loadMap
+[06/16/2011 22:09:24] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:09:24] Ajax Results:
+[06/16/2011 22:09:24] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:09:29] mapEditor: loadMap
+[06/16/2011 22:09:29] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -5 AND 5 AND tile_z = 0
+[06/16/2011 22:09:29] Ajax Results:
+[06/16/2011 22:09:29] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:09:32] mapEditor: loadMap
+[06/16/2011 22:09:32] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 5 AND 15 AND tile_y BETWEEN -5 AND 5 AND tile_z = 0
+[06/16/2011 22:09:32] Ajax Results:
+[06/16/2011 22:09:32] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+</maps>
+
+[06/16/2011 22:09:37] mapEditor: loadMap
+[06/16/2011 22:09:37] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 5 AND 15 AND tile_y BETWEEN -15 AND -5 AND tile_z = 0
+[06/16/2011 22:09:37] Ajax Results:
+[06/16/2011 22:09:37] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+</maps>
+
+[06/16/2011 22:11:31] mapEditor: loadMap
+[06/16/2011 22:11:31] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:11:31] Ajax Results:
+[06/16/2011 22:11:31] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:12:53] Original URI: /admin/mapeditor
+[06/16/2011 22:12:53] Mod URI: /admin/mapeditor
+[06/16/2011 22:12:53] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:12:53] admin.class.php
+[06/16/2011 22:12:53] Template: admin-mapeditor
+[06/16/2011 22:12:53] Page Args: 
+[06/16/2011 22:12:53] Array
+(
+)
+
+[06/16/2011 22:12:53] Original URI: /favicon.ico
+[06/16/2011 22:12:53] Mod URI: /favicon.ico
+[06/16/2011 22:12:53] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:12:53] Original URI: /admin/mapeditor
+[06/16/2011 22:12:53] Mod URI: /admin/mapeditor
+[06/16/2011 22:12:53] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:12:53] admin.class.php
+[06/16/2011 22:12:53] Template: admin-mapeditor
+[06/16/2011 22:12:53] Page Args: 
+[06/16/2011 22:12:53] Array
+(
+)
+
+[06/16/2011 22:12:54] Original URI: /404
+[06/16/2011 22:12:54] Mod URI: /404
+[06/16/2011 22:12:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:12:54] 404.class.php
+[06/16/2011 22:12:54] Template: 404
+[06/16/2011 22:12:54] Page Args: 
+[06/16/2011 22:12:54] Array
+(
+)
+
+[06/16/2011 22:12:54] Original URI: /favicon.ico
+[06/16/2011 22:12:54] Mod URI: /favicon.ico
+[06/16/2011 22:12:54] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:12:54] Original URI: /404
+[06/16/2011 22:12:54] Mod URI: /404
+[06/16/2011 22:12:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:12:54] 404.class.php
+[06/16/2011 22:12:54] Template: 404
+[06/16/2011 22:12:54] Page Args: 
+[06/16/2011 22:12:54] Array
+(
+)
+
+[06/16/2011 22:12:56] mapEditor: loadMap
+[06/16/2011 22:12:56] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:12:56] Ajax Results:
+[06/16/2011 22:12:56] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:14:48] Original URI: /favicon.ico
+[06/16/2011 22:14:48] Mod URI: /favicon.ico
+[06/16/2011 22:14:48] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:14:48] Original URI: /404
+[06/16/2011 22:14:48] Mod URI: /404
+[06/16/2011 22:14:48] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:14:48] 404.class.php
+[06/16/2011 22:14:48] Template: 404
+[06/16/2011 22:14:48] Page Args: 
+[06/16/2011 22:14:48] Array
+(
+)
+
+[06/16/2011 22:14:51] Original URI: /favicon.ico
+[06/16/2011 22:14:51] Mod URI: /favicon.ico
+[06/16/2011 22:14:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:14:52] Original URI: /404
+[06/16/2011 22:14:52] Mod URI: /404
+[06/16/2011 22:14:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:14:52] 404.class.php
+[06/16/2011 22:14:52] Template: 404
+[06/16/2011 22:14:52] Page Args: 
+[06/16/2011 22:14:52] Array
+(
+)
+
+[06/16/2011 22:14:54] Original URI: /admin/mapeditor
+[06/16/2011 22:14:54] Mod URI: /admin/mapeditor
+[06/16/2011 22:14:54] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:14:54] admin.class.php
+[06/16/2011 22:14:54] Template: admin-mapeditor
+[06/16/2011 22:14:54] Page Args: 
+[06/16/2011 22:14:54] Array
+(
+)
+
+[06/16/2011 22:14:55] Original URI: /favicon.ico
+[06/16/2011 22:14:55] Mod URI: /favicon.ico
+[06/16/2011 22:14:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:14:55] Original URI: /404
+[06/16/2011 22:14:55] Mod URI: /404
+[06/16/2011 22:14:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:14:55] 404.class.php
+[06/16/2011 22:14:55] Template: 404
+[06/16/2011 22:14:55] Page Args: 
+[06/16/2011 22:14:55] Array
+(
+)
+
+[06/16/2011 22:14:57] Original URI: /admin/mapeditor
+[06/16/2011 22:14:57] Mod URI: /admin/mapeditor
+[06/16/2011 22:14:57] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:14:57] admin.class.php
+[06/16/2011 22:14:57] Template: admin-mapeditor
+[06/16/2011 22:14:57] Page Args: 
+[06/16/2011 22:14:57] Array
+(
+)
+
+[06/16/2011 22:14:57] Original URI: /favicon.ico
+[06/16/2011 22:14:57] Mod URI: /favicon.ico
+[06/16/2011 22:14:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:14:57] Original URI: /404
+[06/16/2011 22:14:57] Mod URI: /404
+[06/16/2011 22:14:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:14:57] 404.class.php
+[06/16/2011 22:14:57] Template: 404
+[06/16/2011 22:14:57] Page Args: 
+[06/16/2011 22:14:57] Array
+(
+)
+
+[06/16/2011 22:14:59] mapEditor: loadMap
+[06/16/2011 22:14:59] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:14:59] Ajax Results:
+[06/16/2011 22:14:59] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:15:05] map: getTileInfoByCoord
+[06/16/2011 22:15:11] mapEditor: loadMap
+[06/16/2011 22:15:11] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -15 AND -5 AND tile_z = 0
+[06/16/2011 22:15:11] Ajax Results:
+[06/16/2011 22:15:11] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+</maps>
+
+[06/16/2011 22:15:16] mapEditor: loadMap
+[06/16/2011 22:15:16] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:15:16] Ajax Results:
+[06/16/2011 22:15:16] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:15:48] Original URI: /admin/mapeditor
+[06/16/2011 22:15:48] Mod URI: /admin/mapeditor
+[06/16/2011 22:15:48] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:15:48] admin.class.php
+[06/16/2011 22:15:48] Template: admin-mapeditor
+[06/16/2011 22:15:48] Page Args: 
+[06/16/2011 22:15:48] Array
+(
+)
+
+[06/16/2011 22:15:52] Original URI: /favicon.ico
+[06/16/2011 22:15:52] Mod URI: /favicon.ico
+[06/16/2011 22:15:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:15:52] Original URI: /404
+[06/16/2011 22:15:52] Mod URI: /404
+[06/16/2011 22:15:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:15:52] 404.class.php
+[06/16/2011 22:15:52] Template: 404
+[06/16/2011 22:15:52] Page Args: 
+[06/16/2011 22:15:52] Array
+(
+)
+
+[06/16/2011 22:16:05] mapEditor: loadMap
+[06/16/2011 22:16:05] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:16:05] Ajax Results:
+[06/16/2011 22:16:05] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:16:17] map: getTileInfoByCoord
+[06/16/2011 22:17:11] Original URI: /admin/mapeditor
+[06/16/2011 22:17:11] Mod URI: /admin/mapeditor
+[06/16/2011 22:17:11] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:17:11] admin.class.php
+[06/16/2011 22:17:11] Template: admin-mapeditor
+[06/16/2011 22:17:11] Page Args: 
+[06/16/2011 22:17:11] Array
+(
+)
+
+[06/16/2011 22:17:15] Original URI: /favicon.ico
+[06/16/2011 22:17:15] Mod URI: /favicon.ico
+[06/16/2011 22:17:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:17:15] Original URI: /404
+[06/16/2011 22:17:15] Mod URI: /404
+[06/16/2011 22:17:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:17:15] 404.class.php
+[06/16/2011 22:17:15] Template: 404
+[06/16/2011 22:17:15] Page Args: 
+[06/16/2011 22:17:15] Array
+(
+)
+
+[06/16/2011 22:17:17] mapEditor: loadMap
+[06/16/2011 22:17:17] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -10 AND 0 AND tile_z = 0
+[06/16/2011 22:17:17] Ajax Results:
+[06/16/2011 22:17:17] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:17:29] mapEditor: loadMap
+[06/16/2011 22:17:29] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN 0 AND 10 AND tile_y BETWEEN -5 AND 5 AND tile_z = 0
+[06/16/2011 22:17:29] Ajax Results:
+[06/16/2011 22:17:29] <?xml version="1.0" encoding="UTF-8"?>
+<maps>
+<tile>
+	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>The Origin</tile_title>
+</tile>
+<tile>
+	<tile_id>2</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test2</tile_title>
+</tile>
+<tile>
+	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>Test1</tile_title>
+</tile>
+</maps>
+
+[06/16/2011 22:20:37] map: getTileInfoByCoord
+[06/16/2011 22:24:56] Original URI: /admin/mapeditor
+[06/16/2011 22:24:56] Mod URI: /admin/mapeditor
+[06/16/2011 22:24:56] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:24:56] admin.class.php
+[06/16/2011 22:24:56] Template: admin-mapeditor
+[06/16/2011 22:24:56] Page Args: 
+[06/16/2011 22:24:56] Array
+(
+)
+
+[06/16/2011 22:24:59] Original URI: /favicon.ico
+[06/16/2011 22:24:59] Mod URI: /favicon.ico
+[06/16/2011 22:25:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:25:00] Original URI: /404
+[06/16/2011 22:25:00] Mod URI: /404
+[06/16/2011 22:25:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:25:00] 404.class.php
+[06/16/2011 22:25:00] Template: 404
+[06/16/2011 22:25:00] Page Args: 
+[06/16/2011 22:25:00] Array
+(
+)
+
+[06/16/2011 22:25:13] Original URI: /admin/mapeditor
+[06/16/2011 22:25:13] Mod URI: /admin/mapeditor
+[06/16/2011 22:25:13] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:25:13] admin.class.php
+[06/16/2011 22:25:13] Template: admin-mapeditor
+[06/16/2011 22:25:13] Page Args: 
+[06/16/2011 22:25:13] Array
+(
+)
+
+[06/16/2011 22:25:14] Original URI: /favicon.ico
+[06/16/2011 22:25:14] Mod URI: /favicon.ico
+[06/16/2011 22:25:14] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:25:14] Original URI: /404
+[06/16/2011 22:25:14] Mod URI: /404
+[06/16/2011 22:25:14] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:25:14] 404.class.php
+[06/16/2011 22:25:14] Template: 404
+[06/16/2011 22:25:14] Page Args: 
+[06/16/2011 22:25:14] Array
+(
+)
+
+[06/16/2011 22:26:46] Original URI: /admin/mapeditor
+[06/16/2011 22:26:46] Mod URI: /admin/mapeditor
+[06/16/2011 22:26:46] Array
+(
+    [0] => 
+    [1] => admin
+    [2] => mapeditor
+)
+
+[06/16/2011 22:26:46] admin.class.php
+[06/16/2011 22:26:46] Template: admin-mapeditor
+[06/16/2011 22:26:46] Page Args: 
+[06/16/2011 22:26:46] Array
+(
+)
+
+[06/16/2011 22:26:49] Original URI: /favicon.ico
+[06/16/2011 22:26:49] Mod URI: /favicon.ico
+[06/16/2011 22:26:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/16/2011 22:26:49] Original URI: /404
+[06/16/2011 22:26:49] Mod URI: /404
+[06/16/2011 22:26:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/16/2011 22:26:49] 404.class.php
+[06/16/2011 22:26:49] Template: 404
+[06/16/2011 22:26:49] Page Args: 
+[06/16/2011 22:26:49] Array
+(
+)
+

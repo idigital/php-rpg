@@ -1,0 +1,3486 @@
+[03/25/2012 22:11:53] Original URI: 
+[03/25/2012 22:11:53] Mod URI: 
+[03/25/2012 22:11:53] Template: index
+[03/25/2012 22:11:53] Page Args: 
+[03/25/2012 22:11:53] 
+[03/25/2012 22:11:53] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=nk2prc96ktrd62ofg2ta4uutc4; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[03/25/2012 22:11:54] Original URI: /favicon.ico
+[03/25/2012 22:11:54] Mod URI: /favicon.ico
+[03/25/2012 22:11:54] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[03/25/2012 22:11:54] Original URI: /404
+[03/25/2012 22:11:54] Mod URI: /404
+[03/25/2012 22:11:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[03/25/2012 22:11:54] 404.class.php
+[03/25/2012 22:11:54] Template: 404
+[03/25/2012 22:11:54] Page Args: 
+[03/25/2012 22:11:54] Array
+(
+)
+
+[03/25/2012 22:11:54] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[03/25/2012 22:11:59] Original URI: /game
+[03/25/2012 22:11:59] Mod URI: /game
+[03/25/2012 22:11:59] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[03/25/2012 22:11:59] game.class.php
+[03/25/2012 22:12:00] Template: game
+[03/25/2012 22:12:00] Page Args: 
+[03/25/2012 22:12:00] Array
+(
+)
+
+[03/25/2012 22:12:00] Original URI: /login
+[03/25/2012 22:12:00] Mod URI: /login
+[03/25/2012 22:12:00] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[03/25/2012 22:12:00] login.class.php
+[03/25/2012 22:12:00] Template: login
+[03/25/2012 22:12:00] Page Args: 
+[03/25/2012 22:12:00] Array
+(
+)
+
+[03/25/2012 22:12:00] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[03/25/2012 22:12:00] Original URI: /images/sign-up.png
+[03/25/2012 22:12:00] Mod URI: /images/sign-up.png
+[03/25/2012 22:12:00] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[03/25/2012 22:12:00] Original URI: /404
+[03/25/2012 22:12:00] Mod URI: /404
+[03/25/2012 22:12:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[03/25/2012 22:12:00] 404.class.php
+[03/25/2012 22:12:00] Template: 404
+[03/25/2012 22:12:00] Page Args: 
+[03/25/2012 22:12:00] Array
+(
+)
+
+[03/25/2012 22:12:00] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[03/25/2012 22:12:00] Original URI: /favicon.ico
+[03/25/2012 22:12:00] Mod URI: /favicon.ico
+[03/25/2012 22:12:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[03/25/2012 22:12:00] Original URI: /404
+[03/25/2012 22:12:00] Mod URI: /404
+[03/25/2012 22:12:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[03/25/2012 22:12:00] 404.class.php
+[03/25/2012 22:12:00] Template: 404
+[03/25/2012 22:12:00] Page Args: 
+[03/25/2012 22:12:00] Array
+(
+)
+
+[03/25/2012 22:12:00] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[03/25/2012 22:12:06] Original URI: /login
+[03/25/2012 22:12:06] Mod URI: /login
+[03/25/2012 22:12:06] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[03/25/2012 22:12:06] login.class.php
+[03/25/2012 22:12:06] Template: login
+[03/25/2012 22:12:06] Page Args: 
+[03/25/2012 22:12:06] Array
+(
+)
+
+[03/25/2012 22:12:06] login(brandon.reese@gmail.com,not360change)
+[03/25/2012 22:12:06] createSession(11)
+[03/25/2012 22:12:06] sessions row for userid exists
+[03/25/2012 22:12:06] Sessid: 4c085bd513e830022bd7658bd9d3e60f
+[03/25/2012 22:12:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1332731526.35,18,11,'<![CDATA[BrandonReese appears from within the void!]]>','<![CDATA[showUser(\'11\');]]>')
+[03/25/2012 22:12:06] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=4c085bd513e830022bd7658bd9d3e60f
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[03/25/2012 22:12:06] Original URI: 
+[03/25/2012 22:12:06] Mod URI: 
+[03/25/2012 22:12:06] Template: index
+[03/25/2012 22:12:06] Page Args: 
+[03/25/2012 22:12:06] 
+[03/25/2012 22:12:06] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[03/25/2012 22:12:06] Original URI: /favicon.ico
+[03/25/2012 22:12:06] Mod URI: /favicon.ico
+[03/25/2012 22:12:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[03/25/2012 22:12:06] Original URI: /404
+[03/25/2012 22:12:06] Mod URI: /404
+[03/25/2012 22:12:06] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[03/25/2012 22:12:06] 404.class.php
+[03/25/2012 22:12:06] Template: 404
+[03/25/2012 22:12:06] Page Args: 
+[03/25/2012 22:12:06] Array
+(
+)
+
+[03/25/2012 22:12:06] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[03/25/2012 22:12:10] Original URI: /game
+[03/25/2012 22:12:10] Mod URI: /game
+[03/25/2012 22:12:10] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[03/25/2012 22:12:10] game.class.php
+[03/25/2012 22:12:10] Template: game
+[03/25/2012 22:12:10] Page Args: 
+[03/25/2012 22:12:10] Array
+(
+)
+
+[03/25/2012 22:12:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[03/25/2012 22:12:10] game: initializeGame
+[03/25/2012 22:12:10] Array
+(
+    [user_id] => 11
+)
+
+[03/25/2012 22:12:11] Ajax Results:
+[03/25/2012 22:12:11] <settings>
+<template_dir>../templates</template_dir>
+<site_url>http://rpg.bremaweb.com</site_url>
+<debug>1</debug>
+<self_consign_percent>.65</self_consign_percent>
+<drop_consign_percent>.5</drop_consign_percent>
+<tax_rate>.07725</tax_rate>
+<active_sale>2</active_sale>
+<image_url>http://rpg.bremaweb.com/images</image_url>
+<site_name>RPG 2011</site_name>
+<avatar_url>http://rpg.bremaweb.com/avatars/</avatar_url>
+<avatar_dir>/web/avatars</avatar_dir>
+</settings>
+
+[03/25/2012 22:12:11] map: getTileInfoById
+[03/25/2012 22:12:11] Array
+(
+    [tile_id] => 18
+)
+
+[03/25/2012 22:12:11] Ajax Results:
+[03/25/2012 22:12:11] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>18</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[undefined]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>17</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>19</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+<user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+<mob>
+	<mob_name>Josie Belle</mob_name>
+	<mob_id>3</mob_id>
+	<mob_avatar>mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg</mob_avatar>
+</mob>
+</mobs>
+</tile>
+
+[03/25/2012 22:12:11] game: updateStats
+[03/25/2012 22:12:11] Array
+(
+)
+
+[03/25/2012 22:12:11] Ajax Results:
+[03/25/2012 22:12:11] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>98</field_value></field></fields>
+[03/25/2012 22:12:11] Original URI: /favicon.ico
+[03/25/2012 22:12:11] Mod URI: /favicon.ico
+[03/25/2012 22:12:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[03/25/2012 22:12:11] Original URI: /404
+[03/25/2012 22:12:11] Mod URI: /404
+[03/25/2012 22:12:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[03/25/2012 22:12:11] 404.class.php
+[03/25/2012 22:12:11] Template: 404
+[03/25/2012 22:12:11] Page Args: 
+[03/25/2012 22:12:11] Array
+(
+)
+
+[03/25/2012 22:12:11] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[03/25/2012 22:12:13] game: updateGame
+[03/25/2012 22:12:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:13] Ajax Results:
+[03/25/2012 22:12:13] 
+[03/25/2012 22:12:15] game: updateGame
+[03/25/2012 22:12:15] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:15] Ajax Results:
+[03/25/2012 22:12:15] 
+[03/25/2012 22:12:17] game: updateGame
+[03/25/2012 22:12:17] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:17] Ajax Results:
+[03/25/2012 22:12:17] 
+[03/25/2012 22:12:19] game: updateGame
+[03/25/2012 22:12:19] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:19] Ajax Results:
+[03/25/2012 22:12:19] 
+[03/25/2012 22:12:21] game: updateGame
+[03/25/2012 22:12:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:21] Ajax Results:
+[03/25/2012 22:12:21] 
+[03/25/2012 22:12:23] game: updateGame
+[03/25/2012 22:12:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:23] Ajax Results:
+[03/25/2012 22:12:23] 
+[03/25/2012 22:12:25] game: updateGame
+[03/25/2012 22:12:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:25] Ajax Results:
+[03/25/2012 22:12:25] 
+[03/25/2012 22:12:27] game: updateGame
+[03/25/2012 22:12:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:27] Ajax Results:
+[03/25/2012 22:12:27] 
+[03/25/2012 22:12:30] game: updateGame
+[03/25/2012 22:12:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:30] Ajax Results:
+[03/25/2012 22:12:30] 
+[03/25/2012 22:12:32] game: updateGame
+[03/25/2012 22:12:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:32] Ajax Results:
+[03/25/2012 22:12:32] 
+[03/25/2012 22:12:34] game: updateGame
+[03/25/2012 22:12:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:34] Ajax Results:
+[03/25/2012 22:12:34] 
+[03/25/2012 22:12:36] game: updateGame
+[03/25/2012 22:12:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:36] Ajax Results:
+[03/25/2012 22:12:36] 
+[03/25/2012 22:12:38] game: updateGame
+[03/25/2012 22:12:38] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:38] Ajax Results:
+[03/25/2012 22:12:38] 
+[03/25/2012 22:12:40] game: updateGame
+[03/25/2012 22:12:40] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:40] Ajax Results:
+[03/25/2012 22:12:40] 
+[03/25/2012 22:12:42] game: updateGame
+[03/25/2012 22:12:42] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:42] Ajax Results:
+[03/25/2012 22:12:42] 
+[03/25/2012 22:12:44] game: updateGame
+[03/25/2012 22:12:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:44] Ajax Results:
+[03/25/2012 22:12:44] 
+[03/25/2012 22:12:46] game: updateGame
+[03/25/2012 22:12:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:46] Ajax Results:
+[03/25/2012 22:12:46] 
+[03/25/2012 22:12:48] game: updateGame
+[03/25/2012 22:12:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:48] Ajax Results:
+[03/25/2012 22:12:48] 
+[03/25/2012 22:12:50] game: updateGame
+[03/25/2012 22:12:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:50] Ajax Results:
+[03/25/2012 22:12:50] 
+[03/25/2012 22:12:52] game: updateGame
+[03/25/2012 22:12:52] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:52] Ajax Results:
+[03/25/2012 22:12:52] 
+[03/25/2012 22:12:55] game: updateGame
+[03/25/2012 22:12:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:55] Ajax Results:
+[03/25/2012 22:12:55] 
+[03/25/2012 22:12:57] game: updateGame
+[03/25/2012 22:12:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:57] Ajax Results:
+[03/25/2012 22:12:57] 
+[03/25/2012 22:12:59] game: updateGame
+[03/25/2012 22:12:59] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:12:59] Ajax Results:
+[03/25/2012 22:12:59] 
+[03/25/2012 22:13:01] game: updateGame
+[03/25/2012 22:13:01] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:01] Ajax Results:
+[03/25/2012 22:13:01] 
+[03/25/2012 22:13:03] game: updateGame
+[03/25/2012 22:13:03] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:03] Ajax Results:
+[03/25/2012 22:13:03] 
+[03/25/2012 22:13:05] game: updateGame
+[03/25/2012 22:13:05] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:05] Ajax Results:
+[03/25/2012 22:13:05] 
+[03/25/2012 22:13:07] game: updateGame
+[03/25/2012 22:13:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:07] Ajax Results:
+[03/25/2012 22:13:07] 
+[03/25/2012 22:13:09] game: updateGame
+[03/25/2012 22:13:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:09] Ajax Results:
+[03/25/2012 22:13:09] 
+[03/25/2012 22:13:11] game: updateGame
+[03/25/2012 22:13:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:11] Ajax Results:
+[03/25/2012 22:13:11] 
+[03/25/2012 22:13:13] game: updateGame
+[03/25/2012 22:13:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:13] Ajax Results:
+[03/25/2012 22:13:13] 
+[03/25/2012 22:13:16] game: updateGame
+[03/25/2012 22:13:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:16] Ajax Results:
+[03/25/2012 22:13:16] 
+[03/25/2012 22:13:18] game: updateGame
+[03/25/2012 22:13:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:18] Ajax Results:
+[03/25/2012 22:13:18] 
+[03/25/2012 22:13:20] game: updateGame
+[03/25/2012 22:13:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:20] Ajax Results:
+[03/25/2012 22:13:20] 
+[03/25/2012 22:13:22] game: updateGame
+[03/25/2012 22:13:22] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:22] Ajax Results:
+[03/25/2012 22:13:22] 
+[03/25/2012 22:13:24] game: updateGame
+[03/25/2012 22:13:24] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:24] Ajax Results:
+[03/25/2012 22:13:24] 
+[03/25/2012 22:13:26] game: updateGame
+[03/25/2012 22:13:26] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:26] Ajax Results:
+[03/25/2012 22:13:26] 
+[03/25/2012 22:13:28] game: updateGame
+[03/25/2012 22:13:28] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:28] Ajax Results:
+[03/25/2012 22:13:28] 
+[03/25/2012 22:13:30] game: updateGame
+[03/25/2012 22:13:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:30] Ajax Results:
+[03/25/2012 22:13:30] 
+[03/25/2012 22:13:32] game: updateGame
+[03/25/2012 22:13:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:32] Ajax Results:
+[03/25/2012 22:13:32] 
+[03/25/2012 22:13:34] game: updateGame
+[03/25/2012 22:13:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:34] Ajax Results:
+[03/25/2012 22:13:34] 
+[03/25/2012 22:13:36] game: updateGame
+[03/25/2012 22:13:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:36] Ajax Results:
+[03/25/2012 22:13:36] 
+[03/25/2012 22:13:38] game: updateGame
+[03/25/2012 22:13:38] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:38] Ajax Results:
+[03/25/2012 22:13:38] 
+[03/25/2012 22:13:41] game: updateGame
+[03/25/2012 22:13:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:41] Ajax Results:
+[03/25/2012 22:13:41] 
+[03/25/2012 22:13:43] game: updateGame
+[03/25/2012 22:13:43] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:43] Ajax Results:
+[03/25/2012 22:13:43] 
+[03/25/2012 22:13:45] game: updateGame
+[03/25/2012 22:13:45] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:45] Ajax Results:
+[03/25/2012 22:13:45] 
+[03/25/2012 22:13:47] game: updateGame
+[03/25/2012 22:13:47] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:47] Ajax Results:
+[03/25/2012 22:13:47] 
+[03/25/2012 22:13:49] game: updateGame
+[03/25/2012 22:13:49] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:49] Ajax Results:
+[03/25/2012 22:13:49] 
+[03/25/2012 22:13:51] game: updateGame
+[03/25/2012 22:13:51] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:51] Ajax Results:
+[03/25/2012 22:13:51] 
+[03/25/2012 22:13:53] game: updateGame
+[03/25/2012 22:13:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:53] Ajax Results:
+[03/25/2012 22:13:53] 
+[03/25/2012 22:13:55] game: updateGame
+[03/25/2012 22:13:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:55] Ajax Results:
+[03/25/2012 22:13:55] 
+[03/25/2012 22:13:57] game: updateGame
+[03/25/2012 22:13:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:57] Ajax Results:
+[03/25/2012 22:13:57] 
+[03/25/2012 22:13:59] game: updateGame
+[03/25/2012 22:13:59] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:13:59] Ajax Results:
+[03/25/2012 22:13:59] 
+[03/25/2012 22:14:02] game: updateGame
+[03/25/2012 22:14:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:02] Ajax Results:
+[03/25/2012 22:14:02] 
+[03/25/2012 22:14:04] game: updateGame
+[03/25/2012 22:14:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:04] Ajax Results:
+[03/25/2012 22:14:04] 
+[03/25/2012 22:14:06] game: updateGame
+[03/25/2012 22:14:06] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:06] Ajax Results:
+[03/25/2012 22:14:06] 
+[03/25/2012 22:14:08] game: updateGame
+[03/25/2012 22:14:08] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:08] Ajax Results:
+[03/25/2012 22:14:08] 
+[03/25/2012 22:14:10] game: updateGame
+[03/25/2012 22:14:10] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:10] Ajax Results:
+[03/25/2012 22:14:10] 
+[03/25/2012 22:14:12] game: updateGame
+[03/25/2012 22:14:12] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:12] Ajax Results:
+[03/25/2012 22:14:12] 
+[03/25/2012 22:14:14] game: updateGame
+[03/25/2012 22:14:14] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:14] Ajax Results:
+[03/25/2012 22:14:14] 
+[03/25/2012 22:14:16] game: updateGame
+[03/25/2012 22:14:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:16] Ajax Results:
+[03/25/2012 22:14:16] 
+[03/25/2012 22:14:18] game: updateGame
+[03/25/2012 22:14:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:18] Ajax Results:
+[03/25/2012 22:14:18] 
+[03/25/2012 22:14:19] map: move
+[03/25/2012 22:14:19] Array
+(
+    [direction] => east
+    [tile_id] => 17
+)
+
+[03/25/2012 22:14:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1332731659.63,17,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[03/25/2012 22:14:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1332731659.65,18,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[03/25/2012 22:14:19] Ajax Results:
+[03/25/2012 22:14:19] clearTile();
+loadTile(17);
+updateStats();
+document.getElementById('tile_id').value = '17';
+
+[03/25/2012 22:14:19] map: getTileInfoById
+[03/25/2012 22:14:19] Array
+(
+    [tile_id] => 17
+)
+
+[03/25/2012 22:14:19] Ajax Results:
+[03/25/2012 22:14:19] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>17</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[undefined]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>1</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>18</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[03/25/2012 22:14:19] game: updateStats
+[03/25/2012 22:14:19] Array
+(
+)
+
+[03/25/2012 22:14:19] Ajax Results:
+[03/25/2012 22:14:19] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>93</field_value></field></fields>
+[03/25/2012 22:14:20] game: updateGame
+[03/25/2012 22:14:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:20] Ajax Results:
+[03/25/2012 22:14:20] 
+[03/25/2012 22:14:22] game: updateGame
+[03/25/2012 22:14:22] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:22] Ajax Results:
+[03/25/2012 22:14:22] 
+[03/25/2012 22:14:25] game: updateGame
+[03/25/2012 22:14:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:25] Ajax Results:
+[03/25/2012 22:14:25] 
+[03/25/2012 22:14:27] game: updateGame
+[03/25/2012 22:14:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:27] Ajax Results:
+[03/25/2012 22:14:27] 
+[03/25/2012 22:14:29] game: updateGame
+[03/25/2012 22:14:29] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:29] Ajax Results:
+[03/25/2012 22:14:29] 
+[03/25/2012 22:14:31] game: updateGame
+[03/25/2012 22:14:31] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:31] Ajax Results:
+[03/25/2012 22:14:31] 
+[03/25/2012 22:14:33] game: updateGame
+[03/25/2012 22:14:33] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:33] Ajax Results:
+[03/25/2012 22:14:33] 
+[03/25/2012 22:14:35] game: updateGame
+[03/25/2012 22:14:35] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:35] Ajax Results:
+[03/25/2012 22:14:35] 
+[03/25/2012 22:14:37] game: updateGame
+[03/25/2012 22:14:37] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:37] Ajax Results:
+[03/25/2012 22:14:37] 
+[03/25/2012 22:14:39] game: updateGame
+[03/25/2012 22:14:39] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:39] Ajax Results:
+[03/25/2012 22:14:39] 
+[03/25/2012 22:14:41] game: updateGame
+[03/25/2012 22:14:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:41] Ajax Results:
+[03/25/2012 22:14:41] 
+[03/25/2012 22:14:43] game: updateGame
+[03/25/2012 22:14:43] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:43] Ajax Results:
+[03/25/2012 22:14:43] 
+[03/25/2012 22:14:45] game: updateGame
+[03/25/2012 22:14:45] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:45] Ajax Results:
+[03/25/2012 22:14:45] 
+[03/25/2012 22:14:48] game: updateGame
+[03/25/2012 22:14:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:48] Ajax Results:
+[03/25/2012 22:14:48] 
+[03/25/2012 22:14:50] game: updateGame
+[03/25/2012 22:14:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:50] Ajax Results:
+[03/25/2012 22:14:50] 
+[03/25/2012 22:14:52] game: updateGame
+[03/25/2012 22:14:52] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:52] Ajax Results:
+[03/25/2012 22:14:52] 
+[03/25/2012 22:14:54] game: updateGame
+[03/25/2012 22:14:54] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:54] Ajax Results:
+[03/25/2012 22:14:54] 
+[03/25/2012 22:14:56] game: updateGame
+[03/25/2012 22:14:56] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:56] Ajax Results:
+[03/25/2012 22:14:56] 
+[03/25/2012 22:14:58] game: updateGame
+[03/25/2012 22:14:58] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:14:58] Ajax Results:
+[03/25/2012 22:14:58] 
+[03/25/2012 22:15:00] game: updateGame
+[03/25/2012 22:15:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:00] Ajax Results:
+[03/25/2012 22:15:00] 
+[03/25/2012 22:15:02] game: updateGame
+[03/25/2012 22:15:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:02] Ajax Results:
+[03/25/2012 22:15:02] 
+[03/25/2012 22:15:04] game: updateGame
+[03/25/2012 22:15:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:04] Ajax Results:
+[03/25/2012 22:15:04] 
+[03/25/2012 22:15:06] game: updateGame
+[03/25/2012 22:15:06] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:06] Ajax Results:
+[03/25/2012 22:15:06] 
+[03/25/2012 22:15:09] game: updateGame
+[03/25/2012 22:15:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:09] Ajax Results:
+[03/25/2012 22:15:09] 
+[03/25/2012 22:15:11] game: updateGame
+[03/25/2012 22:15:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:11] Ajax Results:
+[03/25/2012 22:15:11] 
+[03/25/2012 22:15:13] game: updateGame
+[03/25/2012 22:15:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:13] Ajax Results:
+[03/25/2012 22:15:13] 
+[03/25/2012 22:15:15] game: updateGame
+[03/25/2012 22:15:15] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:15] Ajax Results:
+[03/25/2012 22:15:15] 
+[03/25/2012 22:15:17] game: updateGame
+[03/25/2012 22:15:17] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:17] Ajax Results:
+[03/25/2012 22:15:17] 
+[03/25/2012 22:15:19] game: updateGame
+[03/25/2012 22:15:19] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:19] Ajax Results:
+[03/25/2012 22:15:19] 
+[03/25/2012 22:15:21] game: updateGame
+[03/25/2012 22:15:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:21] Ajax Results:
+[03/25/2012 22:15:21] 
+[03/25/2012 22:15:23] game: updateGame
+[03/25/2012 22:15:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:23] Ajax Results:
+[03/25/2012 22:15:23] 
+[03/25/2012 22:15:25] game: updateGame
+[03/25/2012 22:15:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:25] Ajax Results:
+[03/25/2012 22:15:25] 
+[03/25/2012 22:15:27] game: updateGame
+[03/25/2012 22:15:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:27] Ajax Results:
+[03/25/2012 22:15:27] 
+[03/25/2012 22:15:30] game: updateGame
+[03/25/2012 22:15:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:30] Ajax Results:
+[03/25/2012 22:15:30] 
+[03/25/2012 22:15:32] game: updateGame
+[03/25/2012 22:15:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:32] Ajax Results:
+[03/25/2012 22:15:32] 
+[03/25/2012 22:15:34] game: updateGame
+[03/25/2012 22:15:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:34] Ajax Results:
+[03/25/2012 22:15:34] 
+[03/25/2012 22:15:36] game: updateGame
+[03/25/2012 22:15:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:36] Ajax Results:
+[03/25/2012 22:15:36] 
+[03/25/2012 22:15:38] game: updateGame
+[03/25/2012 22:15:38] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:38] Ajax Results:
+[03/25/2012 22:15:38] 
+[03/25/2012 22:15:40] game: updateGame
+[03/25/2012 22:15:40] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:40] Ajax Results:
+[03/25/2012 22:15:40] 
+[03/25/2012 22:15:42] game: updateGame
+[03/25/2012 22:15:42] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:42] Ajax Results:
+[03/25/2012 22:15:42] 
+[03/25/2012 22:15:44] game: updateGame
+[03/25/2012 22:15:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:44] Ajax Results:
+[03/25/2012 22:15:44] 
+[03/25/2012 22:15:46] game: updateGame
+[03/25/2012 22:15:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:46] Ajax Results:
+[03/25/2012 22:15:46] 
+[03/25/2012 22:15:48] game: updateGame
+[03/25/2012 22:15:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:48] Ajax Results:
+[03/25/2012 22:15:48] 
+[03/25/2012 22:15:50] game: updateGame
+[03/25/2012 22:15:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:50] Ajax Results:
+[03/25/2012 22:15:50] 
+[03/25/2012 22:15:53] game: updateGame
+[03/25/2012 22:15:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:53] Ajax Results:
+[03/25/2012 22:15:53] 
+[03/25/2012 22:15:55] game: updateGame
+[03/25/2012 22:15:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:55] Ajax Results:
+[03/25/2012 22:15:55] 
+[03/25/2012 22:15:57] game: updateGame
+[03/25/2012 22:15:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:57] Ajax Results:
+[03/25/2012 22:15:57] 
+[03/25/2012 22:15:59] game: updateGame
+[03/25/2012 22:15:59] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:15:59] Ajax Results:
+[03/25/2012 22:15:59] 
+[03/25/2012 22:16:01] game: updateGame
+[03/25/2012 22:16:01] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:01] Ajax Results:
+[03/25/2012 22:16:01] 
+[03/25/2012 22:16:03] game: updateGame
+[03/25/2012 22:16:03] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:03] Ajax Results:
+[03/25/2012 22:16:03] 
+[03/25/2012 22:16:05] game: updateGame
+[03/25/2012 22:16:05] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:05] Ajax Results:
+[03/25/2012 22:16:05] 
+[03/25/2012 22:16:07] game: updateGame
+[03/25/2012 22:16:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:07] Ajax Results:
+[03/25/2012 22:16:07] 
+[03/25/2012 22:16:09] game: updateGame
+[03/25/2012 22:16:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:09] Ajax Results:
+[03/25/2012 22:16:09] 
+[03/25/2012 22:16:11] game: updateGame
+[03/25/2012 22:16:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:11] Ajax Results:
+[03/25/2012 22:16:11] 
+[03/25/2012 22:16:13] game: updateGame
+[03/25/2012 22:16:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:13] Ajax Results:
+[03/25/2012 22:16:13] 
+[03/25/2012 22:16:16] game: updateGame
+[03/25/2012 22:16:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:16] Ajax Results:
+[03/25/2012 22:16:16] 
+[03/25/2012 22:16:18] game: updateGame
+[03/25/2012 22:16:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:18] Ajax Results:
+[03/25/2012 22:16:18] 
+[03/25/2012 22:16:20] game: updateGame
+[03/25/2012 22:16:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:20] Ajax Results:
+[03/25/2012 22:16:20] 
+[03/25/2012 22:16:22] game: updateGame
+[03/25/2012 22:16:22] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:22] Ajax Results:
+[03/25/2012 22:16:22] 
+[03/25/2012 22:16:24] game: updateGame
+[03/25/2012 22:16:24] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:24] Ajax Results:
+[03/25/2012 22:16:24] 
+[03/25/2012 22:16:26] game: updateGame
+[03/25/2012 22:16:26] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:26] Ajax Results:
+[03/25/2012 22:16:26] 
+[03/25/2012 22:16:28] game: updateGame
+[03/25/2012 22:16:28] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:28] Ajax Results:
+[03/25/2012 22:16:28] 
+[03/25/2012 22:16:30] game: updateGame
+[03/25/2012 22:16:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:30] Ajax Results:
+[03/25/2012 22:16:30] 
+[03/25/2012 22:16:32] game: updateGame
+[03/25/2012 22:16:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:32] Ajax Results:
+[03/25/2012 22:16:32] 
+[03/25/2012 22:16:34] game: updateGame
+[03/25/2012 22:16:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:34] Ajax Results:
+[03/25/2012 22:16:34] 
+[03/25/2012 22:16:36] game: updateGame
+[03/25/2012 22:16:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:36] Ajax Results:
+[03/25/2012 22:16:36] 
+[03/25/2012 22:16:39] game: updateGame
+[03/25/2012 22:16:39] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:39] Ajax Results:
+[03/25/2012 22:16:39] 
+[03/25/2012 22:16:41] game: updateGame
+[03/25/2012 22:16:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:41] Ajax Results:
+[03/25/2012 22:16:41] 
+[03/25/2012 22:16:43] game: updateGame
+[03/25/2012 22:16:43] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:43] Ajax Results:
+[03/25/2012 22:16:43] 
+[03/25/2012 22:16:45] game: updateGame
+[03/25/2012 22:16:45] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:45] Ajax Results:
+[03/25/2012 22:16:45] 
+[03/25/2012 22:16:47] game: updateGame
+[03/25/2012 22:16:47] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:47] Ajax Results:
+[03/25/2012 22:16:47] 
+[03/25/2012 22:16:49] game: updateGame
+[03/25/2012 22:16:49] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:49] Ajax Results:
+[03/25/2012 22:16:49] 
+[03/25/2012 22:16:51] game: updateGame
+[03/25/2012 22:16:51] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:51] Ajax Results:
+[03/25/2012 22:16:51] 
+[03/25/2012 22:16:53] game: updateGame
+[03/25/2012 22:16:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:53] Ajax Results:
+[03/25/2012 22:16:53] 
+[03/25/2012 22:16:55] game: updateGame
+[03/25/2012 22:16:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:55] Ajax Results:
+[03/25/2012 22:16:55] 
+[03/25/2012 22:16:57] game: updateGame
+[03/25/2012 22:16:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:16:57] Ajax Results:
+[03/25/2012 22:16:57] 
+[03/25/2012 22:17:00] game: updateGame
+[03/25/2012 22:17:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:00] Ajax Results:
+[03/25/2012 22:17:00] 
+[03/25/2012 22:17:02] game: updateGame
+[03/25/2012 22:17:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:02] Ajax Results:
+[03/25/2012 22:17:02] 
+[03/25/2012 22:17:04] game: updateGame
+[03/25/2012 22:17:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:04] Ajax Results:
+[03/25/2012 22:17:04] 
+[03/25/2012 22:17:06] game: updateGame
+[03/25/2012 22:17:06] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:06] Ajax Results:
+[03/25/2012 22:17:06] 
+[03/25/2012 22:17:08] game: updateGame
+[03/25/2012 22:17:08] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:08] Ajax Results:
+[03/25/2012 22:17:08] 
+[03/25/2012 22:17:10] game: updateGame
+[03/25/2012 22:17:10] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:10] Ajax Results:
+[03/25/2012 22:17:10] 
+[03/25/2012 22:17:12] game: updateGame
+[03/25/2012 22:17:12] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:12] Ajax Results:
+[03/25/2012 22:17:12] 
+[03/25/2012 22:17:14] game: updateGame
+[03/25/2012 22:17:14] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:14] Ajax Results:
+[03/25/2012 22:17:14] 
+[03/25/2012 22:17:16] game: updateGame
+[03/25/2012 22:17:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:16] Ajax Results:
+[03/25/2012 22:17:16] 
+[03/25/2012 22:17:18] game: updateGame
+[03/25/2012 22:17:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:18] Ajax Results:
+[03/25/2012 22:17:18] 
+[03/25/2012 22:17:20] game: updateGame
+[03/25/2012 22:17:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:20] Ajax Results:
+[03/25/2012 22:17:20] 
+[03/25/2012 22:17:23] game: updateGame
+[03/25/2012 22:17:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:23] Ajax Results:
+[03/25/2012 22:17:23] 
+[03/25/2012 22:17:25] game: updateGame
+[03/25/2012 22:17:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:25] Ajax Results:
+[03/25/2012 22:17:25] 
+[03/25/2012 22:17:27] game: updateGame
+[03/25/2012 22:17:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:27] Ajax Results:
+[03/25/2012 22:17:27] 
+[03/25/2012 22:17:29] game: updateGame
+[03/25/2012 22:17:29] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:29] Ajax Results:
+[03/25/2012 22:17:29] 
+[03/25/2012 22:17:31] game: updateGame
+[03/25/2012 22:17:31] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:31] Ajax Results:
+[03/25/2012 22:17:31] 
+[03/25/2012 22:17:33] game: updateGame
+[03/25/2012 22:17:33] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:33] Ajax Results:
+[03/25/2012 22:17:33] 
+[03/25/2012 22:17:35] game: updateGame
+[03/25/2012 22:17:35] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:35] Ajax Results:
+[03/25/2012 22:17:35] 
+[03/25/2012 22:17:37] game: updateGame
+[03/25/2012 22:17:37] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:37] Ajax Results:
+[03/25/2012 22:17:37] 
+[03/25/2012 22:17:39] game: updateGame
+[03/25/2012 22:17:39] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:39] Ajax Results:
+[03/25/2012 22:17:39] 
+[03/25/2012 22:17:41] game: updateGame
+[03/25/2012 22:17:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:41] Ajax Results:
+[03/25/2012 22:17:41] 
+[03/25/2012 22:17:44] game: updateGame
+[03/25/2012 22:17:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:44] Ajax Results:
+[03/25/2012 22:17:44] 
+[03/25/2012 22:17:46] game: updateGame
+[03/25/2012 22:17:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:46] Ajax Results:
+[03/25/2012 22:17:46] 
+[03/25/2012 22:17:48] game: updateGame
+[03/25/2012 22:17:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:48] Ajax Results:
+[03/25/2012 22:17:48] 
+[03/25/2012 22:17:50] game: updateGame
+[03/25/2012 22:17:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:50] Ajax Results:
+[03/25/2012 22:17:50] 
+[03/25/2012 22:17:52] game: updateGame
+[03/25/2012 22:17:52] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:52] Ajax Results:
+[03/25/2012 22:17:52] 
+[03/25/2012 22:17:54] game: updateGame
+[03/25/2012 22:17:54] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:54] Ajax Results:
+[03/25/2012 22:17:54] 
+[03/25/2012 22:17:56] game: updateGame
+[03/25/2012 22:17:56] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:56] Ajax Results:
+[03/25/2012 22:17:56] 
+[03/25/2012 22:17:58] game: updateGame
+[03/25/2012 22:17:58] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:17:58] Ajax Results:
+[03/25/2012 22:17:58] 
+[03/25/2012 22:18:00] game: updateGame
+[03/25/2012 22:18:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:00] Ajax Results:
+[03/25/2012 22:18:00] 
+[03/25/2012 22:18:02] game: updateGame
+[03/25/2012 22:18:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:02] Ajax Results:
+[03/25/2012 22:18:02] 
+[03/25/2012 22:18:04] game: updateGame
+[03/25/2012 22:18:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:04] Ajax Results:
+[03/25/2012 22:18:04] 
+[03/25/2012 22:18:07] game: updateGame
+[03/25/2012 22:18:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:07] Ajax Results:
+[03/25/2012 22:18:07] 
+[03/25/2012 22:18:09] game: updateGame
+[03/25/2012 22:18:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:09] Ajax Results:
+[03/25/2012 22:18:09] 
+[03/25/2012 22:18:11] game: updateGame
+[03/25/2012 22:18:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:11] Ajax Results:
+[03/25/2012 22:18:11] 
+[03/25/2012 22:18:13] game: updateGame
+[03/25/2012 22:18:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:13] Ajax Results:
+[03/25/2012 22:18:13] 
+[03/25/2012 22:18:15] game: updateGame
+[03/25/2012 22:18:15] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:15] Ajax Results:
+[03/25/2012 22:18:15] 
+[03/25/2012 22:18:17] game: updateGame
+[03/25/2012 22:18:17] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:17] Ajax Results:
+[03/25/2012 22:18:17] 
+[03/25/2012 22:18:19] game: updateGame
+[03/25/2012 22:18:19] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:19] Ajax Results:
+[03/25/2012 22:18:19] 
+[03/25/2012 22:18:21] game: updateGame
+[03/25/2012 22:18:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:21] Ajax Results:
+[03/25/2012 22:18:21] 
+[03/25/2012 22:18:23] game: updateGame
+[03/25/2012 22:18:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:23] Ajax Results:
+[03/25/2012 22:18:23] 
+[03/25/2012 22:18:25] game: updateGame
+[03/25/2012 22:18:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:25] Ajax Results:
+[03/25/2012 22:18:25] 
+[03/25/2012 22:18:27] game: updateGame
+[03/25/2012 22:18:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:28] Ajax Results:
+[03/25/2012 22:18:28] 
+[03/25/2012 22:18:30] game: updateGame
+[03/25/2012 22:18:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:30] Ajax Results:
+[03/25/2012 22:18:30] 
+[03/25/2012 22:18:32] game: updateGame
+[03/25/2012 22:18:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:32] Ajax Results:
+[03/25/2012 22:18:32] 
+[03/25/2012 22:18:34] game: updateGame
+[03/25/2012 22:18:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:34] Ajax Results:
+[03/25/2012 22:18:34] 
+[03/25/2012 22:18:36] game: updateGame
+[03/25/2012 22:18:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:36] Ajax Results:
+[03/25/2012 22:18:36] 
+[03/25/2012 22:18:38] game: updateGame
+[03/25/2012 22:18:38] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:38] Ajax Results:
+[03/25/2012 22:18:38] 
+[03/25/2012 22:18:40] game: updateGame
+[03/25/2012 22:18:40] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:40] Ajax Results:
+[03/25/2012 22:18:40] 
+[03/25/2012 22:18:42] game: updateGame
+[03/25/2012 22:18:42] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:42] Ajax Results:
+[03/25/2012 22:18:42] 
+[03/25/2012 22:18:44] game: updateGame
+[03/25/2012 22:18:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:44] Ajax Results:
+[03/25/2012 22:18:44] 
+[03/25/2012 22:18:46] game: updateGame
+[03/25/2012 22:18:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:46] Ajax Results:
+[03/25/2012 22:18:46] 
+[03/25/2012 22:18:48] game: updateGame
+[03/25/2012 22:18:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:48] Ajax Results:
+[03/25/2012 22:18:48] 
+[03/25/2012 22:18:50] game: updateGame
+[03/25/2012 22:18:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:50] Ajax Results:
+[03/25/2012 22:18:50] 
+[03/25/2012 22:18:53] game: updateGame
+[03/25/2012 22:18:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:53] Ajax Results:
+[03/25/2012 22:18:53] 
+[03/25/2012 22:18:55] game: updateGame
+[03/25/2012 22:18:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:55] Ajax Results:
+[03/25/2012 22:18:55] 
+[03/25/2012 22:18:57] game: updateGame
+[03/25/2012 22:18:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:57] Ajax Results:
+[03/25/2012 22:18:57] 
+[03/25/2012 22:18:59] game: updateGame
+[03/25/2012 22:18:59] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:18:59] Ajax Results:
+[03/25/2012 22:18:59] 
+[03/25/2012 22:19:01] game: updateGame
+[03/25/2012 22:19:01] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:01] Ajax Results:
+[03/25/2012 22:19:01] 
+[03/25/2012 22:19:03] game: updateGame
+[03/25/2012 22:19:03] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:03] Ajax Results:
+[03/25/2012 22:19:03] 
+[03/25/2012 22:19:05] game: updateGame
+[03/25/2012 22:19:05] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:05] Ajax Results:
+[03/25/2012 22:19:05] 
+[03/25/2012 22:19:07] game: updateGame
+[03/25/2012 22:19:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:07] Ajax Results:
+[03/25/2012 22:19:07] 
+[03/25/2012 22:19:09] game: updateGame
+[03/25/2012 22:19:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:09] Ajax Results:
+[03/25/2012 22:19:09] 
+[03/25/2012 22:19:11] game: updateGame
+[03/25/2012 22:19:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:11] Ajax Results:
+[03/25/2012 22:19:11] 
+[03/25/2012 22:19:13] game: updateGame
+[03/25/2012 22:19:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:13] Ajax Results:
+[03/25/2012 22:19:13] 
+[03/25/2012 22:19:16] game: updateGame
+[03/25/2012 22:19:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:16] Ajax Results:
+[03/25/2012 22:19:16] 
+[03/25/2012 22:19:18] game: updateGame
+[03/25/2012 22:19:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:18] Ajax Results:
+[03/25/2012 22:19:18] 
+[03/25/2012 22:19:20] game: updateGame
+[03/25/2012 22:19:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:20] Ajax Results:
+[03/25/2012 22:19:20] 
+[03/25/2012 22:19:22] game: updateGame
+[03/25/2012 22:19:22] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:22] Ajax Results:
+[03/25/2012 22:19:22] 
+[03/25/2012 22:19:24] game: updateGame
+[03/25/2012 22:19:24] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:24] Ajax Results:
+[03/25/2012 22:19:24] 
+[03/25/2012 22:19:26] game: updateGame
+[03/25/2012 22:19:26] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:26] Ajax Results:
+[03/25/2012 22:19:26] 
+[03/25/2012 22:19:28] game: updateGame
+[03/25/2012 22:19:28] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:28] Ajax Results:
+[03/25/2012 22:19:28] 
+[03/25/2012 22:19:30] game: updateGame
+[03/25/2012 22:19:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:30] Ajax Results:
+[03/25/2012 22:19:30] 
+[03/25/2012 22:19:32] game: updateGame
+[03/25/2012 22:19:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:32] Ajax Results:
+[03/25/2012 22:19:32] 
+[03/25/2012 22:19:34] game: updateGame
+[03/25/2012 22:19:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:34] Ajax Results:
+[03/25/2012 22:19:34] 
+[03/25/2012 22:19:36] game: updateGame
+[03/25/2012 22:19:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:37] Ajax Results:
+[03/25/2012 22:19:37] 
+[03/25/2012 22:19:39] game: updateGame
+[03/25/2012 22:19:39] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:39] Ajax Results:
+[03/25/2012 22:19:39] 
+[03/25/2012 22:19:41] game: updateGame
+[03/25/2012 22:19:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:41] Ajax Results:
+[03/25/2012 22:19:41] 
+[03/25/2012 22:19:43] game: updateGame
+[03/25/2012 22:19:43] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:43] Ajax Results:
+[03/25/2012 22:19:43] 
+[03/25/2012 22:19:45] game: updateGame
+[03/25/2012 22:19:45] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:45] Ajax Results:
+[03/25/2012 22:19:45] 
+[03/25/2012 22:19:47] game: updateGame
+[03/25/2012 22:19:47] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:47] Ajax Results:
+[03/25/2012 22:19:47] 
+[03/25/2012 22:19:49] game: updateGame
+[03/25/2012 22:19:49] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:49] Ajax Results:
+[03/25/2012 22:19:49] 
+[03/25/2012 22:19:51] game: updateGame
+[03/25/2012 22:19:51] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:51] Ajax Results:
+[03/25/2012 22:19:51] 
+[03/25/2012 22:19:53] game: updateGame
+[03/25/2012 22:19:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:53] Ajax Results:
+[03/25/2012 22:19:53] 
+[03/25/2012 22:19:55] game: updateGame
+[03/25/2012 22:19:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:55] Ajax Results:
+[03/25/2012 22:19:55] 
+[03/25/2012 22:19:57] game: updateGame
+[03/25/2012 22:19:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:19:57] Ajax Results:
+[03/25/2012 22:19:57] 
+[03/25/2012 22:20:00] game: updateGame
+[03/25/2012 22:20:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:00] Ajax Results:
+[03/25/2012 22:20:00] 
+[03/25/2012 22:20:02] game: updateGame
+[03/25/2012 22:20:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:02] Ajax Results:
+[03/25/2012 22:20:02] 
+[03/25/2012 22:20:04] game: updateGame
+[03/25/2012 22:20:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:04] Ajax Results:
+[03/25/2012 22:20:04] 
+[03/25/2012 22:20:06] game: updateGame
+[03/25/2012 22:20:06] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:06] Ajax Results:
+[03/25/2012 22:20:06] 
+[03/25/2012 22:20:08] game: updateGame
+[03/25/2012 22:20:08] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:08] Ajax Results:
+[03/25/2012 22:20:08] 
+[03/25/2012 22:20:10] game: updateGame
+[03/25/2012 22:20:10] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:10] Ajax Results:
+[03/25/2012 22:20:10] 
+[03/25/2012 22:20:12] game: updateGame
+[03/25/2012 22:20:12] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:12] Ajax Results:
+[03/25/2012 22:20:12] 
+[03/25/2012 22:20:14] game: updateGame
+[03/25/2012 22:20:14] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:14] Ajax Results:
+[03/25/2012 22:20:14] 
+[03/25/2012 22:20:16] game: updateGame
+[03/25/2012 22:20:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:16] Ajax Results:
+[03/25/2012 22:20:16] 
+[03/25/2012 22:20:18] game: updateGame
+[03/25/2012 22:20:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:18] Ajax Results:
+[03/25/2012 22:20:18] 
+[03/25/2012 22:20:21] game: updateGame
+[03/25/2012 22:20:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:21] Ajax Results:
+[03/25/2012 22:20:21] 
+[03/25/2012 22:20:23] game: updateGame
+[03/25/2012 22:20:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:23] Ajax Results:
+[03/25/2012 22:20:23] 
+[03/25/2012 22:20:25] game: updateGame
+[03/25/2012 22:20:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:25] Ajax Results:
+[03/25/2012 22:20:25] 
+[03/25/2012 22:20:27] game: updateGame
+[03/25/2012 22:20:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:27] Ajax Results:
+[03/25/2012 22:20:27] 
+[03/25/2012 22:20:29] game: updateGame
+[03/25/2012 22:20:29] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:29] Ajax Results:
+[03/25/2012 22:20:29] 
+[03/25/2012 22:20:31] game: updateGame
+[03/25/2012 22:20:31] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:31] Ajax Results:
+[03/25/2012 22:20:31] 
+[03/25/2012 22:20:33] game: updateGame
+[03/25/2012 22:20:33] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:33] Ajax Results:
+[03/25/2012 22:20:33] 
+[03/25/2012 22:20:35] game: updateGame
+[03/25/2012 22:20:35] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:35] Ajax Results:
+[03/25/2012 22:20:35] 
+[03/25/2012 22:20:37] game: updateGame
+[03/25/2012 22:20:37] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:37] Ajax Results:
+[03/25/2012 22:20:37] 
+[03/25/2012 22:20:40] game: updateGame
+[03/25/2012 22:20:40] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:40] Ajax Results:
+[03/25/2012 22:20:40] 
+[03/25/2012 22:20:42] game: updateGame
+[03/25/2012 22:20:42] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:42] Ajax Results:
+[03/25/2012 22:20:42] 
+[03/25/2012 22:20:44] game: updateGame
+[03/25/2012 22:20:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:44] Ajax Results:
+[03/25/2012 22:20:44] 
+[03/25/2012 22:20:46] game: updateGame
+[03/25/2012 22:20:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:46] Ajax Results:
+[03/25/2012 22:20:46] 
+[03/25/2012 22:20:48] game: updateGame
+[03/25/2012 22:20:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:48] Ajax Results:
+[03/25/2012 22:20:48] 
+[03/25/2012 22:20:50] game: updateGame
+[03/25/2012 22:20:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:50] Ajax Results:
+[03/25/2012 22:20:50] 
+[03/25/2012 22:20:52] game: updateGame
+[03/25/2012 22:20:52] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:52] Ajax Results:
+[03/25/2012 22:20:52] 
+[03/25/2012 22:20:54] game: updateGame
+[03/25/2012 22:20:54] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:54] Ajax Results:
+[03/25/2012 22:20:54] 
+[03/25/2012 22:20:56] game: updateGame
+[03/25/2012 22:20:56] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:56] Ajax Results:
+[03/25/2012 22:20:56] 
+[03/25/2012 22:20:58] game: updateGame
+[03/25/2012 22:20:58] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:20:58] Ajax Results:
+[03/25/2012 22:20:58] 
+[03/25/2012 22:21:00] game: updateGame
+[03/25/2012 22:21:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:00] Ajax Results:
+[03/25/2012 22:21:00] 
+[03/25/2012 22:21:03] game: updateGame
+[03/25/2012 22:21:03] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:03] Ajax Results:
+[03/25/2012 22:21:03] 
+[03/25/2012 22:21:05] game: updateGame
+[03/25/2012 22:21:05] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:05] Ajax Results:
+[03/25/2012 22:21:05] 
+[03/25/2012 22:21:07] game: updateGame
+[03/25/2012 22:21:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:07] Ajax Results:
+[03/25/2012 22:21:07] 
+[03/25/2012 22:21:09] game: updateGame
+[03/25/2012 22:21:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:09] Ajax Results:
+[03/25/2012 22:21:09] 
+[03/25/2012 22:21:11] game: updateGame
+[03/25/2012 22:21:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:11] Ajax Results:
+[03/25/2012 22:21:11] 
+[03/25/2012 22:21:13] game: updateGame
+[03/25/2012 22:21:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:13] Ajax Results:
+[03/25/2012 22:21:13] 
+[03/25/2012 22:21:15] game: updateGame
+[03/25/2012 22:21:15] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:15] Ajax Results:
+[03/25/2012 22:21:15] 
+[03/25/2012 22:21:17] game: updateGame
+[03/25/2012 22:21:17] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:17] Ajax Results:
+[03/25/2012 22:21:17] 
+[03/25/2012 22:21:19] game: updateGame
+[03/25/2012 22:21:19] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:19] Ajax Results:
+[03/25/2012 22:21:19] 
+[03/25/2012 22:21:21] game: updateGame
+[03/25/2012 22:21:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:21] Ajax Results:
+[03/25/2012 22:21:21] 
+[03/25/2012 22:21:24] game: updateGame
+[03/25/2012 22:21:24] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:24] Ajax Results:
+[03/25/2012 22:21:24] 
+[03/25/2012 22:21:26] game: updateGame
+[03/25/2012 22:21:26] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:26] Ajax Results:
+[03/25/2012 22:21:26] 
+[03/25/2012 22:21:28] game: updateGame
+[03/25/2012 22:21:28] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:28] Ajax Results:
+[03/25/2012 22:21:28] 
+[03/25/2012 22:21:30] game: updateGame
+[03/25/2012 22:21:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:30] Ajax Results:
+[03/25/2012 22:21:30] 
+[03/25/2012 22:21:32] game: updateGame
+[03/25/2012 22:21:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:32] Ajax Results:
+[03/25/2012 22:21:32] 
+[03/25/2012 22:21:34] game: updateGame
+[03/25/2012 22:21:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:34] Ajax Results:
+[03/25/2012 22:21:34] 
+[03/25/2012 22:21:36] game: updateGame
+[03/25/2012 22:21:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:36] Ajax Results:
+[03/25/2012 22:21:36] 
+[03/25/2012 22:21:38] game: updateGame
+[03/25/2012 22:21:38] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:38] Ajax Results:
+[03/25/2012 22:21:38] 
+[03/25/2012 22:21:40] game: updateGame
+[03/25/2012 22:21:40] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:40] Ajax Results:
+[03/25/2012 22:21:40] 
+[03/25/2012 22:21:42] game: updateGame
+[03/25/2012 22:21:42] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:42] Ajax Results:
+[03/25/2012 22:21:42] 
+[03/25/2012 22:21:44] game: updateGame
+[03/25/2012 22:21:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:44] Ajax Results:
+[03/25/2012 22:21:45] 
+[03/25/2012 22:21:47] game: updateGame
+[03/25/2012 22:21:47] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:47] Ajax Results:
+[03/25/2012 22:21:47] 
+[03/25/2012 22:21:49] game: updateGame
+[03/25/2012 22:21:49] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:49] Ajax Results:
+[03/25/2012 22:21:49] 
+[03/25/2012 22:21:51] game: updateGame
+[03/25/2012 22:21:51] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:51] Ajax Results:
+[03/25/2012 22:21:51] 
+[03/25/2012 22:21:53] game: updateGame
+[03/25/2012 22:21:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:53] Ajax Results:
+[03/25/2012 22:21:53] 
+[03/25/2012 22:21:55] game: updateGame
+[03/25/2012 22:21:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:55] Ajax Results:
+[03/25/2012 22:21:55] 
+[03/25/2012 22:21:57] game: updateGame
+[03/25/2012 22:21:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:57] Ajax Results:
+[03/25/2012 22:21:57] 
+[03/25/2012 22:21:59] game: updateGame
+[03/25/2012 22:21:59] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:21:59] Ajax Results:
+[03/25/2012 22:21:59] 
+[03/25/2012 22:22:01] game: updateGame
+[03/25/2012 22:22:01] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:01] Ajax Results:
+[03/25/2012 22:22:01] 
+[03/25/2012 22:22:03] game: updateGame
+[03/25/2012 22:22:03] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:03] Ajax Results:
+[03/25/2012 22:22:03] 
+[03/25/2012 22:22:05] game: updateGame
+[03/25/2012 22:22:05] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:05] Ajax Results:
+[03/25/2012 22:22:05] 
+[03/25/2012 22:22:08] game: updateGame
+[03/25/2012 22:22:08] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:08] Ajax Results:
+[03/25/2012 22:22:08] 
+[03/25/2012 22:22:10] game: updateGame
+[03/25/2012 22:22:10] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:10] Ajax Results:
+[03/25/2012 22:22:10] 
+[03/25/2012 22:22:12] game: updateGame
+[03/25/2012 22:22:12] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:12] Ajax Results:
+[03/25/2012 22:22:12] 
+[03/25/2012 22:22:14] game: updateGame
+[03/25/2012 22:22:14] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:14] Ajax Results:
+[03/25/2012 22:22:14] 
+[03/25/2012 22:22:16] game: updateGame
+[03/25/2012 22:22:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:16] Ajax Results:
+[03/25/2012 22:22:16] 
+[03/25/2012 22:22:18] game: updateGame
+[03/25/2012 22:22:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:18] Ajax Results:
+[03/25/2012 22:22:18] 
+[03/25/2012 22:22:20] game: updateGame
+[03/25/2012 22:22:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:20] Ajax Results:
+[03/25/2012 22:22:20] 
+[03/25/2012 22:22:22] game: updateGame
+[03/25/2012 22:22:22] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:22] Ajax Results:
+[03/25/2012 22:22:22] 
+[03/25/2012 22:22:24] game: updateGame
+[03/25/2012 22:22:24] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:24] Ajax Results:
+[03/25/2012 22:22:24] 
+[03/25/2012 22:22:26] game: updateGame
+[03/25/2012 22:22:26] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:26] Ajax Results:
+[03/25/2012 22:22:26] 
+[03/25/2012 22:22:29] game: updateGame
+[03/25/2012 22:22:29] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:29] Ajax Results:
+[03/25/2012 22:22:29] 
+[03/25/2012 22:22:31] game: updateGame
+[03/25/2012 22:22:31] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:31] Ajax Results:
+[03/25/2012 22:22:31] 
+[03/25/2012 22:22:33] game: updateGame
+[03/25/2012 22:22:33] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:33] Ajax Results:
+[03/25/2012 22:22:33] 
+[03/25/2012 22:22:35] game: updateGame
+[03/25/2012 22:22:35] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:35] Ajax Results:
+[03/25/2012 22:22:35] 
+[03/25/2012 22:22:37] game: updateGame
+[03/25/2012 22:22:37] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:37] Ajax Results:
+[03/25/2012 22:22:37] 
+[03/25/2012 22:22:39] game: updateGame
+[03/25/2012 22:22:39] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:39] Ajax Results:
+[03/25/2012 22:22:39] 
+[03/25/2012 22:22:41] game: updateGame
+[03/25/2012 22:22:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:41] Ajax Results:
+[03/25/2012 22:22:41] 
+[03/25/2012 22:22:43] game: updateGame
+[03/25/2012 22:22:43] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:43] Ajax Results:
+[03/25/2012 22:22:43] 
+[03/25/2012 22:22:46] game: updateGame
+[03/25/2012 22:22:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:46] Ajax Results:
+[03/25/2012 22:22:46] 
+[03/25/2012 22:22:48] game: updateGame
+[03/25/2012 22:22:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:48] Ajax Results:
+[03/25/2012 22:22:48] 
+[03/25/2012 22:22:50] game: updateGame
+[03/25/2012 22:22:50] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:50] Ajax Results:
+[03/25/2012 22:22:50] 
+[03/25/2012 22:22:52] game: updateGame
+[03/25/2012 22:22:52] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:52] Ajax Results:
+[03/25/2012 22:22:52] 
+[03/25/2012 22:22:54] game: updateGame
+[03/25/2012 22:22:54] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:54] Ajax Results:
+[03/25/2012 22:22:54] 
+[03/25/2012 22:22:56] game: updateGame
+[03/25/2012 22:22:56] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:56] Ajax Results:
+[03/25/2012 22:22:56] 
+[03/25/2012 22:22:58] game: updateGame
+[03/25/2012 22:22:58] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:22:58] Ajax Results:
+[03/25/2012 22:22:58] 
+[03/25/2012 22:23:00] game: updateGame
+[03/25/2012 22:23:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:00] Ajax Results:
+[03/25/2012 22:23:00] 
+[03/25/2012 22:23:02] game: updateGame
+[03/25/2012 22:23:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:02] Ajax Results:
+[03/25/2012 22:23:02] 
+[03/25/2012 22:23:04] game: updateGame
+[03/25/2012 22:23:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:04] Ajax Results:
+[03/25/2012 22:23:04] 
+[03/25/2012 22:23:07] game: updateGame
+[03/25/2012 22:23:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:07] Ajax Results:
+[03/25/2012 22:23:07] 
+[03/25/2012 22:23:09] game: updateGame
+[03/25/2012 22:23:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:09] Ajax Results:
+[03/25/2012 22:23:09] 
+[03/25/2012 22:23:11] game: updateGame
+[03/25/2012 22:23:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:11] Ajax Results:
+[03/25/2012 22:23:11] 
+[03/25/2012 22:23:13] game: updateGame
+[03/25/2012 22:23:13] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:13] Ajax Results:
+[03/25/2012 22:23:13] 
+[03/25/2012 22:23:15] game: updateGame
+[03/25/2012 22:23:15] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:15] Ajax Results:
+[03/25/2012 22:23:15] 
+[03/25/2012 22:23:17] game: updateGame
+[03/25/2012 22:23:17] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:17] Ajax Results:
+[03/25/2012 22:23:17] 
+[03/25/2012 22:23:19] game: updateGame
+[03/25/2012 22:23:19] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:19] Ajax Results:
+[03/25/2012 22:23:19] 
+[03/25/2012 22:23:21] game: updateGame
+[03/25/2012 22:23:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:21] Ajax Results:
+[03/25/2012 22:23:21] 
+[03/25/2012 22:23:23] game: updateGame
+[03/25/2012 22:23:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:23] Ajax Results:
+[03/25/2012 22:23:23] 
+[03/25/2012 22:23:25] game: updateGame
+[03/25/2012 22:23:25] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:25] Ajax Results:
+[03/25/2012 22:23:25] 
+[03/25/2012 22:23:27] game: updateGame
+[03/25/2012 22:23:27] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:27] Ajax Results:
+[03/25/2012 22:23:27] 
+[03/25/2012 22:23:30] game: updateGame
+[03/25/2012 22:23:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:30] Ajax Results:
+[03/25/2012 22:23:30] 
+[03/25/2012 22:23:32] game: updateGame
+[03/25/2012 22:23:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:32] Ajax Results:
+[03/25/2012 22:23:32] 
+[03/25/2012 22:23:34] game: updateGame
+[03/25/2012 22:23:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:34] Ajax Results:
+[03/25/2012 22:23:34] 
+[03/25/2012 22:23:36] game: updateGame
+[03/25/2012 22:23:36] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:36] Ajax Results:
+[03/25/2012 22:23:36] 
+[03/25/2012 22:23:38] game: updateGame
+[03/25/2012 22:23:38] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:38] Ajax Results:
+[03/25/2012 22:23:38] 
+[03/25/2012 22:23:40] game: updateGame
+[03/25/2012 22:23:40] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:40] Ajax Results:
+[03/25/2012 22:23:40] 
+[03/25/2012 22:23:42] game: updateGame
+[03/25/2012 22:23:42] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:42] Ajax Results:
+[03/25/2012 22:23:42] 
+[03/25/2012 22:23:44] game: updateGame
+[03/25/2012 22:23:44] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:44] Ajax Results:
+[03/25/2012 22:23:44] 
+[03/25/2012 22:23:46] game: updateGame
+[03/25/2012 22:23:46] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:46] Ajax Results:
+[03/25/2012 22:23:46] 
+[03/25/2012 22:23:48] game: updateGame
+[03/25/2012 22:23:48] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:48] Ajax Results:
+[03/25/2012 22:23:48] 
+[03/25/2012 22:23:51] game: updateGame
+[03/25/2012 22:23:51] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:51] Ajax Results:
+[03/25/2012 22:23:51] 
+[03/25/2012 22:23:53] game: updateGame
+[03/25/2012 22:23:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:53] Ajax Results:
+[03/25/2012 22:23:53] 
+[03/25/2012 22:23:55] game: updateGame
+[03/25/2012 22:23:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:55] Ajax Results:
+[03/25/2012 22:23:55] 
+[03/25/2012 22:23:57] game: updateGame
+[03/25/2012 22:23:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:57] Ajax Results:
+[03/25/2012 22:23:57] 
+[03/25/2012 22:23:59] game: updateGame
+[03/25/2012 22:23:59] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:23:59] Ajax Results:
+[03/25/2012 22:23:59] 
+[03/25/2012 22:24:01] game: updateGame
+[03/25/2012 22:24:01] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:01] Ajax Results:
+[03/25/2012 22:24:01] 
+[03/25/2012 22:24:03] game: updateGame
+[03/25/2012 22:24:03] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:03] Ajax Results:
+[03/25/2012 22:24:03] 
+[03/25/2012 22:24:05] game: updateGame
+[03/25/2012 22:24:05] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:05] Ajax Results:
+[03/25/2012 22:24:05] 
+[03/25/2012 22:24:07] game: updateGame
+[03/25/2012 22:24:07] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:07] Ajax Results:
+[03/25/2012 22:24:07] 
+[03/25/2012 22:24:09] game: updateGame
+[03/25/2012 22:24:09] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:09] Ajax Results:
+[03/25/2012 22:24:09] 
+[03/25/2012 22:24:11] game: updateGame
+[03/25/2012 22:24:11] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:11] Ajax Results:
+[03/25/2012 22:24:11] 
+[03/25/2012 22:24:14] game: updateGame
+[03/25/2012 22:24:14] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:14] Ajax Results:
+[03/25/2012 22:24:14] 
+[03/25/2012 22:24:16] game: updateGame
+[03/25/2012 22:24:16] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:16] Ajax Results:
+[03/25/2012 22:24:16] 
+[03/25/2012 22:24:18] game: updateGame
+[03/25/2012 22:24:18] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:18] Ajax Results:
+[03/25/2012 22:24:18] 
+[03/25/2012 22:24:20] game: updateGame
+[03/25/2012 22:24:20] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:20] Ajax Results:
+[03/25/2012 22:24:20] 
+[03/25/2012 22:24:22] game: updateGame
+[03/25/2012 22:24:22] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:22] Ajax Results:
+[03/25/2012 22:24:22] 
+[03/25/2012 22:24:24] game: updateGame
+[03/25/2012 22:24:24] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:24] Ajax Results:
+[03/25/2012 22:24:24] 
+[03/25/2012 22:24:26] game: updateGame
+[03/25/2012 22:24:26] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:26] Ajax Results:
+[03/25/2012 22:24:26] 
+[03/25/2012 22:24:28] game: updateGame
+[03/25/2012 22:24:28] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:28] Ajax Results:
+[03/25/2012 22:24:28] 
+[03/25/2012 22:24:30] game: updateGame
+[03/25/2012 22:24:30] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:30] Ajax Results:
+[03/25/2012 22:24:30] 
+[03/25/2012 22:24:32] game: updateGame
+[03/25/2012 22:24:32] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:32] Ajax Results:
+[03/25/2012 22:24:32] 
+[03/25/2012 22:24:34] game: updateGame
+[03/25/2012 22:24:34] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:34] Ajax Results:
+[03/25/2012 22:24:34] 
+[03/25/2012 22:24:37] game: updateGame
+[03/25/2012 22:24:37] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:37] Ajax Results:
+[03/25/2012 22:24:37] 
+[03/25/2012 22:24:39] game: updateGame
+[03/25/2012 22:24:39] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:39] Ajax Results:
+[03/25/2012 22:24:39] 
+[03/25/2012 22:24:41] game: updateGame
+[03/25/2012 22:24:41] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:41] Ajax Results:
+[03/25/2012 22:24:41] 
+[03/25/2012 22:24:43] game: updateGame
+[03/25/2012 22:24:43] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:43] Ajax Results:
+[03/25/2012 22:24:43] 
+[03/25/2012 22:24:45] game: updateGame
+[03/25/2012 22:24:45] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:45] Ajax Results:
+[03/25/2012 22:24:45] 
+[03/25/2012 22:24:47] game: updateGame
+[03/25/2012 22:24:47] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:47] Ajax Results:
+[03/25/2012 22:24:47] 
+[03/25/2012 22:24:49] game: updateGame
+[03/25/2012 22:24:49] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:49] Ajax Results:
+[03/25/2012 22:24:49] 
+[03/25/2012 22:24:51] game: updateGame
+[03/25/2012 22:24:51] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:51] Ajax Results:
+[03/25/2012 22:24:51] 
+[03/25/2012 22:24:53] game: updateGame
+[03/25/2012 22:24:53] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:53] Ajax Results:
+[03/25/2012 22:24:53] 
+[03/25/2012 22:24:55] game: updateGame
+[03/25/2012 22:24:55] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:55] Ajax Results:
+[03/25/2012 22:24:55] 
+[03/25/2012 22:24:57] game: updateGame
+[03/25/2012 22:24:57] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:24:57] Ajax Results:
+[03/25/2012 22:24:57] 
+[03/25/2012 22:25:00] game: updateGame
+[03/25/2012 22:25:00] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:00] Ajax Results:
+[03/25/2012 22:25:00] 
+[03/25/2012 22:25:02] game: updateGame
+[03/25/2012 22:25:02] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:02] Ajax Results:
+[03/25/2012 22:25:02] 
+[03/25/2012 22:25:04] game: updateGame
+[03/25/2012 22:25:04] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:04] Ajax Results:
+[03/25/2012 22:25:04] 
+[03/25/2012 22:25:06] game: updateGame
+[03/25/2012 22:25:06] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:06] Ajax Results:
+[03/25/2012 22:25:06] 
+[03/25/2012 22:25:08] game: updateGame
+[03/25/2012 22:25:08] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:08] Ajax Results:
+[03/25/2012 22:25:08] 
+[03/25/2012 22:25:10] game: updateGame
+[03/25/2012 22:25:10] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:10] Ajax Results:
+[03/25/2012 22:25:10] 
+[03/25/2012 22:25:12] map: move
+[03/25/2012 22:25:12] Array
+(
+    [direction] => north
+    [tile_id] => 1
+)
+
+[03/25/2012 22:25:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1332732312.63,1,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[03/25/2012 22:25:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1332732312.65,17,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[03/25/2012 22:25:12] Ajax Results:
+[03/25/2012 22:25:12] clearTile();
+loadTile(1);
+updateStats();
+document.getElementById('tile_id').value = '1';
+
+[03/25/2012 22:25:12] map: getTileInfoById
+[03/25/2012 22:25:12] Array
+(
+    [tile_id] => 1
+)
+
+[03/25/2012 22:25:12] Ajax Results:
+[03/25/2012 22:25:12] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>1</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>4</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Test1]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>17</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[03/25/2012 22:25:12] game: updateStats
+[03/25/2012 22:25:12] Array
+(
+)
+
+[03/25/2012 22:25:12] Ajax Results:
+[03/25/2012 22:25:12] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>88</field_value></field></fields>
+[03/25/2012 22:25:12] game: updateGame
+[03/25/2012 22:25:12] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:12] Ajax Results:
+[03/25/2012 22:25:12] 
+[03/25/2012 22:25:14] game: updateGame
+[03/25/2012 22:25:14] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:14] Ajax Results:
+[03/25/2012 22:25:14] 
+[03/25/2012 22:25:17] game: updateGame
+[03/25/2012 22:25:17] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:17] Ajax Results:
+[03/25/2012 22:25:17] 
+[03/25/2012 22:25:19] game: updateGame
+[03/25/2012 22:25:19] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:19] Ajax Results:
+[03/25/2012 22:25:19] 
+[03/25/2012 22:25:21] game: updateGame
+[03/25/2012 22:25:21] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:21] Ajax Results:
+[03/25/2012 22:25:21] 
+[03/25/2012 22:25:23] game: updateGame
+[03/25/2012 22:25:23] Array
+(
+    [last_update] => 1332731530.0549
+)
+
+[03/25/2012 22:25:23] Ajax Results:
+[03/25/2012 22:25:23] 

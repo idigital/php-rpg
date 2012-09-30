@@ -1,0 +1,194 @@
+[09/06/2011 20:37:42] Original URI: /images/sign-up.png
+[09/06/2011 20:37:42] Mod URI: /images/sign-up.png
+[09/06/2011 20:37:42] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[09/06/2011 20:37:42] Original URI: /404
+[09/06/2011 20:37:42] Mod URI: /404
+[09/06/2011 20:37:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/06/2011 20:37:42] 404.class.php
+[09/06/2011 20:37:42] Template: 404
+[09/06/2011 20:37:42] Page Args: 
+[09/06/2011 20:37:42] Array
+(
+)
+
+[09/06/2011 20:37:42] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=bmc.bremaweb.com
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[09/06/2011 20:41:21] Original URI: /images/sign-up.png
+[09/06/2011 20:41:21] Mod URI: /images/sign-up.png
+[09/06/2011 20:41:21] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[09/06/2011 20:41:21] Original URI: /404
+[09/06/2011 20:41:21] Mod URI: /404
+[09/06/2011 20:41:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/06/2011 20:41:21] 404.class.php
+[09/06/2011 20:41:21] Template: 404
+[09/06/2011 20:41:21] Page Args: 
+[09/06/2011 20:41:21] Array
+(
+)
+
+[09/06/2011 20:41:21] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/06/2011 20:41:29] Original URI: /images/sign-up.png
+[09/06/2011 20:41:29] Mod URI: /images/sign-up.png
+[09/06/2011 20:41:29] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[09/06/2011 20:41:29] Original URI: /404
+[09/06/2011 20:41:29] Mod URI: /404
+[09/06/2011 20:41:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/06/2011 20:41:29] 404.class.php
+[09/06/2011 20:41:29] Template: 404
+[09/06/2011 20:41:29] Page Args: 
+[09/06/2011 20:41:29] Array
+(
+)
+
+[09/06/2011 20:41:29] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/06/2011 20:42:42] Original URI: /images/sign-up.png
+[09/06/2011 20:42:42] Mod URI: /images/sign-up.png
+[09/06/2011 20:42:42] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[09/06/2011 20:42:42] Original URI: /404
+[09/06/2011 20:42:42] Mod URI: /404
+[09/06/2011 20:42:42] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/06/2011 20:42:42] 404.class.php
+[09/06/2011 20:42:42] Template: 404
+[09/06/2011 20:42:42] Page Args: 
+[09/06/2011 20:42:42] Array
+(
+)
+
+[09/06/2011 20:42:42] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/06/2011 20:47:05] Original URI: /images/sign-up.png
+[09/06/2011 20:47:05] Mod URI: /images/sign-up.png
+[09/06/2011 20:47:05] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[09/06/2011 20:47:05] Original URI: /404
+[09/06/2011 20:47:05] Mod URI: /404
+[09/06/2011 20:47:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/06/2011 20:47:05] 404.class.php
+[09/06/2011 20:47:05] Template: 404
+[09/06/2011 20:47:05] Page Args: 
+[09/06/2011 20:47:05] Array
+(
+)
+
+[09/06/2011 20:47:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/06/2011 20:47:14] Original URI: /images/sign-up.png
+[09/06/2011 20:47:14] Mod URI: /images/sign-up.png
+[09/06/2011 20:47:14] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[09/06/2011 20:47:14] Original URI: /404
+[09/06/2011 20:47:14] Mod URI: /404
+[09/06/2011 20:47:14] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/06/2011 20:47:14] 404.class.php
+[09/06/2011 20:47:14] Template: 404
+[09/06/2011 20:47:14] Page Args: 
+[09/06/2011 20:47:14] Array
+(
+)
+
+[09/06/2011 20:47:14] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+

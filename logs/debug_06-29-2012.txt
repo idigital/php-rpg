@@ -1,0 +1,512 @@
+[06/29/2012 21:47:06] Ajax Results:
+[06/29/2012 21:47:06] 
+[06/29/2012 21:47:06] Ajax Results:
+[06/29/2012 21:47:06] 
+[06/29/2012 21:47:08] Ajax Results:
+[06/29/2012 21:47:08] 
+[06/29/2012 21:47:08] getTileInfoByCoord(4,0,0)
+[06/29/2012 21:47:08] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:47:08] Ajax Results:
+[06/29/2012 21:47:08] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>12</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>East Commercial</tile_title>
+	<tile_desc>undefined</tile_desc>
+	<tile_exits>a:1:{s:4:"west";a:1:{s:7:"tile_id";s:2:"10";}}</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+</tile>
+[06/29/2012 21:47:08] Ajax Results:
+[06/29/2012 21:47:08] 
+[06/29/2012 21:47:09] saveTile(12,East Commercial,4,0,0,undefined,Array=false)
+[06/29/2012 21:47:09] Array
+(
+    [west] => Array
+        (
+            [tile_id] => 10
+        )
+
+)
+
+[06/29/2012 21:47:09] Save tile SQL:UPDATE tiles set tile_title='East Commercial', tile_x=4,tile_y=0,tile_z=0, tile_desc='undefined', tile_exits='a:1:{s:4:"west";a:1:{s:7:"tile_id";s:2:"10";}}' WHERE tile_id=12
+[06/29/2012 21:47:09] Ajax Results:
+[06/29/2012 21:47:09] <tile>
+	<error>0</error>
+	<msg>Tile 'East Commercial' saved successfully!</msg>
+	<tile_x>4</tile_x>
+	<tile_y>0</tile_y>
+</tile>
+[06/29/2012 21:47:10] Ajax Results:
+[06/29/2012 21:47:10] 
+[06/29/2012 21:47:10] Ajax Results:
+[06/29/2012 21:47:10] 
+[06/29/2012 21:47:12] Ajax Results:
+[06/29/2012 21:47:12] 
+[06/29/2012 21:47:12] Ajax Results:
+[06/29/2012 21:47:12] 
+[06/29/2012 21:47:14] Ajax Results:
+[06/29/2012 21:47:14] 
+[06/29/2012 21:47:14] Ajax Results:
+[06/29/2012 21:47:14] 
+[06/29/2012 21:47:16] Ajax Results:
+[06/29/2012 21:47:16] 
+[06/29/2012 21:47:16] Ajax Results:
+[06/29/2012 21:47:16] 
+[06/29/2012 21:47:18] Ajax Results:
+[06/29/2012 21:47:18] 
+[06/29/2012 21:47:18] Ajax Results:
+[06/29/2012 21:47:18] 
+[06/29/2012 21:47:20] Ajax Results:
+[06/29/2012 21:47:20] 
+[06/29/2012 21:47:20] Ajax Results:
+[06/29/2012 21:47:20] 
+[06/29/2012 21:47:22] Ajax Results:
+[06/29/2012 21:47:22] 
+[06/29/2012 21:47:22] Ajax Results:
+[06/29/2012 21:47:22] 
+[06/29/2012 21:47:24] Ajax Results:
+[06/29/2012 21:47:24] 
+[06/29/2012 21:47:24] Ajax Results:
+[06/29/2012 21:47:24] 
+[06/29/2012 21:47:26] Ajax Results:
+[06/29/2012 21:47:26] {"user_health":"1","user_mana":"1","user_energy":"1.01666"}
+[06/29/2012 21:47:26] Ajax Results:
+[06/29/2012 21:47:26] {"user_health":"1","user_mana":"1","user_energy":"-0.20002"}
+[06/29/2012 21:47:26] Ajax Results:
+[06/29/2012 21:47:26] 
+[06/29/2012 21:47:26] Ajax Results:
+[06/29/2012 21:47:26] 
+[06/29/2012 21:47:28] Ajax Results:
+[06/29/2012 21:47:28] 
+[06/29/2012 21:47:28] Ajax Results:
+[06/29/2012 21:47:28] 
+[06/29/2012 21:47:30] Ajax Results:
+[06/29/2012 21:47:30] 
+[06/29/2012 21:47:30] Ajax Results:
+[06/29/2012 21:47:30] 
+[06/29/2012 21:47:32] Ajax Results:
+[06/29/2012 21:47:32] 
+[06/29/2012 21:47:32] Ajax Results:
+[06/29/2012 21:47:32] 
+[06/29/2012 21:47:34] Ajax Results:
+[06/29/2012 21:47:34] 
+[06/29/2012 21:47:34] Ajax Results:
+[06/29/2012 21:47:34] 
+[06/29/2012 21:47:36] Ajax Results:
+[06/29/2012 21:47:36] 
+[06/29/2012 21:47:36] Ajax Results:
+[06/29/2012 21:47:36] 
+[06/29/2012 21:47:38] Ajax Results:
+[06/29/2012 21:47:38] 
+[06/29/2012 21:47:38] Ajax Results:
+[06/29/2012 21:47:38] 
+[06/29/2012 21:47:40] Ajax Results:
+[06/29/2012 21:47:40] 
+[06/29/2012 21:47:40] Ajax Results:
+[06/29/2012 21:47:40] 
+[06/29/2012 21:47:42] Ajax Results:
+[06/29/2012 21:47:42] 
+[06/29/2012 21:47:42] Ajax Results:
+[06/29/2012 21:47:42] 
+[06/29/2012 21:47:44] Ajax Results:
+[06/29/2012 21:47:44] 
+[06/29/2012 21:47:44] Ajax Results:
+[06/29/2012 21:47:44] 
+[06/29/2012 21:47:46] Ajax Results:
+[06/29/2012 21:47:46] {"user_health":"1","user_mana":"1","user_energy":"1.01666"}
+[06/29/2012 21:47:46] Ajax Results:
+[06/29/2012 21:47:46] {"user_health":"1","user_mana":"1","user_energy":"-0.133353"}
+[06/29/2012 21:47:46] Ajax Results:
+[06/29/2012 21:47:46] 
+[06/29/2012 21:47:46] Ajax Results:
+[06/29/2012 21:47:46] 
+[06/29/2012 21:47:48] Ajax Results:
+[06/29/2012 21:47:48] 
+[06/29/2012 21:47:48] Ajax Results:
+[06/29/2012 21:47:48] 
+[06/29/2012 21:47:50] Ajax Results:
+[06/29/2012 21:47:50] 
+[06/29/2012 21:47:50] Ajax Results:
+[06/29/2012 21:47:50] 
+[06/29/2012 21:47:52] Ajax Results:
+[06/29/2012 21:47:52] 
+[06/29/2012 21:47:52] Ajax Results:
+[06/29/2012 21:47:52] 
+[06/29/2012 21:47:54] Ajax Results:
+[06/29/2012 21:47:54] 
+[06/29/2012 21:47:54] Ajax Results:
+[06/29/2012 21:47:54] 
+[06/29/2012 21:47:56] Ajax Results:
+[06/29/2012 21:47:56] 
+[06/29/2012 21:47:56] Ajax Results:
+[06/29/2012 21:47:56] 
+[06/29/2012 21:47:58] Ajax Results:
+[06/29/2012 21:47:58] 
+[06/29/2012 21:47:58] Ajax Results:
+[06/29/2012 21:47:58] 
+[06/29/2012 21:48:00] Ajax Results:
+[06/29/2012 21:48:00] 
+[06/29/2012 21:48:00] Ajax Results:
+[06/29/2012 21:48:00] 
+[06/29/2012 21:48:02] getTileInfoByCoord(4,0,0)
+[06/29/2012 21:48:02] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:48:02] Ajax Results:
+[06/29/2012 21:48:02] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>12</tile_id>
+	<tile_x>4</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title>East Commercial</tile_title>
+	<tile_desc>undefined</tile_desc>
+	<tile_exits>a:1:{s:4:"west";a:1:{s:7:"tile_id";s:2:"10";}}</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+</tile>
+[06/29/2012 21:48:02] Ajax Results:
+[06/29/2012 21:48:02] 
+[06/29/2012 21:48:02] Ajax Results:
+[06/29/2012 21:48:02] 
+[06/29/2012 21:48:03] saveTile(12,East Commercial,4,0,0,undefined,Array=false)
+[06/29/2012 21:48:03] saveTile(10,East Commercial,3,0,0,undefined,Array=false)
+[06/29/2012 21:48:03] Array
+(
+    [east] => Array
+        (
+            [tile_id] => 12
+        )
+
+    [west] => Array
+        (
+            [tile_id] => 9
+        )
+
+)
+
+[06/29/2012 21:48:03] Save tile SQL:UPDATE tiles set tile_title='East Commercial', tile_x=3,tile_y=0,tile_z=0, tile_desc='undefined', tile_exits='a:2:{s:4:"east";a:1:{s:7:"tile_id";s:2:"12";}s:4:"west";a:1:{s:7:"tile_id";s:1:"9";}}' WHERE tile_id=10
+[06/29/2012 21:48:03] Array
+(
+    [west] => Array
+        (
+            [tile_id] => 10
+        )
+
+)
+
+[06/29/2012 21:48:03] Save tile SQL:UPDATE tiles set tile_title='East Commercial', tile_x=4,tile_y=0,tile_z=0, tile_desc='undefined', tile_exits='a:1:{s:4:"west";a:1:{s:7:"tile_id";s:2:"10";}}' WHERE tile_id=12
+[06/29/2012 21:48:03] Ajax Results:
+[06/29/2012 21:48:03] <tile>
+	<error>0</error>
+	<msg>Tile 'East Commercial' saved successfully!</msg>
+	<tile_x>4</tile_x>
+	<tile_y>0</tile_y>
+</tile>
+[06/29/2012 21:48:04] Ajax Results:
+[06/29/2012 21:48:04] 
+[06/29/2012 21:48:04] Ajax Results:
+[06/29/2012 21:48:04] 
+[06/29/2012 21:48:05] Original URI: /game
+[06/29/2012 21:48:05] Mod URI: /game
+[06/29/2012 21:48:05] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/29/2012 21:48:05] game.class.php
+[06/29/2012 21:48:05] Template: game
+[06/29/2012 21:48:05] Page Args: 
+[06/29/2012 21:48:05] Array
+(
+)
+
+[06/29/2012 21:48:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2012 21:48:05] Ajax Results:
+[06/29/2012 21:48:05] {"template_dir":"..\/templates","site_url":"http:\/\/rpg.bremaweb.com","debug":"1","self_consign_percent":".65","drop_consign_percent":".5","tax_rate":".07725","active_sale":"2","image_url":"http:\/\/rpg.bremaweb.com\/images","site_name":"RPG 2011","avatar_url":"http:\/\/rpg.bremaweb.com\/avatars\/","avatar_dir":"\/web\/avatars"}
+[06/29/2012 21:48:05] Ajax Results:
+[06/29/2012 21:48:05] {"tile":{"tile_id":"10","tile_x":"3","tile_y":"0","tile_z":"0","tile_title":"East Commercial","tile_desc":"undefined","tile_exits":{"east":{"tile_id":"12"},"west":{"tile_id":"9"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[]}
+[06/29/2012 21:48:06] Ajax Results:
+[06/29/2012 21:48:06] {"user_health":"1","user_mana":"1","user_energy":"-0.0666868"}
+[06/29/2012 21:48:06] Original URI: /favicon.ico
+[06/29/2012 21:48:06] Mod URI: /favicon.ico
+[06/29/2012 21:48:06] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/29/2012 21:48:06] Original URI: /404
+[06/29/2012 21:48:06] Mod URI: /404
+[06/29/2012 21:48:06] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2012 21:48:06] 404.class.php
+[06/29/2012 21:48:06] Template: 404
+[06/29/2012 21:48:06] Page Args: 
+[06/29/2012 21:48:06] Array
+(
+)
+
+[06/29/2012 21:48:06] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/29/2012 21:48:06] Ajax Results:
+[06/29/2012 21:48:06] {"user_health":"1","user_mana":"1","user_energy":"1.01666"}
+[06/29/2012 21:48:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024486.76,12,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024486.8,10,11,'','removeUser(11);')
+[06/29/2012 21:48:06] Ajax Results:
+[06/29/2012 21:48:06] clearTile();
+loadTile(12);
+updateStats();
+$('#tile_id').val('12');
+
+[06/29/2012 21:48:06] Ajax Results:
+[06/29/2012 21:48:06] {"tile":{"tile_id":"12","tile_x":"4","tile_y":"0","tile_z":"0","tile_title":"East Commercial","tile_desc":"undefined","tile_exits":{"west":{"tile_id":"10"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[]}
+[06/29/2012 21:48:06] Ajax Results:
+[06/29/2012 21:48:06] 
+[06/29/2012 21:48:07] Ajax Results:
+[06/29/2012 21:48:07] {"user_health":"1","user_mana":"1","user_energy":"-0.116687"}
+[06/29/2012 21:48:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024487.91,10,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024487.94,12,11,'','removeUser(11);')
+[06/29/2012 21:48:07] Ajax Results:
+[06/29/2012 21:48:07] clearTile();
+loadTile(10);
+updateStats();
+$('#tile_id').val('10');
+
+[06/29/2012 21:48:08] Ajax Results:
+[06/29/2012 21:48:08] 
+[06/29/2012 21:48:08] Ajax Results:
+[06/29/2012 21:48:08] {"tile":{"tile_id":"10","tile_x":"3","tile_y":"0","tile_z":"0","tile_title":"East Commercial","tile_desc":"undefined","tile_exits":{"east":{"tile_id":"12"},"west":{"tile_id":"9"}},"tile_resistance":"0.05"},"users":[{"user_cname":"BrandonReese","user_id":"11","user_avatar":"user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg"}],"mobs":[]}
+[06/29/2012 21:48:08] Ajax Results:
+[06/29/2012 21:48:08] {"user_health":"1","user_mana":"1","user_energy":"-0.166687"}
+[06/29/2012 21:48:08] Ajax Results:
+[06/29/2012 21:48:08] 
+[06/29/2012 21:48:09] Ajax Results:
+[06/29/2012 21:48:09] 
+[06/29/2012 21:48:10] Ajax Results:
+[06/29/2012 21:48:10] 
+[06/29/2012 21:48:11] Ajax Results:
+[06/29/2012 21:48:11] 
+[06/29/2012 21:48:12] Ajax Results:
+[06/29/2012 21:48:12] 
+[06/29/2012 21:48:13] Ajax Results:
+[06/29/2012 21:48:13] 
+[06/29/2012 21:48:14] Ajax Results:
+[06/29/2012 21:48:14] 
+[06/29/2012 21:48:15] Ajax Results:
+[06/29/2012 21:48:15] 
+[06/29/2012 21:48:16] Ajax Results:
+[06/29/2012 21:48:16] 
+[06/29/2012 21:48:18] Ajax Results:
+[06/29/2012 21:48:18] 
+[06/29/2012 21:48:18] Ajax Results:
+[06/29/2012 21:48:18] 
+[06/29/2012 21:48:20] Ajax Results:
+[06/29/2012 21:48:20] 
+[06/29/2012 21:48:20] Ajax Results:
+[06/29/2012 21:48:20] 
+[06/29/2012 21:48:21] Ajax Results:
+[06/29/2012 21:48:21] 
+[06/29/2012 21:48:22] Ajax Results:
+[06/29/2012 21:48:22] 
+[06/29/2012 21:48:23] Ajax Results:
+[06/29/2012 21:48:23] 
+[06/29/2012 21:48:24] Ajax Results:
+[06/29/2012 21:48:24] 
+[06/29/2012 21:48:25] Ajax Results:
+[06/29/2012 21:48:25] {"user_health":"1","user_mana":"1","user_energy":"-0.10002"}
+[06/29/2012 21:48:26] Ajax Results:
+[06/29/2012 21:48:26] 
+[06/29/2012 21:48:26] Ajax Results:
+[06/29/2012 21:48:26] {"user_health":"1","user_mana":"1","user_energy":"1.01666"}
+[06/29/2012 21:48:26] Ajax Results:
+[06/29/2012 21:48:26] 
+[06/29/2012 21:48:27] Ajax Results:
+[06/29/2012 21:48:27] 
+[06/29/2012 21:48:28] Ajax Results:
+[06/29/2012 21:48:28] 
+[06/29/2012 21:48:29] Ajax Results:
+[06/29/2012 21:48:29] 
+[06/29/2012 21:48:30] Ajax Results:
+[06/29/2012 21:48:30] 
+[06/29/2012 21:48:31] Ajax Results:
+[06/29/2012 21:48:31] 
+[06/29/2012 21:48:32] Ajax Results:
+[06/29/2012 21:48:32] 
+[06/29/2012 21:48:33] Ajax Results:
+[06/29/2012 21:48:33] 
+[06/29/2012 21:48:34] Ajax Results:
+[06/29/2012 21:48:34] 
+[06/29/2012 21:48:35] Ajax Results:
+[06/29/2012 21:48:35] 
+[06/29/2012 21:48:36] Ajax Results:
+[06/29/2012 21:48:36] 
+[06/29/2012 21:48:37] Ajax Results:
+[06/29/2012 21:48:37] 
+[06/29/2012 21:48:38] Ajax Results:
+[06/29/2012 21:48:38] 
+[06/29/2012 21:48:39] Ajax Results:
+[06/29/2012 21:48:39] 
+[06/29/2012 21:48:40] Ajax Results:
+[06/29/2012 21:48:40] 
+[06/29/2012 21:48:42] Ajax Results:
+[06/29/2012 21:48:42] 
+[06/29/2012 21:48:42] Ajax Results:
+[06/29/2012 21:48:42] 
+[06/29/2012 21:48:44] Ajax Results:
+[06/29/2012 21:48:44] 
+[06/29/2012 21:48:44] Ajax Results:
+[06/29/2012 21:48:44] 
+[06/29/2012 21:48:45] Ajax Results:
+[06/29/2012 21:48:45] {"user_health":"1","user_mana":"1","user_energy":"-0.0333535"}
+[06/29/2012 21:48:46] Ajax Results:
+[06/29/2012 21:48:46] 
+[06/29/2012 21:48:46] Ajax Results:
+[06/29/2012 21:48:46] {"user_health":"1","user_mana":"1","user_energy":"1.01666"}
+[06/29/2012 21:48:46] Ajax Results:
+[06/29/2012 21:48:46] 
+[06/29/2012 21:48:50] Original URI: /game
+[06/29/2012 21:48:50] Mod URI: /game
+[06/29/2012 21:48:50] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/29/2012 21:48:50] game.class.php
+[06/29/2012 21:48:50] Template: game
+[06/29/2012 21:48:50] Page Args: 
+[06/29/2012 21:48:50] Array
+(
+)
+
+[06/29/2012 21:48:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[06/29/2012 21:48:51] Original URI: /favicon.ico
+[06/29/2012 21:48:51] Mod URI: /favicon.ico
+[06/29/2012 21:48:51] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/29/2012 21:48:51] Original URI: /404
+[06/29/2012 21:48:51] Mod URI: /404
+[06/29/2012 21:48:51] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/29/2012 21:48:51] 404.class.php
+[06/29/2012 21:48:51] Template: 404
+[06/29/2012 21:48:51] Page Args: 
+[06/29/2012 21:48:51] Array
+(
+)
+
+[06/29/2012 21:48:51] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[06/29/2012 21:48:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024531.76,9,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024531.8,10,11,'','removeUser(11);')
+[06/29/2012 21:48:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024532.6,8,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024532.63,9,11,'','removeUser(11);')
+[06/29/2012 21:48:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024533.43,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024533.46,8,11,'','removeUser(11);')
+[06/29/2012 21:48:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024535.29,2,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024535.32,1,11,'','removeUser(11);')
+[06/29/2012 21:48:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024536.29,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024536.33,2,11,'','removeUser(11);')
+[06/29/2012 21:48:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024537.08,8,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024537.11,1,11,'','removeUser(11);')
+[06/29/2012 21:48:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024537.88,9,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024537.91,8,11,'','removeUser(11);')
+[06/29/2012 21:48:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024538.58,10,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024538.61,9,11,'','removeUser(11);')
+[06/29/2012 21:48:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024539.41,12,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:48:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024539.43,10,11,'','removeUser(11);')
+[06/29/2012 21:49:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024541.41,10,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:49:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024541.46,12,11,'','removeUser(11);')
+[06/29/2012 21:49:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024542.15,9,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:49:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024542.17,10,11,'','removeUser(11);')
+[06/29/2012 21:49:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024543.04,8,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[06/29/2012 21:49:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024543.07,9,11,'','removeUser(11);')
+[06/29/2012 21:49:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024549.49,8,14,'Zeek says, &quot;Hey there&quot;','')
+[06/29/2012 21:49:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024559.65,8,14,'Zeek says, &quot;Any issues with the new map updates&quot;','')
+[06/29/2012 21:49:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1341024566.26,8,11,'BrandonReese says, &quot;No that I\'m seeing&quot;','')
+[06/29/2012 21:49:55] getTileInfoByCoord(0,0,0)
+[06/29/2012 21:49:55] SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:56] getTileInfoByCoord(-1,0,0)
+[06/29/2012 21:49:56] SELECT * FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:56] getTileInfoByCoord(-2,0,0)
+[06/29/2012 21:49:56] SELECT * FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:57] getTileInfoByCoord(-3,0,0)
+[06/29/2012 21:49:57] SELECT * FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:58] getTileInfoByCoord(1,0,0)
+[06/29/2012 21:49:58] SELECT * FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:58] getTileInfoByCoord(2,0,0)
+[06/29/2012 21:49:58] SELECT * FROM tiles WHERE tile_x = 2 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:59] getTileInfoByCoord(3,0,0)
+[06/29/2012 21:49:59] SELECT * FROM tiles WHERE tile_x = 3 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:59] getTileInfoByCoord(4,0,0)
+[06/29/2012 21:49:59] SELECT * FROM tiles WHERE tile_x = 4 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:49:59] getTileInfoByCoord(-4,0,0)
+[06/29/2012 21:49:59] SELECT * FROM tiles WHERE tile_x = -4 AND tile_y = 0 AND tile_z = 0
+[06/29/2012 21:50:05] saveTile(new,West Commercial,-4,0,0,undefined,Array=false)
+[06/29/2012 21:50:05] saveTile(7,West Commercial,-3,0,0,undefined,Array=false)
+[06/29/2012 21:50:05] Array
+(
+    [east] => Array
+        (
+            [tile_id] => 6
+        )
+
+)
+
+[06/29/2012 21:50:05] Save tile SQL:UPDATE tiles set tile_title='West Commercial', tile_x=-3,tile_y=0,tile_z=0, tile_desc='undefined', tile_exits='a:1:{s:4:"east";a:1:{s:7:"tile_id";s:1:"6";}}' WHERE tile_id=7
+[06/29/2012 21:50:05] Array
+(
+    [east] => Array
+        (
+            [tile_id] => 7
+        )
+
+)
+
+[06/29/2012 21:50:05] Save tile SQL:INSERT INTO tiles (tile_title,tile_x,tile_y,tile_z,tile_desc,tile_exits) values('West Commercial',-4,0,0,'undefined','a:1:{s:4:"east";a:1:{s:7:"tile_id";s:1:"7";}}')
+[06/29/2012 21:50:07] getTileInfoByCoord(-3,-3,0)
+[06/29/2012 21:50:07] SELECT * FROM tiles WHERE tile_x = -3 AND tile_y = -3 AND tile_z = 0
+[06/29/2012 21:50:08] loadMap SQL:SELECT * FROM tiles WHERE tile_x BETWEEN -5 AND 5 AND tile_y BETWEEN -7 AND 3 AND tile_z = 0
+[06/29/2012 21:50:25] getTileInfoByCoord(0,1,0)
+[06/29/2012 21:50:25] SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[06/29/2012 21:50:52] getTileInfoByCoord(0,1,0)
+[06/29/2012 21:50:52] SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0

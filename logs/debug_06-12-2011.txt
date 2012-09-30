@@ -1,0 +1,1133 @@
+[06/12/2011 00:04:27] Original URI: /admin
+[06/12/2011 00:04:27] Mod URI: /admin
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/12/2011 00:04:27] admin.class.php
+[06/12/2011 00:04:27] Template: admin
+[06/12/2011 00:04:27] Page Args: 
+[06/12/2011 00:04:27] Array
+(
+)
+
+[06/12/2011 00:04:27] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:04:26 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:04:26 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:04:27] Original URI: /templates/style.css
+[06/12/2011 00:04:27] Mod URI: /templates/style.css
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:04:27] Original URI: /templates/date_style.css
+[06/12/2011 00:04:27] Mod URI: /templates/date_style.css
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:04:27] Original URI: /404
+[06/12/2011 00:04:27] Mod URI: /404
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:04:27] 404.class.php
+[06/12/2011 00:04:27] Template: 404
+[06/12/2011 00:04:27] Page Args: 
+[06/12/2011 00:04:27] Array
+(
+)
+
+[06/12/2011 00:04:27] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:04:26 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:04:27] Original URI: /404
+[06/12/2011 00:04:27] Mod URI: /404
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:04:27] 404.class.php
+[06/12/2011 00:04:27] Template: 404
+[06/12/2011 00:04:27] Page Args: 
+[06/12/2011 00:04:27] Array
+(
+)
+
+[06/12/2011 00:04:27] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:04:26 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:04:27] Original URI: /favicon.ico
+[06/12/2011 00:04:27] Mod URI: /favicon.ico
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:04:27] Original URI: /404
+[06/12/2011 00:04:27] Mod URI: /404
+[06/12/2011 00:04:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:04:27] 404.class.php
+[06/12/2011 00:04:27] Template: 404
+[06/12/2011 00:04:27] Page Args: 
+[06/12/2011 00:04:27] Array
+(
+)
+
+[06/12/2011 00:04:27] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:04:26 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:04:26 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:44] Original URI: /game
+[06/12/2011 00:11:44] Mod URI: /game
+[06/12/2011 00:11:44] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/12/2011 00:11:44] game.class.php
+[06/12/2011 00:11:44] Template: game
+[06/12/2011 00:11:44] Page Args: 
+[06/12/2011 00:11:44] Array
+(
+)
+
+[06/12/2011 00:11:44] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:43 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:44] Original URI: /favicon.ico
+[06/12/2011 00:11:44] Mod URI: /favicon.ico
+[06/12/2011 00:11:44] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:11:44] Original URI: /404
+[06/12/2011 00:11:44] Mod URI: /404
+[06/12/2011 00:11:44] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:44] 404.class.php
+[06/12/2011 00:11:44] Template: 404
+[06/12/2011 00:11:44] Page Args: 
+[06/12/2011 00:11:44] Array
+(
+)
+
+[06/12/2011 00:11:44] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:43 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:43 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:47] Original URI: /admin
+[06/12/2011 00:11:47] Mod URI: /admin
+[06/12/2011 00:11:47] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/12/2011 00:11:47] admin.class.php
+[06/12/2011 00:11:47] Template: admin
+[06/12/2011 00:11:47] Page Args: 
+[06/12/2011 00:11:47] Array
+(
+)
+
+[06/12/2011 00:11:47] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:46 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:46 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:47] Original URI: /favicon.ico
+[06/12/2011 00:11:47] Mod URI: /favicon.ico
+[06/12/2011 00:11:47] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:11:47] Original URI: /404
+[06/12/2011 00:11:47] Mod URI: /404
+[06/12/2011 00:11:47] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:47] 404.class.php
+[06/12/2011 00:11:47] Template: 404
+[06/12/2011 00:11:47] Page Args: 
+[06/12/2011 00:11:47] Array
+(
+)
+
+[06/12/2011 00:11:47] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:46 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:46 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:49] Original URI: 
+[06/12/2011 00:11:49] Mod URI: 
+[06/12/2011 00:11:49] Template: index
+[06/12/2011 00:11:49] Page Args: 
+[06/12/2011 00:11:49] 
+[06/12/2011 00:11:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:49] Original URI: /templates/style.css
+[06/12/2011 00:11:49] Mod URI: /templates/style.css
+[06/12/2011 00:11:49] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:11:49] Original URI: /templates/date_style.css
+[06/12/2011 00:11:49] Mod URI: /templates/date_style.css
+[06/12/2011 00:11:49] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:11:49] Original URI: /404
+[06/12/2011 00:11:49] Mod URI: /404
+[06/12/2011 00:11:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:49] 404.class.php
+[06/12/2011 00:11:49] Template: 404
+[06/12/2011 00:11:49] Page Args: 
+[06/12/2011 00:11:49] Array
+(
+)
+
+[06/12/2011 00:11:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:49] Original URI: /404
+[06/12/2011 00:11:49] Mod URI: /404
+[06/12/2011 00:11:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:49] 404.class.php
+[06/12/2011 00:11:49] Template: 404
+[06/12/2011 00:11:49] Page Args: 
+[06/12/2011 00:11:49] Array
+(
+)
+
+[06/12/2011 00:11:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:49] Original URI: /favicon.ico
+[06/12/2011 00:11:49] Mod URI: /favicon.ico
+[06/12/2011 00:11:49] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:11:49] Original URI: /404
+[06/12/2011 00:11:49] Mod URI: /404
+[06/12/2011 00:11:49] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:49] 404.class.php
+[06/12/2011 00:11:49] Template: 404
+[06/12/2011 00:11:49] Page Args: 
+[06/12/2011 00:11:49] Array
+(
+)
+
+[06/12/2011 00:11:49] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:48 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:48 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:52] Original URI: /admin
+[06/12/2011 00:11:52] Mod URI: /admin
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/12/2011 00:11:52] admin.class.php
+[06/12/2011 00:11:52] Template: admin
+[06/12/2011 00:11:52] Page Args: 
+[06/12/2011 00:11:52] Array
+(
+)
+
+[06/12/2011 00:11:52] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:51 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:52] Original URI: /templates/date_style.css
+[06/12/2011 00:11:52] Mod URI: /templates/date_style.css
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:11:52] Original URI: /templates/style.css
+[06/12/2011 00:11:52] Mod URI: /templates/style.css
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:11:52] Original URI: /404
+[06/12/2011 00:11:52] Mod URI: /404
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:52] 404.class.php
+[06/12/2011 00:11:52] Template: 404
+[06/12/2011 00:11:52] Page Args: 
+[06/12/2011 00:11:52] Array
+(
+)
+
+[06/12/2011 00:11:52] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:51 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:52] Original URI: /404
+[06/12/2011 00:11:52] Mod URI: /404
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:52] 404.class.php
+[06/12/2011 00:11:52] Template: 404
+[06/12/2011 00:11:52] Page Args: 
+[06/12/2011 00:11:52] Array
+(
+)
+
+[06/12/2011 00:11:52] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:51 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:52] Original URI: /favicon.ico
+[06/12/2011 00:11:52] Mod URI: /favicon.ico
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:11:52] Original URI: /404
+[06/12/2011 00:11:52] Mod URI: /404
+[06/12/2011 00:11:52] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:52] 404.class.php
+[06/12/2011 00:11:52] Template: 404
+[06/12/2011 00:11:52] Page Args: 
+[06/12/2011 00:11:52] Array
+(
+)
+
+[06/12/2011 00:11:52] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:51 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:51 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:55] Original URI: /admin
+[06/12/2011 00:11:55] Mod URI: /admin
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/12/2011 00:11:55] admin.class.php
+[06/12/2011 00:11:55] Template: admin
+[06/12/2011 00:11:55] Page Args: 
+[06/12/2011 00:11:55] Array
+(
+)
+
+[06/12/2011 00:11:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:55] Original URI: /templates/style.css
+[06/12/2011 00:11:55] Mod URI: /templates/style.css
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:11:55] Original URI: /templates/date_style.css
+[06/12/2011 00:11:55] Mod URI: /templates/date_style.css
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:11:55] Original URI: /404
+[06/12/2011 00:11:55] Mod URI: /404
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:55] 404.class.php
+[06/12/2011 00:11:55] Template: 404
+[06/12/2011 00:11:55] Page Args: 
+[06/12/2011 00:11:55] Array
+(
+)
+
+[06/12/2011 00:11:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:55] Original URI: /404
+[06/12/2011 00:11:55] Mod URI: /404
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:55] 404.class.php
+[06/12/2011 00:11:55] Template: 404
+[06/12/2011 00:11:55] Page Args: 
+[06/12/2011 00:11:55] Array
+(
+)
+
+[06/12/2011 00:11:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:55] Original URI: /favicon.ico
+[06/12/2011 00:11:55] Mod URI: /favicon.ico
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:11:55] Original URI: /404
+[06/12/2011 00:11:55] Mod URI: /404
+[06/12/2011 00:11:55] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:55] 404.class.php
+[06/12/2011 00:11:55] Template: 404
+[06/12/2011 00:11:55] Page Args: 
+[06/12/2011 00:11:55] Array
+(
+)
+
+[06/12/2011 00:11:55] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:54 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:54 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:56] Original URI: /admin
+[06/12/2011 00:11:56] Mod URI: /admin
+[06/12/2011 00:11:56] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/12/2011 00:11:56] admin.class.php
+[06/12/2011 00:11:56] Template: admin
+[06/12/2011 00:11:56] Page Args: 
+[06/12/2011 00:11:56] Array
+(
+)
+
+[06/12/2011 00:11:56] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:55 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:57] Original URI: /templates/style.css
+[06/12/2011 00:11:57] Mod URI: /templates/style.css
+[06/12/2011 00:11:57] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:11:57] Original URI: /templates/date_style.css
+[06/12/2011 00:11:57] Mod URI: /templates/date_style.css
+[06/12/2011 00:11:57] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:11:57] Original URI: /404
+[06/12/2011 00:11:57] Mod URI: /404
+[06/12/2011 00:11:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:57] 404.class.php
+[06/12/2011 00:11:57] Template: 404
+[06/12/2011 00:11:57] Page Args: 
+[06/12/2011 00:11:57] Array
+(
+)
+
+[06/12/2011 00:11:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:57] Original URI: /404
+[06/12/2011 00:11:57] Mod URI: /404
+[06/12/2011 00:11:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:57] 404.class.php
+[06/12/2011 00:11:57] Template: 404
+[06/12/2011 00:11:57] Page Args: 
+[06/12/2011 00:11:57] Array
+(
+)
+
+[06/12/2011 00:11:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:57] Original URI: /favicon.ico
+[06/12/2011 00:11:57] Mod URI: /favicon.ico
+[06/12/2011 00:11:57] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:11:57] Original URI: /404
+[06/12/2011 00:11:57] Mod URI: /404
+[06/12/2011 00:11:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:57] 404.class.php
+[06/12/2011 00:11:57] Template: 404
+[06/12/2011 00:11:57] Page Args: 
+[06/12/2011 00:11:57] Array
+(
+)
+
+[06/12/2011 00:11:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:56 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:59] Original URI: /admin
+[06/12/2011 00:11:59] Mod URI: /admin
+[06/12/2011 00:11:59] Array
+(
+    [0] => 
+    [1] => admin
+)
+
+[06/12/2011 00:11:59] admin.class.php
+[06/12/2011 00:11:59] Template: admin
+[06/12/2011 00:11:59] Page Args: 
+[06/12/2011 00:11:59] Array
+(
+)
+
+[06/12/2011 00:11:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:11:59] Original URI: /templates/date_style.css
+[06/12/2011 00:11:59] Mod URI: /templates/date_style.css
+[06/12/2011 00:11:59] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:11:59] Original URI: /templates/style.css
+[06/12/2011 00:11:59] Mod URI: /templates/style.css
+[06/12/2011 00:11:59] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:11:59] Original URI: /404
+[06/12/2011 00:11:59] Mod URI: /404
+[06/12/2011 00:11:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:11:59] 404.class.php
+[06/12/2011 00:11:59] Template: 404
+[06/12/2011 00:11:59] Page Args: 
+[06/12/2011 00:11:59] Array
+(
+)
+
+[06/12/2011 00:11:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:12:00] Original URI: /404
+[06/12/2011 00:12:00] Mod URI: /404
+[06/12/2011 00:12:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:12:00] 404.class.php
+[06/12/2011 00:12:00] Template: 404
+[06/12/2011 00:12:00] Page Args: 
+[06/12/2011 00:12:00] Array
+(
+)
+
+[06/12/2011 00:12:00] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:59 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:12:00] Original URI: /favicon.ico
+[06/12/2011 00:12:00] Mod URI: /favicon.ico
+[06/12/2011 00:12:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:12:00] Original URI: /404
+[06/12/2011 00:12:00] Mod URI: /404
+[06/12/2011 00:12:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:12:00] 404.class.php
+[06/12/2011 00:12:00] Template: 404
+[06/12/2011 00:12:00] Page Args: 
+[06/12/2011 00:12:00] Array
+(
+)
+
+[06/12/2011 00:12:00] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:11:59 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:11:59 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:31:56] Original URI: 
+[06/12/2011 00:31:56] Mod URI: 
+[06/12/2011 00:31:56] Template: index
+[06/12/2011 00:31:56] Page Args: 
+[06/12/2011 00:31:56] 
+[06/12/2011 00:31:56] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:31:55 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:31:56] Original URI: /templates/style.css
+[06/12/2011 00:31:56] Mod URI: /templates/style.css
+[06/12/2011 00:31:56] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 00:31:56] Original URI: /templates/date_style.css
+[06/12/2011 00:31:56] Mod URI: /templates/date_style.css
+[06/12/2011 00:31:56] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 00:31:56] Original URI: /404
+[06/12/2011 00:31:56] Mod URI: /404
+[06/12/2011 00:31:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:31:56] 404.class.php
+[06/12/2011 00:31:56] Template: 404
+[06/12/2011 00:31:56] Page Args: 
+[06/12/2011 00:31:56] Array
+(
+)
+
+[06/12/2011 00:31:56] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:31:55 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:31:56] Original URI: /404
+[06/12/2011 00:31:56] Mod URI: /404
+[06/12/2011 00:31:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:31:56] 404.class.php
+[06/12/2011 00:31:56] Template: 404
+[06/12/2011 00:31:56] Page Args: 
+[06/12/2011 00:31:56] Array
+(
+)
+
+[06/12/2011 00:31:56] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:31:55 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 00:31:56] Original URI: /favicon.ico
+[06/12/2011 00:31:56] Mod URI: /favicon.ico
+[06/12/2011 00:31:56] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 00:31:57] Original URI: /404
+[06/12/2011 00:31:57] Mod URI: /404
+[06/12/2011 00:31:57] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 00:31:57] 404.class.php
+[06/12/2011 00:31:57] Template: 404
+[06/12/2011 00:31:57] Page Args: 
+[06/12/2011 00:31:57] Array
+(
+)
+
+[06/12/2011 00:31:57] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 05:31:56 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 05:31:56 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 09:28:58] Original URI: 
+[06/12/2011 09:28:58] Mod URI: 
+[06/12/2011 09:28:58] Template: index
+[06/12/2011 09:28:58] Page Args: 
+[06/12/2011 09:28:58] 
+[06/12/2011 09:28:58] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Set-Cookie: PHPSESSID=b2d953aa49cd2cbf80cfedc9e5e80589; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=rpg.bremaweb.com
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Sat, 12-Jun-2010 14:28:57 GMT
+    [7] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [8] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 14:28:57 GMT; path=/; domain=.connectprayaffect.com
+    [9] => Content-type: text/html
+)
+
+[06/12/2011 09:28:58] Original URI: /templates/style.css
+[06/12/2011 09:28:58] Mod URI: /templates/style.css
+[06/12/2011 09:28:58] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => style.css
+)
+
+[06/12/2011 09:28:58] Original URI: /templates/date_style.css
+[06/12/2011 09:28:58] Mod URI: /templates/date_style.css
+[06/12/2011 09:28:58] Array
+(
+    [0] => 
+    [1] => templates
+    [2] => date_style.css
+)
+
+[06/12/2011 09:28:58] Original URI: /404
+[06/12/2011 09:28:58] Mod URI: /404
+[06/12/2011 09:28:58] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 09:28:58] 404.class.php
+[06/12/2011 09:28:58] Template: 404
+[06/12/2011 09:28:58] Page Args: 
+[06/12/2011 09:28:58] Array
+(
+)
+
+[06/12/2011 09:28:58] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 14:28:57 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 09:28:58] Original URI: /404
+[06/12/2011 09:28:58] Mod URI: /404
+[06/12/2011 09:28:58] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 09:28:58] 404.class.php
+[06/12/2011 09:28:58] Template: 404
+[06/12/2011 09:28:58] Page Args: 
+[06/12/2011 09:28:58] Array
+(
+)
+
+[06/12/2011 09:28:58] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=rpg.bremaweb.com; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 14:28:57 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+
+[06/12/2011 09:28:59] Original URI: /favicon.ico
+[06/12/2011 09:28:59] Mod URI: /favicon.ico
+[06/12/2011 09:28:59] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/12/2011 09:28:59] Original URI: /404
+[06/12/2011 09:28:59] Mod URI: /404
+[06/12/2011 09:28:59] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/12/2011 09:28:59] 404.class.php
+[06/12/2011 09:28:59] Template: 404
+[06/12/2011 09:28:59] Page Args: 
+[06/12/2011 09:28:59] Array
+(
+)
+
+[06/12/2011 09:28:59] Array
+(
+    [0] => X-Powered-By: PHP/5.1.4
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: cpa_referer_host=deleted; expires=Sat, 12-Jun-2010 14:28:58 GMT; path=/; domain=.connectprayaffect.com
+    [5] => Set-Cookie: cpa_referer_keywords=deleted; expires=Sat, 12-Jun-2010 14:28:58 GMT; path=/; domain=.connectprayaffect.com
+    [6] => Content-type: text/html
+)
+

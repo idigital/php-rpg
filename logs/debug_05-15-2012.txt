@@ -1,0 +1,30 @@
+[05/15/2012 09:44:07] Original URI: 
+[05/15/2012 09:44:07] Mod URI: 
+[05/15/2012 09:44:07] Template: index
+[05/15/2012 09:44:07] Page Args: 
+[05/15/2012 09:44:07] 
+[05/15/2012 09:44:07] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[05/15/2012 10:28:10] Original URI: 
+[05/15/2012 10:28:10] Mod URI: 
+[05/15/2012 10:28:10] Template: index
+[05/15/2012 10:28:10] Page Args: 
+[05/15/2012 10:28:10] 
+[05/15/2012 10:28:10] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+

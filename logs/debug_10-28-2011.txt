@@ -1,0 +1,1013 @@
+[10/28/2011 20:09:20] Original URI: 
+[10/28/2011 20:09:20] Mod URI: 
+[10/28/2011 20:09:20] Template: index
+[10/28/2011 20:09:20] Page Args: 
+[10/28/2011 20:09:20] 
+[10/28/2011 20:09:20] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=u4oa1ii9bjus6kumlg23qbf693; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[10/28/2011 20:09:21] Original URI: /favicon.ico
+[10/28/2011 20:09:21] Mod URI: /favicon.ico
+[10/28/2011 20:09:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:09:21] Original URI: /404
+[10/28/2011 20:09:21] Mod URI: /404
+[10/28/2011 20:09:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:09:21] 404.class.php
+[10/28/2011 20:09:21] Template: 404
+[10/28/2011 20:09:21] Page Args: 
+[10/28/2011 20:09:21] Array
+(
+)
+
+[10/28/2011 20:09:21] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[10/28/2011 20:09:32] Original URI: /signup
+[10/28/2011 20:09:32] Mod URI: /signup
+[10/28/2011 20:09:32] Array
+(
+    [0] => 
+    [1] => signup
+)
+
+[10/28/2011 20:09:32] signup.class.php
+[10/28/2011 20:09:32] Template: signup
+[10/28/2011 20:09:32] Page Args: 
+[10/28/2011 20:09:32] Array
+(
+)
+
+[10/28/2011 20:09:32] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: consign_referer_host=rpg.bremaweb.com
+    [5] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[10/28/2011 20:09:32] Original URI: /favicon.ico
+[10/28/2011 20:09:32] Mod URI: /favicon.ico
+[10/28/2011 20:09:32] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:09:33] Original URI: /404
+[10/28/2011 20:09:33] Mod URI: /404
+[10/28/2011 20:09:33] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:09:33] 404.class.php
+[10/28/2011 20:09:33] Template: 404
+[10/28/2011 20:09:33] Page Args: 
+[10/28/2011 20:09:33] Array
+(
+)
+
+[10/28/2011 20:09:33] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:09:56] Original URI: /login
+[10/28/2011 20:09:56] Mod URI: /login
+[10/28/2011 20:09:56] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/28/2011 20:09:56] login.class.php
+[10/28/2011 20:09:56] Template: login
+[10/28/2011 20:09:56] Page Args: 
+[10/28/2011 20:09:56] Array
+(
+)
+
+[10/28/2011 20:09:56] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:09:56] Original URI: /images/sign-up.png
+[10/28/2011 20:09:56] Mod URI: /images/sign-up.png
+[10/28/2011 20:09:56] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[10/28/2011 20:09:56] Original URI: /404
+[10/28/2011 20:09:56] Mod URI: /404
+[10/28/2011 20:09:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:09:56] 404.class.php
+[10/28/2011 20:09:56] Template: 404
+[10/28/2011 20:09:56] Page Args: 
+[10/28/2011 20:09:56] Array
+(
+)
+
+[10/28/2011 20:09:56] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:09:56] Original URI: /favicon.ico
+[10/28/2011 20:09:56] Mod URI: /favicon.ico
+[10/28/2011 20:09:56] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:09:56] Original URI: /404
+[10/28/2011 20:09:56] Mod URI: /404
+[10/28/2011 20:09:56] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:09:56] 404.class.php
+[10/28/2011 20:09:56] Template: 404
+[10/28/2011 20:09:56] Page Args: 
+[10/28/2011 20:09:56] Array
+(
+)
+
+[10/28/2011 20:09:56] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:02] Original URI: /login
+[10/28/2011 20:10:02] Mod URI: /login
+[10/28/2011 20:10:02] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[10/28/2011 20:10:02] login.class.php
+[10/28/2011 20:10:02] Template: login
+[10/28/2011 20:10:02] Page Args: 
+[10/28/2011 20:10:02] Array
+(
+)
+
+[10/28/2011 20:10:02] login(brandon.reese@gmail.com,not360change)
+[10/28/2011 20:10:02] createSession(11)
+[10/28/2011 20:10:02] sessions row for userid exists
+[10/28/2011 20:10:02] Sessid: c02d3aeceda2e7836c9279416d2d361f
+[10/28/2011 20:10:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850602.66,7,11,'<![CDATA[BrandonReese appears from within the void!]]>','<![CDATA[showUser(\'11\');]]>')
+[10/28/2011 20:10:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=c02d3aeceda2e7836c9279416d2d361f
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[10/28/2011 20:10:02] Original URI: 
+[10/28/2011 20:10:02] Mod URI: 
+[10/28/2011 20:10:02] Template: index
+[10/28/2011 20:10:02] Page Args: 
+[10/28/2011 20:10:02] 
+[10/28/2011 20:10:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:02] Original URI: /favicon.ico
+[10/28/2011 20:10:02] Mod URI: /favicon.ico
+[10/28/2011 20:10:02] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:02] Original URI: /404
+[10/28/2011 20:10:02] Mod URI: /404
+[10/28/2011 20:10:02] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:02] 404.class.php
+[10/28/2011 20:10:02] Template: 404
+[10/28/2011 20:10:02] Page Args: 
+[10/28/2011 20:10:02] Array
+(
+)
+
+[10/28/2011 20:10:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:06] Original URI: /game
+[10/28/2011 20:10:06] Mod URI: /game
+[10/28/2011 20:10:06] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[10/28/2011 20:10:06] game.class.php
+[10/28/2011 20:10:06] Template: game
+[10/28/2011 20:10:06] Page Args: 
+[10/28/2011 20:10:06] Array
+(
+)
+
+[10/28/2011 20:10:06] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[10/28/2011 20:10:06] game: initializeGame
+[10/28/2011 20:10:06] Array
+(
+    [user_id] => 11
+)
+
+[10/28/2011 20:10:06] Ajax Results:
+[10/28/2011 20:10:06] <settings>
+<template_dir>../templates</template_dir>
+<site_url>http://rpg.bremaweb.com</site_url>
+<debug>1</debug>
+<self_consign_percent>.65</self_consign_percent>
+<drop_consign_percent>.5</drop_consign_percent>
+<tax_rate>.07725</tax_rate>
+<active_sale>2</active_sale>
+<image_url>http://rpg.bremaweb.com/images</image_url>
+<site_name>RPG 2011</site_name>
+<avatar_url>http://rpg.bremaweb.com/avatars/</avatar_url>
+<avatar_dir>/web/avatars</avatar_dir>
+</settings>
+
+[10/28/2011 20:10:06] map: getTileInfoById
+[10/28/2011 20:10:06] Array
+(
+    [tile_id] => 7
+)
+
+[10/28/2011 20:10:06] Ajax Results:
+[10/28/2011 20:10:06] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>7</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-2</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Northern]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>4</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>Zeek</user_cname>
+	<user_id>14</user_id>
+	<user_avatar>user14avatar-bc6268aee0a4246c7096c8e927abf97a.jpg</user_avatar>
+</user>
+<user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[10/28/2011 20:10:06] game: updateStats
+[10/28/2011 20:10:06] Array
+(
+)
+
+[10/28/2011 20:10:06] Ajax Results:
+[10/28/2011 20:10:06] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>98</field_value></field></fields>
+[10/28/2011 20:10:07] Original URI: /favicon.ico
+[10/28/2011 20:10:07] Mod URI: /favicon.ico
+[10/28/2011 20:10:07] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:07] Original URI: /404
+[10/28/2011 20:10:07] Mod URI: /404
+[10/28/2011 20:10:07] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:07] 404.class.php
+[10/28/2011 20:10:07] Template: 404
+[10/28/2011 20:10:07] Page Args: 
+[10/28/2011 20:10:07] Array
+(
+)
+
+[10/28/2011 20:10:07] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:09] game: updateGame
+[10/28/2011 20:10:09] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:09] Ajax Results:
+[10/28/2011 20:10:09] 
+[10/28/2011 20:10:11] game: updateGame
+[10/28/2011 20:10:11] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:11] Ajax Results:
+[10/28/2011 20:10:11] 
+[10/28/2011 20:10:13] game: updateGame
+[10/28/2011 20:10:13] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:13] Ajax Results:
+[10/28/2011 20:10:13] 
+[10/28/2011 20:10:14] map: move
+[10/28/2011 20:10:14] Array
+(
+    [direction] => south
+    [tile_id] => 4
+)
+
+[10/28/2011 20:10:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850614.35,4,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[10/28/2011 20:10:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850614.35,7,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[10/28/2011 20:10:14] Ajax Results:
+[10/28/2011 20:10:14] clearTile();
+loadTile(4);
+updateStats();
+document.getElementById('tile_id').value = '4';
+
+[10/28/2011 20:10:14] map: getTileInfoById
+[10/28/2011 20:10:14] Array
+(
+    [tile_id] => 4
+)
+
+[10/28/2011 20:10:14] Ajax Results:
+[10/28/2011 20:10:14] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>4</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another Cool Tile]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>5</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[10/28/2011 20:10:14] game: updateStats
+[10/28/2011 20:10:14] Array
+(
+)
+
+[10/28/2011 20:10:14] Ajax Results:
+[10/28/2011 20:10:14] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>93</field_value></field></fields>
+[10/28/2011 20:10:15] game: updateGame
+[10/28/2011 20:10:15] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:15] Ajax Results:
+[10/28/2011 20:10:15] 
+[10/28/2011 20:10:17] game: updateGame
+[10/28/2011 20:10:17] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:17] Ajax Results:
+[10/28/2011 20:10:17] 
+[10/28/2011 20:10:20] game: updateGame
+[10/28/2011 20:10:20] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:20] Ajax Results:
+[10/28/2011 20:10:20] 
+[10/28/2011 20:10:22] game: updateGame
+[10/28/2011 20:10:22] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:22] Ajax Results:
+[10/28/2011 20:10:22] 
+[10/28/2011 20:10:24] game: updateGame
+[10/28/2011 20:10:24] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:24] Ajax Results:
+[10/28/2011 20:10:24] 
+[10/28/2011 20:10:24] Original URI: /favicon.ico
+[10/28/2011 20:10:24] Mod URI: /favicon.ico
+[10/28/2011 20:10:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:25] Original URI: /404
+[10/28/2011 20:10:25] Mod URI: /404
+[10/28/2011 20:10:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:25] 404.class.php
+[10/28/2011 20:10:25] Template: 404
+[10/28/2011 20:10:25] Page Args: 
+[10/28/2011 20:10:25] Array
+(
+)
+
+[10/28/2011 20:10:25] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:26] game: updateGame
+[10/28/2011 20:10:26] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:26] Ajax Results:
+[10/28/2011 20:10:26] 
+[10/28/2011 20:10:28] game: updateGame
+[10/28/2011 20:10:28] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:28] Ajax Results:
+[10/28/2011 20:10:28] 
+[10/28/2011 20:10:29] Original URI: /favicon.ico
+[10/28/2011 20:10:29] Mod URI: /favicon.ico
+[10/28/2011 20:10:29] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:29] Original URI: /404
+[10/28/2011 20:10:29] Mod URI: /404
+[10/28/2011 20:10:29] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:29] 404.class.php
+[10/28/2011 20:10:29] Template: 404
+[10/28/2011 20:10:29] Page Args: 
+[10/28/2011 20:10:29] Array
+(
+)
+
+[10/28/2011 20:10:29] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:31] game: updateGame
+[10/28/2011 20:10:31] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:31] Ajax Results:
+[10/28/2011 20:10:31] 
+[10/28/2011 20:10:33] game: updateGame
+[10/28/2011 20:10:33] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:33] Ajax Results:
+[10/28/2011 20:10:33] 
+[10/28/2011 20:10:35] game: updateGame
+[10/28/2011 20:10:35] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:35] Ajax Results:
+[10/28/2011 20:10:35] 
+[10/28/2011 20:10:35] Original URI: /favicon.ico
+[10/28/2011 20:10:35] Mod URI: /favicon.ico
+[10/28/2011 20:10:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:35] Original URI: /404
+[10/28/2011 20:10:35] Mod URI: /404
+[10/28/2011 20:10:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:35] 404.class.php
+[10/28/2011 20:10:35] Template: 404
+[10/28/2011 20:10:35] Page Args: 
+[10/28/2011 20:10:35] Array
+(
+)
+
+[10/28/2011 20:10:35] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:37] game: updateGame
+[10/28/2011 20:10:37] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:37] Ajax Results:
+[10/28/2011 20:10:37] 
+[10/28/2011 20:10:39] map: move
+[10/28/2011 20:10:39] Array
+(
+    [direction] => east
+    [tile_id] => 5
+)
+
+[10/28/2011 20:10:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850639.61,5,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[10/28/2011 20:10:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850639.62,4,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[10/28/2011 20:10:39] Ajax Results:
+[10/28/2011 20:10:39] clearTile();
+loadTile(5);
+updateStats();
+document.getElementById('tile_id').value = '5';
+
+[10/28/2011 20:10:39] map: getTileInfoById
+[10/28/2011 20:10:39] Array
+(
+    [tile_id] => 5
+)
+
+[10/28/2011 20:10:39] Ajax Results:
+[10/28/2011 20:10:39] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>5</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another Good New Tile]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>6</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>4</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[10/28/2011 20:10:39] game: updateStats
+[10/28/2011 20:10:39] Array
+(
+)
+
+[10/28/2011 20:10:39] Ajax Results:
+[10/28/2011 20:10:39] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>93</field_value></field></fields>
+[10/28/2011 20:10:40] Original URI: /favicon.ico
+[10/28/2011 20:10:40] Mod URI: /favicon.ico
+[10/28/2011 20:10:40] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:40] Original URI: /404
+[10/28/2011 20:10:40] Mod URI: /404
+[10/28/2011 20:10:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:40] 404.class.php
+[10/28/2011 20:10:40] Template: 404
+[10/28/2011 20:10:40] Page Args: 
+[10/28/2011 20:10:40] Array
+(
+)
+
+[10/28/2011 20:10:40] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:40] game: updateGame
+[10/28/2011 20:10:40] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:40] Ajax Results:
+[10/28/2011 20:10:40] 
+[10/28/2011 20:10:41] map: move
+[10/28/2011 20:10:41] Array
+(
+    [direction] => east
+    [tile_id] => 6
+)
+
+[10/28/2011 20:10:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850641.25,6,11,'<![CDATA[]]>','<![CDATA[showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');]]>')
+[10/28/2011 20:10:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1319850641.26,5,11,'<![CDATA[]]>','<![CDATA[removeUser(11);]]>')
+[10/28/2011 20:10:41] Ajax Results:
+[10/28/2011 20:10:41] clearTile();
+loadTile(6);
+updateStats();
+document.getElementById('tile_id').value = '6';
+
+[10/28/2011 20:10:41] map: getTileInfoById
+[10/28/2011 20:10:41] Array
+(
+    [tile_id] => 6
+)
+
+[10/28/2011 20:10:41] Ajax Results:
+[10/28/2011 20:10:41] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>6</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-3</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[More new!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>2</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>5</tile_id>
+</exit>
+</tile_exits>
+	<tile_resistance>0.05</tile_resistance>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+	<user_avatar>user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg</user_avatar>
+</user>
+</users>
+<mobs>
+</mobs>
+</tile>
+
+[10/28/2011 20:10:41] game: updateStats
+[10/28/2011 20:10:41] Array
+(
+)
+
+[10/28/2011 20:10:41] Ajax Results:
+[10/28/2011 20:10:41] <fields>
+<field><field_id>health</field_id><field_value>100</field_value></field><field><field_id>mana</field_id><field_value>100</field_value></field><field><field_id>energy</field_id><field_value>90</field_value></field></fields>
+[10/28/2011 20:10:42] game: updateGame
+[10/28/2011 20:10:42] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:42] Ajax Results:
+[10/28/2011 20:10:42] 
+[10/28/2011 20:10:44] game: updateGame
+[10/28/2011 20:10:44] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:44] Ajax Results:
+[10/28/2011 20:10:44] 
+[10/28/2011 20:10:45] Original URI: /favicon.ico
+[10/28/2011 20:10:45] Mod URI: /favicon.ico
+[10/28/2011 20:10:45] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:45] Original URI: /404
+[10/28/2011 20:10:45] Mod URI: /404
+[10/28/2011 20:10:45] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:45] 404.class.php
+[10/28/2011 20:10:45] Template: 404
+[10/28/2011 20:10:45] Page Args: 
+[10/28/2011 20:10:45] Array
+(
+)
+
+[10/28/2011 20:10:45] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:46] game: updateGame
+[10/28/2011 20:10:46] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:46] Ajax Results:
+[10/28/2011 20:10:46] 
+[10/28/2011 20:10:48] game: updateGame
+[10/28/2011 20:10:48] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:48] Ajax Results:
+[10/28/2011 20:10:48] 
+[10/28/2011 20:10:50] Original URI: /favicon.ico
+[10/28/2011 20:10:50] Mod URI: /favicon.ico
+[10/28/2011 20:10:50] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[10/28/2011 20:10:50] Original URI: /404
+[10/28/2011 20:10:50] Mod URI: /404
+[10/28/2011 20:10:50] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[10/28/2011 20:10:50] 404.class.php
+[10/28/2011 20:10:50] Template: 404
+[10/28/2011 20:10:50] Page Args: 
+[10/28/2011 20:10:50] Array
+(
+)
+
+[10/28/2011 20:10:50] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[10/28/2011 20:10:51] game: updateGame
+[10/28/2011 20:10:51] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:51] Ajax Results:
+[10/28/2011 20:10:51] 
+[10/28/2011 20:10:53] game: updateGame
+[10/28/2011 20:10:53] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:53] Ajax Results:
+[10/28/2011 20:10:53] 
+[10/28/2011 20:10:55] game: updateGame
+[10/28/2011 20:10:55] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:55] Ajax Results:
+[10/28/2011 20:10:55] 
+[10/28/2011 20:10:57] game: updateGame
+[10/28/2011 20:10:57] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:57] Ajax Results:
+[10/28/2011 20:10:57] 
+[10/28/2011 20:10:59] game: updateGame
+[10/28/2011 20:10:59] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:10:59] Ajax Results:
+[10/28/2011 20:10:59] 
+[10/28/2011 20:11:02] game: updateGame
+[10/28/2011 20:11:02] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:02] Ajax Results:
+[10/28/2011 20:11:02] 
+[10/28/2011 20:11:04] game: updateGame
+[10/28/2011 20:11:04] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:04] Ajax Results:
+[10/28/2011 20:11:04] 
+[10/28/2011 20:11:06] game: updateGame
+[10/28/2011 20:11:06] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:06] Ajax Results:
+[10/28/2011 20:11:06] 
+[10/28/2011 20:11:08] game: updateGame
+[10/28/2011 20:11:08] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:08] Ajax Results:
+[10/28/2011 20:11:08] 
+[10/28/2011 20:11:10] game: updateGame
+[10/28/2011 20:11:10] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:10] Ajax Results:
+[10/28/2011 20:11:10] 
+[10/28/2011 20:11:12] game: updateGame
+[10/28/2011 20:11:12] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:12] Ajax Results:
+[10/28/2011 20:11:12] 
+[10/28/2011 20:11:15] game: updateGame
+[10/28/2011 20:11:15] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:15] Ajax Results:
+[10/28/2011 20:11:15] 
+[10/28/2011 20:11:17] game: updateGame
+[10/28/2011 20:11:17] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:17] Ajax Results:
+[10/28/2011 20:11:17] 
+[10/28/2011 20:11:19] game: updateGame
+[10/28/2011 20:11:19] Array
+(
+    [last_update] => 1319850606.3514
+)
+
+[10/28/2011 20:11:19] Ajax Results:
+[10/28/2011 20:11:19] 

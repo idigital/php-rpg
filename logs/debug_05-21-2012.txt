@@ -1,0 +1,56 @@
+[05/21/2012 21:57:18] Original URI: 
+[05/21/2012 21:57:18] Mod URI: 
+[05/21/2012 21:57:18] Template: index
+[05/21/2012 21:57:18] Page Args: 
+[05/21/2012 21:57:18] 
+[05/21/2012 21:57:18] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Set-Cookie: PHPSESSID=hor3kjonbnmb0op8mtabnbi872; path=/
+    [2] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [3] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [4] => Pragma: no-cache
+    [5] => Set-Cookie: consign_referer_host=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+    [6] => Set-Cookie: consign_referer_keywords=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT
+)
+
+[05/21/2012 21:57:19] Original URI: /favicon.ico
+[05/21/2012 21:57:19] Mod URI: /favicon.ico
+[05/21/2012 21:57:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[05/21/2012 21:57:22] Original URI: /images/sign-up.png
+[05/21/2012 21:57:22] Mod URI: /images/sign-up.png
+[05/21/2012 21:57:22] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[05/21/2012 22:28:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1337657302,16,0,'','removeMob(1);')
+[05/21/2012 22:28:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1337657302.03,15,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[05/21/2012 22:50:23] Original URI: 
+[05/21/2012 22:50:23] Mod URI: 
+[05/21/2012 22:50:23] Template: index
+[05/21/2012 22:50:23] Page Args: 
+[05/21/2012 22:50:23] 
+[05/21/2012 22:50:23] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[05/21/2012 22:50:24] Original URI: /favicon.ico
+[05/21/2012 22:50:24] Mod URI: /favicon.ico
+[05/21/2012 22:50:24] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+

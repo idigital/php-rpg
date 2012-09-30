@@ -1,0 +1,2068 @@
+[06/23/2011 13:18:02] Original URI: 
+[06/23/2011 13:18:02] Mod URI: 
+[06/23/2011 13:18:02] Template: index
+[06/23/2011 13:18:02] Page Args: 
+[06/23/2011 13:18:02] 
+[06/23/2011 13:18:03] Original URI: /favicon.ico
+[06/23/2011 13:18:03] Mod URI: /favicon.ico
+[06/23/2011 13:18:03] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:03] Original URI: /404
+[06/23/2011 13:18:03] Mod URI: /404
+[06/23/2011 13:18:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:03] 404.class.php
+[06/23/2011 13:18:03] Template: 404
+[06/23/2011 13:18:03] Page Args: 
+[06/23/2011 13:18:03] Array
+(
+)
+
+[06/23/2011 13:18:05] Original URI: /favicon.ico
+[06/23/2011 13:18:05] Mod URI: /favicon.ico
+[06/23/2011 13:18:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:05] Original URI: /404
+[06/23/2011 13:18:05] Mod URI: /404
+[06/23/2011 13:18:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:05] 404.class.php
+[06/23/2011 13:18:05] Template: 404
+[06/23/2011 13:18:05] Page Args: 
+[06/23/2011 13:18:05] Array
+(
+)
+
+[06/23/2011 13:18:10] Original URI: /login
+[06/23/2011 13:18:10] Mod URI: /login
+[06/23/2011 13:18:10] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/23/2011 13:18:10] login.class.php
+[06/23/2011 13:18:10] Template: login
+[06/23/2011 13:18:10] Page Args: 
+[06/23/2011 13:18:10] Array
+(
+)
+
+[06/23/2011 13:18:10] Original URI: /images/sign-up.png
+[06/23/2011 13:18:10] Mod URI: /images/sign-up.png
+[06/23/2011 13:18:10] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/23/2011 13:18:11] Original URI: /favicon.ico
+[06/23/2011 13:18:11] Mod URI: /favicon.ico
+[06/23/2011 13:18:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:11] Original URI: /404
+[06/23/2011 13:18:11] Mod URI: /404
+[06/23/2011 13:18:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:11] 404.class.php
+[06/23/2011 13:18:11] Template: 404
+[06/23/2011 13:18:11] Page Args: 
+[06/23/2011 13:18:11] Array
+(
+)
+
+[06/23/2011 13:18:11] Original URI: /404
+[06/23/2011 13:18:11] Mod URI: /404
+[06/23/2011 13:18:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:11] 404.class.php
+[06/23/2011 13:18:11] Template: 404
+[06/23/2011 13:18:11] Page Args: 
+[06/23/2011 13:18:11] Array
+(
+)
+
+[06/23/2011 13:18:11] Original URI: /favicon.ico
+[06/23/2011 13:18:11] Mod URI: /favicon.ico
+[06/23/2011 13:18:11] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:11] Original URI: /404
+[06/23/2011 13:18:11] Mod URI: /404
+[06/23/2011 13:18:11] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:11] 404.class.php
+[06/23/2011 13:18:11] Template: 404
+[06/23/2011 13:18:11] Page Args: 
+[06/23/2011 13:18:11] Array
+(
+)
+
+[06/23/2011 13:18:16] Original URI: /login
+[06/23/2011 13:18:16] Mod URI: /login
+[06/23/2011 13:18:16] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/23/2011 13:18:16] login.class.php
+[06/23/2011 13:18:16] Template: login
+[06/23/2011 13:18:16] Page Args: 
+[06/23/2011 13:18:16] Array
+(
+)
+
+[06/23/2011 13:18:16] login(brandon.reese@gmail.com,not360change)
+[06/23/2011 13:18:16] createSession(11)
+[06/23/2011 13:18:16] sessions row for userid exists
+[06/23/2011 13:18:16] Sessid: bee3dbe335ee921bd706328bf6623f42
+[06/23/2011 13:18:16] Original URI: 
+[06/23/2011 13:18:16] Mod URI: 
+[06/23/2011 13:18:16] Template: index
+[06/23/2011 13:18:16] Page Args: 
+[06/23/2011 13:18:16] 
+[06/23/2011 13:18:16] Original URI: /favicon.ico
+[06/23/2011 13:18:16] Mod URI: /favicon.ico
+[06/23/2011 13:18:16] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:17] Original URI: /favicon.ico
+[06/23/2011 13:18:17] Mod URI: /favicon.ico
+[06/23/2011 13:18:17] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:17] Original URI: /404
+[06/23/2011 13:18:17] Mod URI: /404
+[06/23/2011 13:18:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:17] 404.class.php
+[06/23/2011 13:18:17] Template: 404
+[06/23/2011 13:18:17] Page Args: 
+[06/23/2011 13:18:17] Array
+(
+)
+
+[06/23/2011 13:18:17] Original URI: /404
+[06/23/2011 13:18:17] Mod URI: /404
+[06/23/2011 13:18:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:17] 404.class.php
+[06/23/2011 13:18:17] Template: 404
+[06/23/2011 13:18:17] Page Args: 
+[06/23/2011 13:18:17] Array
+(
+)
+
+[06/23/2011 13:18:18] Original URI: /game
+[06/23/2011 13:18:18] Mod URI: /game
+[06/23/2011 13:18:18] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/23/2011 13:18:18] game.class.php
+[06/23/2011 13:18:18] Template: game
+[06/23/2011 13:18:18] Page Args: 
+[06/23/2011 13:18:18] Array
+(
+)
+
+[06/23/2011 13:18:19] Original URI: /favicon.ico
+[06/23/2011 13:18:19] Mod URI: /favicon.ico
+[06/23/2011 13:18:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:19] Original URI: /404
+[06/23/2011 13:18:19] Mod URI: /404
+[06/23/2011 13:18:19] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:19] 404.class.php
+[06/23/2011 13:18:19] Template: 404
+[06/23/2011 13:18:19] Page Args: 
+[06/23/2011 13:18:19] Array
+(
+)
+
+[06/23/2011 13:18:19] Original URI: /favicon.ico
+[06/23/2011 13:18:19] Mod URI: /favicon.ico
+[06/23/2011 13:18:19] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:19] game: initializeGame
+[06/23/2011 13:18:19] Array
+(
+    [user_id] => 11
+)
+
+[06/23/2011 13:18:19] Ajax Results:
+[06/23/2011 13:18:19] 
+[06/23/2011 13:18:19] map: getTileInfoById
+[06/23/2011 13:18:19] Array
+(
+    [tile_id] => 3
+)
+
+[06/23/2011 13:18:19] Ajax Results:
+[06/23/2011 13:18:19] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[The Origin Tile]]></tile_title>
+	<tile_desc><![CDATA[This is the origin tile. I can't think of anything interesting to put here. Here is some color though (<span style="color: #990000;">red</span>) Blah blah blah. Need to put in a full text editor in here rather than just a text area<br />
+<br />
+Yeah I'm pretty exicted about this project.]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>13</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>12</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:18:20] Original URI: /404
+[06/23/2011 13:18:20] Mod URI: /404
+[06/23/2011 13:18:20] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:20] 404.class.php
+[06/23/2011 13:18:20] Template: 404
+[06/23/2011 13:18:20] Page Args: 
+[06/23/2011 13:18:20] Array
+(
+)
+
+[06/23/2011 13:18:22] game: updateGame
+[06/23/2011 13:18:22] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:22] Ajax Results:
+[06/23/2011 13:18:22] 
+[06/23/2011 13:18:24] game: updateGame
+[06/23/2011 13:18:24] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:24] Ajax Results:
+[06/23/2011 13:18:24] 
+[06/23/2011 13:18:26] game: updateGame
+[06/23/2011 13:18:26] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:26] Ajax Results:
+[06/23/2011 13:18:26] 
+[06/23/2011 13:18:28] game: updateGame
+[06/23/2011 13:18:28] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:28] Ajax Results:
+[06/23/2011 13:18:28] 
+[06/23/2011 13:18:31] game: updateGame
+[06/23/2011 13:18:31] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:31] Ajax Results:
+[06/23/2011 13:18:31] 
+[06/23/2011 13:18:33] game: updateGame
+[06/23/2011 13:18:33] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:33] Ajax Results:
+[06/23/2011 13:18:33] 
+[06/23/2011 13:18:34] Original URI: 
+[06/23/2011 13:18:34] Mod URI: 
+[06/23/2011 13:18:34] Template: index
+[06/23/2011 13:18:34] Page Args: 
+[06/23/2011 13:18:34] 
+[06/23/2011 13:18:35] game: updateGame
+[06/23/2011 13:18:35] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:35] Ajax Results:
+[06/23/2011 13:18:35] 
+[06/23/2011 13:18:37] Original URI: /favicon.ico
+[06/23/2011 13:18:37] Mod URI: /favicon.ico
+[06/23/2011 13:18:37] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:37] Original URI: /404
+[06/23/2011 13:18:37] Mod URI: /404
+[06/23/2011 13:18:37] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:37] 404.class.php
+[06/23/2011 13:18:37] Template: 404
+[06/23/2011 13:18:37] Page Args: 
+[06/23/2011 13:18:37] Array
+(
+)
+
+[06/23/2011 13:18:37] Original URI: /favicon.ico
+[06/23/2011 13:18:37] Mod URI: /favicon.ico
+[06/23/2011 13:18:37] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:18:38] Original URI: /404
+[06/23/2011 13:18:38] Mod URI: /404
+[06/23/2011 13:18:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:38] 404.class.php
+[06/23/2011 13:18:38] Template: 404
+[06/23/2011 13:18:38] Page Args: 
+[06/23/2011 13:18:38] Array
+(
+)
+
+[06/23/2011 13:18:38] game: updateGame
+[06/23/2011 13:18:38] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:38] Ajax Results:
+[06/23/2011 13:18:38] 
+[06/23/2011 13:18:39] Original URI: /login
+[06/23/2011 13:18:39] Mod URI: /login
+[06/23/2011 13:18:39] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/23/2011 13:18:39] login.class.php
+[06/23/2011 13:18:39] Template: login
+[06/23/2011 13:18:39] Page Args: 
+[06/23/2011 13:18:39] Array
+(
+)
+
+[06/23/2011 13:18:39] Original URI: /images/sign-up.png
+[06/23/2011 13:18:39] Mod URI: /images/sign-up.png
+[06/23/2011 13:18:39] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/23/2011 13:18:40] Original URI: /404
+[06/23/2011 13:18:40] Mod URI: /404
+[06/23/2011 13:18:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:40] 404.class.php
+[06/23/2011 13:18:40] Template: 404
+[06/23/2011 13:18:40] Page Args: 
+[06/23/2011 13:18:40] Array
+(
+)
+
+[06/23/2011 13:18:40] Original URI: /images/sign-up.png
+[06/23/2011 13:18:40] Mod URI: /images/sign-up.png
+[06/23/2011 13:18:40] Array
+(
+    [0] => 
+    [1] => images
+    [2] => sign-up.png
+)
+
+[06/23/2011 13:18:40] game: updateGame
+[06/23/2011 13:18:40] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:40] Ajax Results:
+[06/23/2011 13:18:40] 
+[06/23/2011 13:18:40] Original URI: /404
+[06/23/2011 13:18:40] Mod URI: /404
+[06/23/2011 13:18:40] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:18:40] 404.class.php
+[06/23/2011 13:18:40] Template: 404
+[06/23/2011 13:18:40] Page Args: 
+[06/23/2011 13:18:40] Array
+(
+)
+
+[06/23/2011 13:18:42] game: updateGame
+[06/23/2011 13:18:42] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:42] Ajax Results:
+[06/23/2011 13:18:42] 
+[06/23/2011 13:18:45] game: updateGame
+[06/23/2011 13:18:45] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:45] Ajax Results:
+[06/23/2011 13:18:45] 
+[06/23/2011 13:18:47] game: updateGame
+[06/23/2011 13:18:47] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:47] Ajax Results:
+[06/23/2011 13:18:47] 
+[06/23/2011 13:18:49] game: updateGame
+[06/23/2011 13:18:49] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:49] Ajax Results:
+[06/23/2011 13:18:49] 
+[06/23/2011 13:18:51] game: updateGame
+[06/23/2011 13:18:51] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:51] Ajax Results:
+[06/23/2011 13:18:51] 
+[06/23/2011 13:18:54] game: updateGame
+[06/23/2011 13:18:54] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:54] Ajax Results:
+[06/23/2011 13:18:54] 
+[06/23/2011 13:18:55] Original URI: /login
+[06/23/2011 13:18:55] Mod URI: /login
+[06/23/2011 13:18:55] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/23/2011 13:18:55] login.class.php
+[06/23/2011 13:18:55] Template: login
+[06/23/2011 13:18:55] Page Args: 
+[06/23/2011 13:18:55] Array
+(
+)
+
+[06/23/2011 13:18:55] login(bremaweb@gmail.com,not360change)
+[06/23/2011 13:18:55] createSession(12)
+[06/23/2011 13:18:55] sessions row for userid exists
+[06/23/2011 13:18:55] Sessid: f78b56518d7cbc96d2902d8a15150011
+[06/23/2011 13:18:55] Original URI: 
+[06/23/2011 13:18:55] Mod URI: 
+[06/23/2011 13:18:55] Template: index
+[06/23/2011 13:18:55] Page Args: 
+[06/23/2011 13:18:55] 
+[06/23/2011 13:18:56] game: updateGame
+[06/23/2011 13:18:56] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:56] Ajax Results:
+[06/23/2011 13:18:56] 
+[06/23/2011 13:18:58] game: updateGame
+[06/23/2011 13:18:58] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:18:58] Ajax Results:
+[06/23/2011 13:18:58] 
+[06/23/2011 13:18:59] Original URI: /game
+[06/23/2011 13:18:59] Mod URI: /game
+[06/23/2011 13:18:59] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/23/2011 13:18:59] game.class.php
+[06/23/2011 13:18:59] Template: game
+[06/23/2011 13:18:59] Page Args: 
+[06/23/2011 13:18:59] Array
+(
+)
+
+[06/23/2011 13:18:59] game: initializeGame
+[06/23/2011 13:18:59] Array
+(
+    [user_id] => 12
+)
+
+[06/23/2011 13:18:59] Ajax Results:
+[06/23/2011 13:18:59] 
+[06/23/2011 13:18:59] map: getTileInfoById
+[06/23/2011 13:18:59] Array
+(
+    [tile_id] => 13
+)
+
+[06/23/2011 13:18:59] Ajax Results:
+[06/23/2011 13:18:59] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>13</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[North Square]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>14</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:01] game: updateGame
+[06/23/2011 13:19:01] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:19:01] Ajax Results:
+[06/23/2011 13:19:01] 
+[06/23/2011 13:19:02] game: updateGame
+[06/23/2011 13:19:02] Array
+(
+    [last_update] => 1308853139
+)
+
+[06/23/2011 13:19:02] Ajax Results:
+[06/23/2011 13:19:02] 
+[06/23/2011 13:19:02] map: move
+[06/23/2011 13:19:02] Array
+(
+    [direction] => south
+    [tile_id] => 3
+)
+
+[06/23/2011 13:19:02] Ajax Results:
+[06/23/2011 13:19:02] clearTile();
+loadTile(3);
+document.getElementById('tile_id').value = '3';
+
+[06/23/2011 13:19:02] map: getTileInfoById
+[06/23/2011 13:19:02] Array
+(
+    [tile_id] => 3
+)
+
+[06/23/2011 13:19:02] Ajax Results:
+[06/23/2011 13:19:02] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>3</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>0</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[The Origin Tile]]></tile_title>
+	<tile_desc><![CDATA[This is the origin tile. I can't think of anything interesting to put here. Here is some color though (<span style="color: #990000;">red</span>) Blah blah blah. Need to put in a full text editor in here rather than just a text area<br />
+<br />
+Yeah I'm pretty exicted about this project.]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>13</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>8</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>12</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:03] game: updateGame
+[06/23/2011 13:19:03] Array
+(
+    [last_update] => 1308853098
+)
+
+[06/23/2011 13:19:03] Ajax Results:
+[06/23/2011 13:19:03] <activity>
+<update_time>1308853143</update_time>
+<activity_row>
+	<activity_message><![CDATA[BremaWeb has arrived]]></activity_message>
+	<activity_js><![CDATA[showUser(12,'BremaWeb');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:19:05] game: updateGame
+[06/23/2011 13:19:05] Array
+(
+    [last_update] => 1308853143
+)
+
+[06/23/2011 13:19:05] Ajax Results:
+[06/23/2011 13:19:05] 
+[06/23/2011 13:19:07] map: move
+[06/23/2011 13:19:07] Array
+(
+    [direction] => south
+    [tile_id] => 8
+)
+
+[06/23/2011 13:19:07] Ajax Results:
+[06/23/2011 13:19:07] clearTile();
+loadTile(8);
+document.getElementById('tile_id').value = '8';
+
+[06/23/2011 13:19:08] game: updateGame
+[06/23/2011 13:19:08] Array
+(
+    [last_update] => 1308853143
+)
+
+[06/23/2011 13:19:08] Ajax Results:
+[06/23/2011 13:19:08] <activity>
+<update_time>1308853148</update_time>
+<activity_row>
+	<activity_message><![CDATA[BremaWeb left to the south]]></activity_message>
+	<activity_js><![CDATA[removeUser('12');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:19:08] map: getTileInfoById
+[06/23/2011 13:19:08] Array
+(
+    [tile_id] => 8
+)
+
+[06/23/2011 13:19:08] Ajax Results:
+[06/23/2011 13:19:08] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Woot Woot]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:10] game: updateGame
+[06/23/2011 13:19:10] Array
+(
+    [last_update] => 1308853148
+)
+
+[06/23/2011 13:19:10] Ajax Results:
+[06/23/2011 13:19:10] 
+[06/23/2011 13:19:12] map: move
+[06/23/2011 13:19:12] Array
+(
+    [direction] => east
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:12] Ajax Results:
+[06/23/2011 13:19:12] clearTile();
+loadTile(11);
+document.getElementById('tile_id').value = '11';
+
+[06/23/2011 13:19:12] map: getTileInfoById
+[06/23/2011 13:19:12] Array
+(
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:12] Ajax Results:
+[06/23/2011 13:19:12] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[West Inlet]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>9</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>8</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:12] game: updateGame
+[06/23/2011 13:19:12] Array
+(
+    [last_update] => 1308853148
+)
+
+[06/23/2011 13:19:12] Ajax Results:
+[06/23/2011 13:19:12] 
+[06/23/2011 13:19:14] map: move
+[06/23/2011 13:19:14] Array
+(
+    [direction] => south
+    [tile_id] => 8
+)
+
+[06/23/2011 13:19:14] Ajax Results:
+[06/23/2011 13:19:14] clearTile();
+loadTile(8);
+document.getElementById('tile_id').value = '8';
+
+[06/23/2011 13:19:14] map: getTileInfoById
+[06/23/2011 13:19:14] Array
+(
+    [tile_id] => 8
+)
+
+[06/23/2011 13:19:14] Ajax Results:
+[06/23/2011 13:19:14] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Woot Woot]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:14] game: updateGame
+[06/23/2011 13:19:14] Array
+(
+    [last_update] => 1308853148
+)
+
+[06/23/2011 13:19:14] Ajax Results:
+[06/23/2011 13:19:14] <activity>
+<update_time>1308853154</update_time>
+<activity_row>
+	<activity_message><![CDATA[BremaWeb left to the east]]></activity_message>
+	<activity_js><![CDATA[removeUser('12');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:19:16] map: move
+[06/23/2011 13:19:16] Array
+(
+    [direction] => east
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:16] Ajax Results:
+[06/23/2011 13:19:16] clearTile();
+loadTile(11);
+document.getElementById('tile_id').value = '11';
+
+[06/23/2011 13:19:16] map: getTileInfoById
+[06/23/2011 13:19:16] Array
+(
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:16] Ajax Results:
+[06/23/2011 13:19:16] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[West Inlet]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>9</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>8</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:17] game: updateGame
+[06/23/2011 13:19:17] Array
+(
+    [last_update] => 1308853154
+)
+
+[06/23/2011 13:19:17] Ajax Results:
+[06/23/2011 13:19:17] 
+[06/23/2011 13:19:18] map: move
+[06/23/2011 13:19:18] Array
+(
+    [direction] => east
+    [tile_id] => 9
+)
+
+[06/23/2011 13:19:18] Ajax Results:
+[06/23/2011 13:19:18] clearTile();
+loadTile(9);
+document.getElementById('tile_id').value = '9';
+
+[06/23/2011 13:19:19] map: getTileInfoById
+[06/23/2011 13:19:19] Array
+(
+    [tile_id] => 9
+)
+
+[06/23/2011 13:19:19] Ajax Results:
+[06/23/2011 13:19:19] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[<b>Inlet</b>]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>20</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:19] game: updateGame
+[06/23/2011 13:19:19] Array
+(
+    [last_update] => 1308853154
+)
+
+[06/23/2011 13:19:19] Ajax Results:
+[06/23/2011 13:19:19] 
+[06/23/2011 13:19:21] game: updateGame
+[06/23/2011 13:19:21] Array
+(
+    [last_update] => 1308853154
+)
+
+[06/23/2011 13:19:21] Ajax Results:
+[06/23/2011 13:19:21] 
+[06/23/2011 13:19:21] map: move
+[06/23/2011 13:19:21] Array
+(
+    [direction] => west
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:21] Ajax Results:
+[06/23/2011 13:19:21] clearTile();
+loadTile(11);
+document.getElementById('tile_id').value = '11';
+
+[06/23/2011 13:19:22] map: getTileInfoById
+[06/23/2011 13:19:22] Array
+(
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:22] Ajax Results:
+[06/23/2011 13:19:22] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[West Inlet]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>9</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>8</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:56] map: move
+[06/23/2011 13:19:56] Array
+(
+    [direction] => west
+    [tile_id] => 8
+)
+
+[06/23/2011 13:19:56] Ajax Results:
+[06/23/2011 13:19:56] clearTile();
+loadTile(8);
+document.getElementById('tile_id').value = '8';
+
+[06/23/2011 13:19:56] map: getTileInfoById
+[06/23/2011 13:19:56] Array
+(
+    [tile_id] => 8
+)
+
+[06/23/2011 13:19:56] Ajax Results:
+[06/23/2011 13:19:56] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>8</tile_id>
+	<tile_x>0</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Woot Woot]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>north</direction>
+<tile_id>3</tile_id>
+</exit>
+<exit>
+<direction>south</direction>
+<tile_id>7</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:19:57] map: move
+[06/23/2011 13:19:57] Array
+(
+    [direction] => east
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:57] Ajax Results:
+[06/23/2011 13:19:57] clearTile();
+loadTile(11);
+document.getElementById('tile_id').value = '11';
+
+[06/23/2011 13:19:58] map: getTileInfoById
+[06/23/2011 13:19:58] Array
+(
+    [tile_id] => 11
+)
+
+[06/23/2011 13:19:58] Ajax Results:
+[06/23/2011 13:19:58] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[West Inlet]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>9</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>8</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:06] Original URI: /game
+[06/23/2011 13:20:06] Mod URI: /game
+[06/23/2011 13:20:06] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/23/2011 13:20:06] game.class.php
+[06/23/2011 13:20:06] Template: game
+[06/23/2011 13:20:06] Page Args: 
+[06/23/2011 13:20:06] Array
+(
+)
+
+[06/23/2011 13:20:09] game: initializeGame
+[06/23/2011 13:20:09] Array
+(
+    [user_id] => 12
+)
+
+[06/23/2011 13:20:09] Ajax Results:
+[06/23/2011 13:20:09] 
+[06/23/2011 13:20:09] map: getTileInfoById
+[06/23/2011 13:20:09] Array
+(
+    [tile_id] => 11
+)
+
+[06/23/2011 13:20:09] Ajax Results:
+[06/23/2011 13:20:09] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[West Inlet]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>9</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>8</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:11] game: updateGame
+[06/23/2011 13:20:11] Array
+(
+    [last_update] => 1308853206
+)
+
+[06/23/2011 13:20:11] Ajax Results:
+[06/23/2011 13:20:11] 
+[06/23/2011 13:20:13] map: move
+[06/23/2011 13:20:13] Array
+(
+    [direction] => east
+    [tile_id] => 9
+)
+
+[06/23/2011 13:20:13] Ajax Results:
+[06/23/2011 13:20:13] clearTile();
+loadTile(9);
+document.getElementById('tile_id').value = '9';
+
+[06/23/2011 13:20:13] map: getTileInfoById
+[06/23/2011 13:20:13] Array
+(
+    [tile_id] => 9
+)
+
+[06/23/2011 13:20:13] Ajax Results:
+[06/23/2011 13:20:13] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[<b>Inlet</b>]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>20</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:14] game: updateGame
+[06/23/2011 13:20:14] Array
+(
+    [last_update] => 1308853206
+)
+
+[06/23/2011 13:20:14] Ajax Results:
+[06/23/2011 13:20:14] <activity>
+<update_time>1308853214</update_time>
+<activity_row>
+	<activity_message><![CDATA[BrandonReese left to the east]]></activity_message>
+	<activity_js><![CDATA[removeUser('11');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:20:16] game: updateGame
+[06/23/2011 13:20:16] Array
+(
+    [last_update] => 1308853214
+)
+
+[06/23/2011 13:20:16] Ajax Results:
+[06/23/2011 13:20:16] 
+[06/23/2011 13:20:16] map: move
+[06/23/2011 13:20:16] Array
+(
+    [direction] => west
+    [tile_id] => 11
+)
+
+[06/23/2011 13:20:16] Ajax Results:
+[06/23/2011 13:20:16] clearTile();
+loadTile(11);
+document.getElementById('tile_id').value = '11';
+
+[06/23/2011 13:20:17] map: getTileInfoById
+[06/23/2011 13:20:17] Array
+(
+    [tile_id] => 11
+)
+
+[06/23/2011 13:20:17] Ajax Results:
+[06/23/2011 13:20:17] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>11</tile_id>
+	<tile_x>1</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[West Inlet]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>east</direction>
+<tile_id>9</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>8</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:18] game: updateGame
+[06/23/2011 13:20:18] Array
+(
+    [last_update] => 1308853214
+)
+
+[06/23/2011 13:20:18] Ajax Results:
+[06/23/2011 13:20:18] <activity>
+<update_time>1308853218</update_time>
+<activity_row>
+	<activity_message><![CDATA[BrandonReese has arrived]]></activity_message>
+	<activity_js><![CDATA[showUser(11,'BrandonReese');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:20:20] game: updateGame
+[06/23/2011 13:20:20] Array
+(
+    [last_update] => 1308853218
+)
+
+[06/23/2011 13:20:20] Ajax Results:
+[06/23/2011 13:20:20] 
+[06/23/2011 13:20:20] map: move
+[06/23/2011 13:20:20] Array
+(
+    [direction] => east
+    [tile_id] => 9
+)
+
+[06/23/2011 13:20:20] Ajax Results:
+[06/23/2011 13:20:20] clearTile();
+loadTile(9);
+document.getElementById('tile_id').value = '9';
+
+[06/23/2011 13:20:21] map: getTileInfoById
+[06/23/2011 13:20:21] Array
+(
+    [tile_id] => 9
+)
+
+[06/23/2011 13:20:21] Ajax Results:
+[06/23/2011 13:20:21] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[<b>Inlet</b>]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>20</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:22] game: updateGame
+[06/23/2011 13:20:22] Array
+(
+    [last_update] => 1308853218
+)
+
+[06/23/2011 13:20:22] Ajax Results:
+[06/23/2011 13:20:22] 
+[06/23/2011 13:20:23] map: move
+[06/23/2011 13:20:23] Array
+(
+    [direction] => east
+    [tile_id] => 9
+)
+
+[06/23/2011 13:20:23] Ajax Results:
+[06/23/2011 13:20:23] clearTile();
+loadTile(9);
+document.getElementById('tile_id').value = '9';
+
+[06/23/2011 13:20:23] map: getTileInfoById
+[06/23/2011 13:20:23] Array
+(
+    [tile_id] => 9
+)
+
+[06/23/2011 13:20:23] Ajax Results:
+[06/23/2011 13:20:23] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[<b>Inlet</b>]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>20</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:24] game: updateGame
+[06/23/2011 13:20:24] Array
+(
+    [last_update] => 1308853218
+)
+
+[06/23/2011 13:20:24] Ajax Results:
+[06/23/2011 13:20:24] <activity>
+<update_time>1308853224</update_time>
+<activity_row>
+	<activity_message><![CDATA[BrandonReese has arrived]]></activity_message>
+	<activity_js><![CDATA[showUser(11,'BrandonReese');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:20:27] game: updateGame
+[06/23/2011 13:20:27] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:27] Ajax Results:
+[06/23/2011 13:20:27] 
+[06/23/2011 13:20:28] map: move
+[06/23/2011 13:20:28] Array
+(
+    [direction] => east
+    [tile_id] => 20
+)
+
+[06/23/2011 13:20:28] Ajax Results:
+[06/23/2011 13:20:28] clearTile();
+loadTile(20);
+document.getElementById('tile_id').value = '20';
+
+[06/23/2011 13:20:28] map: getTileInfoById
+[06/23/2011 13:20:28] Array
+(
+    [tile_id] => 20
+)
+
+[06/23/2011 13:20:28] Ajax Results:
+[06/23/2011 13:20:28] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>20</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another New Tile Here boys!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>west</direction>
+<tile_id>9</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:20:29] game: updateGame
+[06/23/2011 13:20:29] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:29] Ajax Results:
+[06/23/2011 13:20:29] 
+[06/23/2011 13:20:31] game: updateGame
+[06/23/2011 13:20:31] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:31] Ajax Results:
+[06/23/2011 13:20:31] 
+[06/23/2011 13:20:33] game: updateGame
+[06/23/2011 13:20:33] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:33] Ajax Results:
+[06/23/2011 13:20:33] 
+[06/23/2011 13:20:35] game: updateGame
+[06/23/2011 13:20:35] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:35] Ajax Results:
+[06/23/2011 13:20:35] 
+[06/23/2011 13:20:37] game: updateGame
+[06/23/2011 13:20:37] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:37] Ajax Results:
+[06/23/2011 13:20:37] 
+[06/23/2011 13:20:39] game: updateGame
+[06/23/2011 13:20:39] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:39] Ajax Results:
+[06/23/2011 13:20:39] 
+[06/23/2011 13:20:42] game: updateGame
+[06/23/2011 13:20:42] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:42] Ajax Results:
+[06/23/2011 13:20:42] 
+[06/23/2011 13:20:44] game: updateGame
+[06/23/2011 13:20:44] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:44] Ajax Results:
+[06/23/2011 13:20:44] 
+[06/23/2011 13:20:46] game: updateGame
+[06/23/2011 13:20:46] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:46] Ajax Results:
+[06/23/2011 13:20:46] 
+[06/23/2011 13:20:48] game: updateGame
+[06/23/2011 13:20:48] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:48] Ajax Results:
+[06/23/2011 13:20:48] 
+[06/23/2011 13:20:50] game: updateGame
+[06/23/2011 13:20:50] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:51] Ajax Results:
+[06/23/2011 13:20:51] 
+[06/23/2011 13:20:53] game: updateGame
+[06/23/2011 13:20:53] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:53] Ajax Results:
+[06/23/2011 13:20:53] 
+[06/23/2011 13:20:55] game: updateGame
+[06/23/2011 13:20:55] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:55] Ajax Results:
+[06/23/2011 13:20:55] 
+[06/23/2011 13:20:58] game: updateGame
+[06/23/2011 13:20:58] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:20:58] Ajax Results:
+[06/23/2011 13:20:58] 
+[06/23/2011 13:21:00] game: updateGame
+[06/23/2011 13:21:00] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:00] Ajax Results:
+[06/23/2011 13:21:00] 
+[06/23/2011 13:21:02] game: updateGame
+[06/23/2011 13:21:02] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:02] Ajax Results:
+[06/23/2011 13:21:02] 
+[06/23/2011 13:21:04] game: updateGame
+[06/23/2011 13:21:04] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:04] Ajax Results:
+[06/23/2011 13:21:04] 
+[06/23/2011 13:21:05] map: move
+[06/23/2011 13:21:05] Array
+(
+    [direction] => west
+    [tile_id] => 9
+)
+
+[06/23/2011 13:21:05] Ajax Results:
+[06/23/2011 13:21:05] clearTile();
+loadTile(9);
+document.getElementById('tile_id').value = '9';
+
+[06/23/2011 13:21:06] map: getTileInfoById
+[06/23/2011 13:21:06] Array
+(
+    [tile_id] => 9
+)
+
+[06/23/2011 13:21:06] Ajax Results:
+[06/23/2011 13:21:06] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>9</tile_id>
+	<tile_x>2</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[<b>Inlet</b>]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>south</direction>
+<tile_id>10</tile_id>
+</exit>
+<exit>
+<direction>east</direction>
+<tile_id>20</tile_id>
+</exit>
+<exit>
+<direction>west</direction>
+<tile_id>11</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:21:07] game: updateGame
+[06/23/2011 13:21:07] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:07] Ajax Results:
+[06/23/2011 13:21:07] 
+[06/23/2011 13:21:09] game: updateGame
+[06/23/2011 13:21:09] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:09] Ajax Results:
+[06/23/2011 13:21:09] 
+[06/23/2011 13:21:11] game: updateGame
+[06/23/2011 13:21:11] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:11] Ajax Results:
+[06/23/2011 13:21:11] 
+[06/23/2011 13:21:12] map: move
+[06/23/2011 13:21:12] Array
+(
+    [direction] => east
+    [tile_id] => 20
+)
+
+[06/23/2011 13:21:12] Ajax Results:
+[06/23/2011 13:21:12] clearTile();
+loadTile(20);
+document.getElementById('tile_id').value = '20';
+
+[06/23/2011 13:21:13] map: getTileInfoById
+[06/23/2011 13:21:13] Array
+(
+    [tile_id] => 20
+)
+
+[06/23/2011 13:21:13] Ajax Results:
+[06/23/2011 13:21:13] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>20</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another New Tile Here boys!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>west</direction>
+<tile_id>9</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:21:13] game: updateGame
+[06/23/2011 13:21:13] Array
+(
+    [last_update] => 1308853224
+)
+
+[06/23/2011 13:21:13] Ajax Results:
+[06/23/2011 13:21:13] <activity>
+<update_time>1308853273</update_time>
+<activity_row>
+	<activity_message><![CDATA[BrandonReese left to the east]]></activity_message>
+	<activity_js><![CDATA[removeUser('11');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:21:16] game: updateGame
+[06/23/2011 13:21:16] Array
+(
+    [last_update] => 1308853273
+)
+
+[06/23/2011 13:21:16] Ajax Results:
+[06/23/2011 13:21:16] 
+[06/23/2011 13:21:16] map: move
+[06/23/2011 13:21:16] Array
+(
+    [direction] => east
+    [tile_id] => 20
+)
+
+[06/23/2011 13:21:16] Ajax Results:
+[06/23/2011 13:21:16] clearTile();
+loadTile(20);
+document.getElementById('tile_id').value = '20';
+
+[06/23/2011 13:21:16] map: getTileInfoById
+[06/23/2011 13:21:16] Array
+(
+    [tile_id] => 20
+)
+
+[06/23/2011 13:21:16] Ajax Results:
+[06/23/2011 13:21:16] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>20</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another New Tile Here boys!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>west</direction>
+<tile_id>9</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:21:34] Original URI: /game
+[06/23/2011 13:21:34] Mod URI: /game
+[06/23/2011 13:21:34] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[06/23/2011 13:21:34] game.class.php
+[06/23/2011 13:21:34] Template: game
+[06/23/2011 13:21:34] Page Args: 
+[06/23/2011 13:21:34] Array
+(
+)
+
+[06/23/2011 13:21:35] Original URI: /favicon.ico
+[06/23/2011 13:21:35] Mod URI: /favicon.ico
+[06/23/2011 13:21:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:21:35] Original URI: /404
+[06/23/2011 13:21:35] Mod URI: /404
+[06/23/2011 13:21:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:21:35] 404.class.php
+[06/23/2011 13:21:35] Template: 404
+[06/23/2011 13:21:35] Page Args: 
+[06/23/2011 13:21:35] Array
+(
+)
+
+[06/23/2011 13:21:37] Original URI: /favicon.ico
+[06/23/2011 13:21:37] Mod URI: /favicon.ico
+[06/23/2011 13:21:37] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:21:38] game: initializeGame
+[06/23/2011 13:21:38] Array
+(
+    [user_id] => 11
+)
+
+[06/23/2011 13:21:38] Ajax Results:
+[06/23/2011 13:21:38] 
+[06/23/2011 13:21:38] map: getTileInfoById
+[06/23/2011 13:21:38] Array
+(
+    [tile_id] => 20
+)
+
+[06/23/2011 13:21:38] Ajax Results:
+[06/23/2011 13:21:38] <?xml version="1.0" encoding="UTF-8"?>
+<tile>	<tile_id>20</tile_id>
+	<tile_x>3</tile_x>
+	<tile_y>-1</tile_y>
+	<tile_z>0</tile_z>
+	<tile_title><![CDATA[Another New Tile Here boys!]]></tile_title>
+	<tile_desc><![CDATA[]]></tile_desc>
+	<tile_exits><exit>
+<direction>west</direction>
+<tile_id>9</tile_id>
+</exit>
+</tile_exits>
+<users><user>
+	<user_cname>BrandonReese</user_cname>
+	<user_id>11</user_id>
+</user>
+<user>
+	<user_cname>BremaWeb</user_cname>
+	<user_id>12</user_id>
+</user>
+</users></tile>
+[06/23/2011 13:21:38] Original URI: /404
+[06/23/2011 13:21:38] Mod URI: /404
+[06/23/2011 13:21:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:21:38] 404.class.php
+[06/23/2011 13:21:38] Template: 404
+[06/23/2011 13:21:38] Page Args: 
+[06/23/2011 13:21:38] Array
+(
+)
+
+[06/23/2011 13:21:40] game: updateGame
+[06/23/2011 13:21:40] Array
+(
+    [last_update] => 1308853294
+)
+
+[06/23/2011 13:21:40] Ajax Results:
+[06/23/2011 13:21:40] 
+[06/23/2011 13:21:42] Original URI: /login?logout=1
+[06/23/2011 13:21:42] parpos: 6
+[06/23/2011 13:21:42] Mod URI: /login
+[06/23/2011 13:21:42] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/23/2011 13:21:42] login.class.php
+[06/23/2011 13:21:42] Template: login
+[06/23/2011 13:21:42] Page Args: 
+[06/23/2011 13:21:42] Array
+(
+)
+
+[06/23/2011 13:21:42] Original URI: 
+[06/23/2011 13:21:42] Mod URI: 
+[06/23/2011 13:21:43] Template: index
+[06/23/2011 13:21:43] Page Args: 
+[06/23/2011 13:21:43] 
+[06/23/2011 13:21:43] game: updateGame
+[06/23/2011 13:21:43] Array
+(
+    [last_update] => 1308853294
+)
+
+[06/23/2011 13:21:43] Ajax Results:
+[06/23/2011 13:21:43] <activity>
+<update_time>1308853303</update_time>
+<activity_row>
+	<activity_message><![CDATA[BremaWeb disappears into the void]]></activity_message>
+	<activity_js><![CDATA[removeUser('12');]]></activity_js>
+</activity_row>
+</activity>
+
+[06/23/2011 13:21:45] game: updateGame
+[06/23/2011 13:21:45] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:45] Ajax Results:
+[06/23/2011 13:21:45] 
+[06/23/2011 13:21:47] game: updateGame
+[06/23/2011 13:21:47] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:47] Ajax Results:
+[06/23/2011 13:21:47] 
+[06/23/2011 13:21:50] game: updateGame
+[06/23/2011 13:21:50] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:50] Ajax Results:
+[06/23/2011 13:21:50] 
+[06/23/2011 13:21:52] game: updateGame
+[06/23/2011 13:21:52] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:52] Ajax Results:
+[06/23/2011 13:21:52] 
+[06/23/2011 13:21:54] game: updateGame
+[06/23/2011 13:21:54] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:54] Ajax Results:
+[06/23/2011 13:21:54] 
+[06/23/2011 13:21:56] game: updateGame
+[06/23/2011 13:21:56] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:56] Ajax Results:
+[06/23/2011 13:21:56] 
+[06/23/2011 13:21:59] game: updateGame
+[06/23/2011 13:21:59] Array
+(
+    [last_update] => 1308853303
+)
+
+[06/23/2011 13:21:59] Ajax Results:
+[06/23/2011 13:21:59] 
+[06/23/2011 13:21:59] Original URI: /login?logout=1
+[06/23/2011 13:21:59] parpos: 6
+[06/23/2011 13:21:59] Mod URI: /login
+[06/23/2011 13:21:59] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[06/23/2011 13:21:59] login.class.php
+[06/23/2011 13:21:59] Template: login
+[06/23/2011 13:21:59] Page Args: 
+[06/23/2011 13:21:59] Array
+(
+)
+
+[06/23/2011 13:21:59] Original URI: 
+[06/23/2011 13:21:59] Mod URI: 
+[06/23/2011 13:21:59] Template: index
+[06/23/2011 13:21:59] Page Args: 
+[06/23/2011 13:21:59] 
+[06/23/2011 13:22:00] Original URI: /favicon.ico
+[06/23/2011 13:22:00] Mod URI: /favicon.ico
+[06/23/2011 13:22:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:22:00] Original URI: /favicon.ico
+[06/23/2011 13:22:00] Mod URI: /favicon.ico
+[06/23/2011 13:22:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[06/23/2011 13:22:00] Original URI: /404
+[06/23/2011 13:22:00] Mod URI: /404
+[06/23/2011 13:22:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:22:00] 404.class.php
+[06/23/2011 13:22:00] Template: 404
+[06/23/2011 13:22:00] Page Args: 
+[06/23/2011 13:22:00] Array
+(
+)
+
+[06/23/2011 13:22:00] Original URI: /404
+[06/23/2011 13:22:00] Mod URI: /404
+[06/23/2011 13:22:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[06/23/2011 13:22:00] 404.class.php
+[06/23/2011 13:22:00] Template: 404
+[06/23/2011 13:22:00] Page Args: 
+[06/23/2011 13:22:00] Array
+(
+)
+

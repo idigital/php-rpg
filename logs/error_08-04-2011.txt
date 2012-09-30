@@ -1,0 +1,1 @@
+[08/04/2011 20:47:18] missing class and template for favicon.ico

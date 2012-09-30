@@ -1,0 +1,32 @@
+[06/17/2011 21:26:27] missing class and template for images
+[06/17/2011 21:26:30] missing class and template for favicon.ico
+[06/17/2011 21:26:40] missing class and template for favicon.ico
+[06/17/2011 21:26:44] missing class and template for favicon.ico
+[06/17/2011 21:26:47] missing class and template for favicon.ico
+[06/17/2011 21:31:58] missing class and template for favicon.ico
+[06/17/2011 21:33:24] missing class and template for favicon.ico
+[06/17/2011 21:33:59] missing class and template for favicon.ico
+[06/17/2011 21:35:05] missing class and template for favicon.ico
+SQL Error: Unknown column 'map_z' in 'where clause'<br><br>SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND map_z = 0<br><br>[06/17/2011 21:39:39] missing class and template for favicon.ico
+[06/17/2011 21:40:20] missing class and template for favicon.ico
+[06/17/2011 21:40:22] missing class and template for favicon.ico
+[06/17/2011 21:41:44] missing class and template for favicon.ico
+SQL Error: Unknown column '0z' in 'where clause'<br><br>SELECT * FROM tiles WHERE tile_x = 0 AND tile_y = 0z=0 AND tile_z = 0<br><br>SQL Error: Unknown column '3z' in 'where clause'<br><br>SELECT * FROM tiles WHERE tile_x = 3 AND tile_y = -3z=0 AND tile_z = 0<br><br>[06/17/2011 21:43:56] missing class and template for favicon.ico
+SQL Error: Unknown column '3z' in 'where clause'<br><br>SELECT * FROM tiles WHERE tile_x = 3 AND tile_y = -3z=0 AND tile_z = 0<br><br>[06/17/2011 21:46:14] missing class and template for favicon.ico
+[06/17/2011 22:00:47] missing class and template for favicon.ico
+[06/17/2011 22:01:47] missing class and template for favicon.ico
+[06/17/2011 22:37:41] missing class and template for favicon.ico
+[06/17/2011 22:37:43] missing class and template for favicon.ico
+SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE tile_id=3' at line 1<br><br>UPDATE tiles set tile_title='The Origin Tile', tile_x=0,tile_y=0,tile_z0 WHERE tile_id=3<br><br>SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE tile_id=3' at line 1<br><br>UPDATE tiles set tile_title='The Origin Tile', tile_x=0,tile_y=0,tile_z0 WHERE tile_id=3<br><br>[06/17/2011 22:44:40] missing class and template for favicon.ico
+[06/17/2011 23:16:27] missing class and template for favicon.ico
+[06/17/2011 23:17:04] missing class and template for favicon.ico
+[06/17/2011 23:17:06] missing class and template for favicon.ico
+[06/17/2011 23:17:09] missing class and template for favicon.ico
+[06/17/2011 23:18:48] missing class and template for favicon.ico
+[06/17/2011 23:19:11] missing class and template for favicon.ico
+[06/17/2011 23:31:56] missing class and template for favicon.ico
+[06/17/2011 23:32:09] missing class and template for favicon.ico
+[06/17/2011 23:41:26] missing class and template for favicon.ico
+[06/17/2011 23:41:28] missing class and template for favicon.ico
+[06/17/2011 23:41:30] missing class and template for favicon.ico
+[06/17/2011 23:41:32] missing class and template for favicon.ico
