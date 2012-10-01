@@ -77,11 +77,23 @@ function removeMob(mob_id){
 }
 
 function move(direction){
+
 	jsDebug("move(" + direction + ")");
 	params = "&tile_id=" + elVal(direction + "_tile_id");
 	params = params + "&direction=" + direction;
 	//ajaxRequest("map","move",params,false);
-	$.post("ajaxFunctions.php?module=map&function=move",params, function(js_data) { eval(js_data) });
+	$.post("ajaxFunctions.php?module=map&function=move",{ "tile_id" : $("#" + direction + "_tile_id").val(), "direction" : direction }, 
+		function(data) { 
+			if ( data.success == true ){
+				clearTile();
+				loadTile(data.tile_id);
+				updateStats();
+				$('#tile_id').val(data.tile_id);
+				//eval(js_data) 
+			} else {
+				addMessage(data.message);
+			}
+		}, 'json');
 }
 
 function enableExit(direction,tile_id){

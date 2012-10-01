@@ -1,21 +1,7 @@
 <?php
 $appPath = dirname(dirname(__FILE__));
-session_start();
 
-
-  if ( $_SESSION['language'] == "" ){
-		$_SESSION['language'] = "english";
-  }
-  
-  
-  		if ( stripos($_SERVER['HTTP_USER_AGENT'],"iphone") !== false ){
-  			$_SESSION['browser'] = "iphone/";
-  		} else {
-  			$_SESSION['browser'] = "";
-  		}
-  
-
- set_include_path($appPath); 
+set_include_path($appPath); 
   
 //define("SMARTY_DIR","includes/smarty/");
 include($appPath . "/includes/globals.php");
@@ -38,5 +24,24 @@ include($appPath . "/includes/globals.php");
   include($appPath . "/includes/functions_htmlrend.php");
 
 
+  
+if ( !isCli() ){
+
+session_start();
+
+
+  if ( $_SESSION['language'] == "" ){
+		$_SESSION['language'] = "english";
+  }
+  
+  
+  		if ( stripos($_SERVER['HTTP_USER_AGENT'],"iphone") !== false ){
+  			$_SESSION['browser'] = "iphone/";
+  		} else {
+  			$_SESSION['browser'] = "";
+  		}
+  
+}
+  
 
   ?>

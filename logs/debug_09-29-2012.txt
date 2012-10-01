@@ -4064,3 +4064,2435 @@
     [3] => Pragma: no-cache
 )
 
+[09/29/2012 23:04:16] Original URI: /login
+[09/29/2012 23:04:16] Mod URI: /login
+[09/29/2012 23:04:16] Array
+(
+    [0] => 
+    [1] => login
+)
+
+[09/29/2012 23:04:16] login.class.php
+[09/29/2012 23:04:16] Template: login
+[09/29/2012 23:04:16] Page Args: 
+[09/29/2012 23:04:16] Array
+(
+)
+
+[09/29/2012 23:04:16] login(brandon.reese@gmail.com,not360change)
+[09/29/2012 23:04:16] createSession(11)
+[09/29/2012 23:04:16] sessions row for userid exists
+[09/29/2012 23:04:17] Sessid: b1447810d4c0086f60705d0a9d2998a2
+[09/29/2012 23:04:17] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977857.03,17,11,'BrandonReese appears from within the void!','showUser(\'11\');')
+[09/29/2012 23:04:17] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Set-Cookie: mpn_sessid=b1447810d4c0086f60705d0a9d2998a2
+    [5] => location: http://rpg.bremaweb.com/
+)
+
+[09/29/2012 23:04:17] Original URI: 
+[09/29/2012 23:04:17] Mod URI: 
+[09/29/2012 23:04:17] Template: index
+[09/29/2012 23:04:17] Page Args: 
+[09/29/2012 23:04:17] 
+[09/29/2012 23:04:17] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:04:17] Original URI: /favicon.ico
+[09/29/2012 23:04:17] Mod URI: /favicon.ico
+[09/29/2012 23:04:17] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:04:17] Original URI: /404
+[09/29/2012 23:04:17] Mod URI: /404
+[09/29/2012 23:04:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:04:17] 404.class.php
+[09/29/2012 23:04:17] Template: 404
+[09/29/2012 23:04:17] Page Args: 
+[09/29/2012 23:04:17] Array
+(
+)
+
+[09/29/2012 23:04:17] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:04:20] Original URI: /game
+[09/29/2012 23:04:20] Mod URI: /game
+[09/29/2012 23:04:20] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:04:20] game.class.php
+[09/29/2012 23:04:20] Template: game
+[09/29/2012 23:04:20] Page Args: 
+[09/29/2012 23:04:20] Array
+(
+)
+
+[09/29/2012 23:04:20] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:04:21] Original URI: /favicon.ico
+[09/29/2012 23:04:21] Mod URI: /favicon.ico
+[09/29/2012 23:04:21] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:04:21] Original URI: /404
+[09/29/2012 23:04:21] Mod URI: /404
+[09/29/2012 23:04:21] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:04:21] 404.class.php
+[09/29/2012 23:04:21] Template: 404
+[09/29/2012 23:04:21] Page Args: 
+[09/29/2012 23:04:21] Array
+(
+)
+
+[09/29/2012 23:04:21] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:04:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977866.27,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:04:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977866.28,17,11,'','removeUser(11);')
+[09/29/2012 23:04:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977867.45,17,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:04:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977867.5,16,11,'','removeUser(11);')
+[09/29/2012 23:04:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977868.91,20,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:04:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977868.94,17,11,'','removeUser(11);')
+[09/29/2012 23:04:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977870.59,21,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:04:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977870.63,20,11,'','removeUser(11);')
+[09/29/2012 23:05:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977901.25,20,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:05:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977901.29,21,11,'','removeUser(11);')
+[09/29/2012 23:05:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977928.86,23,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:05:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977928.88,20,11,'','removeUser(11);')
+[09/29/2012 23:06:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977988.4,20,0,'','removeMob(1);')
+[09/29/2012 23:06:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977988.44,23,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:06:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977998.56,19,0,'','removeMob(4);')
+[09/29/2012 23:06:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348977998.6,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:06:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978008.72,18,0,'','removeMob(4);')
+[09/29/2012 23:06:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978008.74,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:07:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978023.84,19,0,'','removeMob(4);')
+[09/29/2012 23:07:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978023.87,20,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:07:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978023.94,14,0,'','removeMob(5);')
+[09/29/2012 23:07:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978024.08,15,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:07:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978052.44,20,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978052.44,23,11,'','removeUser(11);')
+[09/29/2012 23:07:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978054.08,17,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978054.13,20,11,'','removeUser(11);')
+[09/29/2012 23:07:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978056.81,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978056.87,17,11,'','removeUser(11);')
+[09/29/2012 23:07:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978060.25,15,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978060.26,16,11,'','removeUser(11);')
+[09/29/2012 23:07:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978062.22,14,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978062.26,15,11,'','removeUser(11);')
+[09/29/2012 23:07:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978064.83,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978064.84,14,11,'','removeUser(11);')
+[09/29/2012 23:07:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978079.52,18,0,'','removeMob(3);')
+[09/29/2012 23:07:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978079.55,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:07:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978079.59,20,0,'','removeMob(4);')
+[09/29/2012 23:07:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978079.61,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:07:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978069,2,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978069.03,1,11,'','removeUser(11);')
+[09/29/2012 23:07:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978070.22,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978070.26,2,11,'','removeUser(11);')
+[09/29/2012 23:07:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978071.25,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978071.3,1,11,'','removeUser(11);')
+[09/29/2012 23:07:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978072.38,6,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978072.4,5,11,'','removeUser(11);')
+[09/29/2012 23:07:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978074.08,7,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978074.16,6,11,'','removeUser(11);')
+[09/29/2012 23:07:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978074.95,13,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978074.98,7,11,'','removeUser(11);')
+[09/29/2012 23:07:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978075.98,7,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978076.02,13,11,'','removeUser(11);')
+[09/29/2012 23:07:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978076.56,6,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978076.58,7,11,'','removeUser(11);')
+[09/29/2012 23:07:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978077.25,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978077.28,6,11,'','removeUser(11);')
+[09/29/2012 23:07:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978078.14,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:07:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978078.23,5,11,'','removeUser(11);')
+[09/29/2012 23:08:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978099.76,17,0,'','removeMob(3);')
+[09/29/2012 23:08:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978099.79,16,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:08:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978104.87,16,0,'','removeMob(3);')
+[09/29/2012 23:08:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978104.89,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:08:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978104.95,17,0,'','removeMob(4);')
+[09/29/2012 23:08:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978104.97,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:08:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978115.07,11,0,'','removeMob(2);')
+[09/29/2012 23:08:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978115.08,4,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:08:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978120.17,15,0,'','removeMob(5);')
+[09/29/2012 23:08:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978120.2,16,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:09:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978165.64,17,0,'','removeMob(3);')
+[09/29/2012 23:09:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978165.66,16,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:09:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978180.77,4,0,'','removeMob(2);')
+[09/29/2012 23:09:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978180.8,3,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:09:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978185.91,16,0,'','removeMob(5);')
+[09/29/2012 23:09:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978185.94,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:09:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978196.06,23,0,'','removeMob(1);')
+[09/29/2012 23:09:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978196.08,20,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:09:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978196.13,18,0,'','removeMob(4);')
+[09/29/2012 23:09:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978196.16,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:10:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978216.3,17,0,'','removeMob(4);')
+[09/29/2012 23:10:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978216.38,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:10:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978226.47,20,0,'','removeMob(1);')
+[09/29/2012 23:10:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978226.5,19,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:10:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978231.61,18,0,'','removeMob(4);')
+[09/29/2012 23:10:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978231.63,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:10:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978251.77,19,0,'','removeMob(1);')
+[09/29/2012 23:10:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978251.79,18,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:10:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978256.85,18,0,'','removeMob(1);')
+[09/29/2012 23:10:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978256.87,19,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:10:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978256.91,16,0,'','removeMob(3);')
+[09/29/2012 23:10:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978256.94,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:11:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978267.06,17,0,'','removeMob(4);')
+[09/29/2012 23:11:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978267.09,20,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:11:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978272.14,17,0,'','removeMob(3);')
+[09/29/2012 23:11:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978272.17,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:11:17] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978277.27,20,0,'','removeMob(3);')
+[09/29/2012 23:11:17] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978277.33,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:11:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978282.44,20,0,'','removeMob(4);')
+[09/29/2012 23:11:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978282.46,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:11:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978282.5,17,0,'','removeMob(5);')
+[09/29/2012 23:11:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978282.52,18,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:11:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978317.8,19,0,'','removeMob(1);')
+[09/29/2012 23:11:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978317.82,20,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:12:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978322.93,17,0,'','removeMob(3);')
+[09/29/2012 23:12:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978322.95,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:12:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978333.03,20,0,'','removeMob(1);')
+[09/29/2012 23:12:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978333.07,17,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:12:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978338.16,17,0,'','removeMob(1);')
+[09/29/2012 23:12:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978338.18,16,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:12:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978343.36,22,0,'','removeMob(3);')
+[09/29/2012 23:12:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978343.41,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:12:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978363.54,17,0,'','removeMob(4);')
+[09/29/2012 23:12:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978363.56,16,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:12:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978378.66,21,0,'','removeMob(3);')
+[09/29/2012 23:12:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978378.71,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:12:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978378.8,16,0,'','removeMob(4);')
+[09/29/2012 23:12:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978378.82,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:12:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978378.87,18,0,'','removeMob(5);')
+[09/29/2012 23:12:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978378.89,19,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:13:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978399.04,20,0,'','removeMob(3);')
+[09/29/2012 23:13:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978399.08,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:13:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978404.15,16,0,'','removeMob(1);')
+[09/29/2012 23:13:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978404.18,15,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:13:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978409.31,15,0,'','removeMob(1);')
+[09/29/2012 23:13:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978409.34,14,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:13:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978414.41,19,0,'','removeMob(5);')
+[09/29/2012 23:13:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978414.44,18,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:13:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978424.53,17,0,'','removeMob(3);')
+[09/29/2012 23:13:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978424.56,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:13:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978429.65,14,0,'','removeMob(1);')
+[09/29/2012 23:13:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978429.68,1,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:13:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978429.73,17,0,'','removeMob(4);')
+[09/29/2012 23:13:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978429.75,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:13:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978439.82,1,0,'','removeMob(1);')
+[09/29/2012 23:13:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978439.85,8,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:14:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978444.97,8,0,'','removeMob(1);')
+[09/29/2012 23:14:05] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978445,1,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:14:05] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978445.07,3,0,'','removeMob(2);')
+[09/29/2012 23:14:05] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978445.1,2,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:14:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978475.32,1,0,'','removeMob(1);')
+[09/29/2012 23:14:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978475.34,2,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:14:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978463.64,2,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978463.67,1,11,'','removeUser(11);')
+[09/29/2012 23:14:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978470.63,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978470.65,2,11,'','removeUser(11);')
+[09/29/2012 23:14:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978471.63,8,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978471.63,1,11,'','removeUser(11);')
+[09/29/2012 23:14:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978472.89,9,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978472.92,8,11,'','removeUser(11);')
+[09/29/2012 23:14:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978485.43,2,0,'','removeMob(1);')
+[09/29/2012 23:14:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978485.47,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:14:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978474.17,10,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978474.21,9,11,'','removeUser(11);')
+[09/29/2012 23:14:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978475.06,12,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978475.15,10,11,'','removeUser(11);')
+[09/29/2012 23:14:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978476.31,10,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978476.31,12,11,'','removeUser(11);')
+[09/29/2012 23:14:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978477.06,9,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978477.14,10,11,'','removeUser(11);')
+[09/29/2012 23:14:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978477.98,8,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978478.03,9,11,'','removeUser(11);')
+[09/29/2012 23:14:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978478.8,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:14:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978478.83,8,11,'','removeUser(11);')
+[09/29/2012 23:15:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978515.72,18,0,'','removeMob(5);')
+[09/29/2012 23:15:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978515.75,19,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:15:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978525.91,19,0,'','removeMob(5);')
+[09/29/2012 23:15:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978525.98,18,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:15:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978531.1,18,0,'','removeMob(4);')
+[09/29/2012 23:15:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978531.13,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:15:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978546.38,3,0,'','removeMob(1);')
+[09/29/2012 23:15:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978546.41,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:16:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978561.53,17,0,'','removeMob(4);')
+[09/29/2012 23:16:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978561.56,22,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:16:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978591.74,4,0,'','removeMob(1);')
+[09/29/2012 23:16:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978591.77,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:17:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978652.04,2,0,'','removeMob(2);')
+[09/29/2012 23:17:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978652.1,3,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:17:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978677.26,22,0,'','removeMob(3);')
+[09/29/2012 23:17:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978677.33,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:18:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978687.39,3,0,'','removeMob(1);')
+[09/29/2012 23:18:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978687.43,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:18:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978707.52,4,0,'','removeMob(1);')
+[09/29/2012 23:18:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978707.56,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:18:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978712.62,3,0,'','removeMob(2);')
+[09/29/2012 23:18:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978712.65,4,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:19:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978767.87,21,0,'','removeMob(3);')
+[09/29/2012 23:19:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978767.9,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:19:24] Original URI: /game
+[09/29/2012 23:19:24] Mod URI: /game
+[09/29/2012 23:19:24] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:19:24] game.class.php
+[09/29/2012 23:19:24] Template: game
+[09/29/2012 23:19:24] Page Args: 
+[09/29/2012 23:19:24] Array
+(
+)
+
+[09/29/2012 23:19:24] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:19:25] Original URI: /favicon.ico
+[09/29/2012 23:19:25] Mod URI: /favicon.ico
+[09/29/2012 23:19:25] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:19:25] Original URI: /404
+[09/29/2012 23:19:25] Mod URI: /404
+[09/29/2012 23:19:25] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:19:25] 404.class.php
+[09/29/2012 23:19:25] Template: 404
+[09/29/2012 23:19:25] Page Args: 
+[09/29/2012 23:19:25] Array
+(
+)
+
+[09/29/2012 23:19:25] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:19:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978778.09,20,0,'','removeMob(3);')
+[09/29/2012 23:19:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978778.12,23,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:19:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978766.23,14,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:19:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978766.28,1,11,'','removeUser(11);')
+[09/29/2012 23:19:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978783.22,4,0,'','removeMob(2);')
+[09/29/2012 23:19:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978783.28,3,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:20:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978828.49,3,0,'','removeMob(2);')
+[09/29/2012 23:20:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978828.52,2,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:20:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978848.67,22,0,'','removeMob(4);')
+[09/29/2012 23:20:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978848.78,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:20:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978859.16,17,0,'','removeMob(4);')
+[09/29/2012 23:20:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978859.21,22,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:21:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978869.45,2,0,'','removeMob(2);')
+[09/29/2012 23:21:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978869.48,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:21:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978869.54,22,0,'','removeMob(4);')
+[09/29/2012 23:21:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978869.57,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:21:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978879.72,18,0,'','removeMob(5);')
+[09/29/2012 23:21:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978879.75,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:21:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978884.81,1,0,'','removeMob(2);')
+[09/29/2012 23:21:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978884.84,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:21:15] Original URI: /game
+[09/29/2012 23:21:15] Mod URI: /game
+[09/29/2012 23:21:15] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:21:15] game.class.php
+[09/29/2012 23:21:15] Template: game
+[09/29/2012 23:21:15] Page Args: 
+[09/29/2012 23:21:15] Array
+(
+)
+
+[09/29/2012 23:21:15] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:21:15] Original URI: /favicon.ico
+[09/29/2012 23:21:15] Mod URI: /favicon.ico
+[09/29/2012 23:21:15] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:21:15] Original URI: /404
+[09/29/2012 23:21:15] Mod URI: /404
+[09/29/2012 23:21:15] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:21:15] 404.class.php
+[09/29/2012 23:21:15] Template: 404
+[09/29/2012 23:21:15] Page Args: 
+[09/29/2012 23:21:15] Array
+(
+)
+
+[09/29/2012 23:21:16] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:21:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978889.9,17,0,'','removeMob(4);')
+[09/29/2012 23:21:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978889.94,22,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:21:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978895.08,14,0,'','removeMob(2);')
+[09/29/2012 23:21:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978895.11,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:21:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978895.15,17,0,'','removeMob(5);')
+[09/29/2012 23:21:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978895.18,20,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:21:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978889.69,15,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978889.73,14,11,'','removeUser(11);')
+[09/29/2012 23:21:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978892.06,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978892.26,15,11,'','removeUser(11);')
+[09/29/2012 23:21:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978895.92,15,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:35] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978895.93,16,11,'','removeUser(11);')
+[09/29/2012 23:21:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978896.97,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978897.01,15,11,'','removeUser(11);')
+[09/29/2012 23:21:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978897.88,17,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978897.92,16,11,'','removeUser(11);')
+[09/29/2012 23:21:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978910.5,11,0,'','removeMob(1);')
+[09/29/2012 23:21:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978910.66,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:21:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978910.72,20,0,'','removeMob(5);')
+[09/29/2012 23:21:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978910.75,23,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:21:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978899.34,18,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978899.4,17,11,'','removeUser(11);')
+[09/29/2012 23:21:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978901.22,19,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:21:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978901.24,18,11,'','removeUser(11);')
+[09/29/2012 23:21:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978915.86,23,0,'','removeMob(3);')
+[09/29/2012 23:21:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978915.89,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:22:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978951.17,22,0,'','removeMob(4);')
+[09/29/2012 23:22:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978951.21,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:22:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978966.46,4,0,'','removeMob(1);')
+[09/29/2012 23:22:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978966.5,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:22:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978966.57,20,0,'','removeMob(3);')
+[09/29/2012 23:22:46] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978966.62,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:22:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978959.89,18,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978959.94,19,11,'','removeUser(11);')
+[09/29/2012 23:22:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978961.78,17,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978961.82,18,11,'','removeUser(11);')
+[09/29/2012 23:22:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978964.16,22,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978964.21,17,11,'','removeUser(11);')
+[09/29/2012 23:22:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978976.77,1,0,'','removeMob(2);')
+[09/29/2012 23:22:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978976.8,2,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:22:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978965.39,17,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978965.42,22,11,'','removeUser(11);')
+[09/29/2012 23:22:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978969.53,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978969.55,17,11,'','removeUser(11);')
+[09/29/2012 23:22:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978970.41,15,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978970.43,16,11,'','removeUser(11);')
+[09/29/2012 23:22:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978971.3,14,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978971.35,15,11,'','removeUser(11);')
+[09/29/2012 23:22:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978972.17,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978972.19,14,11,'','removeUser(11);')
+[09/29/2012 23:22:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978974.41,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978974.46,1,11,'','removeUser(11);')
+[09/29/2012 23:22:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978975.53,6,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978975.59,5,11,'','removeUser(11);')
+[09/29/2012 23:22:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978976.97,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978977.01,6,11,'','removeUser(11);')
+[09/29/2012 23:22:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978977.58,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:22:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978977.61,5,11,'','removeUser(11);')
+[09/29/2012 23:23:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978991.91,21,0,'','removeMob(3);')
+[09/29/2012 23:23:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978991.93,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:23:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978991.98,17,0,'','removeMob(4);')
+[09/29/2012 23:23:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348978992.02,16,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:24:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979067.59,2,0,'','removeMob(2);')
+[09/29/2012 23:24:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979067.62,3,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:25:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979132.8,16,0,'','removeMob(4);')
+[09/29/2012 23:25:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979132.83,15,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:25:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979137.93,15,0,'','removeMob(4);')
+[09/29/2012 23:25:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979137.96,14,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:26:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979193.12,23,0,'','removeMob(5);')
+[09/29/2012 23:26:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979193.14,20,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:26:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979203.41,22,0,'','removeMob(3);')
+[09/29/2012 23:26:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979203.44,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:27:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979228.55,14,0,'','removeMob(4);')
+[09/29/2012 23:27:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979228.58,15,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:27:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979233.68,3,0,'','removeMob(1);')
+[09/29/2012 23:27:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979233.75,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:27:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979233.79,21,0,'','removeMob(3);')
+[09/29/2012 23:27:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979233.81,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:27:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979233.87,15,0,'','removeMob(4);')
+[09/29/2012 23:27:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979233.89,14,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:27:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979244.05,20,0,'','removeMob(3);')
+[09/29/2012 23:27:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979244.09,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:27:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979244.17,20,0,'','removeMob(5);')
+[09/29/2012 23:27:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979244.21,19,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:27:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979254.38,14,0,'','removeMob(4);')
+[09/29/2012 23:27:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979254.43,15,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:27:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979274.63,15,0,'','removeMob(4);')
+[09/29/2012 23:27:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979274.66,14,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:28:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979284.74,21,0,'','removeMob(3);')
+[09/29/2012 23:28:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979284.76,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:29:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979340.05,3,0,'','removeMob(2);')
+[09/29/2012 23:29:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979340.09,2,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:29:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979360.25,2,0,'','removeMob(2);')
+[09/29/2012 23:29:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979360.3,3,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:29:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979365.42,22,0,'','removeMob(3);')
+[09/29/2012 23:29:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979365.44,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:29:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979365.5,14,0,'','removeMob(4);')
+[09/29/2012 23:29:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979365.53,15,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:29:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979370.6,21,0,'','removeMob(3);')
+[09/29/2012 23:29:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979370.63,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:29:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979385.72,22,0,'','removeMob(3);')
+[09/29/2012 23:29:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979385.75,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:29:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979395.82,17,0,'','removeMob(3);')
+[09/29/2012 23:29:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979395.84,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:30:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979400.92,4,0,'','removeMob(1);')
+[09/29/2012 23:30:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979400.94,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:30:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979400.99,15,0,'','removeMob(4);')
+[09/29/2012 23:30:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979401.02,14,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:30:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979406.12,20,0,'','removeMob(3);')
+[09/29/2012 23:30:06] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979406.16,19,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:30:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979431.48,3,0,'','removeMob(1);')
+[09/29/2012 23:30:31] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979431.51,2,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:30:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979456.68,2,0,'','removeMob(1);')
+[09/29/2012 23:30:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979456.7,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:31:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979461.79,19,0,'','removeMob(3);')
+[09/29/2012 23:31:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979461.83,18,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:31:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979461.88,19,0,'','removeMob(5);')
+[09/29/2012 23:31:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979461.9,18,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:31:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979482.09,3,0,'','removeMob(1);')
+[09/29/2012 23:31:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979482.21,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:31:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979482.36,18,0,'','removeMob(3);')
+[09/29/2012 23:31:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979482.38,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:31:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979512.6,17,0,'','removeMob(3);')
+[09/29/2012 23:31:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979512.64,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:32:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979527.8,18,0,'','removeMob(5);')
+[09/29/2012 23:32:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979527.93,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:32:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979553.1,3,0,'','removeMob(2);')
+[09/29/2012 23:32:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979553.14,2,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:32:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979563.2,14,0,'','removeMob(4);')
+[09/29/2012 23:32:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979563.23,15,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:32:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979568.33,17,0,'','removeMob(5);')
+[09/29/2012 23:32:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979568.36,16,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:32:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979578.49,4,0,'','removeMob(1);')
+[09/29/2012 23:32:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979578.52,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:33:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979583.59,20,0,'','removeMob(3);')
+[09/29/2012 23:33:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979583.62,23,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:33:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979588.7,15,0,'','removeMob(4);')
+[09/29/2012 23:33:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979588.73,16,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:33:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979608.84,16,0,'','removeMob(4);')
+[09/29/2012 23:33:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979608.87,17,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:33:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979618.94,17,0,'','removeMob(4);')
+[09/29/2012 23:33:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979618.97,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:34:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979654.44,18,0,'','removeMob(4);')
+[09/29/2012 23:34:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979654.48,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:34:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979664.6,16,0,'','removeMob(5);')
+[09/29/2012 23:34:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979664.68,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:34:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979669.75,17,0,'','removeMob(5);')
+[09/29/2012 23:34:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979669.78,18,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:34:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979674.94,18,0,'','removeMob(5);')
+[09/29/2012 23:34:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979674.97,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:34:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979690.08,3,0,'','removeMob(1);')
+[09/29/2012 23:34:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979690.11,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:34:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979690.16,17,0,'','removeMob(5);')
+[09/29/2012 23:34:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979690.19,18,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:35:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979715.3,18,0,'','removeMob(5);')
+[09/29/2012 23:35:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979715.37,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:35:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979720.57,4,0,'','removeMob(1);')
+[09/29/2012 23:35:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979720.64,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:35:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979725.71,17,0,'','removeMob(5);')
+[09/29/2012 23:35:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979725.74,20,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:35:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979750.94,20,0,'','removeMob(5);')
+[09/29/2012 23:35:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979750.96,21,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:35:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979757.05,14,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:35:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979757.09,1,11,'','removeUser(11);')
+[09/29/2012 23:36:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979771.08,23,0,'','removeMob(3);')
+[09/29/2012 23:36:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979771.12,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:36:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979771.17,19,0,'','removeMob(4);')
+[09/29/2012 23:36:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979771.2,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:36:00] Original URI: /game
+[09/29/2012 23:36:00] Mod URI: /game
+[09/29/2012 23:36:00] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:36:00] game.class.php
+[09/29/2012 23:36:00] Template: game
+[09/29/2012 23:36:00] Page Args: 
+[09/29/2012 23:36:00] Array
+(
+)
+
+[09/29/2012 23:36:00] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:36:01] Original URI: /favicon.ico
+[09/29/2012 23:36:01] Mod URI: /favicon.ico
+[09/29/2012 23:36:01] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:36:01] Original URI: /404
+[09/29/2012 23:36:01] Mod URI: /404
+[09/29/2012 23:36:01] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:36:01] 404.class.php
+[09/29/2012 23:36:01] Template: 404
+[09/29/2012 23:36:01] Page Args: 
+[09/29/2012 23:36:01] Array
+(
+)
+
+[09/29/2012 23:36:01] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:36:07] Original URI: /game
+[09/29/2012 23:36:07] Mod URI: /game
+[09/29/2012 23:36:07] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:36:07] game.class.php
+[09/29/2012 23:36:07] Template: game
+[09/29/2012 23:36:07] Page Args: 
+[09/29/2012 23:36:07] Array
+(
+)
+
+[09/29/2012 23:36:07] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:36:08] Original URI: /favicon.ico
+[09/29/2012 23:36:08] Mod URI: /favicon.ico
+[09/29/2012 23:36:08] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:36:08] Original URI: /404
+[09/29/2012 23:36:08] Mod URI: /404
+[09/29/2012 23:36:08] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:36:08] 404.class.php
+[09/29/2012 23:36:08] Template: 404
+[09/29/2012 23:36:08] Page Args: 
+[09/29/2012 23:36:08] Array
+(
+)
+
+[09/29/2012 23:36:08] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:37:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979821.66,20,0,'','removeMob(3);')
+[09/29/2012 23:37:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979821.69,23,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:37:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979861.88,2,0,'','removeMob(2);')
+[09/29/2012 23:37:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979861.91,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:37:56] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979876.97,1,0,'','removeMob(2);')
+[09/29/2012 23:37:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979877,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:37:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979877.06,23,0,'','removeMob(3);')
+[09/29/2012 23:37:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979877.09,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:37:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979877.15,18,0,'','removeMob(4);')
+[09/29/2012 23:37:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979877.17,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:38:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979887.26,11,0,'','removeMob(1);')
+[09/29/2012 23:38:07] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979887.31,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:37:57] Original URI: /game
+[09/29/2012 23:37:57] Mod URI: /game
+[09/29/2012 23:37:57] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:37:57] game.class.php
+[09/29/2012 23:37:57] Template: game
+[09/29/2012 23:37:57] Page Args: 
+[09/29/2012 23:37:57] Array
+(
+)
+
+[09/29/2012 23:37:57] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:37:57] a:2:{s:5:"north";a:1:{s:7:"tile_id";s:2:"15";}s:5:"south";a:1:{s:7:"tile_id";s:1:"1";}}
+[09/29/2012 23:37:57] Array
+(
+)
+
+[09/29/2012 23:37:58] Original URI: /favicon.ico
+[09/29/2012 23:37:58] Mod URI: /favicon.ico
+[09/29/2012 23:37:58] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:37:58] Original URI: /404
+[09/29/2012 23:37:58] Mod URI: /404
+[09/29/2012 23:37:58] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:37:58] 404.class.php
+[09/29/2012 23:37:58] Template: 404
+[09/29/2012 23:37:58] Page Args: 
+[09/29/2012 23:37:58] Array
+(
+)
+
+[09/29/2012 23:37:58] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:38:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979902.48,20,0,'','removeMob(3);')
+[09/29/2012 23:38:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979902.51,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:38:33] Original URI: /game
+[09/29/2012 23:38:33] Mod URI: /game
+[09/29/2012 23:38:33] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:38:33] game.class.php
+[09/29/2012 23:38:33] Template: game
+[09/29/2012 23:38:33] Page Args: 
+[09/29/2012 23:38:33] Array
+(
+)
+
+[09/29/2012 23:38:33] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:38:34] Array
+(
+    [north] => Array
+        (
+            [tile_id] => 15
+        )
+
+    [south] => Array
+        (
+            [tile_id] => 1
+        )
+
+)
+
+[09/29/2012 23:38:34] Array
+(
+)
+
+[09/29/2012 23:38:34] Original URI: /favicon.ico
+[09/29/2012 23:38:34] Mod URI: /favicon.ico
+[09/29/2012 23:38:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:38:34] Original URI: /404
+[09/29/2012 23:38:34] Mod URI: /404
+[09/29/2012 23:38:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:38:34] 404.class.php
+[09/29/2012 23:38:34] Template: 404
+[09/29/2012 23:38:34] Page Args: 
+[09/29/2012 23:38:34] Array
+(
+)
+
+[09/29/2012 23:38:34] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:38:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979932.66,17,0,'','removeMob(3);')
+[09/29/2012 23:38:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979932.69,16,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:39:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979942.79,14,0,'','removeMob(2);')
+[09/29/2012 23:39:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979942.82,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:39:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979952.95,1,0,'','removeMob(2);')
+[09/29/2012 23:39:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979952.98,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:39:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979953.05,19,0,'','removeMob(4);')
+[09/29/2012 23:39:13] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979953.08,20,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:39:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979958.18,20,0,'','removeMob(4);')
+[09/29/2012 23:39:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979958.21,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:39:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979978.4,14,0,'','removeMob(2);')
+[09/29/2012 23:39:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979978.43,15,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:39:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979978.48,19,0,'','removeMob(4);')
+[09/29/2012 23:39:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979978.51,20,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:39:38] Original URI: /game
+[09/29/2012 23:39:38] Mod URI: /game
+[09/29/2012 23:39:38] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:39:38] game.class.php
+[09/29/2012 23:39:38] Template: game
+[09/29/2012 23:39:38] Page Args: 
+[09/29/2012 23:39:38] Array
+(
+)
+
+[09/29/2012 23:39:38] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:39:38] Array
+(
+    [north] => Array
+        (
+            [tile_id] => 15
+        )
+
+    [south] => Array
+        (
+            [tile_id] => 1
+        )
+
+)
+
+[09/29/2012 23:39:38] SELECT tile_id FROM tiles WHERE x = 0 AND y = 0 AND z = 0
+[09/29/2012 23:39:38] SELECT tile_id FROM tiles WHERE x = 0 AND y = 2 AND z = 0
+[09/29/2012 23:39:38] SELECT tile_id FROM tiles WHERE x = 1 AND y = 1 AND z = 0
+[09/29/2012 23:39:38] SELECT tile_id FROM tiles WHERE x = -1 AND y = 0 AND z = 0
+[09/29/2012 23:39:38] Array
+(
+)
+
+[09/29/2012 23:39:38] Original URI: /favicon.ico
+[09/29/2012 23:39:38] Mod URI: /favicon.ico
+[09/29/2012 23:39:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:39:39] Original URI: /404
+[09/29/2012 23:39:39] Mod URI: /404
+[09/29/2012 23:39:39] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:39:39] 404.class.php
+[09/29/2012 23:39:39] Template: 404
+[09/29/2012 23:39:39] Page Args: 
+[09/29/2012 23:39:39] Array
+(
+)
+
+[09/29/2012 23:39:39] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:39:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979993.6,20,0,'','removeMob(4);')
+[09/29/2012 23:39:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979993.63,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:39:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979998.71,16,0,'','removeMob(3);')
+[09/29/2012 23:39:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348979998.74,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:40:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980029.05,17,0,'','removeMob(3);')
+[09/29/2012 23:40:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980029.08,18,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:40:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980034.15,15,0,'','removeMob(2);')
+[09/29/2012 23:40:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980034.18,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:40:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980054.33,4,0,'','removeMob(1);')
+[09/29/2012 23:40:54] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980054.35,3,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:41:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980079.52,19,0,'','removeMob(4);')
+[09/29/2012 23:41:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980079.55,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:41:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980084.63,3,0,'','removeMob(1);')
+[09/29/2012 23:41:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980084.66,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:41:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980089.72,4,0,'','removeMob(1);')
+[09/29/2012 23:41:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980089.74,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:41:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980094.81,18,0,'','removeMob(3);')
+[09/29/2012 23:41:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980094.85,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:41:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980099.95,17,0,'','removeMob(3);')
+[09/29/2012 23:41:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980099.99,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:41:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980100.06,21,0,'','removeMob(5);')
+[09/29/2012 23:41:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980100.1,22,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:41:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980105.18,22,0,'','removeMob(3);')
+[09/29/2012 23:41:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980105.21,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:42:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980120.38,11,0,'','removeMob(1);')
+[09/29/2012 23:42:00] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980120.41,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:42:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980130.5,14,0,'','removeMob(2);')
+[09/29/2012 23:42:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980130.53,15,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:42:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980130.58,17,0,'','removeMob(3);')
+[09/29/2012 23:42:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980130.62,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:42:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980135.69,4,0,'','removeMob(1);')
+[09/29/2012 23:42:15] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980135.72,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:42:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980145.82,22,0,'','removeMob(5);')
+[09/29/2012 23:42:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980145.85,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:42:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980161.04,17,0,'','removeMob(5);')
+[09/29/2012 23:42:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980161.07,16,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:42:33] Original URI: /game
+[09/29/2012 23:42:33] Mod URI: /game
+[09/29/2012 23:42:33] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:42:33] game.class.php
+[09/29/2012 23:42:33] Template: game
+[09/29/2012 23:42:33] Page Args: 
+[09/29/2012 23:42:33] Array
+(
+)
+
+[09/29/2012 23:42:33] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:42:33] Array
+(
+    [north] => Array
+        (
+            [tile_id] => 15
+        )
+
+    [south] => Array
+        (
+            [tile_id] => 1
+        )
+
+)
+
+[09/29/2012 23:42:34] Original URI: /favicon.ico
+[09/29/2012 23:42:34] Mod URI: /favicon.ico
+[09/29/2012 23:42:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:42:34] Original URI: /404
+[09/29/2012 23:42:34] Mod URI: /404
+[09/29/2012 23:42:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:42:34] 404.class.php
+[09/29/2012 23:42:34] Template: 404
+[09/29/2012 23:42:34] Page Args: 
+[09/29/2012 23:42:34] Array
+(
+)
+
+[09/29/2012 23:42:34] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:42:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980171.26,20,0,'','removeMob(3);')
+[09/29/2012 23:42:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980171.42,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:43:21] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980201.75,21,0,'','removeMob(3);')
+[09/29/2012 23:43:21] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980201.78,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:43:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980216.9,15,0,'','removeMob(2);')
+[09/29/2012 23:43:36] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980216.93,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:43:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980217,22,0,'','removeMob(3);')
+[09/29/2012 23:43:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980217.04,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:43:33] Original URI: /game
+[09/29/2012 23:43:33] Mod URI: /game
+[09/29/2012 23:43:33] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:43:33] game.class.php
+[09/29/2012 23:43:33] Template: game
+[09/29/2012 23:43:33] Page Args: 
+[09/29/2012 23:43:33] Array
+(
+)
+
+[09/29/2012 23:43:33] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:43:34] Array
+(
+    [north] => Array
+        (
+            [tile_id] => 15
+        )
+
+    [south] => Array
+        (
+            [tile_id] => 1
+        )
+
+)
+
+[09/29/2012 23:43:34] Original URI: /favicon.ico
+[09/29/2012 23:43:34] Mod URI: /favicon.ico
+[09/29/2012 23:43:34] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:43:34] Original URI: /404
+[09/29/2012 23:43:34] Mod URI: /404
+[09/29/2012 23:43:34] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:43:34] 404.class.php
+[09/29/2012 23:43:34] Template: 404
+[09/29/2012 23:43:34] Page Args: 
+[09/29/2012 23:43:34] Array
+(
+)
+
+[09/29/2012 23:43:34] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:43:47] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980227.18,14,0,'','removeMob(2);')
+[09/29/2012 23:43:47] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980227.2,15,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:43:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980237.39,16,0,'','removeMob(5);')
+[09/29/2012 23:43:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980237.42,15,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:44:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980272.56,11,0,'','removeMob(1);')
+[09/29/2012 23:44:32] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980272.59,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:44:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980289.2,21,0,'','removeMob(3);')
+[09/29/2012 23:44:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980289.61,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:44:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980295.53,4,0,'','removeMob(1);')
+[09/29/2012 23:44:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980295.56,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:45:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980325.69,18,0,'','removeMob(4);')
+[09/29/2012 23:45:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980325.72,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:45:29] Original URI: /game
+[09/29/2012 23:45:29] Mod URI: /game
+[09/29/2012 23:45:29] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:45:29] game.class.php
+[09/29/2012 23:45:29] Template: game
+[09/29/2012 23:45:29] Page Args: 
+[09/29/2012 23:45:29] Array
+(
+)
+
+[09/29/2012 23:45:29] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:45:30] Array
+(
+    [north] => Array
+        (
+            [tile_id] => 15
+        )
+
+    [south] => Array
+        (
+            [tile_id] => 1
+        )
+
+)
+
+[09/29/2012 23:45:30] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:45:30] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:45:30] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:45:30] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:45:30] Array
+(
+    [north] => 1
+    [south] => 15
+    [west] => 5
+)
+
+[09/29/2012 23:45:30] Original URI: /favicon.ico
+[09/29/2012 23:45:30] Mod URI: /favicon.ico
+[09/29/2012 23:45:30] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:45:30] Original URI: /404
+[09/29/2012 23:45:30] Mod URI: /404
+[09/29/2012 23:45:30] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:45:30] 404.class.php
+[09/29/2012 23:45:30] Template: 404
+[09/29/2012 23:45:30] Page Args: 
+[09/29/2012 23:45:30] Array
+(
+)
+
+[09/29/2012 23:45:30] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:45:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980333.28,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:45:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980333.31,14,11,'','removeUser(11);')
+[09/29/2012 23:45:33] 
+[09/29/2012 23:45:33] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:45:33] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:45:33] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:45:33] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:45:33] Array
+(
+)
+
+[09/29/2012 23:45:37] Original URI: /game
+[09/29/2012 23:45:37] Mod URI: /game
+[09/29/2012 23:45:37] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:45:37] game.class.php
+[09/29/2012 23:45:37] Template: game
+[09/29/2012 23:45:37] Page Args: 
+[09/29/2012 23:45:37] Array
+(
+)
+
+[09/29/2012 23:45:37] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:45:38] Array
+(
+    [north] => Array
+        (
+            [tile_id] => 15
+        )
+
+    [south] => Array
+        (
+            [tile_id] => 1
+        )
+
+)
+
+[09/29/2012 23:45:38] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:45:38] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:45:38] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:45:38] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:45:38] Array
+(
+    [north] => 1
+    [south] => 15
+    [west] => 5
+)
+
+[09/29/2012 23:45:38] Original URI: /favicon.ico
+[09/29/2012 23:45:38] Mod URI: /favicon.ico
+[09/29/2012 23:45:38] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:45:38] Original URI: /404
+[09/29/2012 23:45:38] Mod URI: /404
+[09/29/2012 23:45:38] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:45:38] 404.class.php
+[09/29/2012 23:45:38] Template: 404
+[09/29/2012 23:45:38] Page Args: 
+[09/29/2012 23:45:38] Array
+(
+)
+
+[09/29/2012 23:45:38] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:45:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980350.87,22,0,'','removeMob(3);')
+[09/29/2012 23:45:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980350.91,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:45:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980350.97,19,0,'','removeMob(4);')
+[09/29/2012 23:45:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980351.01,20,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:46:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980401.45,11,0,'','removeMob(1);')
+[09/29/2012 23:46:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980401.47,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:46:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980401.52,15,0,'','removeMob(2);')
+[09/29/2012 23:46:41] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980401.54,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:46:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980411.63,15,0,'','removeMob(5);')
+[09/29/2012 23:46:51] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980411.66,14,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:47:02] Original URI: /game
+[09/29/2012 23:47:02] Mod URI: /game
+[09/29/2012 23:47:02] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:47:02] game.class.php
+[09/29/2012 23:47:02] Template: game
+[09/29/2012 23:47:02] Page Args: 
+[09/29/2012 23:47:02] Array
+(
+)
+
+[09/29/2012 23:47:02] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:47:02] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:47:02] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:47:02] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:47:02] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:47:02] Original URI: /favicon.ico
+[09/29/2012 23:47:02] Mod URI: /favicon.ico
+[09/29/2012 23:47:02] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:47:03] Original URI: /404
+[09/29/2012 23:47:03] Mod URI: /404
+[09/29/2012 23:47:03] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:47:03] 404.class.php
+[09/29/2012 23:47:03] Template: 404
+[09/29/2012 23:47:03] Page Args: 
+[09/29/2012 23:47:03] Array
+(
+)
+
+[09/29/2012 23:47:03] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:47:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980423.53,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:47:03] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980423.56,14,11,'','removeUser(11);')
+[09/29/2012 23:47:03] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:47:03] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:47:03] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:47:03] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:47:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980436.85,21,0,'','removeMob(3);')
+[09/29/2012 23:47:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980436.87,22,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:47:08] Original URI: /game
+[09/29/2012 23:47:08] Mod URI: /game
+[09/29/2012 23:47:08] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:47:08] game.class.php
+[09/29/2012 23:47:08] Template: game
+[09/29/2012 23:47:08] Page Args: 
+[09/29/2012 23:47:08] Array
+(
+)
+
+[09/29/2012 23:47:08] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:47:08] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:47:08] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:47:08] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:47:08] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:47:08] Original URI: /favicon.ico
+[09/29/2012 23:47:08] Mod URI: /favicon.ico
+[09/29/2012 23:47:08] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:47:09] Original URI: /404
+[09/29/2012 23:47:09] Mod URI: /404
+[09/29/2012 23:47:09] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:47:09] 404.class.php
+[09/29/2012 23:47:09] Template: 404
+[09/29/2012 23:47:09] Page Args: 
+[09/29/2012 23:47:09] Array
+(
+)
+
+[09/29/2012 23:47:09] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:47:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980430.44,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:47:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980430.46,14,11,'','removeUser(11);')
+[09/29/2012 23:47:10] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:47:10] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:47:10] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:47:10] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:47:12] Original URI: /game
+[09/29/2012 23:47:12] Mod URI: /game
+[09/29/2012 23:47:12] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:47:12] game.class.php
+[09/29/2012 23:47:12] Template: game
+[09/29/2012 23:47:12] Page Args: 
+[09/29/2012 23:47:12] Array
+(
+)
+
+[09/29/2012 23:47:12] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:47:12] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:47:12] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:47:12] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:47:12] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:47:12] Original URI: /favicon.ico
+[09/29/2012 23:47:12] Mod URI: /favicon.ico
+[09/29/2012 23:47:12] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:47:13] Original URI: /404
+[09/29/2012 23:47:13] Mod URI: /404
+[09/29/2012 23:47:13] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:47:13] 404.class.php
+[09/29/2012 23:47:13] Template: 404
+[09/29/2012 23:47:13] Page Args: 
+[09/29/2012 23:47:13] Array
+(
+)
+
+[09/29/2012 23:47:13] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:47:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980438.13,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:47:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980438.14,14,11,'','removeUser(11);')
+[09/29/2012 23:47:18] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:47:18] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:47:18] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:47:18] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:47:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980477.04,20,0,'','removeMob(4);')
+[09/29/2012 23:47:57] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980477.08,23,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:48:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980492.33,14,0,'','removeMob(5);')
+[09/29/2012 23:48:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980492.41,15,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:48:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980507.62,22,0,'','removeMob(3);')
+[09/29/2012 23:48:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980507.66,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:48:17] Original URI: /game
+[09/29/2012 23:48:17] Mod URI: /game
+[09/29/2012 23:48:17] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:48:17] game.class.php
+[09/29/2012 23:48:17] Template: game
+[09/29/2012 23:48:17] Page Args: 
+[09/29/2012 23:48:17] Array
+(
+)
+
+[09/29/2012 23:48:17] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:48:18] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:48:18] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:48:18] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:48:18] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:48:18] Original URI: /favicon.ico
+[09/29/2012 23:48:18] Mod URI: /favicon.ico
+[09/29/2012 23:48:18] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:48:18] Original URI: /404
+[09/29/2012 23:48:18] Mod URI: /404
+[09/29/2012 23:48:18] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:48:18] 404.class.php
+[09/29/2012 23:48:18] Template: 404
+[09/29/2012 23:48:18] Page Args: 
+[09/29/2012 23:48:18] Array
+(
+)
+
+[09/29/2012 23:48:18] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:48:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980500.63,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:48:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980500.63,14,11,'','removeUser(11);')
+[09/29/2012 23:48:20] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:48:20] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:48:20] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:48:20] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:48:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980517.74,4,0,'','removeMob(1);')
+[09/29/2012 23:48:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980517.78,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:50:34] Original URI: /game
+[09/29/2012 23:50:34] Mod URI: /game
+[09/29/2012 23:50:34] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:50:34] game.class.php
+[09/29/2012 23:50:34] Template: game
+[09/29/2012 23:50:34] Page Args: 
+[09/29/2012 23:50:34] Array
+(
+)
+
+[09/29/2012 23:50:35] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:50:35] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:50:35] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:50:35] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:50:35] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:50:35] Original URI: /favicon.ico
+[09/29/2012 23:50:35] Mod URI: /favicon.ico
+[09/29/2012 23:50:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:50:35] Original URI: /404
+[09/29/2012 23:50:35] Mod URI: /404
+[09/29/2012 23:50:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:50:35] 404.class.php
+[09/29/2012 23:50:35] Template: 404
+[09/29/2012 23:50:35] Page Args: 
+[09/29/2012 23:50:35] Array
+(
+)
+
+[09/29/2012 23:50:35] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:50:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980648.44,14,0,'','removeMob(2);')
+[09/29/2012 23:50:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980648.48,15,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:50:39] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980639.95,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:50:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980639.96,14,11,'','removeUser(11);')
+[09/29/2012 23:50:40] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:50:40] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:50:40] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:50:40] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:51:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980668.59,21,0,'','removeMob(3);')
+[09/29/2012 23:51:08] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980668.63,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:51:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980688.73,15,0,'','removeMob(5);')
+[09/29/2012 23:51:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980688.76,16,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:51:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980708.9,15,0,'','removeMob(2);')
+[09/29/2012 23:51:48] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980708.93,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:51:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980719.07,16,0,'','removeMob(5);')
+[09/29/2012 23:51:59] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980719.12,17,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:51:54] Original URI: /myaccount/profile
+[09/29/2012 23:51:54] Mod URI: /myaccount/profile
+[09/29/2012 23:51:54] Array
+(
+    [0] => 
+    [1] => myaccount
+    [2] => profile
+)
+
+[09/29/2012 23:51:54] myaccount.class.php
+[09/29/2012 23:51:54] Template: myaccount-profile
+[09/29/2012 23:51:54] Page Args: 
+[09/29/2012 23:51:54] Array
+(
+)
+
+[09/29/2012 23:51:54] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:51:54] Original URI: /js/myaccount.js
+[09/29/2012 23:51:54] Mod URI: /js/myaccount.js
+[09/29/2012 23:51:54] Array
+(
+    [0] => 
+    [1] => js
+    [2] => myaccount.js
+)
+
+[09/29/2012 23:51:54] Original URI: /404
+[09/29/2012 23:51:54] Mod URI: /404
+[09/29/2012 23:51:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:51:54] 404.class.php
+[09/29/2012 23:51:54] Template: 404
+[09/29/2012 23:51:54] Page Args: 
+[09/29/2012 23:51:54] Array
+(
+)
+
+[09/29/2012 23:51:54] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:51:54] Original URI: /favicon.ico
+[09/29/2012 23:51:54] Mod URI: /favicon.ico
+[09/29/2012 23:51:54] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:51:54] Original URI: /404
+[09/29/2012 23:51:54] Mod URI: /404
+[09/29/2012 23:51:54] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:51:54] 404.class.php
+[09/29/2012 23:51:55] Template: 404
+[09/29/2012 23:51:55] Page Args: 
+[09/29/2012 23:51:55] Array
+(
+)
+
+[09/29/2012 23:51:55] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:52:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980729.19,17,0,'','removeMob(5);')
+[09/29/2012 23:52:09] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980729.21,22,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:51:59] Original URI: /game
+[09/29/2012 23:51:59] Mod URI: /game
+[09/29/2012 23:51:59] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:51:59] game.class.php
+[09/29/2012 23:51:59] Template: game
+[09/29/2012 23:51:59] Page Args: 
+[09/29/2012 23:51:59] Array
+(
+)
+
+[09/29/2012 23:51:59] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:51:59] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:51:59] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:51:59] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:51:59] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:52:00] Original URI: /favicon.ico
+[09/29/2012 23:52:00] Mod URI: /favicon.ico
+[09/29/2012 23:52:00] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:52:00] Original URI: /404
+[09/29/2012 23:52:00] Mod URI: /404
+[09/29/2012 23:52:00] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:52:00] 404.class.php
+[09/29/2012 23:52:00] Template: 404
+[09/29/2012 23:52:00] Page Args: 
+[09/29/2012 23:52:00] Array
+(
+)
+
+[09/29/2012 23:52:00] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:52:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980734.35,14,0,'','removeMob(2);')
+[09/29/2012 23:52:14] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980734.37,15,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:52:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980722.63,undefined,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:52:02] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980722.63,14,11,'','removeUser(11);')
+[09/29/2012 23:52:02] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:52:02] SELECT tile_id FROM tiles WHERE tile_x =  AND tile_y = 1 AND tile_z = 
+[09/29/2012 23:52:02] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y =  AND tile_z = 
+[09/29/2012 23:52:02] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 
+[09/29/2012 23:52:04] Original URI: /game
+[09/29/2012 23:52:04] Mod URI: /game
+[09/29/2012 23:52:04] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:52:04] game.class.php
+[09/29/2012 23:52:04] Template: game
+[09/29/2012 23:52:04] Page Args: 
+[09/29/2012 23:52:04] Array
+(
+)
+
+[09/29/2012 23:52:04] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:52:05] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:52:05] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:52:05] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:52:05] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:52:05] Original URI: /favicon.ico
+[09/29/2012 23:52:05] Mod URI: /favicon.ico
+[09/29/2012 23:52:05] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:52:05] Original URI: /404
+[09/29/2012 23:52:05] Mod URI: /404
+[09/29/2012 23:52:05] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:52:05] 404.class.php
+[09/29/2012 23:52:05] Template: 404
+[09/29/2012 23:52:05] Page Args: 
+[09/29/2012 23:52:05] Array
+(
+)
+
+[09/29/2012 23:52:05] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:52:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980739.44,20,0,'','removeMob(3);')
+[09/29/2012 23:52:19] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980739.47,17,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:52:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980744.55,17,0,'','removeMob(3);')
+[09/29/2012 23:52:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980744.57,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:52:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980754.68,15,0,'','removeMob(2);')
+[09/29/2012 23:52:34] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980754.71,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:52:26] Original URI: /game
+[09/29/2012 23:52:26] Mod URI: /game
+[09/29/2012 23:52:26] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:52:26] game.class.php
+[09/29/2012 23:52:26] Template: game
+[09/29/2012 23:52:26] Page Args: 
+[09/29/2012 23:52:26] Array
+(
+)
+
+[09/29/2012 23:52:26] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:52:27] Original URI: /favicon.ico
+[09/29/2012 23:52:27] Mod URI: /favicon.ico
+[09/29/2012 23:52:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:52:27] Original URI: /favicon.ico
+[09/29/2012 23:52:27] Mod URI: /favicon.ico
+[09/29/2012 23:52:27] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:52:27] Original URI: /404
+[09/29/2012 23:52:27] Mod URI: /404
+[09/29/2012 23:52:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:52:27] 404.class.php
+[09/29/2012 23:52:27] Template: 404
+[09/29/2012 23:52:27] Page Args: 
+[09/29/2012 23:52:27] Array
+(
+)
+
+[09/29/2012 23:52:27] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:52:27] Original URI: /404
+[09/29/2012 23:52:27] Mod URI: /404
+[09/29/2012 23:52:27] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:52:27] 404.class.php
+[09/29/2012 23:52:27] Template: 404
+[09/29/2012 23:52:27] Page Args: 
+[09/29/2012 23:52:27] Array
+(
+)
+
+[09/29/2012 23:52:27] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:53:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980784.84,20,0,'','removeMob(3);')
+[09/29/2012 23:53:04] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980784.87,23,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:53:34] Original URI: /game
+[09/29/2012 23:53:34] Mod URI: /game
+[09/29/2012 23:53:34] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:53:34] game.class.php
+[09/29/2012 23:53:34] Template: game
+[09/29/2012 23:53:34] Page Args: 
+[09/29/2012 23:53:34] Array
+(
+)
+
+[09/29/2012 23:53:34] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:53:35] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:53:35] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:53:35] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:53:35] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:53:35] Original URI: /favicon.ico
+[09/29/2012 23:53:35] Mod URI: /favicon.ico
+[09/29/2012 23:53:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:53:35] Original URI: /404
+[09/29/2012 23:53:35] Mod URI: /404
+[09/29/2012 23:53:35] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:53:35] 404.class.php
+[09/29/2012 23:53:35] Template: 404
+[09/29/2012 23:53:35] Page Args: 
+[09/29/2012 23:53:35] Array
+(
+)
+
+[09/29/2012 23:53:35] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:53:35] Original URI: /favicon.ico
+[09/29/2012 23:53:35] Mod URI: /favicon.ico
+[09/29/2012 23:53:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:53:36] Original URI: /404
+[09/29/2012 23:53:36] Mod URI: /404
+[09/29/2012 23:53:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:53:36] 404.class.php
+[09/29/2012 23:53:36] Template: 404
+[09/29/2012 23:53:36] Page Args: 
+[09/29/2012 23:53:36] Array
+(
+)
+
+[09/29/2012 23:53:36] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:54:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980865.36,14,0,'','removeMob(2);')
+[09/29/2012 23:54:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980865.39,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:54:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980870.48,22,0,'','removeMob(5);')
+[09/29/2012 23:54:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980870.51,21,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:54:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980895.61,1,0,'','removeMob(2);')
+[09/29/2012 23:54:55] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980895.64,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:55:10] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980910.81,21,0,'','removeMob(5);')
+[09/29/2012 23:55:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980910.92,22,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:55:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980916.18,14,0,'','removeMob(2);')
+[09/29/2012 23:55:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980916.21,15,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:55:35] Original URI: /game
+[09/29/2012 23:55:35] Mod URI: /game
+[09/29/2012 23:55:35] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:55:35] game.class.php
+[09/29/2012 23:55:35] Template: game
+[09/29/2012 23:55:35] Page Args: 
+[09/29/2012 23:55:35] Array
+(
+)
+
+[09/29/2012 23:55:35] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:55:35] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:35] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:35] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:35] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:35] Original URI: /favicon.ico
+[09/29/2012 23:55:35] Mod URI: /favicon.ico
+[09/29/2012 23:55:35] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:55:36] Original URI: /404
+[09/29/2012 23:55:36] Mod URI: /404
+[09/29/2012 23:55:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:55:36] 404.class.php
+[09/29/2012 23:55:36] Template: 404
+[09/29/2012 23:55:36] Page Args: 
+[09/29/2012 23:55:36] Array
+(
+)
+
+[09/29/2012 23:55:36] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:55:36] Original URI: /favicon.ico
+[09/29/2012 23:55:36] Mod URI: /favicon.ico
+[09/29/2012 23:55:36] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:55:36] Original URI: /404
+[09/29/2012 23:55:36] Mod URI: /404
+[09/29/2012 23:55:36] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:55:36] 404.class.php
+[09/29/2012 23:55:36] Template: 404
+[09/29/2012 23:55:36] Page Args: 
+[09/29/2012 23:55:36] Array
+(
+)
+
+[09/29/2012 23:55:36] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:55:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980937.06,15,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:37] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980937.2,14,11,'','removeUser(11);')
+[09/29/2012 23:55:37] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:37] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 3 AND tile_z = 0
+[09/29/2012 23:55:37] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:37] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980938.83,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:38] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980938.83,15,11,'','removeUser(11);')
+[09/29/2012 23:55:38] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:38] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 4 AND tile_z = 0
+[09/29/2012 23:55:38] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 3 AND tile_z = 0
+[09/29/2012 23:55:38] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980940.63,17,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:40] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980940.67,16,11,'','removeUser(11);')
+[09/29/2012 23:55:40] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 3 AND tile_z = 0
+[09/29/2012 23:55:40] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 5 AND tile_z = 0
+[09/29/2012 23:55:40] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 4 AND tile_z = 0
+[09/29/2012 23:55:40] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 3 AND tile_z = 0
+[09/29/2012 23:55:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980942.23,16,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980942.26,17,11,'','removeUser(11);')
+[09/29/2012 23:55:42] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:42] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 4 AND tile_z = 0
+[09/29/2012 23:55:42] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 3 AND tile_z = 0
+[09/29/2012 23:55:42] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980943.66,15,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:43] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980943.68,16,11,'','removeUser(11);')
+[09/29/2012 23:55:43] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:43] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 3 AND tile_z = 0
+[09/29/2012 23:55:43] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:43] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980944.52,14,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:44] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980944.53,15,11,'','removeUser(11);')
+[09/29/2012 23:55:44] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:44] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:55:44] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:44] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980945.45,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:45] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980945.48,14,11,'','removeUser(11);')
+[09/29/2012 23:55:45] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:55:45] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:45] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:45] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980961.5,11,0,'','removeMob(1);')
+[09/29/2012 23:56:01] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980961.56,4,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:55:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980949.33,8,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:49] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980949.35,1,11,'','removeUser(11);')
+[09/29/2012 23:55:49] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:55:49] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:49] SELECT tile_id FROM tiles WHERE tile_x = 2 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:49] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:55:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980950.81,2,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:50] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980950.84,8,11,'','removeUser(11);')
+[09/29/2012 23:55:50] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -2 AND tile_z = 0
+[09/29/2012 23:55:50] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:50] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:55:50] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -2 AND tile_z = 0
+[09/29/2012 23:55:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980953.27,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:55:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980953.3,2,11,'','removeUser(11);')
+[09/29/2012 23:55:53] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:55:53] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:55:53] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:55:53] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980971.67,15,0,'','removeMob(2);')
+[09/29/2012 23:56:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980971.7,14,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:56:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980971.76,23,0,'','removeMob(4);')
+[09/29/2012 23:56:11] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980971.79,20,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:56:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980976.89,22,0,'','removeMob(5);')
+[09/29/2012 23:56:16] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980976.92,21,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:56:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980981.99,20,0,'','removeMob(4);')
+[09/29/2012 23:56:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980982.02,19,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:56:16] Original URI: /game
+[09/29/2012 23:56:16] Mod URI: /game
+[09/29/2012 23:56:16] Array
+(
+    [0] => 
+    [1] => game
+)
+
+[09/29/2012 23:56:16] game.class.php
+[09/29/2012 23:56:16] Template: game
+[09/29/2012 23:56:16] Page Args: 
+[09/29/2012 23:56:16] Array
+(
+)
+
+[09/29/2012 23:56:16] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+    [4] => Content-type: text/html
+)
+
+[09/29/2012 23:56:16] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:16] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:16] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:16] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:17] Original URI: /favicon.ico
+[09/29/2012 23:56:17] Mod URI: /favicon.ico
+[09/29/2012 23:56:17] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:56:17] Original URI: /favicon.ico
+[09/29/2012 23:56:17] Mod URI: /favicon.ico
+[09/29/2012 23:56:17] Array
+(
+    [0] => 
+    [1] => favicon.ico
+)
+
+[09/29/2012 23:56:17] Original URI: /404
+[09/29/2012 23:56:17] Mod URI: /404
+[09/29/2012 23:56:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:56:17] 404.class.php
+[09/29/2012 23:56:17] Template: 404
+[09/29/2012 23:56:17] Page Args: 
+[09/29/2012 23:56:17] Array
+(
+)
+
+[09/29/2012 23:56:17] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:56:17] Original URI: /404
+[09/29/2012 23:56:17] Mod URI: /404
+[09/29/2012 23:56:17] Array
+(
+    [0] => 
+    [1] => 404
+)
+
+[09/29/2012 23:56:17] 404.class.php
+[09/29/2012 23:56:17] Template: 404
+[09/29/2012 23:56:17] Page Args: 
+[09/29/2012 23:56:17] Array
+(
+)
+
+[09/29/2012 23:56:17] Array
+(
+    [0] => X-Powered-By: PHP/5.3.8
+    [1] => Expires: Thu, 19 Nov 1981 08:52:00 GMT
+    [2] => Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+    [3] => Pragma: no-cache
+)
+
+[09/29/2012 23:56:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980978.44,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980978.48,1,11,'','removeUser(11);')
+[09/29/2012 23:56:18] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:18] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:18] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:18] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980980.16,6,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:20] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980980.2,5,11,'','removeUser(11);')
+[09/29/2012 23:56:20] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:20] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:20] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:20] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:21] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980981.27,24,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:21] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980981.29,6,11,'','removeUser(11);')
+[09/29/2012 23:56:21] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:21] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:56:21] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:21] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980982.66,6,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:22] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980982.68,24,11,'','removeUser(11);')
+[09/29/2012 23:56:22] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:22] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:22] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:22] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980983.38,7,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:23] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980983.4,6,11,'','removeUser(11);')
+[09/29/2012 23:56:23] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:23] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:23] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:23] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980984.59,13,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:24] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980984.64,7,11,'','removeUser(11);')
+[09/29/2012 23:56:24] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:24] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:24] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:24] SELECT tile_id FROM tiles WHERE tile_x = -5 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980985.66,26,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:25] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980985.68,13,11,'','removeUser(11);')
+[09/29/2012 23:56:25] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:25] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = 2 AND tile_z = 0
+[09/29/2012 23:56:25] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:25] SELECT tile_id FROM tiles WHERE tile_x = -5 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980986.67,13,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:26] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980986.7,26,11,'','removeUser(11);')
+[09/29/2012 23:56:26] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:26] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:26] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:26] SELECT tile_id FROM tiles WHERE tile_x = -5 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980987.36,7,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:27] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980987.41,13,11,'','removeUser(11);')
+[09/29/2012 23:56:27] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:27] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:27] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:27] SELECT tile_id FROM tiles WHERE tile_x = -4 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980988.36,6,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980988.4,7,11,'','removeUser(11);')
+[09/29/2012 23:56:28] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:28] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:28] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:28] SELECT tile_id FROM tiles WHERE tile_x = -3 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980989.44,5,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:29] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980989.47,6,11,'','removeUser(11);')
+[09/29/2012 23:56:29] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:29] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:29] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:29] SELECT tile_id FROM tiles WHERE tile_x = -2 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980990.33,1,11,'','showUser(11,\'BrandonReese\',\'user11avatar-8123f5c8bd1a2ca5955f4520e65908b5.jpg\');')
+[09/29/2012 23:56:30] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348980990.39,5,11,'','removeUser(11);')
+[09/29/2012 23:56:30] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = -1 AND tile_z = 0
+[09/29/2012 23:56:30] SELECT tile_id FROM tiles WHERE tile_x = 0 AND tile_y = 1 AND tile_z = 0
+[09/29/2012 23:56:30] SELECT tile_id FROM tiles WHERE tile_x = 1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:30] SELECT tile_id FROM tiles WHERE tile_x = -1 AND tile_y = 0 AND tile_z = 0
+[09/29/2012 23:56:47] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981007.19,4,0,'','removeMob(1);')
+[09/29/2012 23:56:47] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981007.22,11,0,'','showMob(1,\'An Angy Old Man\',\'mobavatar-db9b393c89d928d78195103b4e7767b5.jpg\');')
+[09/29/2012 23:56:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981012.37,19,0,'','removeMob(4);')
+[09/29/2012 23:56:52] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981012.4,18,0,'','showMob(4,\'Aubree Mae\',\'mobavatar-02875bc0725f87fa1b67fce1c779e62a.jpg\');')
+[09/29/2012 23:57:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981032.59,21,0,'','removeMob(5);')
+[09/29/2012 23:57:12] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981032.61,22,0,'','showMob(5,\'Madi Jean\',\'mobavatar-0292865e4407c0400b811721fc835ff5.jpg\');')
+[09/29/2012 23:57:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981062.84,23,0,'','removeMob(3);')
+[09/29/2012 23:57:42] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981062.87,20,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:57:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981077.98,14,0,'','removeMob(2);')
+[09/29/2012 23:57:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981078.01,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:57:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981078.08,20,0,'','removeMob(3);')
+[09/29/2012 23:57:58] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981078.12,21,0,'','showMob(3,\'Josie Belle\',\'mobavatar-c4363f0efea7863efca1efd32b08c8e2.jpg\');')
+[09/29/2012 23:58:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981108.35,1,0,'','removeMob(2);')
+[09/29/2012 23:58:28] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981108.39,2,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:58:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981133.53,2,0,'','removeMob(2);')
+[09/29/2012 23:58:53] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981133.56,1,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:59:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981158.71,1,0,'','removeMob(2);')
+[09/29/2012 23:59:18] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981158.74,5,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')
+[09/29/2012 23:59:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981173.83,5,0,'','removeMob(2);')
+[09/29/2012 23:59:33] INSERT INTO activity ( activity_dt, tile_id, user_id, activity_message, activity_js ) values(1348981173.85,6,0,'','showMob(2,\'A Happy Old Man\',\'mobavatar-d7f8f8c1e69625b4d9cd47c4345e7e57.jpg\');')

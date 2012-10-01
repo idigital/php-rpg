@@ -2,8 +2,6 @@
 
 include("../includes/config.php");
 
-getStats();
-
   $app = new application;
   $app->settings->loadSettings();
 

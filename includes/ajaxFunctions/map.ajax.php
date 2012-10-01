@@ -37,7 +37,8 @@ $retXML .= "<tile>";
 	$retXML .= arrayToXML($tileInfo);
 */
 
-$tileInfo['tile_exits'] = unserialize($tileInfo['tile_exits']);
+
+$tileInfo['tile_exits'] = getTileExits(array("x" => $tileInfo['tile_x'],"y" => $tileInfo['tile_y'],"z" => $tileInfo['tile_z']));
 $retVal['tile'] = $tileInfo;
 $retVal['users'] = array();
 
@@ -73,8 +74,16 @@ return json_encode($retVal);
 
 function move($tile_id, $direction){
 global $app;
+
+	
+
 	$SQL = "SELECT tile_resistance FROM tiles WHERE tile_id = " . $tile_id;
 	$tile = $app->db->queryrow($SQL);
+	
+	if ( $app->user->data['user_energy'] < $tile['tile_resistance'] ){
+		//
+		return json_encode(array('success'=>false,'message'=>'You do not have enough energy'));
+	}
 	
 	$SQL = "UPDATE users SET tile_id = ". $tile_id . ", user_energy = ( user_energy - (" . $tile['tile_resistance'] . " / user_stamina ) ) WHERE user_id = " . $app->user->data['user_id'];
 	$app->db->query($SQL);
@@ -92,12 +101,7 @@ global $app;
 	//$SQL = "INSERT INTO activity (activity_dt,tile_id,user_id,activity_message,activity_js) values(" . time() . "," . $app->user->data['tile_id'] . "," . $app->user->data['user_id'] . ",'<![CDATA[" . $app->user->data['user_cname'] . " left to the " . $direction . "]]>','<![CDATA[removeUser(\'" . $app->user->data['user_id'] . "\');]]>')";
 	//$app->db->query($SQL);
 	
-	$retVal = "clearTile();\r\n";
-	$retVal .= "loadTile(" . $tile_id . ");\r\n";
-	$retVal .= "updateStats();\r\n";
-	$retVal .= "$('#tile_id').val('" . $tile_id . "');\r\n";
-	
-	return $retVal;
+	return json_encode(array('success'=>true,'tile_id'=>$tile_id));
 }
 
 ?>
